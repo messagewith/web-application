@@ -1,0 +1,19 @@
+{
+  "name": "@messagewith/website",
+  "version": "0.1.0",
+  "description": "> TODO: description",
+  "author": "Jakub Chmielewski <jakubchmielewski80@gmail.com>",
+  "homepage": "",
+  "license": "GPL-3.0 License",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
