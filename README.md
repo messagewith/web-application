@@ -1,7 +1,13 @@
 # MessageWith
-Wait patiently! At the moment we are working on creating the design. 🧐
+The Open Source, Private social media for everyone.
 
-## Some screenshots
+## What does this repository contain?
+
+- [@messagewith/core-ui](https://github.com/messagewith/messagewith/tree/main/packages/core-ui)
+  
+  A collection of User Interface components used in the Messagewith application
+
+## Some preliminary graphics
 
 ![Home](https://github.com/messagewith/messagewith/blob/main/assets/home.png?raw=true)
 ![Chat](https://github.com/messagewith/messagewith/blob/main/assets/chat.png?raw=true)
