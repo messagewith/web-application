@@ -1,9 +1,15 @@
 {
   "extends": [
-    "airbnb",
+    "airbnb-typescript",
+    "airbnb/hooks",
+    "plugin:@typescript-eslint/recommended",
+    "plugin:@typescript-eslint/recommended-requiring-type-checking",
     "prettier"
   ],
-  "parser": "@babel/eslint-parser",
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "project": "./packages/**/tsconfig.json"
+  },
   "env": {
     "jest": true
   },
@@ -12,7 +18,11 @@
     "document": true
   },
   "rules":  {
-    "react/jsx-filename-extension": [2, { "extensions": [".tsx"] }]
+    "react/jsx-filename-extension": [2, { "extensions": [".tsx"] }],
+    "import/no-extraneous-dependencies": 0,
+    "import/prefer-default-export": 0,
+    "react/prop-types": 0,
+    "react/jsx-props-no-spreading": 0
   },
   "settings": {}
 }
