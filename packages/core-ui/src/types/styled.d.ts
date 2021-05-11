@@ -8,6 +8,9 @@ declare module "styled-components" {
     secondary: "#64A82F";
     secondaryLight: "#75B93F";
     secondaryDark: "#53971E";
+    tertiary: "#EF1549";
+    tertiaryLight: "#FF265A";
+    tertiaryDark: "#DE0438";
     foreground: "#1F1F1F";
     background: "#ffffff";
     backgroundSecond: "#fbfbfb";

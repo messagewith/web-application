@@ -50,7 +50,7 @@ const StyledWrapper = styled.button<{
     css`
       height: 60px;
       font-size: 1.8rem;
-      font-weight: 500;
+      font-weight: 600;
       box-shadow: ${({ theme }) =>
         !$isPressed ? theme.boxShadow : theme.boxShadowStronger};
     `}
