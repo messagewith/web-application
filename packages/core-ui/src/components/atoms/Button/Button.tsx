@@ -104,10 +104,6 @@ const StyledWrapper = styled.button<{
     opacity: 0;
     animation: ${rippleAnimation} 0.6s ease-out;
     transform-origin: center center;
-    @media (min-width: 1025px) {
-      width: 260px;
-      height: 260px;
-    }
   }
 `;
 
