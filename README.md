@@ -6,6 +6,9 @@ The Open Source, Private social media for everyone.
 - [@messagewith/core-ui](https://github.com/messagewith/messagewith/tree/main/packages/core-ui)
   
   A collection of User Interface components used in the Messagewith application
+- [@messagewith/i18n](https://github.com/messagewith/messagewith/tree/main/packages/i18n)
+
+  Messagewith internationalization library
 
 ## Some preliminary graphics
 
