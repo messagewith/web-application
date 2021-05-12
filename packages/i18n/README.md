@@ -1,4 +1,4 @@
-# `i18n`
+# `@messagewith/i18n`
 
 Messagewith internationalization library
 
