@@ -1,6 +1,6 @@
 import React, { FC } from "react";
 import styled, { css, keyframes } from "styled-components";
-import Icon, { IconifyIcon } from "@iconify/react";
+import Icon from "@iconify/react";
 import googleIcon from "@iconify/icons-logos/google-icon";
 import facebookIcon from "@iconify/icons-logos/facebook";
 import githubIcon from "@iconify/icons-logos/github-icon";
@@ -20,7 +20,6 @@ const rippleAnimation = keyframes`
 
 const StyledWrapper = styled.button<{
   $type: ButtonType | "social";
-  $isPressed: boolean;
 }>`
   height: 35px;
   border: 0;
@@ -38,35 +37,39 @@ const StyledWrapper = styled.button<{
     background: ${({ theme }) => theme.primaryDark};
   }
 
-  ${({ $isPressed }) =>
-    $isPressed &&
-    css`
-      transform: scale(0.95);
-      background: ${({ theme }) => theme.primaryDark};
-    `}
+  :active {
+    transform: scale(0.95);
+    background: ${({ theme }) => theme.primaryDark};
+  }
 
-  ${({ $type, $isPressed }) =>
+  ${({ $type }) =>
     $type !== "primary" &&
     css`
       height: 60px;
       font-size: 1.8rem;
       font-weight: 600;
-      box-shadow: ${({ theme }) =>
-        !$isPressed ? theme.boxShadow : theme.boxShadowStronger};
+      box-shadow: ${({ theme }) => theme.boxShadow};
+
+      :active {
+        box-shadow: ${({ theme }) => theme.boxShadowStronger};
+      }
     `}
-  
-  ${({ $type, $isPressed }) =>
+
+  ${({ $type }) =>
     $type === "tertiary" &&
     css`
-      background: ${({ theme }) =>
-        !$isPressed ? theme.secondary : theme.secondaryDark};
+      background: ${({ theme }) => theme.secondary};
 
       :hover {
         background: ${({ theme }) => theme.secondaryDark};
       }
+
+      :active {
+        background: ${({ theme }) => theme.secondaryDark};
+      }
     `}
   
-  ${({ $type, $isPressed }) =>
+  ${({ $type }) =>
     $type === "social" &&
     css`
       display: flex;
@@ -77,16 +80,17 @@ const StyledWrapper = styled.button<{
         margin-right: auto;
       }
 
-      background: ${({ theme }) =>
-        $isPressed ? theme.backgroundSecond : theme.background};
+      background: ${({ theme }) => theme.background};
       color: ${({ theme }) => theme.foreground};
 
       :hover {
         background: ${({ theme }) => theme.backgroundSecond};
       }
 
-      box-shadow: ${({ theme }) =>
-        !$isPressed ? theme.boxShadow : theme.boxShadow};
+      :active {
+        background: ${({ theme }) => theme.backgroundSecond};
+        box-shadow: ${({ theme }) => theme.boxShadow};
+      }
 
       .ripple {
         background: #dcdcdc !important;
@@ -131,7 +135,7 @@ export const Button: FC<Props> = ({
   type = "primary",
   socialType = "github",
 }) => {
-  const { isPressed, ...mouseEvents } = useButtonEffects({
+  const { ...mouseEvents } = useButtonEffects({
     rippleWidth: type === "primary" ? 130 : undefined,
   });
 
@@ -139,7 +143,6 @@ export const Button: FC<Props> = ({
     <StyledWrapper
       className={className as string}
       $type={type}
-      $isPressed={isPressed}
       {...mouseEvents}
     >
       {type === "social" && <StyledIcon icon={getIcon(socialType)} />}
