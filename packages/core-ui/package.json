@@ -18,7 +18,9 @@
     "build-storybook": "build-storybook"
   },
   "dependencies": {
-    "@messagewith/i18n": "^0.1.0"
+    "@messagewith/i18n": "^0.1.0",
+    "polished": "^4.1.2",
+    "rooks": "^5.0.2"
   },
   "peerDependencies": {
     "react": "^17.0.2",
@@ -26,6 +28,8 @@
   },
   "devDependencies": {
     "@babel/core": "^7.14.0",
+    "@iconify/icons-bx": "^1.1.0",
+    "@iconify/icons-emojione": "^1.1.0",
     "@iconify/icons-logos": "^1.1.9",
     "@iconify/icons-ph": "^1.1.2",
     "@iconify/react": "^1.1.4",
