@@ -1,16 +1,9 @@
-import { useState } from "react";
-
 interface Options {
   rippleWidth?: number;
 }
 
 export const useButtonEffects = ({ rippleWidth = 260 }: Options = {}) => {
-  const [isPressed, setIsPressed] = useState<boolean>(false);
-
   const onMouseDown = (e: React.MouseEvent<HTMLButtonElement>) => {
-    setIsPressed(true);
-    document.addEventListener("mouseup", () => setIsPressed(false));
-
     const span = document.createElement("span");
     const rects = e.currentTarget.getBoundingClientRect();
 
@@ -26,14 +19,9 @@ export const useButtonEffects = ({ rippleWidth = 260 }: Options = {}) => {
     e.currentTarget.appendChild(span);
 
     setTimeout(() => span.remove(), 600);
-
-    return () => {
-      document.removeEventListener("mouseup", () => setIsPressed(false));
-    };
   };
 
   return {
-    isPressed,
     onMouseDown,
   };
 };
