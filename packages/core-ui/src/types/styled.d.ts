@@ -16,6 +16,8 @@ declare module "styled-components" {
     backgroundSecond: "#fbfbfb";
     washSuperLight: "#f5f5f5";
     washLight: "#EEEEEE";
+    washMedium: "#DCDCDC";
+    washHeavy: "#959595";
     washSuperHeavy: "#575757";
 
     borderRadiusR: "6px";
