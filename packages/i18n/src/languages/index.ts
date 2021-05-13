@@ -7,6 +7,7 @@ export const languages: { [isoCode in IsoCode]: Language } = {
   [IsoCode.BG]: en,
   [IsoCode.CN]: en,
   [IsoCode.CZ]: en,
+  [IsoCode.DK]: en,
   [IsoCode.NL]: en,
   [IsoCode.EE]: en,
   [IsoCode.EN]: en,

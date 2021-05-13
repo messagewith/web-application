@@ -14,6 +14,10 @@ export const AVAILABLE_LANGUAGES: AvailableLanguages = {
     englishName: "Czech",
     regionalName: "Česky",
   },
+  [IsoCode.DK]: {
+    englishName: "Danish",
+    regionalName: "Dansk",
+  },
   [IsoCode.NL]: {
     englishName: "Dutch",
     regionalName: "Nederlands",

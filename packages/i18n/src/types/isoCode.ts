@@ -2,6 +2,7 @@ export enum IsoCode {
   BG = "bg",
   CN = "cn",
   CZ = "cz",
+  DK = "dk",
   NL = "nl",
   EE = "ee",
   EN = "en",
