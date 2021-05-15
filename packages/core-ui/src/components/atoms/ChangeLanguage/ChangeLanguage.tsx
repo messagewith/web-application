@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useRef, RefObject } from "react";
+import React, { useEffect, useState, useRef, RefObject, FC } from "react";
 import styled, { css } from "styled-components";
 import {
   IsoCode,
@@ -172,6 +172,7 @@ const StyledCurrentLanguage = styled.div<{ $isOpen: boolean }>`
   cursor: pointer;
   padding: 10px 15px;
   transition: box-shadow 0.2s ease-in-out;
+  border-radius: ${({ theme }) => theme.borderRadiusR};
 
   ${({ $isOpen, theme }) =>
     $isOpen &&
@@ -199,9 +200,15 @@ const StyledFlag = styled(Icon)`
   margin-right: 15px;
 `;
 
-const ChangeLanguage = () => {
+const ChangeLanguage: FC<Props> = ({ tabIndex = 0 }) => {
   const [isOpen, setOpen] = useState<boolean>(false);
   const { isoCode, changeLanguage } = useTranslation();
+
+  const handleKeypress = (e: React.KeyboardEvent<HTMLDivElement>) => {
+    if (e.key === "Enter") {
+      setOpen((prevState) => !prevState);
+    }
+  };
 
   const handleCurrentLanguageClick = () => {
     setOpen((prevState) => !prevState);
@@ -224,21 +231,34 @@ const ChangeLanguage = () => {
     <StyledWrapper ref={wrapper}>
       <StyledCurrentLanguage
         onClick={handleCurrentLanguageClick}
+        onKeyPress={handleKeypress}
         $isOpen={isOpen}
+        role="button"
+        aria-haspopup="listbox"
+        aria-labelledby="select_language"
+        tabIndex={tabIndex}
       >
         <StyledFlag icon={flags[isoCode]} />
         {AVAILABLE_LANGUAGES[isoCode].regionalName}
         <StyledArrow icon={bxsDownArrow} $isOpen={isOpen} />
       </StyledCurrentLanguage>
 
-      <StyledList $isOpen={isOpen}>
+      <StyledList
+        $isOpen={isOpen}
+        role="listbox"
+        aria-labelledby="select_language"
+        aria-activedescendant={`select_language_${isoCode}`}
+      >
         {Object.entries(AVAILABLE_LANGUAGES)
           .sort(([_, a], [__, b]) => (a.regionalName < b.regionalName ? -1 : 1))
-          .map(([key, value]) => (
+          .map(([key, value], index) => (
             <StyledItem
               onClick={() => handleItemClick(key)}
               key={key}
               $isCurrent={isoCode === key}
+              aria-selected={isoCode === key}
+              role="option"
+              id={`select_language_${key}`}
             >
               <StyledFlag icon={flags[key as IsoCode]} /> {value.regionalName}
             </StyledItem>
@@ -247,5 +267,9 @@ const ChangeLanguage = () => {
     </StyledWrapper>
   );
 };
+
+interface Props {
+  tabIndex?: number;
+}
 
 export default ChangeLanguage;
