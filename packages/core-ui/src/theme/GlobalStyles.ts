@@ -18,8 +18,8 @@ export const GlobalStyles = createGlobalStyle`
     font-family: 'Poppins', sans-serif;
   }
 
-  *:focus {
-      border: 1px dashed ${({ theme }) => theme.washMedium};
-      outline: none;
-  }
+  // *:focus {
+  //     border: 1px dashed ${({ theme }) => theme.washMedium};
+  //     outline: none;
+  // }
 `;
