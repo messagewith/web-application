@@ -1,10 +1,9 @@
 import React from "react";
 import styled from "styled-components";
-import { I18nProvider } from "@messagewith/i18n";
-import ChangeLanguage from "./ChangeLanguage";
+import { ChangeLanguage } from "./ChangeLanguage";
 
 export default {
-  title: "ChangeLanguage",
+  title: "atoms/ChangeLanguage",
 };
 
 const StyledWrapper = styled.div`
@@ -12,9 +11,7 @@ const StyledWrapper = styled.div`
 `;
 
 export const Primary = () => (
-  <I18nProvider>
-    <StyledWrapper>
-      <ChangeLanguage />
-    </StyledWrapper>
-  </I18nProvider>
+  <StyledWrapper>
+    <ChangeLanguage />
+  </StyledWrapper>
 );

@@ -1,6 +1,7 @@
 import { ThemeProvider } from "styled-components";
 import { theme } from "../src/theme/theme";
 import { GlobalStyles } from "../src/theme/GlobalStyles";
+import { I18nProvider } from "@messagewith/i18n";
 
 export const parameters = {
   actions: { argTypesRegex: "^on[A-Z].*" },
@@ -17,7 +18,9 @@ export const decorators = [
     <ThemeProvider theme={theme}>
       <GlobalStyles />
       <div className="wrapper">
-        <Story />
+        <I18nProvider>
+          <Story />
+        </I18nProvider>
       </div>
     </ThemeProvider>
   ),

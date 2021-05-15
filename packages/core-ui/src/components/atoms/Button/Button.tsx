@@ -19,7 +19,7 @@ const rippleAnimation = keyframes`
 `;
 
 const StyledWrapper = styled.button<{
-  $type: ButtonType | "social";
+  $type: ButtonType;
 }>`
   height: 35px;
   border: 0;
@@ -32,6 +32,8 @@ const StyledWrapper = styled.button<{
   position: relative;
   overflow: hidden;
   padding: 6px 20px;
+  font-size: 1.6rem;
+  font-weight: 500;
 
   :hover {
     background: ${({ theme }) => theme.primaryDark};
@@ -44,6 +46,7 @@ const StyledWrapper = styled.button<{
 
   ${({ $type }) =>
     $type !== "primary" &&
+    $type !== "confirm" &&
     css`
       height: 60px;
       font-size: 1.8rem;
@@ -56,7 +59,7 @@ const StyledWrapper = styled.button<{
     `}
 
   ${({ $type }) =>
-    $type === "tertiary" &&
+    ($type === "tertiary" || $type === "confirm") &&
     css`
       background: ${({ theme }) => theme.secondary};
 
@@ -82,6 +85,7 @@ const StyledWrapper = styled.button<{
 
       background: ${({ theme }) => theme.background};
       color: ${({ theme }) => theme.foreground};
+      font-weight: 500;
 
       :hover {
         background: ${({ theme }) => theme.backgroundSecond};
@@ -97,9 +101,17 @@ const StyledWrapper = styled.button<{
       }
     `}
   
+  ${({ $type }) =>
+    $type === "confirm" &&
+    css`
+      height: 40px;
+    `}
+  
   .ripple {
-    width: ${({ $type }) => ($type === "primary" ? "130px" : "260px")};
-    height: ${({ $type }) => ($type === "primary" ? "130px" : "260px")};
+    width: ${({ $type }) =>
+      $type === "primary" || $type === "confirm" ? "130px" : "260px"};
+    height: ${({ $type }) =>
+      $type === "primary" || $type === "confirm" ? "130px" : "260px"};
     position: absolute;
     background: #fff;
     border-radius: 50%;
@@ -134,15 +146,17 @@ export const Button: FC<Props> = ({
   className,
   type = "primary",
   socialType = "github",
+  onClick,
 }) => {
   const { ...mouseEvents } = useButtonEffects({
-    rippleWidth: type === "primary" ? 130 : undefined,
+    rippleWidth: type === "primary" || type === "confirm" ? 130 : undefined,
   });
 
   return (
     <StyledWrapper
       className={className as string}
       $type={type}
+      onClick={onClick}
       {...mouseEvents}
     >
       {type === "social" && <StyledIcon icon={getIcon(socialType)} />}
@@ -151,11 +165,12 @@ export const Button: FC<Props> = ({
   );
 };
 
-type ButtonType = "primary" | "secondary" | "tertiary" | "social";
+type ButtonType = "primary" | "secondary" | "tertiary" | "social" | "confirm";
 type SocialType = "google" | "facebook" | "github";
 
 interface Props {
   type?: ButtonType;
   className?: string;
   socialType?: SocialType;
+  onClick?: React.MouseEventHandler<HTMLButtonElement>;
 }

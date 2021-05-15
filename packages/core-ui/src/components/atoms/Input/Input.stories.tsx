@@ -3,7 +3,7 @@ import styled from "styled-components";
 import { Input } from "./Input";
 
 export default {
-  title: "Input",
+  title: "atoms/Input",
 };
 
 const StyledInput = styled(Input)`

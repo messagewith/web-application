@@ -2,7 +2,7 @@ import React from "react";
 import { Logo } from "./Logo";
 
 export default {
-  title: "Logo",
+  title: "atoms/Logo",
 };
 
 export const Primary = () => <Logo />;

@@ -2,7 +2,7 @@ import React from "react";
 import { InDevelopment } from "./InDevelopment";
 
 export default {
-  title: "InDevelopment",
+  title: "atoms/InDevelopment",
 };
 
 export const Primary = () => (

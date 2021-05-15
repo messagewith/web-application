@@ -200,7 +200,7 @@ const StyledFlag = styled(Icon)`
   margin-right: 15px;
 `;
 
-const ChangeLanguage: FC<Props> = ({ tabIndex = 0 }) => {
+export const ChangeLanguage: FC<Props> = ({ tabIndex = 0, className }) => {
   const [isOpen, setOpen] = useState<boolean>(false);
   const { isoCode, changeLanguage } = useTranslation();
 
@@ -228,7 +228,7 @@ const ChangeLanguage: FC<Props> = ({ tabIndex = 0 }) => {
   );
 
   return (
-    <StyledWrapper ref={wrapper}>
+    <StyledWrapper ref={wrapper} className={className}>
       <StyledCurrentLanguage
         onClick={handleCurrentLanguageClick}
         onKeyPress={handleKeypress}
@@ -270,6 +270,5 @@ const ChangeLanguage: FC<Props> = ({ tabIndex = 0 }) => {
 
 interface Props {
   tabIndex?: number;
+  className?: string;
 }
-
-export default ChangeLanguage;

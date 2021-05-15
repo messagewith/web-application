@@ -5,7 +5,7 @@ import { withKnobs, select } from "@storybook/addon-knobs";
 import { Button } from "./Button";
 
 export default {
-  title: "Button",
+  title: "atoms/Button",
   decorators: [withKnobs],
 };
 
@@ -49,3 +49,7 @@ export const withSocial: Story = () => {
     </StyledSocialButton>
   );
 };
+
+export const Confirm = () => (
+  <Button type="confirm">Ok, I'll be waiting</Button>
+);
