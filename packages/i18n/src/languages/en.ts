@@ -15,4 +15,11 @@ export const en: Language = {
     slogan:
       "The <span>Open</span> Source, <span>Private</span> social media for everyone",
   },
+  errors: {
+    notAvailableYet: {
+      headline: "This functionality is <span>not available</span> yet!",
+      paragraph: "We are working on making this feature work. Be patient! :)",
+      confirm: "Ok, I’ll be waiting",
+    },
+  },
 };

@@ -15,4 +15,12 @@ export const pl: Language = {
     slogan:
       "<span>Otwartoźródłowe</span>, <span>prywatne</span> social media dla każdego",
   },
+  errors: {
+    notAvailableYet: {
+      headline: "Ta funkcja jest jeszcze <span>niedostępna!</span>",
+      confirm: "Ok, będę czekał",
+      paragraph:
+        "Pracujemy nad tym, aby ta funkcja działała. Bądź cierpliwy :)",
+    },
+  },
 };

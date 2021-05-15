@@ -2,6 +2,7 @@ import { IsoCode } from "../types/isoCode";
 import { Language } from "../types/language";
 import { en } from "./en";
 import { pl } from "./pl";
+import { de } from "./de";
 
 export const languages: { [isoCode in IsoCode]: Language } = {
   [IsoCode.BG]: en,
@@ -13,7 +14,7 @@ export const languages: { [isoCode in IsoCode]: Language } = {
   [IsoCode.EN]: en,
   [IsoCode.FI]: en,
   [IsoCode.FR]: en,
-  [IsoCode.DE]: en,
+  [IsoCode.DE]: de,
   [IsoCode.GR]: en,
   [IsoCode.HU]: en,
   [IsoCode.IT]: en,

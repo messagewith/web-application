@@ -12,4 +12,11 @@ export interface Language {
   headings: {
     slogan: string;
   };
+  errors: {
+    notAvailableYet: {
+      headline: string;
+      paragraph: string;
+      confirm: string;
+    };
+  };
 }
