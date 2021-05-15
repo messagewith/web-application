@@ -19,8 +19,10 @@ declare module "styled-components" {
     washMedium: "#DCDCDC";
     washHeavy: "#959595";
     washSuperHeavy: "#575757";
+    primaryToTertiaryGradient: "linear-gradient(18.6deg, #EF1549 -17.34%, #254E8C 96.64%)";
 
     borderRadiusR: "6px";
+    borderRadiusL: "8px";
 
     boxShadow: string;
     boxShadowStronger: string;

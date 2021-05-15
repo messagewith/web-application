@@ -18,8 +18,11 @@ export const theme: DefaultTheme = {
   washMedium: "#DCDCDC",
   washHeavy: "#959595",
   washSuperHeavy: "#575757",
+  primaryToTertiaryGradient:
+    "linear-gradient(18.6deg, #EF1549 -17.34%, #254E8C 96.64%)",
 
   borderRadiusR: "6px",
+  borderRadiusL: "8px",
 
   boxShadow: "0px 3px 14px -5px rgba(0, 0, 0, 0.25)",
   boxShadowStronger: "0px 3px 14px 0px rgba(0, 0, 0, 0.4)",
