@@ -1,7 +1,7 @@
 import { ThemeProvider } from "styled-components";
+import { I18nProvider } from "@messagewith/i18n";
 import { theme } from "../src/theme/theme";
 import { GlobalStyles } from "../src/theme/GlobalStyles";
-import { I18nProvider } from "@messagewith/i18n";
 
 export const parameters = {
   actions: { argTypesRegex: "^on[A-Z].*" },

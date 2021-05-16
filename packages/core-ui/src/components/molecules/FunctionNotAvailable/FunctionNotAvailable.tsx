@@ -56,7 +56,7 @@ const StyledAlert = styled.div`
     opacity: 1;
   }
 
-  ${StyledWrapper}.exit-active &, ${StyledWrapper}.exit-active &::before {
+  ${StyledWrapper}.exit-active & {
     transform: scale(0) translateY(-150%) rotateX(90deg);
     opacity: 0;
   }
