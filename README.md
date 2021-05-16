@@ -9,6 +9,9 @@ The Open Source, Private social media for everyone.
 - [@messagewith/i18n](https://github.com/messagewith/messagewith/tree/main/packages/i18n)
 
   Messagewith internationalization library
+- [@messagewith/emoji](https://github.com/messagewith/messagewith/tree/main/packages/emoji)
+
+  A set of icons used in Messagewith wrapped in React components to make them easier to use
 
 ## Some preliminary graphics
 
