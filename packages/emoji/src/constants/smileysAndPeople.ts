@@ -1,11597 +1,11593 @@
 import { EmojiInformation } from "../types/emojiInformation";
 
 export const SMILEYS_AND_PEOPLE: EmojiInformation = {
-  "grinning-face": {
+  "😀": {
     name: "grinning-face",
     category: "people",
     unicode: "_1f600",
     htmlEntity: "&#x1F600",
   },
-  "grinning-face-with-big-eyes": {
+  "😃": {
     name: "grinning-face-with-big-eyes",
     category: "people",
     unicode: "_1f603",
     htmlEntity: "&#x1F603",
   },
-  "grinning-face-with-smiling-eyes": {
+  "😄": {
     name: "grinning-face-with-smiling-eyes",
     category: "people",
     unicode: "_1f604",
     htmlEntity: "&#x1F604",
   },
-  "beaming-face-with-smiling-eyes": {
+  "😁": {
     name: "beaming-face-with-smiling-eyes",
     category: "people",
     unicode: "_1f601",
     htmlEntity: "&#x1F601",
   },
-  "grinning-squinting-face": {
+  "😆": {
     name: "grinning-squinting-face",
     category: "people",
     unicode: "_1f606",
     htmlEntity: "&#x1F606",
   },
-  "grinning-face-with-sweat": {
+  "😅": {
     name: "grinning-face-with-sweat",
     category: "people",
     unicode: "_1f605",
     htmlEntity: "&#x1F605",
   },
-  "face-with-tears-of-joy": {
+  "😂": {
     name: "face-with-tears-of-joy",
     category: "people",
     unicode: "_1f602",
     htmlEntity: "&#x1F602",
   },
-  "rolling-on-the-floor-laughing": {
+  "🤣": {
     name: "rolling-on-the-floor-laughing",
     category: "people",
     unicode: "_1f923",
     htmlEntity: "&#x1F923",
   },
-  "smiling-face": {
+  "☺": {
     name: "smiling-face",
     category: "people",
     unicode: "_263a",
     htmlEntity: "&#x263A",
   },
-  "smiling-face-with-smiling-eyes": {
+  "😊": {
     name: "smiling-face-with-smiling-eyes",
     category: "people",
     unicode: "_1f60a",
     htmlEntity: "&#x1F60A",
   },
-  "smiling-face-with-halo": {
+  "😇": {
     name: "smiling-face-with-halo",
     category: "people",
     unicode: "_1f607",
     htmlEntity: "&#x1F607",
   },
-  "slightly-smiling-face": {
+  "🙂": {
     name: "slightly-smiling-face",
     category: "people",
     unicode: "_1f642",
     htmlEntity: "&#x1F642",
   },
-  "upside-down-face": {
+  "🙃": {
     name: "upside-down-face",
     category: "people",
     unicode: "_1f643",
     htmlEntity: "&#x1F643",
   },
-  "winking-face": {
+  "😉": {
     name: "winking-face",
     category: "people",
     unicode: "_1f609",
     htmlEntity: "&#x1F609",
   },
-  "relieved-face": {
+  "😌": {
     name: "relieved-face",
     category: "people",
     unicode: "_1f60c",
     htmlEntity: "&#x1F60C",
   },
-  "smiling-face-with-tear": {
+  "🥲": {
     name: "smiling-face-with-tear",
     category: "people",
     unicode: "_1f972",
     htmlEntity: "&#x1F972",
   },
-  "smiling-face-with-heart-eyes": {
+  "😍": {
     name: "smiling-face-with-heart-eyes",
     category: "people",
     unicode: "_1f60d",
     htmlEntity: "&#x1F60D",
   },
-  "smiling-face-with-hearts": {
+  "🥰": {
     name: "smiling-face-with-hearts",
     category: "people",
     unicode: "_1f970",
     htmlEntity: "&#x1F970",
   },
-  "face-blowing-a-kiss": {
+  "😘": {
     name: "face-blowing-a-kiss",
     category: "people",
     unicode: "_1f618",
     htmlEntity: "&#x1F618",
   },
-  "kissing-face": {
+  "😗": {
     name: "kissing-face",
     category: "people",
     unicode: "_1f617",
     htmlEntity: "&#x1F617",
   },
-  "kissing-face-with-smiling-eyes": {
+  "😙": {
     name: "kissing-face-with-smiling-eyes",
     category: "people",
     unicode: "_1f619",
     htmlEntity: "&#x1F619",
   },
-  "kissing-face-with-closed-eyes": {
+  "😚": {
     name: "kissing-face-with-closed-eyes",
     category: "people",
     unicode: "_1f61a",
     htmlEntity: "&#x1F61A",
   },
-  "face-savoring-food": {
+  "😋": {
     name: "face-savoring-food",
     category: "people",
     unicode: "_1f60b",
     htmlEntity: "&#x1F60B",
   },
-  "face-with-tongue": {
+  "😛": {
     name: "face-with-tongue",
     category: "people",
     unicode: "_1f61b",
     htmlEntity: "&#x1F61B",
   },
-  "squinting-face-with-tongue": {
+  "😝": {
     name: "squinting-face-with-tongue",
     category: "people",
     unicode: "_1f61d",
     htmlEntity: "&#x1F61D",
   },
-  "winking-face-with-tongue": {
+  "😜": {
     name: "winking-face-with-tongue",
     category: "people",
     unicode: "_1f61c",
     htmlEntity: "&#x1F61C",
   },
-  "zany-face": {
+  "🤪": {
     name: "zany-face",
     category: "people",
     unicode: "_1f92a",
     htmlEntity: "&#x1F92A",
   },
-  "face-with-raised-eyebrow": {
+  "🤨": {
     name: "face-with-raised-eyebrow",
     category: "people",
     unicode: "_1f928",
     htmlEntity: "&#x1F928",
   },
-  "face-with-monocle": {
+  "🧐": {
     name: "face-with-monocle",
     category: "people",
     unicode: "_1f9d0",
     htmlEntity: "&#x1F9D0",
   },
-  "nerd-face": {
+  "🤓": {
     name: "nerd-face",
     category: "people",
     unicode: "_1f913",
     htmlEntity: "&#x1F913",
   },
-  "smiling-face-with-sunglasses": {
+  "😎": {
     name: "smiling-face-with-sunglasses",
     category: "people",
     unicode: "_1f60e",
     htmlEntity: "&#x1F60E",
   },
-  "star-struck": {
+  "🤩": {
     name: "star-struck",
     category: "people",
     unicode: "_1f929",
     htmlEntity: "&#x1F929",
   },
-  "partying-face": {
+  "🥳": {
     name: "partying-face",
     category: "people",
     unicode: "_1f973",
     htmlEntity: "&#x1F973",
   },
-  "smirking-face": {
+  "😏": {
     name: "smirking-face",
     category: "people",
     unicode: "_1f60f",
     htmlEntity: "&#x1F60F",
   },
-  "unamused-face": {
+  "😒": {
     name: "unamused-face",
     category: "people",
     unicode: "_1f612",
     htmlEntity: "&#x1F612",
   },
-  "disappointed-face": {
+  "😞": {
     name: "disappointed-face",
     category: "people",
     unicode: "_1f61e",
     htmlEntity: "&#x1F61E",
   },
-  "pensive-face": {
+  "😔": {
     name: "pensive-face",
     category: "people",
     unicode: "_1f614",
     htmlEntity: "&#x1F614",
   },
-  "worried-face": {
+  "😟": {
     name: "worried-face",
     category: "people",
     unicode: "_1f61f",
     htmlEntity: "&#x1F61F",
   },
-  "confused-face": {
+  "😕": {
     name: "confused-face",
     category: "people",
     unicode: "_1f615",
     htmlEntity: "&#x1F615",
   },
-  "slightly-frowning-face": {
+  "🙁": {
     name: "slightly-frowning-face",
     category: "people",
     unicode: "_1f641",
     htmlEntity: "&#x1F641",
   },
-  "frowning-face": {
+  "☹": {
     name: "frowning-face",
     category: "people",
     unicode: "_2639",
     htmlEntity: "&#x2639",
   },
-  "persevering-face": {
+  "😣": {
     name: "persevering-face",
     category: "people",
     unicode: "_1f623",
     htmlEntity: "&#x1F623",
   },
-  "confounded-face": {
+  "😖": {
     name: "confounded-face",
     category: "people",
     unicode: "_1f616",
     htmlEntity: "&#x1F616",
   },
-  "tired-face": {
+  "😫": {
     name: "tired-face",
     category: "people",
     unicode: "_1f62b",
     htmlEntity: "&#x1F62B",
   },
-  "weary-face": {
+  "😩": {
     name: "weary-face",
     category: "people",
     unicode: "_1f629",
     htmlEntity: "&#x1F629",
   },
-  "pleading-face": {
+  "🥺": {
     name: "pleading-face",
     category: "people",
     unicode: "_1f97a",
     htmlEntity: "&#x1F97A",
   },
-  "crying-face": {
+  "😢": {
     name: "crying-face",
     category: "people",
     unicode: "_1f622",
     htmlEntity: "&#x1F622",
   },
-  "loudly-crying-face": {
+  "😭": {
     name: "loudly-crying-face",
     category: "people",
     unicode: "_1f62d",
     htmlEntity: "&#x1F62D",
   },
-  "face-with-steam-from-nose": {
+  "😤": {
     name: "face-with-steam-from-nose",
     category: "people",
     unicode: "_1f624",
     htmlEntity: "&#x1F624",
   },
-  "face-exhaling": {
+  "😮💨": {
     name: "face-exhaling",
     category: "people",
     unicode: "_1f62e-1f4a8",
     htmlEntity: "&#x1F62E;&#x1F4A8",
   },
-  "angry-face": {
+  "😠": {
     name: "angry-face",
     category: "people",
     unicode: "_1f620",
     htmlEntity: "&#x1F620",
   },
-  "pouting-face": {
+  "😡": {
     name: "pouting-face",
     category: "people",
     unicode: "_1f621",
     htmlEntity: "&#x1F621",
   },
-  "face-with-symbols-on-mouth": {
+  "🤬": {
     name: "face-with-symbols-on-mouth",
     category: "people",
     unicode: "_1f92c",
     htmlEntity: "&#x1F92C",
   },
-  "exploding-head": {
+  "🤯": {
     name: "exploding-head",
     category: "people",
     unicode: "_1f92f",
     htmlEntity: "&#x1F92F",
   },
-  "flushed-face": {
+  "😳": {
     name: "flushed-face",
     category: "people",
     unicode: "_1f633",
     htmlEntity: "&#x1F633",
   },
-  "face-in-clouds": {
+  "😶🌫": {
     name: "face-in-clouds",
     category: "people",
     unicode: "_1f636-1f32b",
     htmlEntity: "&#x1F636;&#x1F32B",
   },
-  "hot-face": {
+  "🥵": {
     name: "hot-face",
     category: "people",
     unicode: "_1f975",
     htmlEntity: "&#x1F975",
   },
-  "cold-face": {
+  "🥶": {
     name: "cold-face",
     category: "people",
     unicode: "_1f976",
     htmlEntity: "&#x1F976",
   },
-  "face-screaming-in-fear": {
+  "😱": {
     name: "face-screaming-in-fear",
     category: "people",
     unicode: "_1f631",
     htmlEntity: "&#x1F631",
   },
-  "fearful-face": {
+  "😨": {
     name: "fearful-face",
     category: "people",
     unicode: "_1f628",
     htmlEntity: "&#x1F628",
   },
-  "anxious-face-with-sweat": {
+  "😰": {
     name: "anxious-face-with-sweat",
     category: "people",
     unicode: "_1f630",
     htmlEntity: "&#x1F630",
   },
-  "sad-but-relieved-face": {
+  "😥": {
     name: "sad-but-relieved-face",
     category: "people",
     unicode: "_1f625",
     htmlEntity: "&#x1F625",
   },
-  "downcast-face-with-sweat": {
+  "😓": {
     name: "downcast-face-with-sweat",
     category: "people",
     unicode: "_1f613",
     htmlEntity: "&#x1F613",
   },
-  "hugging-face": {
+  "🤗": {
     name: "hugging-face",
     category: "people",
     unicode: "_1f917",
     htmlEntity: "&#x1F917",
   },
-  "thinking-face": {
+  "🤔": {
     name: "thinking-face",
     category: "people",
     unicode: "_1f914",
     htmlEntity: "&#x1F914",
   },
-  "face-with-hand-over-mouth": {
+  "🤭": {
     name: "face-with-hand-over-mouth",
     category: "people",
     unicode: "_1f92d",
     htmlEntity: "&#x1F92D",
   },
-  "yawning-face": {
+  "🥱": {
     name: "yawning-face",
     category: "people",
     unicode: "_1f971",
     htmlEntity: "&#x1F971",
   },
-  "shushing-face": {
+  "🤫": {
     name: "shushing-face",
     category: "people",
     unicode: "_1f92b",
     htmlEntity: "&#x1F92B",
   },
-  "lying-face": {
+  "🤥": {
     name: "lying-face",
     category: "people",
     unicode: "_1f925",
     htmlEntity: "&#x1F925",
   },
-  "face-without-mouth": {
+  "😶": {
     name: "face-without-mouth",
     category: "people",
     unicode: "_1f636",
     htmlEntity: "&#x1F636",
   },
-  "neutral-face": {
+  "😐": {
     name: "neutral-face",
     category: "people",
     unicode: "_1f610",
     htmlEntity: "&#x1F610",
   },
-  "expressionless-face": {
+  "😑": {
     name: "expressionless-face",
     category: "people",
     unicode: "_1f611",
     htmlEntity: "&#x1F611",
   },
-  "grimacing-face": {
+  "😬": {
     name: "grimacing-face",
     category: "people",
     unicode: "_1f62c",
     htmlEntity: "&#x1F62C",
   },
-  "face-with-rolling-eyes": {
+  "🙄": {
     name: "face-with-rolling-eyes",
     category: "people",
     unicode: "_1f644",
     htmlEntity: "&#x1F644",
   },
-  "hushed-face": {
+  "😯": {
     name: "hushed-face",
     category: "people",
     unicode: "_1f62f",
     htmlEntity: "&#x1F62F",
   },
-  "frowning-face-with-open-mouth": {
+  "😦": {
     name: "frowning-face-with-open-mouth",
     category: "people",
     unicode: "_1f626",
     htmlEntity: "&#x1F626",
   },
-  "anguished-face": {
+  "😧": {
     name: "anguished-face",
     category: "people",
     unicode: "_1f627",
     htmlEntity: "&#x1F627",
   },
-  "face-with-open-mouth": {
+  "😮": {
     name: "face-with-open-mouth",
     category: "people",
     unicode: "_1f62e",
     htmlEntity: "&#x1F62E",
   },
-  "astonished-face": {
+  "😲": {
     name: "astonished-face",
     category: "people",
     unicode: "_1f632",
     htmlEntity: "&#x1F632",
   },
-  "sleeping-face": {
+  "😴": {
     name: "sleeping-face",
     category: "people",
     unicode: "_1f634",
     htmlEntity: "&#x1F634",
   },
-  "drooling-face": {
+  "🤤": {
     name: "drooling-face",
     category: "people",
     unicode: "_1f924",
     htmlEntity: "&#x1F924",
   },
-  "sleepy-face": {
+  "😪": {
     name: "sleepy-face",
     category: "people",
     unicode: "_1f62a",
     htmlEntity: "&#x1F62A",
   },
-  "dizzy-face": {
+  "😵": {
     name: "dizzy-face",
     category: "people",
     unicode: "_1f635",
     htmlEntity: "&#x1F635",
   },
-  "face-with-spiral-eyes": {
+  "😵💫": {
     name: "face-with-spiral-eyes",
     category: "people",
     unicode: "_1f635-1f4ab",
     htmlEntity: "&#x1F635;&#x1F4AB",
   },
-  "zipper-mouth-face": {
+  "🤐": {
     name: "zipper-mouth-face",
     category: "people",
     unicode: "_1f910",
     htmlEntity: "&#x1F910",
   },
-  "woozy-face": {
+  "🥴": {
     name: "woozy-face",
     category: "people",
     unicode: "_1f974",
     htmlEntity: "&#x1F974",
   },
-  "nauseated-face": {
+  "🤢": {
     name: "nauseated-face",
     category: "people",
     unicode: "_1f922",
     htmlEntity: "&#x1F922",
   },
-  "face-vomiting": {
+  "🤮": {
     name: "face-vomiting",
     category: "people",
     unicode: "_1f92e",
     htmlEntity: "&#x1F92E",
   },
-  "sneezing-face": {
+  "🤧": {
     name: "sneezing-face",
     category: "people",
     unicode: "_1f927",
     htmlEntity: "&#x1F927",
   },
-  "face-with-medical-mask": {
+  "😷": {
     name: "face-with-medical-mask",
     category: "people",
     unicode: "_1f637",
     htmlEntity: "&#x1F637",
   },
-  "face-with-thermometer": {
+  "🤒": {
     name: "face-with-thermometer",
     category: "people",
     unicode: "_1f912",
     htmlEntity: "&#x1F912",
   },
-  "face-with-head-bandage": {
+  "🤕": {
     name: "face-with-head-bandage",
     category: "people",
     unicode: "_1f915",
     htmlEntity: "&#x1F915",
   },
-  "money-mouth-face": {
+  "🤑": {
     name: "money-mouth-face",
     category: "people",
     unicode: "_1f911",
     htmlEntity: "&#x1F911",
   },
-  "cowboy-hat-face": {
+  "🤠": {
     name: "cowboy-hat-face",
     category: "people",
     unicode: "_1f920",
     htmlEntity: "&#x1F920",
   },
-  "disguised-face": {
+  "🥸": {
     name: "disguised-face",
     category: "people",
     unicode: "_1f978",
     htmlEntity: "&#x1F978",
   },
-  "smiling-face-with-horns": {
+  "😈": {
     name: "smiling-face-with-horns",
     category: "people",
     unicode: "_1f608",
     htmlEntity: "&#x1F608",
   },
-  "angry-face-with-horns": {
+  "👿": {
     name: "angry-face-with-horns",
     category: "people",
     unicode: "_1f47f",
     htmlEntity: "&#x1F47F",
   },
-  ogre: {
+  "👹": {
     name: "ogre",
     category: "people",
     unicode: "_1f479",
     htmlEntity: "&#x1F479",
   },
-  goblin: {
+  "👺": {
     name: "goblin",
     category: "people",
     unicode: "_1f47a",
     htmlEntity: "&#x1F47A",
   },
-  "clown-face": {
+  "🤡": {
     name: "clown-face",
     category: "people",
     unicode: "_1f921",
     htmlEntity: "&#x1F921",
   },
-  "pile-of-poo": {
+  "💩": {
     name: "pile-of-poo",
     category: "people",
     unicode: "_1f4a9",
     htmlEntity: "&#x1F4A9",
   },
-  ghost: {
+  "👻": {
     name: "ghost",
     category: "people",
     unicode: "_1f47b",
     htmlEntity: "&#x1F47B",
   },
-  skull: {
+  "💀": {
     name: "skull",
     category: "people",
     unicode: "_1f480",
     htmlEntity: "&#x1F480",
   },
-  "skull-and-crossbones": {
+  "☠": {
     name: "skull-and-crossbones",
     category: "people",
     unicode: "_2620",
     htmlEntity: "&#x2620",
   },
-  alien: {
+  "👽": {
     name: "alien",
     category: "people",
     unicode: "_1f47d",
     htmlEntity: "&#x1F47D",
   },
-  "alien-monster": {
+  "👾": {
     name: "alien-monster",
     category: "people",
     unicode: "_1f47e",
     htmlEntity: "&#x1F47E",
   },
-  robot: {
+  "🤖": {
     name: "robot",
     category: "people",
     unicode: "_1f916",
     htmlEntity: "&#x1F916",
   },
-  "jack-o-lantern": {
+  "🎃": {
     name: "jack-o-lantern",
     category: "people",
     unicode: "_1f383",
     htmlEntity: "&#x1F383",
   },
-  "grinning-cat": {
+  "😺": {
     name: "grinning-cat",
     category: "people",
     unicode: "_1f63a",
     htmlEntity: "&#x1F63A",
   },
-  "grinning-cat-with-smiling-eyes": {
+  "😸": {
     name: "grinning-cat-with-smiling-eyes",
     category: "people",
     unicode: "_1f638",
     htmlEntity: "&#x1F638",
   },
-  "cat-with-tears-of-joy": {
+  "😹": {
     name: "cat-with-tears-of-joy",
     category: "people",
     unicode: "_1f639",
     htmlEntity: "&#x1F639",
   },
-  "smiling-cat-with-heart-eyes": {
+  "😻": {
     name: "smiling-cat-with-heart-eyes",
     category: "people",
     unicode: "_1f63b",
     htmlEntity: "&#x1F63B",
   },
-  "cat-with-wry-smile": {
+  "😼": {
     name: "cat-with-wry-smile",
     category: "people",
     unicode: "_1f63c",
     htmlEntity: "&#x1F63C",
   },
-  "kissing-cat": {
+  "😽": {
     name: "kissing-cat",
     category: "people",
     unicode: "_1f63d",
     htmlEntity: "&#x1F63D",
   },
-  "weary-cat": {
+  "🙀": {
     name: "weary-cat",
     category: "people",
     unicode: "_1f640",
     htmlEntity: "&#x1F640",
   },
-  "crying-cat": {
+  "😿": {
     name: "crying-cat",
     category: "people",
     unicode: "_1f63f",
     htmlEntity: "&#x1F63F",
   },
-  "pouting-cat": {
+  "😾": {
     name: "pouting-cat",
     category: "people",
     unicode: "_1f63e",
     htmlEntity: "&#x1F63E",
   },
-  "palms-up-together": {
+  "🤲": {
     name: "palms-up-together",
     category: "people",
     unicode: "_1f932",
     htmlEntity: "&#x1F932",
   },
-  "palms-up-together-light-skin-tone": {
+  "🤲🏻": {
     name: "palms-up-together-light-skin-tone",
     category: "diversity",
     unicode: "_1f932-1f3fb",
     htmlEntity: "&#x1F932;&#x1F3FB",
   },
-  "palms-up-together-medium-light-skin-tone": {
+  "🤲🏼": {
     name: "palms-up-together-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f932-1f3fc",
     htmlEntity: "&#x1F932;&#x1F3FC",
   },
-  "palms-up-together-medium-skin-tone": {
+  "🤲🏽": {
     name: "palms-up-together-medium-skin-tone",
     category: "diversity",
     unicode: "_1f932-1f3fd",
     htmlEntity: "&#x1F932;&#x1F3FD",
   },
-  "palms-up-together-medium-dark-skin-tone": {
+  "🤲🏾": {
     name: "palms-up-together-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f932-1f3fe",
     htmlEntity: "&#x1F932;&#x1F3FE",
   },
-  "palms-up-together-dark-skin-tone": {
+  "🤲🏿": {
     name: "palms-up-together-dark-skin-tone",
     category: "diversity",
     unicode: "_1f932-1f3ff",
     htmlEntity: "&#x1F932;&#x1F3FF",
   },
-  "open-hands": {
+  "👐": {
     name: "open-hands",
     category: "people",
     unicode: "_1f450",
     htmlEntity: "&#x1F450",
   },
-  "open-hands-light-skin-tone": {
+  "👐🏻": {
     name: "open-hands-light-skin-tone",
     category: "diversity",
     unicode: "_1f450-1f3fb",
     htmlEntity: "&#x1F450;&#x1F3FB",
   },
-  "open-hands-medium-light-skin-tone": {
+  "👐🏼": {
     name: "open-hands-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f450-1f3fc",
     htmlEntity: "&#x1F450;&#x1F3FC",
   },
-  "open-hands-medium-skin-tone": {
+  "👐🏽": {
     name: "open-hands-medium-skin-tone",
     category: "diversity",
     unicode: "_1f450-1f3fd",
     htmlEntity: "&#x1F450;&#x1F3FD",
   },
-  "open-hands-medium-dark-skin-tone": {
+  "👐🏾": {
     name: "open-hands-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f450-1f3fe",
     htmlEntity: "&#x1F450;&#x1F3FE",
   },
-  "open-hands-dark-skin-tone": {
+  "👐🏿": {
     name: "open-hands-dark-skin-tone",
     category: "diversity",
     unicode: "_1f450-1f3ff",
     htmlEntity: "&#x1F450;&#x1F3FF",
   },
-  "raising-hands": {
+  "🙌": {
     name: "raising-hands",
     category: "people",
     unicode: "_1f64c",
     htmlEntity: "&#x1F64C",
   },
-  "raising-hands-light-skin-tone": {
+  "🙌🏻": {
     name: "raising-hands-light-skin-tone",
     category: "diversity",
     unicode: "_1f64c-1f3fb",
     htmlEntity: "&#x1F64C;&#x1F3FB",
   },
-  "raising-hands-medium-light-skin-tone": {
+  "🙌🏼": {
     name: "raising-hands-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f64c-1f3fc",
     htmlEntity: "&#x1F64C;&#x1F3FC",
   },
-  "raising-hands-medium-skin-tone": {
+  "🙌🏽": {
     name: "raising-hands-medium-skin-tone",
     category: "diversity",
     unicode: "_1f64c-1f3fd",
     htmlEntity: "&#x1F64C;&#x1F3FD",
   },
-  "raising-hands-medium-dark-skin-tone": {
+  "🙌🏾": {
     name: "raising-hands-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f64c-1f3fe",
     htmlEntity: "&#x1F64C;&#x1F3FE",
   },
-  "raising-hands-dark-skin-tone": {
+  "🙌🏿": {
     name: "raising-hands-dark-skin-tone",
     category: "diversity",
     unicode: "_1f64c-1f3ff",
     htmlEntity: "&#x1F64C;&#x1F3FF",
   },
-  "clapping-hands": {
+  "👏": {
     name: "clapping-hands",
     category: "people",
     unicode: "_1f44f",
     htmlEntity: "&#x1F44F",
   },
-  "clapping-hands-light-skin-tone": {
+  "👏🏻": {
     name: "clapping-hands-light-skin-tone",
     category: "diversity",
     unicode: "_1f44f-1f3fb",
     htmlEntity: "&#x1F44F;&#x1F3FB",
   },
-  "clapping-hands-medium-light-skin-tone": {
+  "👏🏼": {
     name: "clapping-hands-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f44f-1f3fc",
     htmlEntity: "&#x1F44F;&#x1F3FC",
   },
-  "clapping-hands-medium-skin-tone": {
+  "👏🏽": {
     name: "clapping-hands-medium-skin-tone",
     category: "diversity",
     unicode: "_1f44f-1f3fd",
     htmlEntity: "&#x1F44F;&#x1F3FD",
   },
-  "clapping-hands-medium-dark-skin-tone": {
+  "👏🏾": {
     name: "clapping-hands-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f44f-1f3fe",
     htmlEntity: "&#x1F44F;&#x1F3FE",
   },
-  "clapping-hands-dark-skin-tone": {
+  "👏🏿": {
     name: "clapping-hands-dark-skin-tone",
     category: "diversity",
     unicode: "_1f44f-1f3ff",
     htmlEntity: "&#x1F44F;&#x1F3FF",
   },
-  handshake: {
+  "🤝": {
     name: "handshake",
     category: "people",
     unicode: "_1f91d",
     htmlEntity: "&#x1F91D",
   },
-  "thumbs-up": {
+  "👍": {
     name: "thumbs-up",
     category: "people",
     unicode: "_1f44d",
     htmlEntity: "&#x1F44D",
   },
-  "thumbs-up-light-skin-tone": {
+  "👍🏻": {
     name: "thumbs-up-light-skin-tone",
     category: "diversity",
     unicode: "_1f44d-1f3fb",
     htmlEntity: "&#x1F44D;&#x1F3FB",
   },
-  "thumbs-up-medium-light-skin-tone": {
+  "👍🏼": {
     name: "thumbs-up-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f44d-1f3fc",
     htmlEntity: "&#x1F44D;&#x1F3FC",
   },
-  "thumbs-up-medium-skin-tone": {
+  "👍🏽": {
     name: "thumbs-up-medium-skin-tone",
     category: "diversity",
     unicode: "_1f44d-1f3fd",
     htmlEntity: "&#x1F44D;&#x1F3FD",
   },
-  "thumbs-up-medium-dark-skin-tone": {
+  "👍🏾": {
     name: "thumbs-up-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f44d-1f3fe",
     htmlEntity: "&#x1F44D;&#x1F3FE",
   },
-  "thumbs-up-dark-skin-tone": {
+  "👍🏿": {
     name: "thumbs-up-dark-skin-tone",
     category: "diversity",
     unicode: "_1f44d-1f3ff",
     htmlEntity: "&#x1F44D;&#x1F3FF",
   },
-  "thumbs-down": {
+  "👎": {
     name: "thumbs-down",
     category: "people",
     unicode: "_1f44e",
     htmlEntity: "&#x1F44E",
   },
-  "thumbs-down-light-skin-tone": {
+  "👎🏻": {
     name: "thumbs-down-light-skin-tone",
     category: "diversity",
     unicode: "_1f44e-1f3fb",
     htmlEntity: "&#x1F44E;&#x1F3FB",
   },
-  "thumbs-down-medium-light-skin-tone": {
+  "👎🏼": {
     name: "thumbs-down-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f44e-1f3fc",
     htmlEntity: "&#x1F44E;&#x1F3FC",
   },
-  "thumbs-down-medium-skin-tone": {
+  "👎🏽": {
     name: "thumbs-down-medium-skin-tone",
     category: "diversity",
     unicode: "_1f44e-1f3fd",
     htmlEntity: "&#x1F44E;&#x1F3FD",
   },
-  "thumbs-down-medium-dark-skin-tone": {
+  "👎🏾": {
     name: "thumbs-down-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f44e-1f3fe",
     htmlEntity: "&#x1F44E;&#x1F3FE",
   },
-  "thumbs-down-dark-skin-tone": {
+  "👎🏿": {
     name: "thumbs-down-dark-skin-tone",
     category: "diversity",
     unicode: "_1f44e-1f3ff",
     htmlEntity: "&#x1F44E;&#x1F3FF",
   },
-  "oncoming-fist": {
+  "👊": {
     name: "oncoming-fist",
     category: "people",
     unicode: "_1f44a",
     htmlEntity: "&#x1F44A",
   },
-  "oncoming-fist-light-skin-tone": {
+  "👊🏻": {
     name: "oncoming-fist-light-skin-tone",
     category: "diversity",
     unicode: "_1f44a-1f3fb",
     htmlEntity: "&#x1F44A;&#x1F3FB",
   },
-  "oncoming-fist-medium-light-skin-tone": {
+  "👊🏼": {
     name: "oncoming-fist-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f44a-1f3fc",
     htmlEntity: "&#x1F44A;&#x1F3FC",
   },
-  "oncoming-fist-medium-skin-tone": {
+  "👊🏽": {
     name: "oncoming-fist-medium-skin-tone",
     category: "diversity",
     unicode: "_1f44a-1f3fd",
     htmlEntity: "&#x1F44A;&#x1F3FD",
   },
-  "oncoming-fist-medium-dark-skin-tone": {
+  "👊🏾": {
     name: "oncoming-fist-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f44a-1f3fe",
     htmlEntity: "&#x1F44A;&#x1F3FE",
   },
-  "oncoming-fist-dark-skin-tone": {
+  "👊🏿": {
     name: "oncoming-fist-dark-skin-tone",
     category: "diversity",
     unicode: "_1f44a-1f3ff",
     htmlEntity: "&#x1F44A;&#x1F3FF",
   },
-  "raised-fist": {
+  "✊": {
     name: "raised-fist",
     category: "people",
     unicode: "_270a",
     htmlEntity: "&#x270A",
   },
-  "raised-fist-light-skin-tone": {
+  "✊🏻": {
     name: "raised-fist-light-skin-tone",
     category: "diversity",
     unicode: "_270a-1f3fb",
     htmlEntity: "&#x270A;&#x1F3FB",
   },
-  "raised-fist-medium-light-skin-tone": {
+  "✊🏼": {
     name: "raised-fist-medium-light-skin-tone",
     category: "diversity",
     unicode: "_270a-1f3fc",
     htmlEntity: "&#x270A;&#x1F3FC",
   },
-  "raised-fist-medium-skin-tone": {
+  "✊🏽": {
     name: "raised-fist-medium-skin-tone",
     category: "diversity",
     unicode: "_270a-1f3fd",
     htmlEntity: "&#x270A;&#x1F3FD",
   },
-  "raised-fist-medium-dark-skin-tone": {
+  "✊🏾": {
     name: "raised-fist-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_270a-1f3fe",
     htmlEntity: "&#x270A;&#x1F3FE",
   },
-  "raised-fist-dark-skin-tone": {
+  "✊🏿": {
     name: "raised-fist-dark-skin-tone",
     category: "diversity",
     unicode: "_270a-1f3ff",
     htmlEntity: "&#x270A;&#x1F3FF",
   },
-  "left-facing-fist": {
+  "🤛": {
     name: "left-facing-fist",
     category: "people",
     unicode: "_1f91b",
     htmlEntity: "&#x1F91B",
   },
-  "left-facing-fist-light-skin-tone": {
+  "🤛🏻": {
     name: "left-facing-fist-light-skin-tone",
     category: "diversity",
     unicode: "_1f91b-1f3fb",
     htmlEntity: "&#x1F91B;&#x1F3FB",
   },
-  "left-facing-fist-medium-light-skin-tone": {
+  "🤛🏼": {
     name: "left-facing-fist-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f91b-1f3fc",
     htmlEntity: "&#x1F91B;&#x1F3FC",
   },
-  "left-facing-fist-medium-skin-tone": {
+  "🤛🏽": {
     name: "left-facing-fist-medium-skin-tone",
     category: "diversity",
     unicode: "_1f91b-1f3fd",
     htmlEntity: "&#x1F91B;&#x1F3FD",
   },
-  "left-facing-fist-medium-dark-skin-tone": {
+  "🤛🏾": {
     name: "left-facing-fist-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f91b-1f3fe",
     htmlEntity: "&#x1F91B;&#x1F3FE",
   },
-  "left-facing-fist-dark-skin-tone": {
+  "🤛🏿": {
     name: "left-facing-fist-dark-skin-tone",
     category: "diversity",
     unicode: "_1f91b-1f3ff",
     htmlEntity: "&#x1F91B;&#x1F3FF",
   },
-  "right-facing-fist": {
+  "🤜": {
     name: "right-facing-fist",
     category: "people",
     unicode: "_1f91c",
     htmlEntity: "&#x1F91C",
   },
-  "right-facing-fist-light-skin-tone": {
+  "🤜🏻": {
     name: "right-facing-fist-light-skin-tone",
     category: "diversity",
     unicode: "_1f91c-1f3fb",
     htmlEntity: "&#x1F91C;&#x1F3FB",
   },
-  "right-facing-fist-medium-light-skin-tone": {
+  "🤜🏼": {
     name: "right-facing-fist-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f91c-1f3fc",
     htmlEntity: "&#x1F91C;&#x1F3FC",
   },
-  "right-facing-fist-medium-skin-tone": {
+  "🤜🏽": {
     name: "right-facing-fist-medium-skin-tone",
     category: "diversity",
     unicode: "_1f91c-1f3fd",
     htmlEntity: "&#x1F91C;&#x1F3FD",
   },
-  "right-facing-fist-medium-dark-skin-tone": {
+  "🤜🏾": {
     name: "right-facing-fist-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f91c-1f3fe",
     htmlEntity: "&#x1F91C;&#x1F3FE",
   },
-  "right-facing-fist-dark-skin-tone": {
+  "🤜🏿": {
     name: "right-facing-fist-dark-skin-tone",
     category: "diversity",
     unicode: "_1f91c-1f3ff",
     htmlEntity: "&#x1F91C;&#x1F3FF",
   },
-  "crossed-fingers": {
+  "🤞": {
     name: "crossed-fingers",
     category: "people",
     unicode: "_1f91e",
     htmlEntity: "&#x1F91E",
   },
-  "crossed-fingers-light-skin-tone": {
+  "🤞🏻": {
     name: "crossed-fingers-light-skin-tone",
     category: "diversity",
     unicode: "_1f91e-1f3fb",
     htmlEntity: "&#x1F91E;&#x1F3FB",
   },
-  "crossed-fingers-medium-light-skin-tone": {
+  "🤞🏼": {
     name: "crossed-fingers-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f91e-1f3fc",
     htmlEntity: "&#x1F91E;&#x1F3FC",
   },
-  "crossed-fingers-medium-skin-tone": {
+  "🤞🏽": {
     name: "crossed-fingers-medium-skin-tone",
     category: "diversity",
     unicode: "_1f91e-1f3fd",
     htmlEntity: "&#x1F91E;&#x1F3FD",
   },
-  "crossed-fingers-medium-dark-skin-tone": {
+  "🤞🏾": {
     name: "crossed-fingers-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f91e-1f3fe",
     htmlEntity: "&#x1F91E;&#x1F3FE",
   },
-  "crossed-fingers-dark-skin-tone": {
+  "🤞🏿": {
     name: "crossed-fingers-dark-skin-tone",
     category: "diversity",
     unicode: "_1f91e-1f3ff",
     htmlEntity: "&#x1F91E;&#x1F3FF",
   },
-  "victory-hand": {
+  "✌": {
     name: "victory-hand",
     category: "people",
     unicode: "_270c",
     htmlEntity: "&#x270C",
   },
-  "victory-hand-light-skin-tone": {
+  "✌🏻": {
     name: "victory-hand-light-skin-tone",
     category: "diversity",
     unicode: "_270c-1f3fb",
     htmlEntity: "&#x270C;&#x1F3FB",
   },
-  "victory-hand-medium-light-skin-tone": {
+  "✌🏼": {
     name: "victory-hand-medium-light-skin-tone",
     category: "diversity",
     unicode: "_270c-1f3fc",
     htmlEntity: "&#x270C;&#x1F3FC",
   },
-  "victory-hand-medium-skin-tone": {
+  "✌🏽": {
     name: "victory-hand-medium-skin-tone",
     category: "diversity",
     unicode: "_270c-1f3fd",
     htmlEntity: "&#x270C;&#x1F3FD",
   },
-  "victory-hand-medium-dark-skin-tone": {
+  "✌🏾": {
     name: "victory-hand-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_270c-1f3fe",
     htmlEntity: "&#x270C;&#x1F3FE",
   },
-  "victory-hand-dark-skin-tone": {
+  "✌🏿": {
     name: "victory-hand-dark-skin-tone",
     category: "diversity",
     unicode: "_270c-1f3ff",
     htmlEntity: "&#x270C;&#x1F3FF",
   },
-  "love-you-gesture": {
+  "🤟": {
     name: "love-you-gesture",
     category: "people",
     unicode: "_1f91f",
     htmlEntity: "&#x1F91F",
   },
-  "love-you-gesture-light-skin-tone": {
+  "🤟🏻": {
     name: "love-you-gesture-light-skin-tone",
     category: "diversity",
     unicode: "_1f91f-1f3fb",
     htmlEntity: "&#x1F91F;&#x1F3FB",
   },
-  "love-you-gesture-medium-light-skin-tone": {
+  "🤟🏼": {
     name: "love-you-gesture-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f91f-1f3fc",
     htmlEntity: "&#x1F91F;&#x1F3FC",
   },
-  "love-you-gesture-medium-skin-tone": {
+  "🤟🏽": {
     name: "love-you-gesture-medium-skin-tone",
     category: "diversity",
     unicode: "_1f91f-1f3fd",
     htmlEntity: "&#x1F91F;&#x1F3FD",
   },
-  "love-you-gesture-medium-dark-skin-tone": {
+  "🤟🏾": {
     name: "love-you-gesture-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f91f-1f3fe",
     htmlEntity: "&#x1F91F;&#x1F3FE",
   },
-  "love-you-gesture-dark-skin-tone": {
+  "🤟🏿": {
     name: "love-you-gesture-dark-skin-tone",
     category: "diversity",
     unicode: "_1f91f-1f3ff",
     htmlEntity: "&#x1F91F;&#x1F3FF",
   },
-  "sign-of-the-horns": {
+  "🤘": {
     name: "sign-of-the-horns",
     category: "people",
     unicode: "_1f918",
     htmlEntity: "&#x1F918",
   },
-  "sign-of-the-horns-light-skin-tone": {
+  "🤘🏻": {
     name: "sign-of-the-horns-light-skin-tone",
     category: "diversity",
     unicode: "_1f918-1f3fb",
     htmlEntity: "&#x1F918;&#x1F3FB",
   },
-  "sign-of-the-horns-medium-light-skin-tone": {
+  "🤘🏼": {
     name: "sign-of-the-horns-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f918-1f3fc",
     htmlEntity: "&#x1F918;&#x1F3FC",
   },
-  "sign-of-the-horns-medium-skin-tone": {
+  "🤘🏽": {
     name: "sign-of-the-horns-medium-skin-tone",
     category: "diversity",
     unicode: "_1f918-1f3fd",
     htmlEntity: "&#x1F918;&#x1F3FD",
   },
-  "sign-of-the-horns-medium-dark-skin-tone": {
+  "🤘🏾": {
     name: "sign-of-the-horns-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f918-1f3fe",
     htmlEntity: "&#x1F918;&#x1F3FE",
   },
-  "sign-of-the-horns-dark-skin-tone": {
+  "🤘🏿": {
     name: "sign-of-the-horns-dark-skin-tone",
     category: "diversity",
     unicode: "_1f918-1f3ff",
     htmlEntity: "&#x1F918;&#x1F3FF",
   },
-  "ok-hand": {
+  "👌": {
     name: "ok-hand",
     category: "people",
     unicode: "_1f44c",
     htmlEntity: "&#x1F44C",
   },
-  "ok-hand-light-skin-tone": {
+  "👌🏻": {
     name: "ok-hand-light-skin-tone",
     category: "diversity",
     unicode: "_1f44c-1f3fb",
     htmlEntity: "&#x1F44C;&#x1F3FB",
   },
-  "ok-hand-medium-light-skin-tone": {
+  "👌🏼": {
     name: "ok-hand-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f44c-1f3fc",
     htmlEntity: "&#x1F44C;&#x1F3FC",
   },
-  "ok-hand-medium-skin-tone": {
+  "👌🏽": {
     name: "ok-hand-medium-skin-tone",
     category: "diversity",
     unicode: "_1f44c-1f3fd",
     htmlEntity: "&#x1F44C;&#x1F3FD",
   },
-  "ok-hand-medium-dark-skin-tone": {
+  "👌🏾": {
     name: "ok-hand-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f44c-1f3fe",
     htmlEntity: "&#x1F44C;&#x1F3FE",
   },
-  "ok-hand-dark-skin-tone": {
+  "👌🏿": {
     name: "ok-hand-dark-skin-tone",
     category: "diversity",
     unicode: "_1f44c-1f3ff",
     htmlEntity: "&#x1F44C;&#x1F3FF",
   },
-  "pinching-hand": {
+  "🤏": {
     name: "pinching-hand",
     category: "people",
     unicode: "_1f90f",
     htmlEntity: "&#x1F90F",
   },
-  "pinching-hand-light-skin-tone": {
+  "🤏🏻": {
     name: "pinching-hand-light-skin-tone",
     category: "diversity",
     unicode: "_1f90f-1f3fb",
     htmlEntity: "&#x1F90F;&#x1F3FB",
   },
-  "pinching-hand-medium-light-skin-tone": {
+  "🤏🏼": {
     name: "pinching-hand-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f90f-1f3fc",
     htmlEntity: "&#x1F90F;&#x1F3FC",
   },
-  "pinching-hand-medium-skin-tone": {
+  "🤏🏽": {
     name: "pinching-hand-medium-skin-tone",
     category: "diversity",
     unicode: "_1f90f-1f3fd",
     htmlEntity: "&#x1F90F;&#x1F3FD",
   },
-  "pinching-hand-medium-dark-skin-tone": {
+  "🤏🏾": {
     name: "pinching-hand-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f90f-1f3fe",
     htmlEntity: "&#x1F90F;&#x1F3FE",
   },
-  "pinching-hand-dark-skin-tone": {
+  "🤏🏿": {
     name: "pinching-hand-dark-skin-tone",
     category: "diversity",
     unicode: "_1f90f-1f3ff",
     htmlEntity: "&#x1F90F;&#x1F3FF",
   },
-  "pinched-fingers": {
+  "🤌": {
     name: "pinched-fingers",
     category: "people",
     unicode: "_1f90c",
     htmlEntity: "&#x1F90C",
   },
-  "pinched-fingers-medium-light-skin-tone": {
+  "🤌🏼": {
     name: "pinched-fingers-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f90c-1f3fc",
     htmlEntity: "&#x1F90C;&#x1F3FC",
   },
-  "pinched-fingers-light-skin-tone": {
+  "🤌🏻": {
     name: "pinched-fingers-light-skin-tone",
     category: "diversity",
     unicode: "_1f90c-1f3fb",
     htmlEntity: "&#x1F90C;&#x1F3FB",
   },
-  "pinched-fingers-medium-skin-tone": {
+  "🤌🏽": {
     name: "pinched-fingers-medium-skin-tone",
     category: "diversity",
     unicode: "_1f90c-1f3fd",
     htmlEntity: "&#x1F90C;&#x1F3FD",
   },
-  "pinched-fingers-medium-dark-skin-tone": {
+  "🤌🏾": {
     name: "pinched-fingers-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f90c-1f3fe",
     htmlEntity: "&#x1F90C;&#x1F3FE",
   },
-  "pinched-fingers-dark-skin-tone": {
+  "🤌🏿": {
     name: "pinched-fingers-dark-skin-tone",
     category: "diversity",
     unicode: "_1f90c-1f3ff",
     htmlEntity: "&#x1F90C;&#x1F3FF",
   },
-  "backhand-index-pointing-left": {
+  "👈": {
     name: "backhand-index-pointing-left",
     category: "people",
     unicode: "_1f448",
     htmlEntity: "&#x1F448",
   },
-  "backhand-index-pointing-left-light-skin-tone": {
+  "👈🏻": {
     name: "backhand-index-pointing-left-light-skin-tone",
     category: "diversity",
     unicode: "_1f448-1f3fb",
     htmlEntity: "&#x1F448;&#x1F3FB",
   },
-  "backhand-index-pointing-left-medium-light-skin-tone": {
+  "👈🏼": {
     name: "backhand-index-pointing-left-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f448-1f3fc",
     htmlEntity: "&#x1F448;&#x1F3FC",
   },
-  "backhand-index-pointing-left-medium-skin-tone": {
+  "👈🏽": {
     name: "backhand-index-pointing-left-medium-skin-tone",
     category: "diversity",
     unicode: "_1f448-1f3fd",
     htmlEntity: "&#x1F448;&#x1F3FD",
   },
-  "backhand-index-pointing-left-medium-dark-skin-tone": {
+  "👈🏾": {
     name: "backhand-index-pointing-left-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f448-1f3fe",
     htmlEntity: "&#x1F448;&#x1F3FE",
   },
-  "backhand-index-pointing-left-dark-skin-tone": {
+  "👈🏿": {
     name: "backhand-index-pointing-left-dark-skin-tone",
     category: "diversity",
     unicode: "_1f448-1f3ff",
     htmlEntity: "&#x1F448;&#x1F3FF",
   },
-  "backhand-index-pointing-right": {
+  "👉": {
     name: "backhand-index-pointing-right",
     category: "people",
     unicode: "_1f449",
     htmlEntity: "&#x1F449",
   },
-  "backhand-index-pointing-right-light-skin-tone": {
+  "👉🏻": {
     name: "backhand-index-pointing-right-light-skin-tone",
     category: "diversity",
     unicode: "_1f449-1f3fb",
     htmlEntity: "&#x1F449;&#x1F3FB",
   },
-  "backhand-index-pointing-right-medium-light-skin-tone": {
+  "👉🏼": {
     name: "backhand-index-pointing-right-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f449-1f3fc",
     htmlEntity: "&#x1F449;&#x1F3FC",
   },
-  "backhand-index-pointing-right-medium-skin-tone": {
+  "👉🏽": {
     name: "backhand-index-pointing-right-medium-skin-tone",
     category: "diversity",
     unicode: "_1f449-1f3fd",
     htmlEntity: "&#x1F449;&#x1F3FD",
   },
-  "backhand-index-pointing-right-medium-dark-skin-tone": {
+  "👉🏾": {
     name: "backhand-index-pointing-right-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f449-1f3fe",
     htmlEntity: "&#x1F449;&#x1F3FE",
   },
-  "backhand-index-pointing-right-dark-skin-tone": {
+  "👉🏿": {
     name: "backhand-index-pointing-right-dark-skin-tone",
     category: "diversity",
     unicode: "_1f449-1f3ff",
     htmlEntity: "&#x1F449;&#x1F3FF",
   },
-  "backhand-index-pointing-up": {
+  "👆": {
     name: "backhand-index-pointing-up",
     category: "people",
     unicode: "_1f446",
     htmlEntity: "&#x1F446",
   },
-  "backhand-index-pointing-up-light-skin-tone": {
+  "👆🏻": {
     name: "backhand-index-pointing-up-light-skin-tone",
     category: "diversity",
     unicode: "_1f446-1f3fb",
     htmlEntity: "&#x1F446;&#x1F3FB",
   },
-  "backhand-index-pointing-up-medium-light-skin-tone": {
+  "👆🏼": {
     name: "backhand-index-pointing-up-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f446-1f3fc",
     htmlEntity: "&#x1F446;&#x1F3FC",
   },
-  "backhand-index-pointing-up-medium-skin-tone": {
+  "👆🏽": {
     name: "backhand-index-pointing-up-medium-skin-tone",
     category: "diversity",
     unicode: "_1f446-1f3fd",
     htmlEntity: "&#x1F446;&#x1F3FD",
   },
-  "backhand-index-pointing-up-medium-dark-skin-tone": {
+  "👆🏾": {
     name: "backhand-index-pointing-up-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f446-1f3fe",
     htmlEntity: "&#x1F446;&#x1F3FE",
   },
-  "backhand-index-pointing-up-dark-skin-tone": {
+  "👆🏿": {
     name: "backhand-index-pointing-up-dark-skin-tone",
     category: "diversity",
     unicode: "_1f446-1f3ff",
     htmlEntity: "&#x1F446;&#x1F3FF",
   },
-  "backhand-index-pointing-down": {
+  "👇": {
     name: "backhand-index-pointing-down",
     category: "people",
     unicode: "_1f447",
     htmlEntity: "&#x1F447",
   },
-  "backhand-index-pointing-down-light-skin-tone": {
+  "👇🏻": {
     name: "backhand-index-pointing-down-light-skin-tone",
     category: "diversity",
     unicode: "_1f447-1f3fb",
     htmlEntity: "&#x1F447;&#x1F3FB",
   },
-  "backhand-index-pointing-down-medium-light-skin-tone": {
+  "👇🏼": {
     name: "backhand-index-pointing-down-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f447-1f3fc",
     htmlEntity: "&#x1F447;&#x1F3FC",
   },
-  "backhand-index-pointing-down-medium-skin-tone": {
+  "👇🏽": {
     name: "backhand-index-pointing-down-medium-skin-tone",
     category: "diversity",
     unicode: "_1f447-1f3fd",
     htmlEntity: "&#x1F447;&#x1F3FD",
   },
-  "backhand-index-pointing-down-medium-dark-skin-tone": {
+  "👇🏾": {
     name: "backhand-index-pointing-down-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f447-1f3fe",
     htmlEntity: "&#x1F447;&#x1F3FE",
   },
-  "backhand-index-pointing-down-dark-skin-tone": {
+  "👇🏿": {
     name: "backhand-index-pointing-down-dark-skin-tone",
     category: "diversity",
     unicode: "_1f447-1f3ff",
     htmlEntity: "&#x1F447;&#x1F3FF",
   },
-  "index-pointing-up": {
+  "☝": {
     name: "index-pointing-up",
     category: "people",
     unicode: "_261d",
     htmlEntity: "&#x261D",
   },
-  "index-pointing-up-light-skin-tone": {
+  "☝🏻": {
     name: "index-pointing-up-light-skin-tone",
     category: "diversity",
     unicode: "_261d-1f3fb",
     htmlEntity: "&#x261D;&#x1F3FB",
   },
-  "index-pointing-up-medium-light-skin-tone": {
+  "☝🏼": {
     name: "index-pointing-up-medium-light-skin-tone",
     category: "diversity",
     unicode: "_261d-1f3fc",
     htmlEntity: "&#x261D;&#x1F3FC",
   },
-  "index-pointing-up-medium-skin-tone": {
+  "☝🏽": {
     name: "index-pointing-up-medium-skin-tone",
     category: "diversity",
     unicode: "_261d-1f3fd",
     htmlEntity: "&#x261D;&#x1F3FD",
   },
-  "index-pointing-up-medium-dark-skin-tone": {
+  "☝🏾": {
     name: "index-pointing-up-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_261d-1f3fe",
     htmlEntity: "&#x261D;&#x1F3FE",
   },
-  "index-pointing-up-dark-skin-tone": {
+  "☝🏿": {
     name: "index-pointing-up-dark-skin-tone",
     category: "diversity",
     unicode: "_261d-1f3ff",
     htmlEntity: "&#x261D;&#x1F3FF",
   },
-  "raised-hand": {
+  "✋": {
     name: "raised-hand",
     category: "people",
     unicode: "_270b",
     htmlEntity: "&#x270B",
   },
-  "raised-hand-light-skin-tone": {
+  "✋🏻": {
     name: "raised-hand-light-skin-tone",
     category: "diversity",
     unicode: "_270b-1f3fb",
     htmlEntity: "&#x270B;&#x1F3FB",
   },
-  "raised-hand-medium-light-skin-tone": {
+  "✋🏼": {
     name: "raised-hand-medium-light-skin-tone",
     category: "diversity",
     unicode: "_270b-1f3fc",
     htmlEntity: "&#x270B;&#x1F3FC",
   },
-  "raised-hand-medium-skin-tone": {
+  "✋🏽": {
     name: "raised-hand-medium-skin-tone",
     category: "diversity",
     unicode: "_270b-1f3fd",
     htmlEntity: "&#x270B;&#x1F3FD",
   },
-  "raised-hand-medium-dark-skin-tone": {
+  "✋🏾": {
     name: "raised-hand-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_270b-1f3fe",
     htmlEntity: "&#x270B;&#x1F3FE",
   },
-  "raised-hand-dark-skin-tone": {
+  "✋🏿": {
     name: "raised-hand-dark-skin-tone",
     category: "diversity",
     unicode: "_270b-1f3ff",
     htmlEntity: "&#x270B;&#x1F3FF",
   },
-  "raised-back-of-hand": {
+  "🤚": {
     name: "raised-back-of-hand",
     category: "people",
     unicode: "_1f91a",
     htmlEntity: "&#x1F91A",
   },
-  "raised-back-of-hand-light-skin-tone": {
+  "🤚🏻": {
     name: "raised-back-of-hand-light-skin-tone",
     category: "diversity",
     unicode: "_1f91a-1f3fb",
     htmlEntity: "&#x1F91A;&#x1F3FB",
   },
-  "raised-back-of-hand-medium-light-skin-tone": {
+  "🤚🏼": {
     name: "raised-back-of-hand-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f91a-1f3fc",
     htmlEntity: "&#x1F91A;&#x1F3FC",
   },
-  "raised-back-of-hand-medium-skin-tone": {
+  "🤚🏽": {
     name: "raised-back-of-hand-medium-skin-tone",
     category: "diversity",
     unicode: "_1f91a-1f3fd",
     htmlEntity: "&#x1F91A;&#x1F3FD",
   },
-  "raised-back-of-hand-medium-dark-skin-tone": {
+  "🤚🏾": {
     name: "raised-back-of-hand-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f91a-1f3fe",
     htmlEntity: "&#x1F91A;&#x1F3FE",
   },
-  "raised-back-of-hand-dark-skin-tone": {
+  "🤚🏿": {
     name: "raised-back-of-hand-dark-skin-tone",
     category: "diversity",
     unicode: "_1f91a-1f3ff",
     htmlEntity: "&#x1F91A;&#x1F3FF",
   },
-  "hand-with-fingers-splayed": {
+  "🖐": {
     name: "hand-with-fingers-splayed",
     category: "people",
     unicode: "_1f590",
     htmlEntity: "&#x1F590",
   },
-  "hand-with-fingers-splayed-light-skin-tone": {
+  "🖐🏻": {
     name: "hand-with-fingers-splayed-light-skin-tone",
     category: "diversity",
     unicode: "_1f590-1f3fb",
     htmlEntity: "&#x1F590;&#x1F3FB",
   },
-  "hand-with-fingers-splayed-medium-light-skin-tone": {
+  "🖐🏼": {
     name: "hand-with-fingers-splayed-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f590-1f3fc",
     htmlEntity: "&#x1F590;&#x1F3FC",
   },
-  "hand-with-fingers-splayed-medium-skin-tone": {
+  "🖐🏽": {
     name: "hand-with-fingers-splayed-medium-skin-tone",
     category: "diversity",
     unicode: "_1f590-1f3fd",
     htmlEntity: "&#x1F590;&#x1F3FD",
   },
-  "hand-with-fingers-splayed-medium-dark-skin-tone": {
+  "🖐🏾": {
     name: "hand-with-fingers-splayed-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f590-1f3fe",
     htmlEntity: "&#x1F590;&#x1F3FE",
   },
-  "hand-with-fingers-splayed-dark-skin-tone": {
+  "🖐🏿": {
     name: "hand-with-fingers-splayed-dark-skin-tone",
     category: "diversity",
     unicode: "_1f590-1f3ff",
     htmlEntity: "&#x1F590;&#x1F3FF",
   },
-  "vulcan-salute": {
+  "🖖": {
     name: "vulcan-salute",
     category: "people",
     unicode: "_1f596",
     htmlEntity: "&#x1F596",
   },
-  "vulcan-salute-light-skin-tone": {
+  "🖖🏻": {
     name: "vulcan-salute-light-skin-tone",
     category: "diversity",
     unicode: "_1f596-1f3fb",
     htmlEntity: "&#x1F596;&#x1F3FB",
   },
-  "vulcan-salute-medium-light-skin-tone": {
+  "🖖🏼": {
     name: "vulcan-salute-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f596-1f3fc",
     htmlEntity: "&#x1F596;&#x1F3FC",
   },
-  "vulcan-salute-medium-skin-tone": {
+  "🖖🏽": {
     name: "vulcan-salute-medium-skin-tone",
     category: "diversity",
     unicode: "_1f596-1f3fd",
     htmlEntity: "&#x1F596;&#x1F3FD",
   },
-  "vulcan-salute-medium-dark-skin-tone": {
+  "🖖🏾": {
     name: "vulcan-salute-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f596-1f3fe",
     htmlEntity: "&#x1F596;&#x1F3FE",
   },
-  "vulcan-salute-dark-skin-tone": {
+  "🖖🏿": {
     name: "vulcan-salute-dark-skin-tone",
     category: "diversity",
     unicode: "_1f596-1f3ff",
     htmlEntity: "&#x1F596;&#x1F3FF",
   },
-  "waving-hand": {
+  "👋": {
     name: "waving-hand",
     category: "people",
     unicode: "_1f44b",
     htmlEntity: "&#x1F44B",
   },
-  "waving-hand-light-skin-tone": {
+  "👋🏻": {
     name: "waving-hand-light-skin-tone",
     category: "diversity",
     unicode: "_1f44b-1f3fb",
     htmlEntity: "&#x1F44B;&#x1F3FB",
   },
-  "waving-hand-medium-light-skin-tone": {
+  "👋🏼": {
     name: "waving-hand-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f44b-1f3fc",
     htmlEntity: "&#x1F44B;&#x1F3FC",
   },
-  "waving-hand-medium-skin-tone": {
+  "👋🏽": {
     name: "waving-hand-medium-skin-tone",
     category: "diversity",
     unicode: "_1f44b-1f3fd",
     htmlEntity: "&#x1F44B;&#x1F3FD",
   },
-  "waving-hand-medium-dark-skin-tone": {
+  "👋🏾": {
     name: "waving-hand-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f44b-1f3fe",
     htmlEntity: "&#x1F44B;&#x1F3FE",
   },
-  "waving-hand-dark-skin-tone": {
+  "👋🏿": {
     name: "waving-hand-dark-skin-tone",
     category: "diversity",
     unicode: "_1f44b-1f3ff",
     htmlEntity: "&#x1F44B;&#x1F3FF",
   },
-  "call-me-hand": {
+  "🤙": {
     name: "call-me-hand",
     category: "people",
     unicode: "_1f919",
     htmlEntity: "&#x1F919",
   },
-  "call-me-hand-light-skin-tone": {
+  "🤙🏻": {
     name: "call-me-hand-light-skin-tone",
     category: "diversity",
     unicode: "_1f919-1f3fb",
     htmlEntity: "&#x1F919;&#x1F3FB",
   },
-  "call-me-hand-medium-light-skin-tone": {
+  "🤙🏼": {
     name: "call-me-hand-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f919-1f3fc",
     htmlEntity: "&#x1F919;&#x1F3FC",
   },
-  "call-me-hand-medium-skin-tone": {
+  "🤙🏽": {
     name: "call-me-hand-medium-skin-tone",
     category: "diversity",
     unicode: "_1f919-1f3fd",
     htmlEntity: "&#x1F919;&#x1F3FD",
   },
-  "call-me-hand-medium-dark-skin-tone": {
+  "🤙🏾": {
     name: "call-me-hand-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f919-1f3fe",
     htmlEntity: "&#x1F919;&#x1F3FE",
   },
-  "call-me-hand-dark-skin-tone": {
+  "🤙🏿": {
     name: "call-me-hand-dark-skin-tone",
     category: "diversity",
     unicode: "_1f919-1f3ff",
     htmlEntity: "&#x1F919;&#x1F3FF",
   },
-  "flexed-biceps": {
+  "💪": {
     name: "flexed-biceps",
     category: "people",
     unicode: "_1f4aa",
     htmlEntity: "&#x1F4AA",
   },
-  "flexed-biceps-light-skin-tone": {
+  "💪🏻": {
     name: "flexed-biceps-light-skin-tone",
     category: "diversity",
     unicode: "_1f4aa-1f3fb",
     htmlEntity: "&#x1F4AA;&#x1F3FB",
   },
-  "flexed-biceps-medium-light-skin-tone": {
+  "💪🏼": {
     name: "flexed-biceps-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f4aa-1f3fc",
     htmlEntity: "&#x1F4AA;&#x1F3FC",
   },
-  "flexed-biceps-medium-skin-tone": {
+  "💪🏽": {
     name: "flexed-biceps-medium-skin-tone",
     category: "diversity",
     unicode: "_1f4aa-1f3fd",
     htmlEntity: "&#x1F4AA;&#x1F3FD",
   },
-  "flexed-biceps-medium-dark-skin-tone": {
+  "💪🏾": {
     name: "flexed-biceps-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f4aa-1f3fe",
     htmlEntity: "&#x1F4AA;&#x1F3FE",
   },
-  "flexed-biceps-dark-skin-tone": {
+  "💪🏿": {
     name: "flexed-biceps-dark-skin-tone",
     category: "diversity",
     unicode: "_1f4aa-1f3ff",
     htmlEntity: "&#x1F4AA;&#x1F3FF",
   },
-  "mechanical-arm": {
+  "🦾": {
     name: "mechanical-arm",
     category: "people",
     unicode: "_1f9be",
     htmlEntity: "&#x1F9BE",
   },
-  "middle-finger": {
+  "🖕": {
     name: "middle-finger",
     category: "people",
     unicode: "_1f595",
     htmlEntity: "&#x1F595",
   },
-  "middle-finger-light-skin-tone": {
+  "🖕🏻": {
     name: "middle-finger-light-skin-tone",
     category: "diversity",
     unicode: "_1f595-1f3fb",
     htmlEntity: "&#x1F595;&#x1F3FB",
   },
-  "middle-finger-medium-light-skin-tone": {
+  "🖕🏼": {
     name: "middle-finger-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f595-1f3fc",
     htmlEntity: "&#x1F595;&#x1F3FC",
   },
-  "middle-finger-medium-skin-tone": {
+  "🖕🏽": {
     name: "middle-finger-medium-skin-tone",
     category: "diversity",
     unicode: "_1f595-1f3fd",
     htmlEntity: "&#x1F595;&#x1F3FD",
   },
-  "middle-finger-medium-dark-skin-tone": {
+  "🖕🏾": {
     name: "middle-finger-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f595-1f3fe",
     htmlEntity: "&#x1F595;&#x1F3FE",
   },
-  "middle-finger-dark-skin-tone": {
+  "🖕🏿": {
     name: "middle-finger-dark-skin-tone",
     category: "diversity",
     unicode: "_1f595-1f3ff",
     htmlEntity: "&#x1F595;&#x1F3FF",
   },
-  "writing-hand": {
+  "✍": {
     name: "writing-hand",
     category: "people",
     unicode: "_270d",
     htmlEntity: "&#x270D",
   },
-  "writing-hand-light-skin-tone": {
+  "✍🏻": {
     name: "writing-hand-light-skin-tone",
     category: "diversity",
     unicode: "_270d-1f3fb",
     htmlEntity: "&#x270D;&#x1F3FB",
   },
-  "writing-hand-medium-light-skin-tone": {
+  "✍🏼": {
     name: "writing-hand-medium-light-skin-tone",
     category: "diversity",
     unicode: "_270d-1f3fc",
     htmlEntity: "&#x270D;&#x1F3FC",
   },
-  "writing-hand-medium-skin-tone": {
+  "✍🏽": {
     name: "writing-hand-medium-skin-tone",
     category: "diversity",
     unicode: "_270d-1f3fd",
     htmlEntity: "&#x270D;&#x1F3FD",
   },
-  "writing-hand-medium-dark-skin-tone": {
+  "✍🏾": {
     name: "writing-hand-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_270d-1f3fe",
     htmlEntity: "&#x270D;&#x1F3FE",
   },
-  "writing-hand-dark-skin-tone": {
+  "✍🏿": {
     name: "writing-hand-dark-skin-tone",
     category: "diversity",
     unicode: "_270d-1f3ff",
     htmlEntity: "&#x270D;&#x1F3FF",
   },
-  "folded-hands": {
+  "🙏": {
     name: "folded-hands",
     category: "people",
     unicode: "_1f64f",
     htmlEntity: "&#x1F64F",
   },
-  "folded-hands-light-skin-tone": {
+  "🙏🏻": {
     name: "folded-hands-light-skin-tone",
     category: "diversity",
     unicode: "_1f64f-1f3fb",
     htmlEntity: "&#x1F64F;&#x1F3FB",
   },
-  "folded-hands-medium-light-skin-tone": {
+  "🙏🏼": {
     name: "folded-hands-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f64f-1f3fc",
     htmlEntity: "&#x1F64F;&#x1F3FC",
   },
-  "folded-hands-medium-skin-tone": {
+  "🙏🏽": {
     name: "folded-hands-medium-skin-tone",
     category: "diversity",
     unicode: "_1f64f-1f3fd",
     htmlEntity: "&#x1F64F;&#x1F3FD",
   },
-  "folded-hands-medium-dark-skin-tone": {
+  "🙏🏾": {
     name: "folded-hands-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f64f-1f3fe",
     htmlEntity: "&#x1F64F;&#x1F3FE",
   },
-  "folded-hands-dark-skin-tone": {
+  "🙏🏿": {
     name: "folded-hands-dark-skin-tone",
     category: "diversity",
     unicode: "_1f64f-1f3ff",
     htmlEntity: "&#x1F64F;&#x1F3FF",
   },
-  foot: {
+  "🦶": {
     name: "foot",
     category: "people",
     unicode: "_1f9b6",
     htmlEntity: "&#x1F9B6",
   },
-  "foot-light-skin-tone": {
+  "🦶🏻": {
     name: "foot-light-skin-tone",
     category: "diversity",
     unicode: "_1f9b6-1f3fb",
     htmlEntity: "&#x1F9B6;&#x1F3FB",
   },
-  "foot-medium-light-skin-tone": {
+  "🦶🏼": {
     name: "foot-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9b6-1f3fc",
     htmlEntity: "&#x1F9B6;&#x1F3FC",
   },
-  "foot-medium-skin-tone": {
+  "🦶🏽": {
     name: "foot-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9b6-1f3fd",
     htmlEntity: "&#x1F9B6;&#x1F3FD",
   },
-  "foot-medium-dark-skin-tone": {
+  "🦶🏾": {
     name: "foot-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9b6-1f3fe",
     htmlEntity: "&#x1F9B6;&#x1F3FE",
   },
-  "foot-dark-skin-tone": {
+  "🦶🏿": {
     name: "foot-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9b6-1f3ff",
     htmlEntity: "&#x1F9B6;&#x1F3FF",
   },
-  leg: {
+  "🦵": {
     name: "leg",
     category: "people",
     unicode: "_1f9b5",
     htmlEntity: "&#x1F9B5",
   },
-  "leg-light-skin-tone": {
+  "🦵🏻": {
     name: "leg-light-skin-tone",
     category: "diversity",
     unicode: "_1f9b5-1f3fb",
     htmlEntity: "&#x1F9B5;&#x1F3FB",
   },
-  "leg-medium-light-skin-tone": {
+  "🦵🏼": {
     name: "leg-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9b5-1f3fc",
     htmlEntity: "&#x1F9B5;&#x1F3FC",
   },
-  "leg-medium-skin-tone": {
+  "🦵🏽": {
     name: "leg-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9b5-1f3fd",
     htmlEntity: "&#x1F9B5;&#x1F3FD",
   },
-  "leg-medium-dark-skin-tone": {
+  "🦵🏾": {
     name: "leg-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9b5-1f3fe",
     htmlEntity: "&#x1F9B5;&#x1F3FE",
   },
-  "leg-dark-skin-tone": {
+  "🦵🏿": {
     name: "leg-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9b5-1f3ff",
     htmlEntity: "&#x1F9B5;&#x1F3FF",
   },
-  "mechanical-leg": {
+  "🦿": {
     name: "mechanical-leg",
     category: "people",
     unicode: "_1f9bf",
     htmlEntity: "&#x1F9BF",
   },
-  lipstick: {
+  "💄": {
     name: "lipstick",
     category: "people",
     unicode: "_1f484",
     htmlEntity: "&#x1F484",
   },
-  "kiss-mark": {
+  "💋": {
     name: "kiss-mark",
     category: "people",
     unicode: "_1f48b",
     htmlEntity: "&#x1F48B",
   },
-  mouth: {
+  "👄": {
     name: "mouth",
     category: "people",
     unicode: "_1f444",
     htmlEntity: "&#x1F444",
   },
-  tooth: {
+  "🦷": {
     name: "tooth",
     category: "people",
     unicode: "_1f9b7",
     htmlEntity: "&#x1F9B7",
   },
-  tongue: {
+  "👅": {
     name: "tongue",
     category: "people",
     unicode: "_1f445",
     htmlEntity: "&#x1F445",
   },
-  ear: {
+  "👂": {
     name: "ear",
     category: "people",
     unicode: "_1f442",
     htmlEntity: "&#x1F442",
   },
-  "ear-light-skin-tone": {
+  "👂🏻": {
     name: "ear-light-skin-tone",
     category: "diversity",
     unicode: "_1f442-1f3fb",
     htmlEntity: "&#x1F442;&#x1F3FB",
   },
-  "ear-medium-light-skin-tone": {
+  "👂🏼": {
     name: "ear-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f442-1f3fc",
     htmlEntity: "&#x1F442;&#x1F3FC",
   },
-  "kiss-person-person-dark-skin-tone-medium-dark-skin-tone": {
+  "🧑🏿❤💋🧑🏾": {
     name: "kiss-person-person-dark-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-2764-1f48b-1f9d1-1f3fe",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x2764;&#x1F48B;&#x1F9D1;&#x1F3FE",
   },
-  "ear-medium-skin-tone": {
+  "👂🏽": {
     name: "ear-medium-skin-tone",
     category: "diversity",
     unicode: "_1f442-1f3fd",
     htmlEntity: "&#x1F442;&#x1F3FD",
   },
-  "ear-medium-dark-skin-tone": {
+  "👂🏾": {
     name: "ear-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f442-1f3fe",
     htmlEntity: "&#x1F442;&#x1F3FE",
   },
-  "ear-dark-skin-tone": {
+  "👂🏿": {
     name: "ear-dark-skin-tone",
     category: "diversity",
     unicode: "_1f442-1f3ff",
     htmlEntity: "&#x1F442;&#x1F3FF",
   },
-  "ear-with-hearing-aid": {
+  "🦻": {
     name: "ear-with-hearing-aid",
     category: "people",
     unicode: "_1f9bb",
     htmlEntity: "&#x1F9BB",
   },
-  "ear-with-hearing-aid-light-skin-tone": {
+  "🦻🏻": {
     name: "ear-with-hearing-aid-light-skin-tone",
     category: "diversity",
     unicode: "_1f9bb-1f3fb",
     htmlEntity: "&#x1F9BB;&#x1F3FB",
   },
-  "ear-with-hearing-aid-medium-light-skin-tone": {
+  "🦻🏼": {
     name: "ear-with-hearing-aid-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9bb-1f3fc",
     htmlEntity: "&#x1F9BB;&#x1F3FC",
   },
-  "ear-with-hearing-aid-medium-skin-tone": {
+  "🦻🏽": {
     name: "ear-with-hearing-aid-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9bb-1f3fd",
     htmlEntity: "&#x1F9BB;&#x1F3FD",
   },
-  "ear-with-hearing-aid-medium-dark-skin-tone": {
+  "🦻🏾": {
     name: "ear-with-hearing-aid-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9bb-1f3fe",
     htmlEntity: "&#x1F9BB;&#x1F3FE",
   },
-  "ear-with-hearing-aid-dark-skin-tone": {
+  "🦻🏿": {
     name: "ear-with-hearing-aid-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9bb-1f3ff",
     htmlEntity: "&#x1F9BB;&#x1F3FF",
   },
-  nose: {
+  "👃": {
     name: "nose",
     category: "people",
     unicode: "_1f443",
     htmlEntity: "&#x1F443",
   },
-  "nose-light-skin-tone": {
+  "👃🏻": {
     name: "nose-light-skin-tone",
     category: "diversity",
     unicode: "_1f443-1f3fb",
     htmlEntity: "&#x1F443;&#x1F3FB",
   },
-  "nose-medium-light-skin-tone": {
+  "👃🏼": {
     name: "nose-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f443-1f3fc",
     htmlEntity: "&#x1F443;&#x1F3FC",
   },
-  "nose-medium-skin-tone": {
+  "👃🏽": {
     name: "nose-medium-skin-tone",
     category: "diversity",
     unicode: "_1f443-1f3fd",
     htmlEntity: "&#x1F443;&#x1F3FD",
   },
-  "nose-medium-dark-skin-tone": {
+  "👃🏾": {
     name: "nose-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f443-1f3fe",
     htmlEntity: "&#x1F443;&#x1F3FE",
   },
-  "nose-dark-skin-tone": {
+  "👃🏿": {
     name: "nose-dark-skin-tone",
     category: "diversity",
     unicode: "_1f443-1f3ff",
     htmlEntity: "&#x1F443;&#x1F3FF",
   },
-  footprints: {
+  "👣": {
     name: "footprints",
     category: "people",
     unicode: "_1f463",
     htmlEntity: "&#x1F463",
   },
-  eye: {
+  "👁": {
     name: "eye",
     category: "people",
     unicode: "_1f441",
     htmlEntity: "&#x1F441",
   },
-  eyes: {
+  "👀": {
     name: "eyes",
     category: "people",
     unicode: "_1f440",
     htmlEntity: "&#x1F440",
   },
-  brain: {
+  "🧠": {
     name: "brain",
     category: "people",
     unicode: "_1f9e0",
     htmlEntity: "&#x1F9E0",
   },
-  "anatomical-heart": {
+  "🫀": {
     name: "anatomical-heart",
     category: "people",
     unicode: "_1fac0",
     htmlEntity: "&#x1FAC0",
   },
-  lungs: {
+  "🫁": {
     name: "lungs",
     category: "people",
     unicode: "_1fac1",
     htmlEntity: "&#x1FAC1",
   },
-  bone: {
+  "🦴": {
     name: "bone",
     category: "people",
     unicode: "_1f9b4",
     htmlEntity: "&#x1F9B4",
   },
-  "speaking-head": {
+  "🗣": {
     name: "speaking-head",
     category: "people",
     unicode: "_1f5e3",
     htmlEntity: "&#x1F5E3",
   },
-  "bust-in-silhouette": {
+  "👤": {
     name: "bust-in-silhouette",
     category: "people",
     unicode: "_1f464",
     htmlEntity: "&#x1F464",
   },
-  "busts-in-silhouette": {
+  "👥": {
     name: "busts-in-silhouette",
     category: "people",
     unicode: "_1f465",
     htmlEntity: "&#x1F465",
   },
-  "people-hugging": {
+  "🫂": {
     name: "people-hugging",
     category: "people",
     unicode: "_1fac2",
     htmlEntity: "&#x1FAC2",
   },
-  baby: {
+  "👶": {
     name: "baby",
     category: "people",
     unicode: "_1f476",
     htmlEntity: "&#x1F476",
   },
-  "baby-light-skin-tone": {
+  "👶🏻": {
     name: "baby-light-skin-tone",
     category: "diversity",
     unicode: "_1f476-1f3fb",
     htmlEntity: "&#x1F476;&#x1F3FB",
   },
-  "baby-medium-light-skin-tone": {
+  "👶🏼": {
     name: "baby-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f476-1f3fc",
     htmlEntity: "&#x1F476;&#x1F3FC",
   },
-  "baby-medium-skin-tone": {
+  "👶🏽": {
     name: "baby-medium-skin-tone",
     category: "diversity",
     unicode: "_1f476-1f3fd",
     htmlEntity: "&#x1F476;&#x1F3FD",
   },
-  "baby-medium-dark-skin-tone": {
+  "👶🏾": {
     name: "baby-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f476-1f3fe",
     htmlEntity: "&#x1F476;&#x1F3FE",
   },
-  "baby-dark-skin-tone": {
+  "👶🏿": {
     name: "baby-dark-skin-tone",
     category: "diversity",
     unicode: "_1f476-1f3ff",
     htmlEntity: "&#x1F476;&#x1F3FF",
   },
-  girl: {
+  "👧": {
     name: "girl",
     category: "people",
     unicode: "_1f467",
     htmlEntity: "&#x1F467",
   },
-  "girl-light-skin-tone": {
+  "👧🏻": {
     name: "girl-light-skin-tone",
     category: "diversity",
     unicode: "_1f467-1f3fb",
     htmlEntity: "&#x1F467;&#x1F3FB",
   },
-  "girl-medium-light-skin-tone": {
+  "👧🏼": {
     name: "girl-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f467-1f3fc",
     htmlEntity: "&#x1F467;&#x1F3FC",
   },
-  "girl-medium-skin-tone": {
+  "👧🏽": {
     name: "girl-medium-skin-tone",
     category: "diversity",
     unicode: "_1f467-1f3fd",
     htmlEntity: "&#x1F467;&#x1F3FD",
   },
-  "girl-medium-dark-skin-tone": {
+  "👧🏾": {
     name: "girl-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f467-1f3fe",
     htmlEntity: "&#x1F467;&#x1F3FE",
   },
-  "girl-dark-skin-tone": {
+  "👧🏿": {
     name: "girl-dark-skin-tone",
     category: "diversity",
     unicode: "_1f467-1f3ff",
     htmlEntity: "&#x1F467;&#x1F3FF",
   },
-  child: {
+  "🧒": {
     name: "child",
     category: "people",
     unicode: "_1f9d2",
     htmlEntity: "&#x1F9D2",
   },
-  "child-light-skin-tone": {
+  "🧒🏻": {
     name: "child-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d2-1f3fb",
     htmlEntity: "&#x1F9D2;&#x1F3FB",
   },
-  "child-medium-light-skin-tone": {
+  "🧒🏼": {
     name: "child-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d2-1f3fc",
     htmlEntity: "&#x1F9D2;&#x1F3FC",
   },
-  "child-medium-skin-tone": {
+  "🧒🏽": {
     name: "child-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d2-1f3fd",
     htmlEntity: "&#x1F9D2;&#x1F3FD",
   },
-  "child-medium-dark-skin-tone": {
+  "🧒🏾": {
     name: "child-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d2-1f3fe",
     htmlEntity: "&#x1F9D2;&#x1F3FE",
   },
-  "child-dark-skin-tone": {
+  "🧒🏿": {
     name: "child-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d2-1f3ff",
     htmlEntity: "&#x1F9D2;&#x1F3FF",
   },
-  boy: {
+  "👦": {
     name: "boy",
     category: "people",
     unicode: "_1f466",
     htmlEntity: "&#x1F466",
   },
-  "boy-light-skin-tone": {
+  "👦🏻": {
     name: "boy-light-skin-tone",
     category: "diversity",
     unicode: "_1f466-1f3fb",
     htmlEntity: "&#x1F466;&#x1F3FB",
   },
-  "boy-medium-light-skin-tone": {
+  "👦🏼": {
     name: "boy-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f466-1f3fc",
     htmlEntity: "&#x1F466;&#x1F3FC",
   },
-  "boy-medium-skin-tone": {
+  "👦🏽": {
     name: "boy-medium-skin-tone",
     category: "diversity",
     unicode: "_1f466-1f3fd",
     htmlEntity: "&#x1F466;&#x1F3FD",
   },
-  "boy-medium-dark-skin-tone": {
+  "👦🏾": {
     name: "boy-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f466-1f3fe",
     htmlEntity: "&#x1F466;&#x1F3FE",
   },
-  "boy-dark-skin-tone": {
+  "👦🏿": {
     name: "boy-dark-skin-tone",
     category: "diversity",
     unicode: "_1f466-1f3ff",
     htmlEntity: "&#x1F466;&#x1F3FF",
   },
-  woman: {
+  "👩": {
     name: "woman",
     category: "people",
     unicode: "_1f469",
     htmlEntity: "&#x1F469",
   },
-  "woman-light-skin-tone": {
+  "👩🏻": {
     name: "woman-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb",
     htmlEntity: "&#x1F469;&#x1F3FB",
   },
-  "woman-medium-light-skin-tone": {
+  "👩🏼": {
     name: "woman-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc",
     htmlEntity: "&#x1F469;&#x1F3FC",
   },
-  "woman-medium-skin-tone": {
+  "👩🏽": {
     name: "woman-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd",
     htmlEntity: "&#x1F469;&#x1F3FD",
   },
-  "woman-medium-dark-skin-tone": {
+  "👩🏾": {
     name: "woman-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe",
     htmlEntity: "&#x1F469;&#x1F3FE",
   },
-  "woman-dark-skin-tone": {
+  "👩🏿": {
     name: "woman-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff",
     htmlEntity: "&#x1F469;&#x1F3FF",
   },
-  person: {
+  "🧑": {
     name: "person",
     category: "people",
     unicode: "_1f9d1",
     htmlEntity: "&#x1F9D1",
   },
-  "person-light-skin-tone": {
+  "🧑🏻": {
     name: "person-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fb",
     htmlEntity: "&#x1F9D1;&#x1F3FB",
   },
-  "person-medium-light-skin-tone": {
+  "🧑🏼": {
     name: "person-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fc",
     htmlEntity: "&#x1F9D1;&#x1F3FC",
   },
-  "person-medium-skin-tone": {
+  "🧑🏽": {
     name: "person-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fd",
     htmlEntity: "&#x1F9D1;&#x1F3FD",
   },
-  "person-medium-dark-skin-tone": {
+  "🧑🏾": {
     name: "person-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fe",
     htmlEntity: "&#x1F9D1;&#x1F3FE",
   },
-  "person-dark-skin-tone": {
+  "🧑🏿": {
     name: "person-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3ff",
     htmlEntity: "&#x1F9D1;&#x1F3FF",
   },
-  man: {
+  "👨": {
     name: "man",
     category: "people",
     unicode: "_1f468",
     htmlEntity: "&#x1F468",
   },
-  "man-light-skin-tone": {
+  "👨🏻": {
     name: "man-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb",
     htmlEntity: "&#x1F468;&#x1F3FB",
   },
-  "man-medium-light-skin-tone": {
+  "👨🏼": {
     name: "man-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc",
     htmlEntity: "&#x1F468;&#x1F3FC",
   },
-  "man-medium-skin-tone": {
+  "👨🏽": {
     name: "man-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd",
     htmlEntity: "&#x1F468;&#x1F3FD",
   },
-  "man-medium-dark-skin-tone": {
+  "👨🏾": {
     name: "man-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe",
     htmlEntity: "&#x1F468;&#x1F3FE",
   },
-  "man-dark-skin-tone": {
+  "👨🏿": {
     name: "man-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff",
     htmlEntity: "&#x1F468;&#x1F3FF",
   },
-  "person-curly-hair": {
+  "🧑🦱": {
     name: "person-curly-hair",
     category: "people",
     unicode: "_1f9d1-1f9b1",
     htmlEntity: "&#x1F9D1;&#x1F9B1",
   },
-  "person-light-skin-tone-curly-hair": {
+  "🧑🏻🦱": {
     name: "person-light-skin-tone-curly-hair",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-1f9b1",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x1F9B1",
   },
-  "person-medium-light-skin-tone-curly-hair": {
+  "🧑🏼🦱": {
     name: "person-medium-light-skin-tone-curly-hair",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-1f9b1",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x1F9B1",
   },
-  "person-medium-skin-tone-curly-hair": {
+  "🧑🏽🦱": {
     name: "person-medium-skin-tone-curly-hair",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-1f9b1",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x1F9B1",
   },
-  "person-medium-dark-skin-tone-curly-hair": {
+  "🧑🏾🦱": {
     name: "person-medium-dark-skin-tone-curly-hair",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-1f9b1",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x1F9B1",
   },
-  "person-dark-skin-tone-curly-hair": {
+  "🧑🏿🦱": {
     name: "person-dark-skin-tone-curly-hair",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-1f9b1",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x1F9B1",
   },
-  "woman-curly-hair": {
+  "👩🦱": {
     name: "woman-curly-hair",
     category: "people",
     unicode: "_1f469-1f9b1",
     htmlEntity: "&#x1F469;&#x1F9B1",
   },
-  "woman-curly-haired-light-skin-tone": {
+  "👩🏻🦱": {
     name: "woman-curly-haired-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-1f9b1",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x1F9B1",
   },
-  "woman-curly-haired-medium-light-skin-tone": {
+  "👩🏼🦱": {
     name: "woman-curly-haired-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-1f9b1",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x1F9B1",
   },
-  "woman-curly-haired-medium-skin-tone": {
+  "👩🏽🦱": {
     name: "woman-curly-haired-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-1f9b1",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x1F9B1",
   },
-  "woman-curly-haired-medium-dark-skin-tone": {
+  "👩🏾🦱": {
     name: "woman-curly-haired-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-1f9b1",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x1F9B1",
   },
-  "woman-curly-haired-dark-skin-tone": {
+  "👩🏿🦱": {
     name: "woman-curly-haired-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-1f9b1",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x1F9B1",
   },
-  "man-curly-hair": {
+  "👨🦱": {
     name: "man-curly-hair",
     category: "people",
     unicode: "_1f468-1f9b1",
     htmlEntity: "&#x1F468;&#x1F9B1",
   },
-  "man-curly-haired-light-skin-tone": {
+  "👨🏻🦱": {
     name: "man-curly-haired-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-1f9b1",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x1F9B1",
   },
-  "man-curly-haired-medium-light-skin-tone": {
+  "👨🏼🦱": {
     name: "man-curly-haired-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-1f9b1",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x1F9B1",
   },
-  "man-curly-haired-medium-skin-tone": {
+  "👨🏽🦱": {
     name: "man-curly-haired-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-1f9b1",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x1F9B1",
   },
-  "man-curly-haired-medium-dark-skin-tone": {
+  "👨🏾🦱": {
     name: "man-curly-haired-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-1f9b1",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x1F9B1",
   },
-  "man-curly-haired-dark-skin-tone": {
+  "👨🏿🦱": {
     name: "man-curly-haired-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-1f9b1",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x1F9B1",
   },
-  "person-red-hair": {
+  "🧑🦰": {
     name: "person-red-hair",
     category: "people",
     unicode: "_1f9d1-1f9b0",
     htmlEntity: "&#x1F9D1;&#x1F9B0",
   },
-  "person-light-skin-tone-red-hair": {
+  "🧑🏻🦰": {
     name: "person-light-skin-tone-red-hair",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-1f9b0",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x1F9B0",
   },
-  "person-medium-light-skin-tone-red-hair": {
+  "🧑🏼🦰": {
     name: "person-medium-light-skin-tone-red-hair",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-1f9b0",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x1F9B0",
   },
-  "person-medium-skin-tone-red-hair": {
+  "🧑🏽🦰": {
     name: "person-medium-skin-tone-red-hair",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-1f9b0",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x1F9B0",
   },
-  "person-medium-dark-skin-tone-red-hair": {
+  "🧑🏾🦰": {
     name: "person-medium-dark-skin-tone-red-hair",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-1f9b0",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x1F9B0",
   },
-  "person-dark-skin-tone-red-hair": {
+  "🧑🏿🦰": {
     name: "person-dark-skin-tone-red-hair",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-1f9b0",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x1F9B0",
   },
-  "woman-red-hair": {
+  "👩🦰": {
     name: "woman-red-hair",
     category: "people",
     unicode: "_1f469-1f9b0",
     htmlEntity: "&#x1F469;&#x1F9B0",
   },
-  "woman-red-haired-light-skin-tone": {
+  "👩🏻🦰": {
     name: "woman-red-haired-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-1f9b0",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x1F9B0",
   },
-  "woman-red-haired-medium-light-skin-tone": {
+  "👩🏼🦰": {
     name: "woman-red-haired-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-1f9b0",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x1F9B0",
   },
-  "woman-red-haired-medium-skin-tone": {
+  "👩🏽🦰": {
     name: "woman-red-haired-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-1f9b0",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x1F9B0",
   },
-  "woman-red-haired-medium-dark-skin-tone": {
+  "👩🏾🦰": {
     name: "woman-red-haired-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-1f9b0",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x1F9B0",
   },
-  "woman-red-haired-dark-skin-tone": {
+  "👩🏿🦰": {
     name: "woman-red-haired-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-1f9b0",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x1F9B0",
   },
-  "man-red-hair": {
+  "👨🦰": {
     name: "man-red-hair",
     category: "people",
     unicode: "_1f468-1f9b0",
     htmlEntity: "&#x1F468;&#x1F9B0",
   },
-  "man-red-haired-light-skin-tone": {
+  "👨🏻🦰": {
     name: "man-red-haired-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-1f9b0",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x1F9B0",
   },
-  "man-red-haired-medium-light-skin-tone": {
+  "👨🏼🦰": {
     name: "man-red-haired-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-1f9b0",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x1F9B0",
   },
-  "man-red-haired-medium-skin-tone": {
+  "👨🏽🦰": {
     name: "man-red-haired-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-1f9b0",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x1F9B0",
   },
-  "man-red-haired-medium-dark-skin-tone": {
+  "👨🏾🦰": {
     name: "man-red-haired-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-1f9b0",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x1F9B0",
   },
-  "man-red-haired-dark-skin-tone": {
+  "👨🏿🦰": {
     name: "man-red-haired-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-1f9b0",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x1F9B0",
   },
-  "woman-blond-hair": {
+  "👱♀": {
     name: "woman-blond-hair",
     category: "people",
     unicode: "_1f471-2640",
     htmlEntity: "&#x1F471;&#x2640",
   },
-  "blond-haired-woman-light-skin-tone": {
+  "👱🏻♀": {
     name: "blond-haired-woman-light-skin-tone",
     category: "diversity",
     unicode: "_1f471-1f3fb-2640",
     htmlEntity: "&#x1F471;&#x1F3FB;&#x2640",
   },
-  "blond-haired-woman-medium-light-skin-tone": {
+  "👱🏼♀": {
     name: "blond-haired-woman-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f471-1f3fc-2640",
     htmlEntity: "&#x1F471;&#x1F3FC;&#x2640",
   },
-  "blond-haired-woman-medium-skin-tone": {
+  "👱🏽♀": {
     name: "blond-haired-woman-medium-skin-tone",
     category: "diversity",
     unicode: "_1f471-1f3fd-2640",
     htmlEntity: "&#x1F471;&#x1F3FD;&#x2640",
   },
-  "blond-haired-woman-medium-dark-skin-tone": {
+  "👱🏾♀": {
     name: "blond-haired-woman-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f471-1f3fe-2640",
     htmlEntity: "&#x1F471;&#x1F3FE;&#x2640",
   },
-  "blond-haired-woman-dark-skin-tone": {
+  "👱🏿♀": {
     name: "blond-haired-woman-dark-skin-tone",
     category: "diversity",
     unicode: "_1f471-1f3ff-2640",
     htmlEntity: "&#x1F471;&#x1F3FF;&#x2640",
   },
-  "person-blond-hair": {
+  "👱": {
     name: "person-blond-hair",
     category: "people",
     unicode: "_1f471",
     htmlEntity: "&#x1F471",
   },
-  "blond-haired-person-light-skin-tone": {
+  "👱🏻": {
     name: "blond-haired-person-light-skin-tone",
     category: "diversity",
     unicode: "_1f471-1f3fb",
     htmlEntity: "&#x1F471;&#x1F3FB",
   },
-  "blond-haired-person-medium-light-skin-tone": {
+  "👱🏼": {
     name: "blond-haired-person-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f471-1f3fc",
     htmlEntity: "&#x1F471;&#x1F3FC",
   },
-  "blond-haired-person-medium-skin-tone": {
+  "👱🏽": {
     name: "blond-haired-person-medium-skin-tone",
     category: "diversity",
     unicode: "_1f471-1f3fd",
     htmlEntity: "&#x1F471;&#x1F3FD",
   },
-  "blond-haired-person-medium-dark-skin-tone": {
+  "👱🏾": {
     name: "blond-haired-person-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f471-1f3fe",
     htmlEntity: "&#x1F471;&#x1F3FE",
   },
-  "blond-haired-person-dark-skin-tone": {
+  "👱🏿": {
     name: "blond-haired-person-dark-skin-tone",
     category: "diversity",
     unicode: "_1f471-1f3ff",
     htmlEntity: "&#x1F471;&#x1F3FF",
   },
-  "man-blond-hair": {
+  "👱♂": {
     name: "man-blond-hair",
     category: "people",
     unicode: "_1f471-2642",
     htmlEntity: "&#x1F471;&#x2642",
   },
-  "blond-haired-man-light-skin-tone": {
+  "👱🏻♂": {
     name: "blond-haired-man-light-skin-tone",
     category: "diversity",
     unicode: "_1f471-1f3fb-2642",
     htmlEntity: "&#x1F471;&#x1F3FB;&#x2642",
   },
-  "blond-haired-man-medium-light-skin-tone": {
+  "👱🏼♂": {
     name: "blond-haired-man-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f471-1f3fc-2642",
     htmlEntity: "&#x1F471;&#x1F3FC;&#x2642",
   },
-  "blond-haired-man-medium-skin-tone": {
+  "👱🏽♂": {
     name: "blond-haired-man-medium-skin-tone",
     category: "diversity",
     unicode: "_1f471-1f3fd-2642",
     htmlEntity: "&#x1F471;&#x1F3FD;&#x2642",
   },
-  "blond-haired-man-medium-dark-skin-tone": {
+  "👱🏾♂": {
     name: "blond-haired-man-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f471-1f3fe-2642",
     htmlEntity: "&#x1F471;&#x1F3FE;&#x2642",
   },
-  "blond-haired-man-dark-skin-tone": {
+  "👱🏿♂": {
     name: "blond-haired-man-dark-skin-tone",
     category: "diversity",
     unicode: "_1f471-1f3ff-2642",
     htmlEntity: "&#x1F471;&#x1F3FF;&#x2642",
   },
-  "person-white-hair": {
+  "🧑🦳": {
     name: "person-white-hair",
     category: "people",
     unicode: "_1f9d1-1f9b3",
     htmlEntity: "&#x1F9D1;&#x1F9B3",
   },
-  "person-light-skin-tone-white-hair": {
+  "🧑🏻🦳": {
     name: "person-light-skin-tone-white-hair",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-1f9b3",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x1F9B3",
   },
-  "person-medium-light-skin-tone-white-hair": {
+  "🧑🏼🦳": {
     name: "person-medium-light-skin-tone-white-hair",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-1f9b3",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x1F9B3",
   },
-  "person-medium-skin-tone-white-hair": {
+  "🧑🏽🦳": {
     name: "person-medium-skin-tone-white-hair",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-1f9b3",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x1F9B3",
   },
-  "person-medium-dark-skin-tone-white-hair": {
+  "🧑🏾🦳": {
     name: "person-medium-dark-skin-tone-white-hair",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-1f9b3",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x1F9B3",
   },
-  "person-dark-skin-tone-white-hair": {
+  "🧑🏿🦳": {
     name: "person-dark-skin-tone-white-hair",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-1f9b3",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x1F9B3",
   },
-  "woman-white-hair": {
+  "👩🦳": {
     name: "woman-white-hair",
     category: "people",
     unicode: "_1f469-1f9b3",
     htmlEntity: "&#x1F469;&#x1F9B3",
   },
-  "woman-white-haired-light-skin-tone": {
+  "👩🏻🦳": {
     name: "woman-white-haired-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-1f9b3",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x1F9B3",
   },
-  "woman-white-haired-medium-light-skin-tone": {
+  "👩🏼🦳": {
     name: "woman-white-haired-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-1f9b3",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x1F9B3",
   },
-  "woman-white-haired-medium-skin-tone": {
+  "👩🏽🦳": {
     name: "woman-white-haired-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-1f9b3",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x1F9B3",
   },
-  "woman-white-haired-medium-dark-skin-tone": {
+  "👩🏾🦳": {
     name: "woman-white-haired-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-1f9b3",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x1F9B3",
   },
-  "woman-white-haired-dark-skin-tone": {
+  "👩🏿🦳": {
     name: "woman-white-haired-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-1f9b3",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x1F9B3",
   },
-  "man-white-hair": {
+  "👨🦳": {
     name: "man-white-hair",
     category: "people",
     unicode: "_1f468-1f9b3",
     htmlEntity: "&#x1F468;&#x1F9B3",
   },
-  "man-white-haired-light-skin-tone": {
+  "👨🏻🦳": {
     name: "man-white-haired-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-1f9b3",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x1F9B3",
   },
-  "man-white-haired-medium-light-skin-tone": {
+  "👨🏼🦳": {
     name: "man-white-haired-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-1f9b3",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x1F9B3",
   },
-  "man-white-haired-medium-skin-tone": {
+  "👨🏽🦳": {
     name: "man-white-haired-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-1f9b3",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x1F9B3",
   },
-  "man-white-haired-medium-dark-skin-tone": {
+  "👨🏾🦳": {
     name: "man-white-haired-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-1f9b3",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x1F9B3",
   },
-  "man-white-haired-dark-skin-tone": {
+  "👨🏿🦳": {
     name: "man-white-haired-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-1f9b3",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x1F9B3",
   },
-  "person-bald": {
+  "🧑🦲": {
     name: "person-bald",
     category: "people",
     unicode: "_1f9d1-1f9b2",
     htmlEntity: "&#x1F9D1;&#x1F9B2",
   },
-  "person-light-skin-tone-bald": {
+  "🧑🏻🦲": {
     name: "person-light-skin-tone-bald",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-1f9b2",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x1F9B2",
   },
-  "person-medium-light-skin-tone-bald": {
+  "🧑🏼🦲": {
     name: "person-medium-light-skin-tone-bald",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-1f9b2",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x1F9B2",
   },
-  "person-medium-skin-tone-bald": {
+  "🧑🏽🦲": {
     name: "person-medium-skin-tone-bald",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-1f9b2",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x1F9B2",
   },
-  "person-medium-dark-skin-tone-bald": {
+  "🧑🏾🦲": {
     name: "person-medium-dark-skin-tone-bald",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-1f9b2",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x1F9B2",
   },
-  "person-dark-skin-tone-bald": {
+  "🧑🏿🦲": {
     name: "person-dark-skin-tone-bald",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-1f9b2",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x1F9B2",
   },
-  "woman-bald": {
+  "👩🦲": {
     name: "woman-bald",
     category: "people",
     unicode: "_1f469-1f9b2",
     htmlEntity: "&#x1F469;&#x1F9B2",
   },
-  "woman-bald-light-skin-tone": {
+  "👩🏻🦲": {
     name: "woman-bald-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-1f9b2",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x1F9B2",
   },
-  "woman-bald-medium-light-skin-tone": {
+  "👩🏼🦲": {
     name: "woman-bald-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-1f9b2",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x1F9B2",
   },
-  "woman-bald-medium-skin-tone": {
+  "👩🏽🦲": {
     name: "woman-bald-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-1f9b2",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x1F9B2",
   },
-  "woman-bald-medium-dark-skin-tone": {
+  "👩🏾🦲": {
     name: "woman-bald-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-1f9b2",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x1F9B2",
   },
-  "woman-bald-dark-skin-tone": {
+  "👩🏿🦲": {
     name: "woman-bald-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-1f9b2",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x1F9B2",
   },
-  "man-bald": {
+  "👨🦲": {
     name: "man-bald",
     category: "people",
     unicode: "_1f468-1f9b2",
     htmlEntity: "&#x1F468;&#x1F9B2",
   },
-  "man-bald-light-skin-tone": {
+  "👨🏻🦲": {
     name: "man-bald-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-1f9b2",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x1F9B2",
   },
-  "man-bald-medium-light-skin-tone": {
+  "👨🏼🦲": {
     name: "man-bald-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-1f9b2",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x1F9B2",
   },
-  "man-bald-medium-skin-tone": {
+  "👨🏽🦲": {
     name: "man-bald-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-1f9b2",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x1F9B2",
   },
-  "man-bald-medium-dark-skin-tone": {
+  "👨🏾🦲": {
     name: "man-bald-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-1f9b2",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x1F9B2",
   },
-  "man-bald-dark-skin-tone": {
+  "👨🏿🦲": {
     name: "man-bald-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-1f9b2",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x1F9B2",
   },
-  "person-beard": {
+  "🧔": {
     name: "person-beard",
     category: "people",
     unicode: "_1f9d4",
     htmlEntity: "&#x1F9D4",
   },
-  "bearded-person-light-skin-tone": {
+  "🧔🏻": {
     name: "bearded-person-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d4-1f3fb",
     htmlEntity: "&#x1F9D4;&#x1F3FB",
   },
-  "bearded-person-medium-light-skin-tone": {
+  "🧔🏼": {
     name: "bearded-person-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d4-1f3fc",
     htmlEntity: "&#x1F9D4;&#x1F3FC",
   },
-  "bearded-person-medium-skin-tone": {
+  "🧔🏽": {
     name: "bearded-person-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d4-1f3fd",
     htmlEntity: "&#x1F9D4;&#x1F3FD",
   },
-  "bearded-person-medium-dark-skin-tone": {
+  "🧔🏾": {
     name: "bearded-person-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d4-1f3fe",
     htmlEntity: "&#x1F9D4;&#x1F3FE",
   },
-  "bearded-person-dark-skin-tone": {
+  "🧔🏿": {
     name: "bearded-person-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d4-1f3ff",
     htmlEntity: "&#x1F9D4;&#x1F3FF",
   },
-  "man-beard": {
+  "🧔♂": {
     name: "man-beard",
     category: "people",
     unicode: "_1f9d4-2642",
     htmlEntity: "&#x1F9D4;&#x2642",
   },
-  "man-light-skin-tone-beard": {
+  "🧔🏻♂": {
     name: "man-light-skin-tone-beard",
     category: "diversity",
     unicode: "_1f9d4-1f3fb-2642",
     htmlEntity: "&#x1F9D4;&#x1F3FB;&#x2642",
   },
-  "man-medium-light-skin-tone-beard": {
+  "🧔🏼♂": {
     name: "man-medium-light-skin-tone-beard",
     category: "diversity",
     unicode: "_1f9d4-1f3fc-2642",
     htmlEntity: "&#x1F9D4;&#x1F3FC;&#x2642",
   },
-  "man-medium-skin-tone-beard": {
+  "🧔🏽♂": {
     name: "man-medium-skin-tone-beard",
     category: "diversity",
     unicode: "_1f9d4-1f3fd-2642",
     htmlEntity: "&#x1F9D4;&#x1F3FD;&#x2642",
   },
-  "man-medium-dark-skin-tone-beard": {
+  "🧔🏾♂": {
     name: "man-medium-dark-skin-tone-beard",
     category: "diversity",
     unicode: "_1f9d4-1f3fe-2642",
     htmlEntity: "&#x1F9D4;&#x1F3FE;&#x2642",
   },
-  "man-dark-skin-tone-beard": {
+  "🧔🏿♂": {
     name: "man-dark-skin-tone-beard",
     category: "diversity",
     unicode: "_1f9d4-1f3ff-2642",
     htmlEntity: "&#x1F9D4;&#x1F3FF;&#x2642",
   },
-  "woman-beard": {
+  "🧔♀": {
     name: "woman-beard",
     category: "people",
     unicode: "_1f9d4-2640",
     htmlEntity: "&#x1F9D4;&#x2640",
   },
-  "woman-light-skin-tone-beard": {
+  "🧔🏻♀": {
     name: "woman-light-skin-tone-beard",
     category: "diversity",
     unicode: "_1f9d4-1f3fb-2640",
     htmlEntity: "&#x1F9D4;&#x1F3FB;&#x2640",
   },
-  "woman-medium-light-skin-tone-beard": {
+  "🧔🏼♀": {
     name: "woman-medium-light-skin-tone-beard",
     category: "diversity",
     unicode: "_1f9d4-1f3fc-2640",
     htmlEntity: "&#x1F9D4;&#x1F3FC;&#x2640",
   },
-  "woman-medium-skin-tone-beard": {
+  "🧔🏽♀": {
     name: "woman-medium-skin-tone-beard",
     category: "diversity",
     unicode: "_1f9d4-1f3fd-2640",
     htmlEntity: "&#x1F9D4;&#x1F3FD;&#x2640",
   },
-  "woman-medium-dark-skin-tone-beard": {
+  "🧔🏾♀": {
     name: "woman-medium-dark-skin-tone-beard",
     category: "diversity",
     unicode: "_1f9d4-1f3fe-2640",
     htmlEntity: "&#x1F9D4;&#x1F3FE;&#x2640",
   },
-  "woman-dark-skin-tone-beard": {
+  "🧔🏿♀": {
     name: "woman-dark-skin-tone-beard",
     category: "diversity",
     unicode: "_1f9d4-1f3ff-2640",
     htmlEntity: "&#x1F9D4;&#x1F3FF;&#x2640",
   },
-  "old-woman": {
+  "👵": {
     name: "old-woman",
     category: "people",
     unicode: "_1f475",
     htmlEntity: "&#x1F475",
   },
-  "old-woman-light-skin-tone": {
+  "👵🏻": {
     name: "old-woman-light-skin-tone",
     category: "diversity",
     unicode: "_1f475-1f3fb",
     htmlEntity: "&#x1F475;&#x1F3FB",
   },
-  "old-woman-medium-light-skin-tone": {
+  "👵🏼": {
     name: "old-woman-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f475-1f3fc",
     htmlEntity: "&#x1F475;&#x1F3FC",
   },
-  "old-woman-medium-skin-tone": {
+  "👵🏽": {
     name: "old-woman-medium-skin-tone",
     category: "diversity",
     unicode: "_1f475-1f3fd",
     htmlEntity: "&#x1F475;&#x1F3FD",
   },
-  "old-woman-medium-dark-skin-tone": {
+  "👵🏾": {
     name: "old-woman-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f475-1f3fe",
     htmlEntity: "&#x1F475;&#x1F3FE",
   },
-  "old-woman-dark-skin-tone": {
+  "👵🏿": {
     name: "old-woman-dark-skin-tone",
     category: "diversity",
     unicode: "_1f475-1f3ff",
     htmlEntity: "&#x1F475;&#x1F3FF",
   },
-  "older-person": {
+  "🧓": {
     name: "older-person",
     category: "people",
     unicode: "_1f9d3",
     htmlEntity: "&#x1F9D3",
   },
-  "older-person-light-skin-tone": {
+  "🧓🏻": {
     name: "older-person-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d3-1f3fb",
     htmlEntity: "&#x1F9D3;&#x1F3FB",
   },
-  "older-person-medium-light-skin-tone": {
+  "🧓🏼": {
     name: "older-person-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d3-1f3fc",
     htmlEntity: "&#x1F9D3;&#x1F3FC",
   },
-  "older-person-medium-skin-tone": {
+  "🧓🏽": {
     name: "older-person-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d3-1f3fd",
     htmlEntity: "&#x1F9D3;&#x1F3FD",
   },
-  "older-person-medium-dark-skin-tone": {
+  "🧓🏾": {
     name: "older-person-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d3-1f3fe",
     htmlEntity: "&#x1F9D3;&#x1F3FE",
   },
-  "older-person-dark-skin-tone": {
+  "🧓🏿": {
     name: "older-person-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d3-1f3ff",
     htmlEntity: "&#x1F9D3;&#x1F3FF",
   },
-  "old-man": {
+  "👴": {
     name: "old-man",
     category: "people",
     unicode: "_1f474",
     htmlEntity: "&#x1F474",
   },
-  "old-man-light-skin-tone": {
+  "👴🏻": {
     name: "old-man-light-skin-tone",
     category: "diversity",
     unicode: "_1f474-1f3fb",
     htmlEntity: "&#x1F474;&#x1F3FB",
   },
-  "old-man-medium-light-skin-tone": {
+  "👴🏼": {
     name: "old-man-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f474-1f3fc",
     htmlEntity: "&#x1F474;&#x1F3FC",
   },
-  "old-man-medium-skin-tone": {
+  "👴🏽": {
     name: "old-man-medium-skin-tone",
     category: "diversity",
     unicode: "_1f474-1f3fd",
     htmlEntity: "&#x1F474;&#x1F3FD",
   },
-  "old-man-medium-dark-skin-tone": {
+  "👴🏾": {
     name: "old-man-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f474-1f3fe",
     htmlEntity: "&#x1F474;&#x1F3FE",
   },
-  "old-man-dark-skin-tone": {
+  "👴🏿": {
     name: "old-man-dark-skin-tone",
     category: "diversity",
     unicode: "_1f474-1f3ff",
     htmlEntity: "&#x1F474;&#x1F3FF",
   },
-  "man-with-chinese-cap": {
+  "👲": {
     name: "man-with-chinese-cap",
     category: "people",
     unicode: "_1f472",
     htmlEntity: "&#x1F472",
   },
-  "man-with-chinese-cap-light-skin-tone": {
+  "👲🏻": {
     name: "man-with-chinese-cap-light-skin-tone",
     category: "diversity",
     unicode: "_1f472-1f3fb",
     htmlEntity: "&#x1F472;&#x1F3FB",
   },
-  "man-with-chinese-cap-medium-light-skin-tone": {
+  "👲🏼": {
     name: "man-with-chinese-cap-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f472-1f3fc",
     htmlEntity: "&#x1F472;&#x1F3FC",
   },
-  "man-with-chinese-cap-medium-skin-tone": {
+  "👲🏽": {
     name: "man-with-chinese-cap-medium-skin-tone",
     category: "diversity",
     unicode: "_1f472-1f3fd",
     htmlEntity: "&#x1F472;&#x1F3FD",
   },
-  "man-with-chinese-cap-medium-dark-skin-tone": {
+  "👲🏾": {
     name: "man-with-chinese-cap-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f472-1f3fe",
     htmlEntity: "&#x1F472;&#x1F3FE",
   },
-  "man-with-chinese-cap-dark-skin-tone": {
+  "👲🏿": {
     name: "man-with-chinese-cap-dark-skin-tone",
     category: "diversity",
     unicode: "_1f472-1f3ff",
     htmlEntity: "&#x1F472;&#x1F3FF",
   },
-  "person-wearing-turban": {
+  "👳": {
     name: "person-wearing-turban",
     category: "people",
     unicode: "_1f473",
     htmlEntity: "&#x1F473",
   },
-  "person-wearing-turban-light-skin-tone": {
+  "👳🏻": {
     name: "person-wearing-turban-light-skin-tone",
     category: "diversity",
     unicode: "_1f473-1f3fb",
     htmlEntity: "&#x1F473;&#x1F3FB",
   },
-  "person-wearing-turban-medium-light-skin-tone": {
+  "👳🏼": {
     name: "person-wearing-turban-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f473-1f3fc",
     htmlEntity: "&#x1F473;&#x1F3FC",
   },
-  "person-wearing-turban-medium-skin-tone": {
+  "👳🏽": {
     name: "person-wearing-turban-medium-skin-tone",
     category: "diversity",
     unicode: "_1f473-1f3fd",
     htmlEntity: "&#x1F473;&#x1F3FD",
   },
-  "person-wearing-turban-medium-dark-skin-tone": {
+  "👳🏾": {
     name: "person-wearing-turban-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f473-1f3fe",
     htmlEntity: "&#x1F473;&#x1F3FE",
   },
-  "person-wearing-turban-dark-skin-tone": {
+  "👳🏿": {
     name: "person-wearing-turban-dark-skin-tone",
     category: "diversity",
     unicode: "_1f473-1f3ff",
     htmlEntity: "&#x1F473;&#x1F3FF",
   },
-  "woman-wearing-turban": {
+  "👳♀": {
     name: "woman-wearing-turban",
     category: "people",
     unicode: "_1f473-2640",
     htmlEntity: "&#x1F473;&#x2640",
   },
-  "woman-wearing-turban-light-skin-tone": {
+  "👳🏻♀": {
     name: "woman-wearing-turban-light-skin-tone",
     category: "diversity",
     unicode: "_1f473-1f3fb-2640",
     htmlEntity: "&#x1F473;&#x1F3FB;&#x2640",
   },
-  "woman-wearing-turban-medium-light-skin-tone": {
+  "👳🏼♀": {
     name: "woman-wearing-turban-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f473-1f3fc-2640",
     htmlEntity: "&#x1F473;&#x1F3FC;&#x2640",
   },
-  "woman-wearing-turban-medium-skin-tone": {
+  "👳🏽♀": {
     name: "woman-wearing-turban-medium-skin-tone",
     category: "diversity",
     unicode: "_1f473-1f3fd-2640",
     htmlEntity: "&#x1F473;&#x1F3FD;&#x2640",
   },
-  "woman-wearing-turban-medium-dark-skin-tone": {
+  "👳🏾♀": {
     name: "woman-wearing-turban-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f473-1f3fe-2640",
     htmlEntity: "&#x1F473;&#x1F3FE;&#x2640",
   },
-  "woman-wearing-turban-dark-skin-tone": {
+  "👳🏿♀": {
     name: "woman-wearing-turban-dark-skin-tone",
     category: "diversity",
     unicode: "_1f473-1f3ff-2640",
     htmlEntity: "&#x1F473;&#x1F3FF;&#x2640",
   },
-  "man-wearing-turban": {
+  "👳♂": {
     name: "man-wearing-turban",
     category: "people",
     unicode: "_1f473-2642",
     htmlEntity: "&#x1F473;&#x2642",
   },
-  "man-wearing-turban-light-skin-tone": {
+  "👳🏻♂": {
     name: "man-wearing-turban-light-skin-tone",
     category: "diversity",
     unicode: "_1f473-1f3fb-2642",
     htmlEntity: "&#x1F473;&#x1F3FB;&#x2642",
   },
-  "man-wearing-turban-medium-light-skin-tone": {
+  "👳🏼♂": {
     name: "man-wearing-turban-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f473-1f3fc-2642",
     htmlEntity: "&#x1F473;&#x1F3FC;&#x2642",
   },
-  "man-wearing-turban-medium-skin-tone": {
+  "👳🏽♂": {
     name: "man-wearing-turban-medium-skin-tone",
     category: "diversity",
     unicode: "_1f473-1f3fd-2642",
     htmlEntity: "&#x1F473;&#x1F3FD;&#x2642",
   },
-  "man-wearing-turban-medium-dark-skin-tone": {
+  "👳🏾♂": {
     name: "man-wearing-turban-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f473-1f3fe-2642",
     htmlEntity: "&#x1F473;&#x1F3FE;&#x2642",
   },
-  "man-wearing-turban-dark-skin-tone": {
+  "👳🏿♂": {
     name: "man-wearing-turban-dark-skin-tone",
     category: "diversity",
     unicode: "_1f473-1f3ff-2642",
     htmlEntity: "&#x1F473;&#x1F3FF;&#x2642",
   },
-  "woman-with-headscarf": {
+  "🧕": {
     name: "woman-with-headscarf",
     category: "people",
     unicode: "_1f9d5",
     htmlEntity: "&#x1F9D5",
   },
-  "woman-with-headscarf-light-skin-tone": {
+  "🧕🏻": {
     name: "woman-with-headscarf-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d5-1f3fb",
     htmlEntity: "&#x1F9D5;&#x1F3FB",
   },
-  "woman-with-headscarf-medium-light-skin-tone": {
+  "🧕🏼": {
     name: "woman-with-headscarf-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d5-1f3fc",
     htmlEntity: "&#x1F9D5;&#x1F3FC",
   },
-  "woman-with-headscarf-medium-skin-tone": {
+  "🧕🏽": {
     name: "woman-with-headscarf-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d5-1f3fd",
     htmlEntity: "&#x1F9D5;&#x1F3FD",
   },
-  "woman-with-headscarf-medium-dark-skin-tone": {
+  "🧕🏾": {
     name: "woman-with-headscarf-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d5-1f3fe",
     htmlEntity: "&#x1F9D5;&#x1F3FE",
   },
-  "woman-with-headscarf-dark-skin-tone": {
+  "🧕🏿": {
     name: "woman-with-headscarf-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d5-1f3ff",
     htmlEntity: "&#x1F9D5;&#x1F3FF",
   },
-  "police-officer": {
+  "👮": {
     name: "police-officer",
     category: "people",
     unicode: "_1f46e",
     htmlEntity: "&#x1F46E",
   },
-  "police-officer-light-skin-tone": {
+  "👮🏻": {
     name: "police-officer-light-skin-tone",
     category: "diversity",
     unicode: "_1f46e-1f3fb",
     htmlEntity: "&#x1F46E;&#x1F3FB",
   },
-  "police-officer-medium-light-skin-tone": {
+  "👮🏼": {
     name: "police-officer-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f46e-1f3fc",
     htmlEntity: "&#x1F46E;&#x1F3FC",
   },
-  "police-officer-medium-skin-tone": {
+  "👮🏽": {
     name: "police-officer-medium-skin-tone",
     category: "diversity",
     unicode: "_1f46e-1f3fd",
     htmlEntity: "&#x1F46E;&#x1F3FD",
   },
-  "police-officer-medium-dark-skin-tone": {
+  "👮🏾": {
     name: "police-officer-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f46e-1f3fe",
     htmlEntity: "&#x1F46E;&#x1F3FE",
   },
-  "police-officer-dark-skin-tone": {
+  "👮🏿": {
     name: "police-officer-dark-skin-tone",
     category: "diversity",
     unicode: "_1f46e-1f3ff",
     htmlEntity: "&#x1F46E;&#x1F3FF",
   },
-  "woman-police-officer": {
+  "👮♀": {
     name: "woman-police-officer",
     category: "people",
     unicode: "_1f46e-2640",
     htmlEntity: "&#x1F46E;&#x2640",
   },
-  "woman-police-officer-light-skin-tone": {
+  "👮🏻♀": {
     name: "woman-police-officer-light-skin-tone",
     category: "diversity",
     unicode: "_1f46e-1f3fb-2640",
     htmlEntity: "&#x1F46E;&#x1F3FB;&#x2640",
   },
-  "woman-police-officer-medium-light-skin-tone": {
+  "👮🏼♀": {
     name: "woman-police-officer-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f46e-1f3fc-2640",
     htmlEntity: "&#x1F46E;&#x1F3FC;&#x2640",
   },
-  "woman-police-officer-medium-skin-tone": {
+  "👮🏽♀": {
     name: "woman-police-officer-medium-skin-tone",
     category: "diversity",
     unicode: "_1f46e-1f3fd-2640",
     htmlEntity: "&#x1F46E;&#x1F3FD;&#x2640",
   },
-  "woman-police-officer-medium-dark-skin-tone": {
+  "👮🏾♀": {
     name: "woman-police-officer-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f46e-1f3fe-2640",
     htmlEntity: "&#x1F46E;&#x1F3FE;&#x2640",
   },
-  "woman-police-officer-dark-skin-tone": {
+  "👮🏿♀": {
     name: "woman-police-officer-dark-skin-tone",
     category: "diversity",
     unicode: "_1f46e-1f3ff-2640",
     htmlEntity: "&#x1F46E;&#x1F3FF;&#x2640",
   },
-  "man-police-officer": {
+  "👮♂": {
     name: "man-police-officer",
     category: "people",
     unicode: "_1f46e-2642",
     htmlEntity: "&#x1F46E;&#x2642",
   },
-  "man-police-officer-light-skin-tone": {
+  "👮🏻♂": {
     name: "man-police-officer-light-skin-tone",
     category: "diversity",
     unicode: "_1f46e-1f3fb-2642",
     htmlEntity: "&#x1F46E;&#x1F3FB;&#x2642",
   },
-  "man-police-officer-medium-light-skin-tone": {
+  "👮🏼♂": {
     name: "man-police-officer-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f46e-1f3fc-2642",
     htmlEntity: "&#x1F46E;&#x1F3FC;&#x2642",
   },
-  "man-police-officer-medium-skin-tone": {
+  "👮🏽♂": {
     name: "man-police-officer-medium-skin-tone",
     category: "diversity",
     unicode: "_1f46e-1f3fd-2642",
     htmlEntity: "&#x1F46E;&#x1F3FD;&#x2642",
   },
-  "man-police-officer-medium-dark-skin-tone": {
+  "👮🏾♂": {
     name: "man-police-officer-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f46e-1f3fe-2642",
     htmlEntity: "&#x1F46E;&#x1F3FE;&#x2642",
   },
-  "man-police-officer-dark-skin-tone": {
+  "👮🏿♂": {
     name: "man-police-officer-dark-skin-tone",
     category: "diversity",
     unicode: "_1f46e-1f3ff-2642",
     htmlEntity: "&#x1F46E;&#x1F3FF;&#x2642",
   },
-  "construction-worker": {
+  "👷": {
     name: "construction-worker",
     category: "people",
     unicode: "_1f477",
     htmlEntity: "&#x1F477",
   },
-  "construction-worker-light-skin-tone": {
+  "👷🏻": {
     name: "construction-worker-light-skin-tone",
     category: "diversity",
     unicode: "_1f477-1f3fb",
     htmlEntity: "&#x1F477;&#x1F3FB",
   },
-  "construction-worker-medium-light-skin-tone": {
+  "👷🏼": {
     name: "construction-worker-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f477-1f3fc",
     htmlEntity: "&#x1F477;&#x1F3FC",
   },
-  "construction-worker-medium-skin-tone": {
+  "👷🏽": {
     name: "construction-worker-medium-skin-tone",
     category: "diversity",
     unicode: "_1f477-1f3fd",
     htmlEntity: "&#x1F477;&#x1F3FD",
   },
-  "construction-worker-medium-dark-skin-tone": {
+  "👷🏾": {
     name: "construction-worker-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f477-1f3fe",
     htmlEntity: "&#x1F477;&#x1F3FE",
   },
-  "construction-worker-dark-skin-tone": {
+  "👷🏿": {
     name: "construction-worker-dark-skin-tone",
     category: "diversity",
     unicode: "_1f477-1f3ff",
     htmlEntity: "&#x1F477;&#x1F3FF",
   },
-  "woman-construction-worker": {
+  "👷♀": {
     name: "woman-construction-worker",
     category: "people",
     unicode: "_1f477-2640",
     htmlEntity: "&#x1F477;&#x2640",
   },
-  "woman-construction-worker-light-skin-tone": {
+  "👷🏻♀": {
     name: "woman-construction-worker-light-skin-tone",
     category: "diversity",
     unicode: "_1f477-1f3fb-2640",
     htmlEntity: "&#x1F477;&#x1F3FB;&#x2640",
   },
-  "woman-construction-worker-medium-light-skin-tone": {
+  "👷🏼♀": {
     name: "woman-construction-worker-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f477-1f3fc-2640",
     htmlEntity: "&#x1F477;&#x1F3FC;&#x2640",
   },
-  "woman-construction-worker-medium-skin-tone": {
+  "👷🏽♀": {
     name: "woman-construction-worker-medium-skin-tone",
     category: "diversity",
     unicode: "_1f477-1f3fd-2640",
     htmlEntity: "&#x1F477;&#x1F3FD;&#x2640",
   },
-  "woman-construction-worker-medium-dark-skin-tone": {
+  "👷🏾♀": {
     name: "woman-construction-worker-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f477-1f3fe-2640",
     htmlEntity: "&#x1F477;&#x1F3FE;&#x2640",
   },
-  "woman-construction-worker-dark-skin-tone": {
+  "👷🏿♀": {
     name: "woman-construction-worker-dark-skin-tone",
     category: "diversity",
     unicode: "_1f477-1f3ff-2640",
     htmlEntity: "&#x1F477;&#x1F3FF;&#x2640",
   },
-  "man-construction-worker": {
+  "👷♂": {
     name: "man-construction-worker",
     category: "people",
     unicode: "_1f477-2642",
     htmlEntity: "&#x1F477;&#x2642",
   },
-  "man-construction-worker-light-skin-tone": {
+  "👷🏻♂": {
     name: "man-construction-worker-light-skin-tone",
     category: "diversity",
     unicode: "_1f477-1f3fb-2642",
     htmlEntity: "&#x1F477;&#x1F3FB;&#x2642",
   },
-  "man-construction-worker-medium-light-skin-tone": {
+  "👷🏼♂": {
     name: "man-construction-worker-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f477-1f3fc-2642",
     htmlEntity: "&#x1F477;&#x1F3FC;&#x2642",
   },
-  "man-construction-worker-medium-skin-tone": {
+  "👷🏽♂": {
     name: "man-construction-worker-medium-skin-tone",
     category: "diversity",
     unicode: "_1f477-1f3fd-2642",
     htmlEntity: "&#x1F477;&#x1F3FD;&#x2642",
   },
-  "man-construction-worker-medium-dark-skin-tone": {
+  "👷🏾♂": {
     name: "man-construction-worker-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f477-1f3fe-2642",
     htmlEntity: "&#x1F477;&#x1F3FE;&#x2642",
   },
-  "man-construction-worker-dark-skin-tone": {
+  "👷🏿♂": {
     name: "man-construction-worker-dark-skin-tone",
     category: "diversity",
     unicode: "_1f477-1f3ff-2642",
     htmlEntity: "&#x1F477;&#x1F3FF;&#x2642",
   },
-  guard: {
+  "💂": {
     name: "guard",
     category: "people",
     unicode: "_1f482",
     htmlEntity: "&#x1F482",
   },
-  "guard-light-skin-tone": {
+  "💂🏻": {
     name: "guard-light-skin-tone",
     category: "diversity",
     unicode: "_1f482-1f3fb",
     htmlEntity: "&#x1F482;&#x1F3FB",
   },
-  "guard-medium-light-skin-tone": {
+  "💂🏼": {
     name: "guard-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f482-1f3fc",
     htmlEntity: "&#x1F482;&#x1F3FC",
   },
-  "guard-medium-skin-tone": {
+  "💂🏽": {
     name: "guard-medium-skin-tone",
     category: "diversity",
     unicode: "_1f482-1f3fd",
     htmlEntity: "&#x1F482;&#x1F3FD",
   },
-  "guard-medium-dark-skin-tone": {
+  "💂🏾": {
     name: "guard-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f482-1f3fe",
     htmlEntity: "&#x1F482;&#x1F3FE",
   },
-  "guard-dark-skin-tone": {
+  "💂🏿": {
     name: "guard-dark-skin-tone",
     category: "diversity",
     unicode: "_1f482-1f3ff",
     htmlEntity: "&#x1F482;&#x1F3FF",
   },
-  "woman-guard": {
+  "💂♀": {
     name: "woman-guard",
     category: "people",
     unicode: "_1f482-2640",
     htmlEntity: "&#x1F482;&#x2640",
   },
-  "woman-guard-light-skin-tone": {
+  "💂🏻♀": {
     name: "woman-guard-light-skin-tone",
     category: "diversity",
     unicode: "_1f482-1f3fb-2640",
     htmlEntity: "&#x1F482;&#x1F3FB;&#x2640",
   },
-  "woman-guard-medium-light-skin-tone": {
+  "💂🏼♀": {
     name: "woman-guard-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f482-1f3fc-2640",
     htmlEntity: "&#x1F482;&#x1F3FC;&#x2640",
   },
-  "woman-guard-medium-skin-tone": {
+  "💂🏽♀": {
     name: "woman-guard-medium-skin-tone",
     category: "diversity",
     unicode: "_1f482-1f3fd-2640",
     htmlEntity: "&#x1F482;&#x1F3FD;&#x2640",
   },
-  "woman-guard-medium-dark-skin-tone": {
+  "💂🏾♀": {
     name: "woman-guard-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f482-1f3fe-2640",
     htmlEntity: "&#x1F482;&#x1F3FE;&#x2640",
   },
-  "woman-guard-dark-skin-tone": {
+  "💂🏿♀": {
     name: "woman-guard-dark-skin-tone",
     category: "diversity",
     unicode: "_1f482-1f3ff-2640",
     htmlEntity: "&#x1F482;&#x1F3FF;&#x2640",
   },
-  "man-guard": {
+  "💂♂": {
     name: "man-guard",
     category: "people",
     unicode: "_1f482-2642",
     htmlEntity: "&#x1F482;&#x2642",
   },
-  "man-guard-light-skin-tone": {
+  "💂🏻♂": {
     name: "man-guard-light-skin-tone",
     category: "diversity",
     unicode: "_1f482-1f3fb-2642",
     htmlEntity: "&#x1F482;&#x1F3FB;&#x2642",
   },
-  "man-guard-medium-light-skin-tone": {
+  "💂🏼♂": {
     name: "man-guard-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f482-1f3fc-2642",
     htmlEntity: "&#x1F482;&#x1F3FC;&#x2642",
   },
-  "man-guard-medium-skin-tone": {
+  "💂🏽♂": {
     name: "man-guard-medium-skin-tone",
     category: "diversity",
     unicode: "_1f482-1f3fd-2642",
     htmlEntity: "&#x1F482;&#x1F3FD;&#x2642",
   },
-  "man-guard-medium-dark-skin-tone": {
+  "💂🏾♂": {
     name: "man-guard-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f482-1f3fe-2642",
     htmlEntity: "&#x1F482;&#x1F3FE;&#x2642",
   },
-  "man-guard-dark-skin-tone": {
+  "💂🏿♂": {
     name: "man-guard-dark-skin-tone",
     category: "diversity",
     unicode: "_1f482-1f3ff-2642",
     htmlEntity: "&#x1F482;&#x1F3FF;&#x2642",
   },
-  detective: {
+  "🕵": {
     name: "detective",
     category: "people",
     unicode: "_1f575",
     htmlEntity: "&#x1F575",
   },
-  "detective-light-skin-tone": {
+  "🕵🏻": {
     name: "detective-light-skin-tone",
     category: "diversity",
     unicode: "_1f575-1f3fb",
     htmlEntity: "&#x1F575;&#x1F3FB",
   },
-  "detective-medium-light-skin-tone": {
+  "🕵🏼": {
     name: "detective-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f575-1f3fc",
     htmlEntity: "&#x1F575;&#x1F3FC",
   },
-  "detective-medium-skin-tone": {
+  "🕵🏽": {
     name: "detective-medium-skin-tone",
     category: "diversity",
     unicode: "_1f575-1f3fd",
     htmlEntity: "&#x1F575;&#x1F3FD",
   },
-  "detective-medium-dark-skin-tone": {
+  "🕵🏾": {
     name: "detective-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f575-1f3fe",
     htmlEntity: "&#x1F575;&#x1F3FE",
   },
-  "detective-dark-skin-tone": {
+  "🕵🏿": {
     name: "detective-dark-skin-tone",
     category: "diversity",
     unicode: "_1f575-1f3ff",
     htmlEntity: "&#x1F575;&#x1F3FF",
   },
-  "woman-detective": {
+  "🕵♀": {
     name: "woman-detective",
     category: "people",
     unicode: "_1f575-2640",
     htmlEntity: "&#x1F575;&#x2640",
   },
-  "woman-detective-light-skin-tone": {
+  "🕵🏻♀": {
     name: "woman-detective-light-skin-tone",
     category: "diversity",
     unicode: "_1f575-1f3fb-2640",
     htmlEntity: "&#x1F575;&#x1F3FB;&#x2640",
   },
-  "woman-detective-medium-light-skin-tone": {
+  "🕵🏼♀": {
     name: "woman-detective-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f575-1f3fc-2640",
     htmlEntity: "&#x1F575;&#x1F3FC;&#x2640",
   },
-  "woman-detective-medium-skin-tone": {
+  "🕵🏽♀": {
     name: "woman-detective-medium-skin-tone",
     category: "diversity",
     unicode: "_1f575-1f3fd-2640",
     htmlEntity: "&#x1F575;&#x1F3FD;&#x2640",
   },
-  "woman-detective-medium-dark-skin-tone": {
+  "🕵🏾♀": {
     name: "woman-detective-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f575-1f3fe-2640",
     htmlEntity: "&#x1F575;&#x1F3FE;&#x2640",
   },
-  "woman-detective-dark-skin-tone": {
+  "🕵🏿♀": {
     name: "woman-detective-dark-skin-tone",
     category: "diversity",
     unicode: "_1f575-1f3ff-2640",
     htmlEntity: "&#x1F575;&#x1F3FF;&#x2640",
   },
-  "man-detective": {
+  "🕵♂": {
     name: "man-detective",
     category: "people",
     unicode: "_1f575-2642",
     htmlEntity: "&#x1F575;&#x2642",
   },
-  "man-detective-light-skin-tone": {
+  "🕵🏻♂": {
     name: "man-detective-light-skin-tone",
     category: "diversity",
     unicode: "_1f575-1f3fb-2642",
     htmlEntity: "&#x1F575;&#x1F3FB;&#x2642",
   },
-  "man-detective-medium-light-skin-tone": {
+  "🕵🏼♂": {
     name: "man-detective-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f575-1f3fc-2642",
     htmlEntity: "&#x1F575;&#x1F3FC;&#x2642",
   },
-  "man-detective-medium-skin-tone": {
+  "🕵🏽♂": {
     name: "man-detective-medium-skin-tone",
     category: "diversity",
     unicode: "_1f575-1f3fd-2642",
     htmlEntity: "&#x1F575;&#x1F3FD;&#x2642",
   },
-  "man-detective-medium-dark-skin-tone": {
+  "🕵🏾♂": {
     name: "man-detective-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f575-1f3fe-2642",
     htmlEntity: "&#x1F575;&#x1F3FE;&#x2642",
   },
-  "man-detective-dark-skin-tone": {
+  "🕵🏿♂": {
     name: "man-detective-dark-skin-tone",
     category: "diversity",
     unicode: "_1f575-1f3ff-2642",
     htmlEntity: "&#x1F575;&#x1F3FF;&#x2642",
   },
-  "health-worker": {
+  "🧑⚕": {
     name: "health-worker",
     category: "people",
     unicode: "_1f9d1-2695",
     htmlEntity: "&#x1F9D1;&#x2695",
   },
-  "health-worker-light-skin-tone": {
+  "🧑🏻⚕": {
     name: "health-worker-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-2695",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x2695",
   },
-  "health-worker-medium-light-skin-tone": {
+  "🧑🏼⚕": {
     name: "health-worker-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-2695",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x2695",
   },
-  "health-worker-medium-skin-tone": {
+  "🧑🏽⚕": {
     name: "health-worker-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-2695",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x2695",
   },
-  "health-worker-medium-dark-skin-tone": {
+  "🧑🏾⚕": {
     name: "health-worker-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-2695",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x2695",
   },
-  "health-worker-dark-skin-tone": {
+  "🧑🏿⚕": {
     name: "health-worker-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-2695",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x2695",
   },
-  "woman-health-worker": {
+  "👩⚕": {
     name: "woman-health-worker",
     category: "people",
     unicode: "_1f469-2695",
     htmlEntity: "&#x1F469;&#x2695",
   },
-  "woman-health-worker-light-skin-tone": {
+  "👩🏻⚕": {
     name: "woman-health-worker-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-2695",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x2695",
   },
-  "woman-health-worker-medium-light-skin-tone": {
+  "👩🏼⚕": {
     name: "woman-health-worker-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-2695",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x2695",
   },
-  "woman-health-worker-medium-skin-tone": {
+  "👩🏽⚕": {
     name: "woman-health-worker-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-2695",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x2695",
   },
-  "woman-health-worker-medium-dark-skin-tone": {
+  "👩🏾⚕": {
     name: "woman-health-worker-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-2695",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x2695",
   },
-  "woman-health-worker-dark-skin-tone": {
+  "👩🏿⚕": {
     name: "woman-health-worker-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-2695",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x2695",
   },
-  "man-health-worker": {
+  "👨⚕": {
     name: "man-health-worker",
     category: "people",
     unicode: "_1f468-2695",
     htmlEntity: "&#x1F468;&#x2695",
   },
-  "man-health-worker-light-skin-tone": {
+  "👨🏻⚕": {
     name: "man-health-worker-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-2695",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x2695",
   },
-  "man-health-worker-medium-light-skin-tone": {
+  "👨🏼⚕": {
     name: "man-health-worker-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-2695",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x2695",
   },
-  "man-health-worker-medium-skin-tone": {
+  "👨🏽⚕": {
     name: "man-health-worker-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-2695",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x2695",
   },
-  "man-health-worker-medium-dark-skin-tone": {
+  "👨🏾⚕": {
     name: "man-health-worker-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-2695",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x2695",
   },
-  "man-health-worker-dark-skin-tone": {
+  "👨🏿⚕": {
     name: "man-health-worker-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-2695",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x2695",
   },
-  farmer: {
+  "🧑🌾": {
     name: "farmer",
     category: "people",
     unicode: "_1f9d1-1f33e",
     htmlEntity: "&#x1F9D1;&#x1F33E",
   },
-  "farmer-light-skin-tone": {
+  "🧑🏻🌾": {
     name: "farmer-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-1f33e",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x1F33E",
   },
-  "farmer-medium-light-skin-tone": {
+  "🧑🏼🌾": {
     name: "farmer-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-1f33e",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x1F33E",
   },
-  "farmer-medium-skin-tone": {
+  "🧑🏽🌾": {
     name: "farmer-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-1f33e",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x1F33E",
   },
-  "farmer-medium-dark-skin-tone": {
+  "🧑🏾🌾": {
     name: "farmer-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-1f33e",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x1F33E",
   },
-  "farmer-dark-skin-tone": {
+  "🧑🏿🌾": {
     name: "farmer-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-1f33e",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x1F33E",
   },
-  "woman-farmer": {
+  "👩🌾": {
     name: "woman-farmer",
     category: "people",
     unicode: "_1f469-1f33e",
     htmlEntity: "&#x1F469;&#x1F33E",
   },
-  "woman-farmer-light-skin-tone": {
+  "👩🏻🌾": {
     name: "woman-farmer-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-1f33e",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x1F33E",
   },
-  "woman-farmer-medium-light-skin-tone": {
+  "👩🏼🌾": {
     name: "woman-farmer-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-1f33e",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x1F33E",
   },
-  "woman-farmer-medium-skin-tone": {
+  "👩🏽🌾": {
     name: "woman-farmer-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-1f33e",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x1F33E",
   },
-  "woman-farmer-medium-dark-skin-tone": {
+  "👩🏾🌾": {
     name: "woman-farmer-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-1f33e",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x1F33E",
   },
-  "woman-farmer-dark-skin-tone": {
+  "👩🏿🌾": {
     name: "woman-farmer-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-1f33e",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x1F33E",
   },
-  "man-farmer": {
+  "👨🌾": {
     name: "man-farmer",
     category: "people",
     unicode: "_1f468-1f33e",
     htmlEntity: "&#x1F468;&#x1F33E",
   },
-  "man-farmer-light-skin-tone": {
+  "👨🏻🌾": {
     name: "man-farmer-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-1f33e",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x1F33E",
   },
-  "man-farmer-medium-light-skin-tone": {
+  "👨🏼🌾": {
     name: "man-farmer-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-1f33e",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x1F33E",
   },
-  "man-farmer-medium-skin-tone": {
+  "👨🏽🌾": {
     name: "man-farmer-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-1f33e",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x1F33E",
   },
-  "man-farmer-medium-dark-skin-tone": {
+  "👨🏾🌾": {
     name: "man-farmer-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-1f33e",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x1F33E",
   },
-  "man-farmer-dark-skin-tone": {
+  "👨🏿🌾": {
     name: "man-farmer-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-1f33e",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x1F33E",
   },
-  cook: {
+  "🧑🍳": {
     name: "cook",
     category: "people",
     unicode: "_1f9d1-1f373",
     htmlEntity: "&#x1F9D1;&#x1F373",
   },
-  "cook-light-skin-tone": {
+  "🧑🏻🍳": {
     name: "cook-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-1f373",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x1F373",
   },
-  "cook-medium-light-skin-tone": {
+  "🧑🏼🍳": {
     name: "cook-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-1f373",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x1F373",
   },
-  "cook-medium-skin-tone": {
+  "🧑🏽🍳": {
     name: "cook-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-1f373",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x1F373",
   },
-  "cook-medium-dark-skin-tone": {
+  "🧑🏾🍳": {
     name: "cook-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-1f373",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x1F373",
   },
-  "cook-dark-skin-tone": {
+  "🧑🏿🍳": {
     name: "cook-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-1f373",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x1F373",
   },
-  "woman-cook": {
+  "👩🍳": {
     name: "woman-cook",
     category: "people",
     unicode: "_1f469-1f373",
     htmlEntity: "&#x1F469;&#x1F373",
   },
-  "woman-cook-light-skin-tone": {
+  "👩🏻🍳": {
     name: "woman-cook-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-1f373",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x1F373",
   },
-  "woman-cook-medium-light-skin-tone": {
+  "👩🏼🍳": {
     name: "woman-cook-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-1f373",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x1F373",
   },
-  "woman-cook-medium-skin-tone": {
+  "👩🏽🍳": {
     name: "woman-cook-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-1f373",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x1F373",
   },
-  "woman-cook-medium-dark-skin-tone": {
+  "👩🏾🍳": {
     name: "woman-cook-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-1f373",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x1F373",
   },
-  "woman-cook-dark-skin-tone": {
+  "👩🏿🍳": {
     name: "woman-cook-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-1f373",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x1F373",
   },
-  "man-cook": {
+  "👨🍳": {
     name: "man-cook",
     category: "people",
     unicode: "_1f468-1f373",
     htmlEntity: "&#x1F468;&#x1F373",
   },
-  "man-cook-light-skin-tone": {
+  "👨🏻🍳": {
     name: "man-cook-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-1f373",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x1F373",
   },
-  "man-cook-medium-light-skin-tone": {
+  "👨🏼🍳": {
     name: "man-cook-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-1f373",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x1F373",
   },
-  "man-cook-medium-skin-tone": {
+  "👨🏽🍳": {
     name: "man-cook-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-1f373",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x1F373",
   },
-  "man-cook-medium-dark-skin-tone": {
+  "👨🏾🍳": {
     name: "man-cook-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-1f373",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x1F373",
   },
-  "man-cook-dark-skin-tone": {
+  "👨🏿🍳": {
     name: "man-cook-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-1f373",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x1F373",
   },
-  student: {
+  "🧑🎓": {
     name: "student",
     category: "people",
     unicode: "_1f9d1-1f393",
     htmlEntity: "&#x1F9D1;&#x1F393",
   },
-  "student-light-skin-tone": {
+  "🧑🏻🎓": {
     name: "student-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-1f393",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x1F393",
   },
-  "student-medium-light-skin-tone": {
+  "🧑🏼🎓": {
     name: "student-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-1f393",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x1F393",
   },
-  "student-medium-skin-tone": {
+  "🧑🏽🎓": {
     name: "student-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-1f393",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x1F393",
   },
-  "student-medium-dark-skin-tone": {
+  "🧑🏾🎓": {
     name: "student-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-1f393",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x1F393",
   },
-  "student-dark-skin-tone": {
+  "🧑🏿🎓": {
     name: "student-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-1f393",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x1F393",
   },
-  "woman-student": {
+  "👩🎓": {
     name: "woman-student",
     category: "people",
     unicode: "_1f469-1f393",
     htmlEntity: "&#x1F469;&#x1F393",
   },
-  "woman-student-light-skin-tone": {
+  "👩🏻🎓": {
     name: "woman-student-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-1f393",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x1F393",
   },
-  "woman-student-medium-light-skin-tone": {
+  "👩🏼🎓": {
     name: "woman-student-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-1f393",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x1F393",
   },
-  "woman-student-medium-skin-tone": {
+  "👩🏽🎓": {
     name: "woman-student-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-1f393",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x1F393",
   },
-  "woman-student-medium-dark-skin-tone": {
+  "👩🏾🎓": {
     name: "woman-student-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-1f393",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x1F393",
   },
-  "woman-student-dark-skin-tone": {
+  "👩🏿🎓": {
     name: "woman-student-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-1f393",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x1F393",
   },
-  "man-student": {
+  "👨🎓": {
     name: "man-student",
     category: "people",
     unicode: "_1f468-1f393",
     htmlEntity: "&#x1F468;&#x1F393",
   },
-  "man-student-light-skin-tone": {
+  "👨🏻🎓": {
     name: "man-student-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-1f393",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x1F393",
   },
-  "man-student-medium-light-skin-tone": {
+  "👨🏼🎓": {
     name: "man-student-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-1f393",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x1F393",
   },
-  "man-student-medium-skin-tone": {
+  "👨🏽🎓": {
     name: "man-student-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-1f393",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x1F393",
   },
-  "man-student-medium-dark-skin-tone": {
+  "👨🏾🎓": {
     name: "man-student-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-1f393",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x1F393",
   },
-  "man-student-dark-skin-tone": {
+  "👨🏿🎓": {
     name: "man-student-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-1f393",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x1F393",
   },
-  singer: {
+  "🧑🎤": {
     name: "singer",
     category: "people",
     unicode: "_1f9d1-1f3a4",
     htmlEntity: "&#x1F9D1;&#x1F3A4",
   },
-  "singer-light-skin-tone": {
+  "🧑🏻🎤": {
     name: "singer-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-1f3a4",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x1F3A4",
   },
-  "singer-medium-light-skin-tone": {
+  "🧑🏼🎤": {
     name: "singer-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-1f3a4",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x1F3A4",
   },
-  "singer-medium-skin-tone": {
+  "🧑🏽🎤": {
     name: "singer-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-1f3a4",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x1F3A4",
   },
-  "singer-medium-dark-skin-tone": {
+  "🧑🏾🎤": {
     name: "singer-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-1f3a4",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x1F3A4",
   },
-  "singer-dark-skin-tone": {
+  "🧑🏿🎤": {
     name: "singer-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-1f3a4",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x1F3A4",
   },
-  "woman-singer": {
+  "👩🎤": {
     name: "woman-singer",
     category: "people",
     unicode: "_1f469-1f3a4",
     htmlEntity: "&#x1F469;&#x1F3A4",
   },
-  "woman-singer-light-skin-tone": {
+  "👩🏻🎤": {
     name: "woman-singer-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-1f3a4",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x1F3A4",
   },
-  "woman-singer-medium-light-skin-tone": {
+  "👩🏼🎤": {
     name: "woman-singer-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-1f3a4",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x1F3A4",
   },
-  "woman-singer-medium-skin-tone": {
+  "👩🏽🎤": {
     name: "woman-singer-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-1f3a4",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x1F3A4",
   },
-  "woman-singer-medium-dark-skin-tone": {
+  "👩🏾🎤": {
     name: "woman-singer-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-1f3a4",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x1F3A4",
   },
-  "woman-singer-dark-skin-tone": {
+  "👩🏿🎤": {
     name: "woman-singer-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-1f3a4",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x1F3A4",
   },
-  "man-singer": {
+  "👨🎤": {
     name: "man-singer",
     category: "people",
     unicode: "_1f468-1f3a4",
     htmlEntity: "&#x1F468;&#x1F3A4",
   },
-  "man-singer-light-skin-tone": {
+  "👨🏻🎤": {
     name: "man-singer-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-1f3a4",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x1F3A4",
   },
-  "man-singer-medium-light-skin-tone": {
+  "👨🏼🎤": {
     name: "man-singer-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-1f3a4",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x1F3A4",
   },
-  "man-singer-medium-skin-tone": {
+  "👨🏽🎤": {
     name: "man-singer-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-1f3a4",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x1F3A4",
   },
-  "man-singer-medium-dark-skin-tone": {
+  "👨🏾🎤": {
     name: "man-singer-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-1f3a4",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x1F3A4",
   },
-  "man-singer-dark-skin-tone": {
+  "👨🏿🎤": {
     name: "man-singer-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-1f3a4",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x1F3A4",
   },
-  teacher: {
+  "🧑🏫": {
     name: "teacher",
     category: "people",
     unicode: "_1f9d1-1f3eb",
     htmlEntity: "&#x1F9D1;&#x1F3EB",
   },
-  "teacher-light-skin-tone": {
+  "🧑🏻🏫": {
     name: "teacher-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-1f3eb",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x1F3EB",
   },
-  "teacher-medium-light-skin-tone": {
+  "🧑🏼🏫": {
     name: "teacher-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-1f3eb",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x1F3EB",
   },
-  "teacher-medium-skin-tone": {
+  "🧑🏽🏫": {
     name: "teacher-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-1f3eb",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x1F3EB",
   },
-  "teacher-medium-dark-skin-tone": {
+  "🧑🏾🏫": {
     name: "teacher-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-1f3eb",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x1F3EB",
   },
-  "teacher-dark-skin-tone": {
+  "🧑🏿🏫": {
     name: "teacher-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-1f3eb",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x1F3EB",
   },
-  "woman-teacher": {
+  "👩🏫": {
     name: "woman-teacher",
     category: "people",
     unicode: "_1f469-1f3eb",
     htmlEntity: "&#x1F469;&#x1F3EB",
   },
-  "woman-teacher-light-skin-tone": {
+  "👩🏻🏫": {
     name: "woman-teacher-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-1f3eb",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x1F3EB",
   },
-  "woman-teacher-medium-light-skin-tone": {
+  "👩🏼🏫": {
     name: "woman-teacher-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-1f3eb",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x1F3EB",
   },
-  "woman-teacher-medium-skin-tone": {
+  "👩🏽🏫": {
     name: "woman-teacher-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-1f3eb",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x1F3EB",
   },
-  "woman-teacher-medium-dark-skin-tone": {
+  "👩🏾🏫": {
     name: "woman-teacher-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-1f3eb",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x1F3EB",
   },
-  "woman-teacher-dark-skin-tone": {
+  "👩🏿🏫": {
     name: "woman-teacher-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-1f3eb",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x1F3EB",
   },
-  "man-teacher": {
+  "👨🏫": {
     name: "man-teacher",
     category: "people",
     unicode: "_1f468-1f3eb",
     htmlEntity: "&#x1F468;&#x1F3EB",
   },
-  "man-teacher-light-skin-tone": {
+  "👨🏻🏫": {
     name: "man-teacher-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-1f3eb",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x1F3EB",
   },
-  "man-teacher-medium-light-skin-tone": {
+  "👨🏼🏫": {
     name: "man-teacher-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-1f3eb",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x1F3EB",
   },
-  "man-teacher-medium-skin-tone": {
+  "👨🏽🏫": {
     name: "man-teacher-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-1f3eb",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x1F3EB",
   },
-  "man-teacher-medium-dark-skin-tone": {
+  "👨🏾🏫": {
     name: "man-teacher-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-1f3eb",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x1F3EB",
   },
-  "man-teacher-dark-skin-tone": {
+  "👨🏿🏫": {
     name: "man-teacher-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-1f3eb",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x1F3EB",
   },
-  "factory-worker": {
+  "🧑🏭": {
     name: "factory-worker",
     category: "people",
     unicode: "_1f9d1-1f3ed",
     htmlEntity: "&#x1F9D1;&#x1F3ED",
   },
-  "factory-worker-light-skin-tone": {
+  "🧑🏻🏭": {
     name: "factory-worker-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-1f3ed",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x1F3ED",
   },
-  "factory-worker-medium-light-skin-tone": {
+  "🧑🏼🏭": {
     name: "factory-worker-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-1f3ed",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x1F3ED",
   },
-  "factory-worker-medium-skin-tone": {
+  "🧑🏽🏭": {
     name: "factory-worker-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-1f3ed",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x1F3ED",
   },
-  "factory-worker-medium-dark-skin-tone": {
+  "🧑🏾🏭": {
     name: "factory-worker-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-1f3ed",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x1F3ED",
   },
-  "factory-worker-dark-skin-tone": {
+  "🧑🏿🏭": {
     name: "factory-worker-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-1f3ed",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x1F3ED",
   },
-  "woman-factory-worker": {
+  "👩🏭": {
     name: "woman-factory-worker",
     category: "people",
     unicode: "_1f469-1f3ed",
     htmlEntity: "&#x1F469;&#x1F3ED",
   },
-  "woman-factory-worker-light-skin-tone": {
+  "👩🏻🏭": {
     name: "woman-factory-worker-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-1f3ed",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x1F3ED",
   },
-  "woman-factory-worker-medium-light-skin-tone": {
+  "👩🏼🏭": {
     name: "woman-factory-worker-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-1f3ed",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x1F3ED",
   },
-  "woman-factory-worker-medium-skin-tone": {
+  "👩🏽🏭": {
     name: "woman-factory-worker-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-1f3ed",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x1F3ED",
   },
-  "woman-factory-worker-medium-dark-skin-tone": {
+  "👩🏾🏭": {
     name: "woman-factory-worker-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-1f3ed",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x1F3ED",
   },
-  "woman-factory-worker-dark-skin-tone": {
+  "👩🏿🏭": {
     name: "woman-factory-worker-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-1f3ed",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x1F3ED",
   },
-  "man-factory-worker": {
+  "👨🏭": {
     name: "man-factory-worker",
     category: "people",
     unicode: "_1f468-1f3ed",
     htmlEntity: "&#x1F468;&#x1F3ED",
   },
-  "man-factory-worker-light-skin-tone": {
+  "👨🏻🏭": {
     name: "man-factory-worker-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-1f3ed",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x1F3ED",
   },
-  "man-factory-worker-medium-light-skin-tone": {
+  "👨🏼🏭": {
     name: "man-factory-worker-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-1f3ed",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x1F3ED",
   },
-  "man-factory-worker-medium-skin-tone": {
+  "👨🏽🏭": {
     name: "man-factory-worker-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-1f3ed",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x1F3ED",
   },
-  "man-factory-worker-medium-dark-skin-tone": {
+  "👨🏾🏭": {
     name: "man-factory-worker-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-1f3ed",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x1F3ED",
   },
-  "man-factory-worker-dark-skin-tone": {
+  "👨🏿🏭": {
     name: "man-factory-worker-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-1f3ed",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x1F3ED",
   },
-  technologist: {
+  "🧑💻": {
     name: "technologist",
     category: "people",
     unicode: "_1f9d1-1f4bb",
     htmlEntity: "&#x1F9D1;&#x1F4BB",
   },
-  "technologist-light-skin-tone": {
+  "🧑🏻💻": {
     name: "technologist-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-1f4bb",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x1F4BB",
   },
-  "technologist-medium-light-skin-tone": {
+  "🧑🏼💻": {
     name: "technologist-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-1f4bb",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x1F4BB",
   },
-  "technologist-medium-skin-tone": {
+  "🧑🏽💻": {
     name: "technologist-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-1f4bb",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x1F4BB",
   },
-  "technologist-medium-dark-skin-tone": {
+  "🧑🏾💻": {
     name: "technologist-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-1f4bb",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x1F4BB",
   },
-  "technologist-dark-skin-tone": {
+  "🧑🏿💻": {
     name: "technologist-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-1f4bb",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x1F4BB",
   },
-  "woman-technologist": {
+  "👩💻": {
     name: "woman-technologist",
     category: "people",
     unicode: "_1f469-1f4bb",
     htmlEntity: "&#x1F469;&#x1F4BB",
   },
-  "woman-technologist-light-skin-tone": {
+  "👩🏻💻": {
     name: "woman-technologist-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-1f4bb",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x1F4BB",
   },
-  "woman-technologist-medium-light-skin-tone": {
+  "👩🏼💻": {
     name: "woman-technologist-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-1f4bb",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x1F4BB",
   },
-  "woman-technologist-medium-skin-tone": {
+  "👩🏽💻": {
     name: "woman-technologist-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-1f4bb",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x1F4BB",
   },
-  "woman-technologist-medium-dark-skin-tone": {
+  "👩🏾💻": {
     name: "woman-technologist-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-1f4bb",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x1F4BB",
   },
-  "woman-technologist-dark-skin-tone": {
+  "👩🏿💻": {
     name: "woman-technologist-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-1f4bb",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x1F4BB",
   },
-  "man-technologist": {
+  "👨💻": {
     name: "man-technologist",
     category: "people",
     unicode: "_1f468-1f4bb",
     htmlEntity: "&#x1F468;&#x1F4BB",
   },
-  "man-technologist-light-skin-tone": {
+  "👨🏻💻": {
     name: "man-technologist-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-1f4bb",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x1F4BB",
   },
-  "man-technologist-medium-light-skin-tone": {
+  "👨🏼💻": {
     name: "man-technologist-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-1f4bb",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x1F4BB",
   },
-  "man-technologist-medium-skin-tone": {
+  "👨🏽💻": {
     name: "man-technologist-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-1f4bb",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x1F4BB",
   },
-  "man-technologist-medium-dark-skin-tone": {
+  "👨🏾💻": {
     name: "man-technologist-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-1f4bb",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x1F4BB",
   },
-  "man-technologist-dark-skin-tone": {
+  "👨🏿💻": {
     name: "man-technologist-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-1f4bb",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x1F4BB",
   },
-  "office-worker": {
+  "🧑💼": {
     name: "office-worker",
     category: "people",
     unicode: "_1f9d1-1f4bc",
     htmlEntity: "&#x1F9D1;&#x1F4BC",
   },
-  "office-worker-light-skin-tone": {
+  "🧑🏻💼": {
     name: "office-worker-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-1f4bc",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x1F4BC",
   },
-  "office-worker-medium-light-skin-tone": {
+  "🧑🏼💼": {
     name: "office-worker-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-1f4bc",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x1F4BC",
   },
-  "office-worker-medium-skin-tone": {
+  "🧑🏽💼": {
     name: "office-worker-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-1f4bc",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x1F4BC",
   },
-  "office-worker-medium-dark-skin-tone": {
+  "🧑🏾💼": {
     name: "office-worker-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-1f4bc",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x1F4BC",
   },
-  "office-worker-dark-skin-tone": {
+  "🧑🏿💼": {
     name: "office-worker-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-1f4bc",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x1F4BC",
   },
-  "woman-office-worker": {
+  "👩💼": {
     name: "woman-office-worker",
     category: "people",
     unicode: "_1f469-1f4bc",
     htmlEntity: "&#x1F469;&#x1F4BC",
   },
-  "woman-office-worker-light-skin-tone": {
+  "👩🏻💼": {
     name: "woman-office-worker-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-1f4bc",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x1F4BC",
   },
-  "woman-office-worker-medium-light-skin-tone": {
+  "👩🏼💼": {
     name: "woman-office-worker-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-1f4bc",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x1F4BC",
   },
-  "woman-office-worker-medium-skin-tone": {
+  "👩🏽💼": {
     name: "woman-office-worker-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-1f4bc",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x1F4BC",
   },
-  "woman-office-worker-medium-dark-skin-tone": {
+  "👩🏾💼": {
     name: "woman-office-worker-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-1f4bc",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x1F4BC",
   },
-  "woman-office-worker-dark-skin-tone": {
+  "👩🏿💼": {
     name: "woman-office-worker-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-1f4bc",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x1F4BC",
   },
-  "man-office-worker": {
+  "👨💼": {
     name: "man-office-worker",
     category: "people",
     unicode: "_1f468-1f4bc",
     htmlEntity: "&#x1F468;&#x1F4BC",
   },
-  "man-office-worker-light-skin-tone": {
+  "👨🏻💼": {
     name: "man-office-worker-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-1f4bc",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x1F4BC",
   },
-  "man-office-worker-medium-light-skin-tone": {
+  "👨🏼💼": {
     name: "man-office-worker-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-1f4bc",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x1F4BC",
   },
-  "man-office-worker-medium-skin-tone": {
+  "👨🏽💼": {
     name: "man-office-worker-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-1f4bc",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x1F4BC",
   },
-  "man-office-worker-medium-dark-skin-tone": {
+  "👨🏾💼": {
     name: "man-office-worker-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-1f4bc",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x1F4BC",
   },
-  "man-office-worker-dark-skin-tone": {
+  "👨🏿💼": {
     name: "man-office-worker-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-1f4bc",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x1F4BC",
   },
-  mechanic: {
+  "🧑🔧": {
     name: "mechanic",
     category: "people",
     unicode: "_1f9d1-1f527",
     htmlEntity: "&#x1F9D1;&#x1F527",
   },
-  "mechanic-light-skin-tone": {
+  "🧑🏻🔧": {
     name: "mechanic-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-1f527",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x1F527",
   },
-  "mechanic-medium-light-skin-tone": {
+  "🧑🏼🔧": {
     name: "mechanic-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-1f527",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x1F527",
   },
-  "mechanic-medium-skin-tone": {
+  "🧑🏽🔧": {
     name: "mechanic-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-1f527",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x1F527",
   },
-  "mechanic-medium-dark-skin-tone": {
+  "🧑🏾🔧": {
     name: "mechanic-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-1f527",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x1F527",
   },
-  "mechanic-dark-skin-tone": {
+  "🧑🏿🔧": {
     name: "mechanic-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-1f527",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x1F527",
   },
-  "woman-mechanic": {
+  "👩🔧": {
     name: "woman-mechanic",
     category: "people",
     unicode: "_1f469-1f527",
     htmlEntity: "&#x1F469;&#x1F527",
   },
-  "woman-mechanic-light-skin-tone": {
+  "👩🏻🔧": {
     name: "woman-mechanic-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-1f527",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x1F527",
   },
-  "woman-mechanic-medium-light-skin-tone": {
+  "👩🏼🔧": {
     name: "woman-mechanic-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-1f527",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x1F527",
   },
-  "woman-mechanic-medium-skin-tone": {
+  "👩🏽🔧": {
     name: "woman-mechanic-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-1f527",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x1F527",
   },
-  "woman-mechanic-medium-dark-skin-tone": {
+  "👩🏾🔧": {
     name: "woman-mechanic-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-1f527",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x1F527",
   },
-  "woman-mechanic-dark-skin-tone": {
+  "👩🏿🔧": {
     name: "woman-mechanic-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-1f527",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x1F527",
   },
-  "man-mechanic": {
+  "👨🔧": {
     name: "man-mechanic",
     category: "people",
     unicode: "_1f468-1f527",
     htmlEntity: "&#x1F468;&#x1F527",
   },
-  "man-mechanic-light-skin-tone": {
+  "👨🏻🔧": {
     name: "man-mechanic-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-1f527",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x1F527",
   },
-  "man-mechanic-medium-light-skin-tone": {
+  "👨🏼🔧": {
     name: "man-mechanic-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-1f527",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x1F527",
   },
-  "man-mechanic-medium-skin-tone": {
+  "👨🏽🔧": {
     name: "man-mechanic-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-1f527",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x1F527",
   },
-  "man-mechanic-medium-dark-skin-tone": {
+  "👨🏾🔧": {
     name: "man-mechanic-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-1f527",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x1F527",
   },
-  "man-mechanic-dark-skin-tone": {
+  "👨🏿🔧": {
     name: "man-mechanic-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-1f527",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x1F527",
   },
-  scientist: {
+  "🧑🔬": {
     name: "scientist",
     category: "people",
     unicode: "_1f9d1-1f52c",
     htmlEntity: "&#x1F9D1;&#x1F52C",
   },
-  "scientist-light-skin-tone": {
+  "🧑🏻🔬": {
     name: "scientist-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-1f52c",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x1F52C",
   },
-  "scientist-medium-light-skin-tone": {
+  "🧑🏼🔬": {
     name: "scientist-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-1f52c",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x1F52C",
   },
-  "scientist-medium-skin-tone": {
+  "🧑🏽🔬": {
     name: "scientist-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-1f52c",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x1F52C",
   },
-  "scientist-medium-dark-skin-tone": {
+  "🧑🏾🔬": {
     name: "scientist-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-1f52c",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x1F52C",
   },
-  "scientist-dark-skin-tone": {
+  "🧑🏿🔬": {
     name: "scientist-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-1f52c",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x1F52C",
   },
-  "woman-scientist": {
+  "👩🔬": {
     name: "woman-scientist",
     category: "people",
     unicode: "_1f469-1f52c",
     htmlEntity: "&#x1F469;&#x1F52C",
   },
-  "woman-scientist-light-skin-tone": {
+  "👩🏻🔬": {
     name: "woman-scientist-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-1f52c",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x1F52C",
   },
-  "woman-scientist-medium-light-skin-tone": {
+  "👩🏼🔬": {
     name: "woman-scientist-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-1f52c",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x1F52C",
   },
-  "woman-scientist-medium-skin-tone": {
+  "👩🏽🔬": {
     name: "woman-scientist-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-1f52c",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x1F52C",
   },
-  "woman-scientist-medium-dark-skin-tone": {
+  "👩🏾🔬": {
     name: "woman-scientist-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-1f52c",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x1F52C",
   },
-  "woman-scientist-dark-skin-tone": {
+  "👩🏿🔬": {
     name: "woman-scientist-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-1f52c",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x1F52C",
   },
-  "man-scientist": {
+  "👨🔬": {
     name: "man-scientist",
     category: "people",
     unicode: "_1f468-1f52c",
     htmlEntity: "&#x1F468;&#x1F52C",
   },
-  "man-scientist-light-skin-tone": {
+  "👨🏻🔬": {
     name: "man-scientist-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-1f52c",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x1F52C",
   },
-  "man-scientist-medium-light-skin-tone": {
+  "👨🏼🔬": {
     name: "man-scientist-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-1f52c",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x1F52C",
   },
-  "man-scientist-medium-skin-tone": {
+  "👨🏽🔬": {
     name: "man-scientist-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-1f52c",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x1F52C",
   },
-  "man-scientist-medium-dark-skin-tone": {
+  "👨🏾🔬": {
     name: "man-scientist-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-1f52c",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x1F52C",
   },
-  "man-scientist-dark-skin-tone": {
+  "👨🏿🔬": {
     name: "man-scientist-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-1f52c",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x1F52C",
   },
-  artist: {
+  "🧑🎨": {
     name: "artist",
     category: "people",
     unicode: "_1f9d1-1f3a8",
     htmlEntity: "&#x1F9D1;&#x1F3A8",
   },
-  "artist-light-skin-tone": {
+  "🧑🏻🎨": {
     name: "artist-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-1f3a8",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x1F3A8",
   },
-  "artist-medium-light-skin-tone": {
+  "🧑🏼🎨": {
     name: "artist-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-1f3a8",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x1F3A8",
   },
-  "artist-medium-skin-tone": {
+  "🧑🏽🎨": {
     name: "artist-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-1f3a8",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x1F3A8",
   },
-  "artist-medium-dark-skin-tone": {
+  "🧑🏾🎨": {
     name: "artist-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-1f3a8",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x1F3A8",
   },
-  "artist-dark-skin-tone": {
+  "🧑🏿🎨": {
     name: "artist-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-1f3a8",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x1F3A8",
   },
-  "woman-artist": {
+  "👩🎨": {
     name: "woman-artist",
     category: "people",
     unicode: "_1f469-1f3a8",
     htmlEntity: "&#x1F469;&#x1F3A8",
   },
-  "woman-artist-light-skin-tone": {
+  "👩🏻🎨": {
     name: "woman-artist-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-1f3a8",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x1F3A8",
   },
-  "woman-artist-medium-light-skin-tone": {
+  "👩🏼🎨": {
     name: "woman-artist-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-1f3a8",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x1F3A8",
   },
-  "woman-artist-medium-skin-tone": {
+  "👩🏽🎨": {
     name: "woman-artist-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-1f3a8",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x1F3A8",
   },
-  "woman-artist-medium-dark-skin-tone": {
+  "👩🏾🎨": {
     name: "woman-artist-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-1f3a8",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x1F3A8",
   },
-  "woman-artist-dark-skin-tone": {
+  "👩🏿🎨": {
     name: "woman-artist-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-1f3a8",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x1F3A8",
   },
-  "man-artist": {
+  "👨🎨": {
     name: "man-artist",
     category: "people",
     unicode: "_1f468-1f3a8",
     htmlEntity: "&#x1F468;&#x1F3A8",
   },
-  "man-artist-light-skin-tone": {
+  "👨🏻🎨": {
     name: "man-artist-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-1f3a8",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x1F3A8",
   },
-  "man-artist-medium-light-skin-tone": {
+  "👨🏼🎨": {
     name: "man-artist-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-1f3a8",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x1F3A8",
   },
-  "man-artist-medium-skin-tone": {
+  "👨🏽🎨": {
     name: "man-artist-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-1f3a8",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x1F3A8",
   },
-  "man-artist-medium-dark-skin-tone": {
+  "👨🏾🎨": {
     name: "man-artist-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-1f3a8",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x1F3A8",
   },
-  "man-artist-dark-skin-tone": {
+  "👨🏿🎨": {
     name: "man-artist-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-1f3a8",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x1F3A8",
   },
-  firefighter: {
+  "🧑🚒": {
     name: "firefighter",
     category: "people",
     unicode: "_1f9d1-1f692",
     htmlEntity: "&#x1F9D1;&#x1F692",
   },
-  "firefighter-light-skin-tone": {
+  "🧑🏻🚒": {
     name: "firefighter-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-1f692",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x1F692",
   },
-  "firefighter-medium-light-skin-tone": {
+  "🧑🏼🚒": {
     name: "firefighter-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-1f692",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x1F692",
   },
-  "firefighter-medium-skin-tone": {
+  "🧑🏽🚒": {
     name: "firefighter-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-1f692",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x1F692",
   },
-  "firefighter-medium-dark-skin-tone": {
+  "🧑🏾🚒": {
     name: "firefighter-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-1f692",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x1F692",
   },
-  "firefighter-dark-skin-tone": {
+  "🧑🏿🚒": {
     name: "firefighter-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-1f692",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x1F692",
   },
-  "woman-firefighter": {
+  "👩🚒": {
     name: "woman-firefighter",
     category: "people",
     unicode: "_1f469-1f692",
     htmlEntity: "&#x1F469;&#x1F692",
   },
-  "woman-firefighter-light-skin-tone": {
+  "👩🏻🚒": {
     name: "woman-firefighter-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-1f692",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x1F692",
   },
-  "woman-firefighter-medium-light-skin-tone": {
+  "👩🏼🚒": {
     name: "woman-firefighter-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-1f692",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x1F692",
   },
-  "woman-firefighter-medium-skin-tone": {
+  "👩🏽🚒": {
     name: "woman-firefighter-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-1f692",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x1F692",
   },
-  "woman-firefighter-medium-dark-skin-tone": {
+  "👩🏾🚒": {
     name: "woman-firefighter-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-1f692",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x1F692",
   },
-  "woman-firefighter-dark-skin-tone": {
+  "👩🏿🚒": {
     name: "woman-firefighter-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-1f692",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x1F692",
   },
-  "man-firefighter": {
+  "👨🚒": {
     name: "man-firefighter",
     category: "people",
     unicode: "_1f468-1f692",
     htmlEntity: "&#x1F468;&#x1F692",
   },
-  "man-firefighter-light-skin-tone": {
+  "👨🏻🚒": {
     name: "man-firefighter-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-1f692",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x1F692",
   },
-  "man-firefighter-medium-light-skin-tone": {
+  "👨🏼🚒": {
     name: "man-firefighter-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-1f692",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x1F692",
   },
-  "man-firefighter-medium-skin-tone": {
+  "👨🏽🚒": {
     name: "man-firefighter-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-1f692",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x1F692",
   },
-  "man-firefighter-medium-dark-skin-tone": {
+  "👨🏾🚒": {
     name: "man-firefighter-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-1f692",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x1F692",
   },
-  "man-firefighter-dark-skin-tone": {
+  "👨🏿🚒": {
     name: "man-firefighter-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-1f692",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x1F692",
   },
-  pilot: {
+  "🧑✈": {
     name: "pilot",
     category: "people",
     unicode: "_1f9d1-2708",
     htmlEntity: "&#x1F9D1;&#x2708",
   },
-  "pilot-light-skin-tone": {
+  "🧑🏻✈": {
     name: "pilot-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-2708",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x2708",
   },
-  "pilot-medium-light-skin-tone": {
+  "🧑🏼✈": {
     name: "pilot-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-2708",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x2708",
   },
-  "pilot-medium-skin-tone": {
+  "🧑🏽✈": {
     name: "pilot-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-2708",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x2708",
   },
-  "pilot-medium-dark-skin-tone": {
+  "🧑🏾✈": {
     name: "pilot-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-2708",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x2708",
   },
-  "pilot-dark-skin-tone": {
+  "🧑🏿✈": {
     name: "pilot-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-2708",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x2708",
   },
-  "woman-pilot": {
+  "👩✈": {
     name: "woman-pilot",
     category: "people",
     unicode: "_1f469-2708",
     htmlEntity: "&#x1F469;&#x2708",
   },
-  "woman-pilot-light-skin-tone": {
+  "👩🏻✈": {
     name: "woman-pilot-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-2708",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x2708",
   },
-  "woman-pilot-medium-light-skin-tone": {
+  "👩🏼✈": {
     name: "woman-pilot-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-2708",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x2708",
   },
-  "woman-pilot-medium-skin-tone": {
+  "👩🏽✈": {
     name: "woman-pilot-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-2708",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x2708",
   },
-  "woman-pilot-medium-dark-skin-tone": {
+  "👩🏾✈": {
     name: "woman-pilot-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-2708",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x2708",
   },
-  "woman-pilot-dark-skin-tone": {
+  "👩🏿✈": {
     name: "woman-pilot-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-2708",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x2708",
   },
-  "man-pilot": {
+  "👨✈": {
     name: "man-pilot",
     category: "people",
     unicode: "_1f468-2708",
     htmlEntity: "&#x1F468;&#x2708",
   },
-  "man-pilot-light-skin-tone": {
+  "👨🏻✈": {
     name: "man-pilot-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-2708",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x2708",
   },
-  "man-pilot-medium-light-skin-tone": {
+  "👨🏼✈": {
     name: "man-pilot-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-2708",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x2708",
   },
-  "man-pilot-medium-skin-tone": {
+  "👨🏽✈": {
     name: "man-pilot-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-2708",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x2708",
   },
-  "man-pilot-medium-dark-skin-tone": {
+  "👨🏾✈": {
     name: "man-pilot-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-2708",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x2708",
   },
-  "man-pilot-dark-skin-tone": {
+  "👨🏿✈": {
     name: "man-pilot-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-2708",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x2708",
   },
-  astronaut: {
+  "🧑🚀": {
     name: "astronaut",
     category: "people",
     unicode: "_1f9d1-1f680",
     htmlEntity: "&#x1F9D1;&#x1F680",
   },
-  "astronaut-light-skin-tone": {
+  "🧑🏻🚀": {
     name: "astronaut-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-1f680",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x1F680",
   },
-  "astronaut-medium-light-skin-tone": {
+  "🧑🏼🚀": {
     name: "astronaut-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-1f680",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x1F680",
   },
-  "astronaut-medium-skin-tone": {
+  "🧑🏽🚀": {
     name: "astronaut-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-1f680",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x1F680",
   },
-  "astronaut-medium-dark-skin-tone": {
+  "🧑🏾🚀": {
     name: "astronaut-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-1f680",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x1F680",
   },
-  "astronaut-dark-skin-tone": {
+  "🧑🏿🚀": {
     name: "astronaut-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-1f680",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x1F680",
   },
-  "woman-astronaut": {
+  "👩🚀": {
     name: "woman-astronaut",
     category: "people",
     unicode: "_1f469-1f680",
     htmlEntity: "&#x1F469;&#x1F680",
   },
-  "woman-astronaut-light-skin-tone": {
+  "👩🏻🚀": {
     name: "woman-astronaut-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-1f680",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x1F680",
   },
-  "woman-astronaut-medium-light-skin-tone": {
+  "👩🏼🚀": {
     name: "woman-astronaut-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-1f680",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x1F680",
   },
-  "woman-astronaut-medium-skin-tone": {
+  "👩🏽🚀": {
     name: "woman-astronaut-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-1f680",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x1F680",
   },
-  "woman-astronaut-medium-dark-skin-tone": {
+  "👩🏾🚀": {
     name: "woman-astronaut-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-1f680",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x1F680",
   },
-  "woman-astronaut-dark-skin-tone": {
+  "👩🏿🚀": {
     name: "woman-astronaut-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-1f680",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x1F680",
   },
-  "man-astronaut": {
+  "👨🚀": {
     name: "man-astronaut",
     category: "people",
     unicode: "_1f468-1f680",
     htmlEntity: "&#x1F468;&#x1F680",
   },
-  "man-astronaut-light-skin-tone": {
+  "👨🏻🚀": {
     name: "man-astronaut-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-1f680",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x1F680",
   },
-  "man-astronaut-medium-light-skin-tone": {
+  "👨🏼🚀": {
     name: "man-astronaut-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-1f680",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x1F680",
   },
-  "man-astronaut-medium-skin-tone": {
+  "👨🏽🚀": {
     name: "man-astronaut-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-1f680",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x1F680",
   },
-  "man-astronaut-medium-dark-skin-tone": {
+  "👨🏾🚀": {
     name: "man-astronaut-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-1f680",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x1F680",
   },
-  "man-astronaut-dark-skin-tone": {
+  "👨🏿🚀": {
     name: "man-astronaut-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-1f680",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x1F680",
   },
-  judge: {
+  "🧑⚖": {
     name: "judge",
     category: "people",
     unicode: "_1f9d1-2696",
     htmlEntity: "&#x1F9D1;&#x2696",
   },
-  "judge-light-skin-tone": {
+  "🧑🏻⚖": {
     name: "judge-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-2696",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x2696",
   },
-  "judge-medium-light-skin-tone": {
+  "🧑🏼⚖": {
     name: "judge-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-2696",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x2696",
   },
-  "judge-medium-skin-tone": {
+  "🧑🏽⚖": {
     name: "judge-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-2696",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x2696",
   },
-  "judge-medium-dark-skin-tone": {
+  "🧑🏾⚖": {
     name: "judge-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-2696",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x2696",
   },
-  "judge-dark-skin-tone": {
+  "🧑🏿⚖": {
     name: "judge-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-2696",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x2696",
   },
-  "woman-judge": {
+  "👩⚖": {
     name: "woman-judge",
     category: "people",
     unicode: "_1f469-2696",
     htmlEntity: "&#x1F469;&#x2696",
   },
-  "woman-judge-light-skin-tone": {
+  "👩🏻⚖": {
     name: "woman-judge-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-2696",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x2696",
   },
-  "woman-judge-medium-light-skin-tone": {
+  "👩🏼⚖": {
     name: "woman-judge-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-2696",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x2696",
   },
-  "woman-judge-medium-skin-tone": {
+  "👩🏽⚖": {
     name: "woman-judge-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-2696",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x2696",
   },
-  "woman-judge-medium-dark-skin-tone": {
+  "👩🏾⚖": {
     name: "woman-judge-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-2696",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x2696",
   },
-  "woman-judge-dark-skin-tone": {
+  "👩🏿⚖": {
     name: "woman-judge-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-2696",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x2696",
   },
-  "man-judge": {
+  "👨⚖": {
     name: "man-judge",
     category: "people",
     unicode: "_1f468-2696",
     htmlEntity: "&#x1F468;&#x2696",
   },
-  "man-judge-light-skin-tone": {
+  "👨🏻⚖": {
     name: "man-judge-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-2696",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x2696",
   },
-  "man-judge-medium-light-skin-tone": {
+  "👨🏼⚖": {
     name: "man-judge-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-2696",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x2696",
   },
-  "man-judge-medium-skin-tone": {
+  "👨🏽⚖": {
     name: "man-judge-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-2696",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x2696",
   },
-  "man-judge-medium-dark-skin-tone": {
+  "👨🏾⚖": {
     name: "man-judge-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-2696",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x2696",
   },
-  "man-judge-dark-skin-tone": {
+  "👨🏿⚖": {
     name: "man-judge-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-2696",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x2696",
   },
-  "person-with-veil": {
+  "👰": {
     name: "person-with-veil",
     category: "people",
     unicode: "_1f470",
     htmlEntity: "&#x1F470",
   },
-  "person-with-veil-light-skin-tone": {
+  "👰🏻": {
     name: "person-with-veil-light-skin-tone",
     category: "diversity",
     unicode: "_1f470-1f3fb",
     htmlEntity: "&#x1F470;&#x1F3FB",
   },
-  "person-with-veil-medium-light-skin-tone": {
+  "👰🏼": {
     name: "person-with-veil-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f470-1f3fc",
     htmlEntity: "&#x1F470;&#x1F3FC",
   },
-  "person-with-veil-medium-skin-tone": {
+  "👰🏽": {
     name: "person-with-veil-medium-skin-tone",
     category: "diversity",
     unicode: "_1f470-1f3fd",
     htmlEntity: "&#x1F470;&#x1F3FD",
   },
-  "person-with-veil-medium-dark-skin-tone": {
+  "👰🏾": {
     name: "person-with-veil-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f470-1f3fe",
     htmlEntity: "&#x1F470;&#x1F3FE",
   },
-  "person-with-veil-dark-skin-tone": {
+  "👰🏿": {
     name: "person-with-veil-dark-skin-tone",
     category: "diversity",
     unicode: "_1f470-1f3ff",
     htmlEntity: "&#x1F470;&#x1F3FF",
   },
-  "woman-with-veil": {
+  "👰♀": {
     name: "woman-with-veil",
     category: "people",
     unicode: "_1f470-2640",
     htmlEntity: "&#x1F470;&#x2640",
   },
-  "woman-with-veil-light-skin-tone": {
+  "👰🏻♀": {
     name: "woman-with-veil-light-skin-tone",
     category: "diversity",
     unicode: "_1f470-1f3fb-2640",
     htmlEntity: "&#x1F470;&#x1F3FB;&#x2640",
   },
-  "woman-with-veil-medium-light-skin-tone": {
+  "👰🏼♀": {
     name: "woman-with-veil-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f470-1f3fc-2640",
     htmlEntity: "&#x1F470;&#x1F3FC;&#x2640",
   },
-  "woman-with-veil-medium-skin-tone": {
+  "👰🏽♀": {
     name: "woman-with-veil-medium-skin-tone",
     category: "diversity",
     unicode: "_1f470-1f3fd-2640",
     htmlEntity: "&#x1F470;&#x1F3FD;&#x2640",
   },
-  "woman-with-veil-medium-dark-skin-tone": {
+  "👰🏾♀": {
     name: "woman-with-veil-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f470-1f3fe-2640",
     htmlEntity: "&#x1F470;&#x1F3FE;&#x2640",
   },
-  "woman-with-veil-dark-skin-tone": {
+  "👰🏿♀": {
     name: "woman-with-veil-dark-skin-tone",
     category: "diversity",
     unicode: "_1f470-1f3ff-2640",
     htmlEntity: "&#x1F470;&#x1F3FF;&#x2640",
   },
-  "man-with-veil": {
+  "👰♂": {
     name: "man-with-veil",
     category: "people",
     unicode: "_1f470-2642",
     htmlEntity: "&#x1F470;&#x2642",
   },
-  "man-with-veil-light-skin-tone": {
+  "👰🏻♂": {
     name: "man-with-veil-light-skin-tone",
     category: "diversity",
     unicode: "_1f470-1f3fb-2642",
     htmlEntity: "&#x1F470;&#x1F3FB;&#x2642",
   },
-  "man-with-veil-medium-light-skin-tone": {
+  "👰🏼♂": {
     name: "man-with-veil-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f470-1f3fc-2642",
     htmlEntity: "&#x1F470;&#x1F3FC;&#x2642",
   },
-  "man-with-veil-medium-skin-tone": {
+  "👰🏽♂": {
     name: "man-with-veil-medium-skin-tone",
     category: "diversity",
     unicode: "_1f470-1f3fd-2642",
     htmlEntity: "&#x1F470;&#x1F3FD;&#x2642",
   },
-  "man-with-veil-medium-dark-skin-tone": {
+  "👰🏾♂": {
     name: "man-with-veil-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f470-1f3fe-2642",
     htmlEntity: "&#x1F470;&#x1F3FE;&#x2642",
   },
-  "man-with-veil-dark-skin-tone": {
+  "👰🏿♂": {
     name: "man-with-veil-dark-skin-tone",
     category: "diversity",
     unicode: "_1f470-1f3ff-2642",
     htmlEntity: "&#x1F470;&#x1F3FF;&#x2642",
   },
-  "person-in-tuxedo": {
+  "🤵": {
     name: "person-in-tuxedo",
     category: "people",
     unicode: "_1f935",
     htmlEntity: "&#x1F935",
   },
-  "person-in-tuxedo-light-skin-tone": {
+  "🤵🏻": {
     name: "person-in-tuxedo-light-skin-tone",
     category: "diversity",
     unicode: "_1f935-1f3fb",
     htmlEntity: "&#x1F935;&#x1F3FB",
   },
-  "person-in-tuxedo-medium-light-skin-tone": {
+  "🤵🏼": {
     name: "person-in-tuxedo-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f935-1f3fc",
     htmlEntity: "&#x1F935;&#x1F3FC",
   },
-  "person-in-tuxedo-medium-skin-tone": {
+  "🤵🏽": {
     name: "person-in-tuxedo-medium-skin-tone",
     category: "diversity",
     unicode: "_1f935-1f3fd",
     htmlEntity: "&#x1F935;&#x1F3FD",
   },
-  "person-in-tuxedo-medium-dark-skin-tone": {
+  "🤵🏾": {
     name: "person-in-tuxedo-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f935-1f3fe",
     htmlEntity: "&#x1F935;&#x1F3FE",
   },
-  "person-in-tuxedo-dark-skin-tone": {
+  "🤵🏿": {
     name: "person-in-tuxedo-dark-skin-tone",
     category: "diversity",
     unicode: "_1f935-1f3ff",
     htmlEntity: "&#x1F935;&#x1F3FF",
   },
-  "woman-in-tuxedo": {
+  "🤵♀": {
     name: "woman-in-tuxedo",
     category: "people",
     unicode: "_1f935-2640",
     htmlEntity: "&#x1F935;&#x2640",
   },
-  "woman-in-tuxedo-light-skin-tone": {
+  "🤵🏻♀": {
     name: "woman-in-tuxedo-light-skin-tone",
     category: "diversity",
     unicode: "_1f935-1f3fb-2640",
     htmlEntity: "&#x1F935;&#x1F3FB;&#x2640",
   },
-  "woman-in-tuxedo-medium-light-skin-tone": {
+  "🤵🏼♀": {
     name: "woman-in-tuxedo-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f935-1f3fc-2640",
     htmlEntity: "&#x1F935;&#x1F3FC;&#x2640",
   },
-  "woman-in-tuxedo-medium-skin-tone": {
+  "🤵🏽♀": {
     name: "woman-in-tuxedo-medium-skin-tone",
     category: "diversity",
     unicode: "_1f935-1f3fd-2640",
     htmlEntity: "&#x1F935;&#x1F3FD;&#x2640",
   },
-  "woman-in-tuxedo-medium-dark-skin-tone": {
+  "🤵🏾♀": {
     name: "woman-in-tuxedo-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f935-1f3fe-2640",
     htmlEntity: "&#x1F935;&#x1F3FE;&#x2640",
   },
-  "woman-in-tuxedo-dark-skin-tone": {
+  "🤵🏿♀": {
     name: "woman-in-tuxedo-dark-skin-tone",
     category: "diversity",
     unicode: "_1f935-1f3ff-2640",
     htmlEntity: "&#x1F935;&#x1F3FF;&#x2640",
   },
-  "man-in-tuxedo": {
+  "🤵♂": {
     name: "man-in-tuxedo",
     category: "people",
     unicode: "_1f935-2642",
     htmlEntity: "&#x1F935;&#x2642",
   },
-  "man-in-tuxedo-light-skin-tone": {
+  "🤵🏻♂": {
     name: "man-in-tuxedo-light-skin-tone",
     category: "diversity",
     unicode: "_1f935-1f3fb-2642",
     htmlEntity: "&#x1F935;&#x1F3FB;&#x2642",
   },
-  "man-in-tuxedo-medium-light-skin-tone": {
+  "🤵🏼♂": {
     name: "man-in-tuxedo-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f935-1f3fc-2642",
     htmlEntity: "&#x1F935;&#x1F3FC;&#x2642",
   },
-  "man-in-tuxedo-medium-skin-tone": {
+  "🤵🏽♂": {
     name: "man-in-tuxedo-medium-skin-tone",
     category: "diversity",
     unicode: "_1f935-1f3fd-2642",
     htmlEntity: "&#x1F935;&#x1F3FD;&#x2642",
   },
-  "man-in-tuxedo-medium-dark-skin-tone": {
+  "🤵🏾♂": {
     name: "man-in-tuxedo-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f935-1f3fe-2642",
     htmlEntity: "&#x1F935;&#x1F3FE;&#x2642",
   },
-  "man-in-tuxedo-dark-skin-tone": {
+  "🤵🏿♂": {
     name: "man-in-tuxedo-dark-skin-tone",
     category: "diversity",
     unicode: "_1f935-1f3ff-2642",
     htmlEntity: "&#x1F935;&#x1F3FF;&#x2642",
   },
-  princess: {
+  "👸": {
     name: "princess",
     category: "people",
     unicode: "_1f478",
     htmlEntity: "&#x1F478",
   },
-  "princess-light-skin-tone": {
+  "👸🏻": {
     name: "princess-light-skin-tone",
     category: "diversity",
     unicode: "_1f478-1f3fb",
     htmlEntity: "&#x1F478;&#x1F3FB",
   },
-  "princess-medium-light-skin-tone": {
+  "👸🏼": {
     name: "princess-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f478-1f3fc",
     htmlEntity: "&#x1F478;&#x1F3FC",
   },
-  "princess-medium-skin-tone": {
+  "👸🏽": {
     name: "princess-medium-skin-tone",
     category: "diversity",
     unicode: "_1f478-1f3fd",
     htmlEntity: "&#x1F478;&#x1F3FD",
   },
-  "princess-medium-dark-skin-tone": {
+  "👸🏾": {
     name: "princess-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f478-1f3fe",
     htmlEntity: "&#x1F478;&#x1F3FE",
   },
-  "princess-dark-skin-tone": {
+  "👸🏿": {
     name: "princess-dark-skin-tone",
     category: "diversity",
     unicode: "_1f478-1f3ff",
     htmlEntity: "&#x1F478;&#x1F3FF",
   },
-  prince: {
+  "🤴": {
     name: "prince",
     category: "people",
     unicode: "_1f934",
     htmlEntity: "&#x1F934",
   },
-  "prince-light-skin-tone": {
+  "🤴🏻": {
     name: "prince-light-skin-tone",
     category: "diversity",
     unicode: "_1f934-1f3fb",
     htmlEntity: "&#x1F934;&#x1F3FB",
   },
-  "prince-medium-light-skin-tone": {
+  "🤴🏼": {
     name: "prince-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f934-1f3fc",
     htmlEntity: "&#x1F934;&#x1F3FC",
   },
-  "prince-medium-skin-tone": {
+  "🤴🏽": {
     name: "prince-medium-skin-tone",
     category: "diversity",
     unicode: "_1f934-1f3fd",
     htmlEntity: "&#x1F934;&#x1F3FD",
   },
-  "prince-medium-dark-skin-tone": {
+  "🤴🏾": {
     name: "prince-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f934-1f3fe",
     htmlEntity: "&#x1F934;&#x1F3FE",
   },
-  "prince-dark-skin-tone": {
+  "🤴🏿": {
     name: "prince-dark-skin-tone",
     category: "diversity",
     unicode: "_1f934-1f3ff",
     htmlEntity: "&#x1F934;&#x1F3FF",
   },
-  superhero: {
+  "🦸": {
     name: "superhero",
     category: "people",
     unicode: "_1f9b8",
     htmlEntity: "&#x1F9B8",
   },
-  "superhero-light-skin-tone": {
+  "🦸🏻": {
     name: "superhero-light-skin-tone",
     category: "diversity",
     unicode: "_1f9b8-1f3fb",
     htmlEntity: "&#x1F9B8;&#x1F3FB",
   },
-  "superhero-medium-light-skin-tone": {
+  "🦸🏼": {
     name: "superhero-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9b8-1f3fc",
     htmlEntity: "&#x1F9B8;&#x1F3FC",
   },
-  "superhero-medium-skin-tone": {
+  "🦸🏽": {
     name: "superhero-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9b8-1f3fd",
     htmlEntity: "&#x1F9B8;&#x1F3FD",
   },
-  "superhero-medium-dark-skin-tone": {
+  "🦸🏾": {
     name: "superhero-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9b8-1f3fe",
     htmlEntity: "&#x1F9B8;&#x1F3FE",
   },
-  "superhero-dark-skin-tone": {
+  "🦸🏿": {
     name: "superhero-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9b8-1f3ff",
     htmlEntity: "&#x1F9B8;&#x1F3FF",
   },
-  "woman-superhero": {
+  "🦸♀": {
     name: "woman-superhero",
     category: "people",
     unicode: "_1f9b8-2640",
     htmlEntity: "&#x1F9B8;&#x2640",
   },
-  "woman-superhero-light-skin-tone": {
+  "🦸🏻♀": {
     name: "woman-superhero-light-skin-tone",
     category: "diversity",
     unicode: "_1f9b8-1f3fb-2640",
     htmlEntity: "&#x1F9B8;&#x1F3FB;&#x2640",
   },
-  "woman-superhero-medium-light-skin-tone": {
+  "🦸🏼♀": {
     name: "woman-superhero-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9b8-1f3fc-2640",
     htmlEntity: "&#x1F9B8;&#x1F3FC;&#x2640",
   },
-  "woman-superhero-medium-skin-tone": {
+  "🦸🏽♀": {
     name: "woman-superhero-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9b8-1f3fd-2640",
     htmlEntity: "&#x1F9B8;&#x1F3FD;&#x2640",
   },
-  "woman-superhero-medium-dark-skin-tone": {
+  "🦸🏾♀": {
     name: "woman-superhero-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9b8-1f3fe-2640",
     htmlEntity: "&#x1F9B8;&#x1F3FE;&#x2640",
   },
-  "woman-superhero-dark-skin-tone": {
+  "🦸🏿♀": {
     name: "woman-superhero-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9b8-1f3ff-2640",
     htmlEntity: "&#x1F9B8;&#x1F3FF;&#x2640",
   },
-  "man-superhero": {
+  "🦸♂": {
     name: "man-superhero",
     category: "people",
     unicode: "_1f9b8-2642",
     htmlEntity: "&#x1F9B8;&#x2642",
   },
-  "man-superhero-light-skin-tone": {
+  "🦸🏻♂": {
     name: "man-superhero-light-skin-tone",
     category: "diversity",
     unicode: "_1f9b8-1f3fb-2642",
     htmlEntity: "&#x1F9B8;&#x1F3FB;&#x2642",
   },
-  "man-superhero-medium-light-skin-tone": {
+  "🦸🏼♂": {
     name: "man-superhero-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9b8-1f3fc-2642",
     htmlEntity: "&#x1F9B8;&#x1F3FC;&#x2642",
   },
-  "man-superhero-medium-skin-tone": {
+  "🦸🏽♂": {
     name: "man-superhero-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9b8-1f3fd-2642",
     htmlEntity: "&#x1F9B8;&#x1F3FD;&#x2642",
   },
-  "man-superhero-medium-dark-skin-tone": {
+  "🦸🏾♂": {
     name: "man-superhero-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9b8-1f3fe-2642",
     htmlEntity: "&#x1F9B8;&#x1F3FE;&#x2642",
   },
-  "man-superhero-dark-skin-tone": {
+  "🦸🏿♂": {
     name: "man-superhero-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9b8-1f3ff-2642",
     htmlEntity: "&#x1F9B8;&#x1F3FF;&#x2642",
   },
-  supervillain: {
+  "🦹": {
     name: "supervillain",
     category: "people",
     unicode: "_1f9b9",
     htmlEntity: "&#x1F9B9",
   },
-  "supervillain-light-skin-tone": {
+  "🦹🏻": {
     name: "supervillain-light-skin-tone",
     category: "diversity",
     unicode: "_1f9b9-1f3fb",
     htmlEntity: "&#x1F9B9;&#x1F3FB",
   },
-  "supervillain-medium-light-skin-tone": {
+  "🦹🏼": {
     name: "supervillain-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9b9-1f3fc",
     htmlEntity: "&#x1F9B9;&#x1F3FC",
   },
-  "supervillain-medium-skin-tone": {
+  "🦹🏽": {
     name: "supervillain-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9b9-1f3fd",
     htmlEntity: "&#x1F9B9;&#x1F3FD",
   },
-  "supervillain-medium-dark-skin-tone": {
+  "🦹🏾": {
     name: "supervillain-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9b9-1f3fe",
     htmlEntity: "&#x1F9B9;&#x1F3FE",
   },
-  "supervillain-dark-skin-tone": {
+  "🦹🏿": {
     name: "supervillain-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9b9-1f3ff",
     htmlEntity: "&#x1F9B9;&#x1F3FF",
   },
-  "woman-supervillain": {
+  "🦹♀": {
     name: "woman-supervillain",
     category: "people",
     unicode: "_1f9b9-2640",
     htmlEntity: "&#x1F9B9;&#x2640",
   },
-  "woman-supervillain-light-skin-tone": {
+  "🦹🏻♀": {
     name: "woman-supervillain-light-skin-tone",
     category: "diversity",
     unicode: "_1f9b9-1f3fb-2640",
     htmlEntity: "&#x1F9B9;&#x1F3FB;&#x2640",
   },
-  "woman-supervillain-medium-light-skin-tone": {
+  "🦹🏼♀": {
     name: "woman-supervillain-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9b9-1f3fc-2640",
     htmlEntity: "&#x1F9B9;&#x1F3FC;&#x2640",
   },
-  "woman-supervillain-medium-skin-tone": {
+  "🦹🏽♀": {
     name: "woman-supervillain-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9b9-1f3fd-2640",
     htmlEntity: "&#x1F9B9;&#x1F3FD;&#x2640",
   },
-  "woman-supervillain-medium-dark-skin-tone": {
+  "🦹🏾♀": {
     name: "woman-supervillain-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9b9-1f3fe-2640",
     htmlEntity: "&#x1F9B9;&#x1F3FE;&#x2640",
   },
-  "woman-supervillain-dark-skin-tone": {
+  "🦹🏿♀": {
     name: "woman-supervillain-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9b9-1f3ff-2640",
     htmlEntity: "&#x1F9B9;&#x1F3FF;&#x2640",
   },
-  "man-supervillain": {
+  "🦹♂": {
     name: "man-supervillain",
     category: "people",
     unicode: "_1f9b9-2642",
     htmlEntity: "&#x1F9B9;&#x2642",
   },
-  "man-supervillain-light-skin-tone": {
+  "🦹🏻♂": {
     name: "man-supervillain-light-skin-tone",
     category: "diversity",
     unicode: "_1f9b9-1f3fb-2642",
     htmlEntity: "&#x1F9B9;&#x1F3FB;&#x2642",
   },
-  "man-supervillain-medium-light-skin-tone": {
+  "🦹🏼♂": {
     name: "man-supervillain-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9b9-1f3fc-2642",
     htmlEntity: "&#x1F9B9;&#x1F3FC;&#x2642",
   },
-  "man-supervillain-medium-skin-tone": {
+  "🦹🏽♂": {
     name: "man-supervillain-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9b9-1f3fd-2642",
     htmlEntity: "&#x1F9B9;&#x1F3FD;&#x2642",
   },
-  "man-supervillain-medium-dark-skin-tone": {
+  "🦹🏾♂": {
     name: "man-supervillain-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9b9-1f3fe-2642",
     htmlEntity: "&#x1F9B9;&#x1F3FE;&#x2642",
   },
-  "man-supervillain-dark-skin-tone": {
+  "🦹🏿♂": {
     name: "man-supervillain-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9b9-1f3ff-2642",
     htmlEntity: "&#x1F9B9;&#x1F3FF;&#x2642",
   },
-  ninja: {
+  "🥷": {
     name: "ninja",
     category: "people",
     unicode: "_1f977",
     htmlEntity: "&#x1F977",
   },
-  "ninja-light-skin-tone": {
+  "🥷🏻": {
     name: "ninja-light-skin-tone",
     category: "diversity",
     unicode: "_1f977-1f3fb",
     htmlEntity: "&#x1F977;&#x1F3FB",
   },
-  "ninja-medium-light-skin-tone": {
+  "🥷🏼": {
     name: "ninja-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f977-1f3fc",
     htmlEntity: "&#x1F977;&#x1F3FC",
   },
-  "ninja-medium-skin-tone": {
+  "🥷🏽": {
     name: "ninja-medium-skin-tone",
     category: "diversity",
     unicode: "_1f977-1f3fd",
     htmlEntity: "&#x1F977;&#x1F3FD",
   },
-  "ninja-medium-dark-skin-tone": {
+  "🥷🏾": {
     name: "ninja-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f977-1f3fe",
     htmlEntity: "&#x1F977;&#x1F3FE",
   },
-  "ninja-dark-skin-tone": {
+  "🥷🏿": {
     name: "ninja-dark-skin-tone",
     category: "diversity",
     unicode: "_1f977-1f3ff",
     htmlEntity: "&#x1F977;&#x1F3FF",
   },
-  "mx-claus": {
+  "🧑🎄": {
     name: "mx-claus",
     category: "people",
     unicode: "_1f9d1-1f384",
     htmlEntity: "&#x1F9D1;&#x1F384",
   },
-  "mx-claus-light-skin-tone": {
+  "🧑🏻🎄": {
     name: "mx-claus-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-1f384",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x1F384",
   },
-  "mx-claus-medium-light-skin-tone": {
+  "🧑🏼🎄": {
     name: "mx-claus-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-1f384",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x1F384",
   },
-  "mx-claus-medium-skin-tone": {
+  "🧑🏽🎄": {
     name: "mx-claus-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-1f384",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x1F384",
   },
-  "mx-claus-medium-dark-skin-tone": {
+  "🧑🏾🎄": {
     name: "mx-claus-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-1f384",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x1F384",
   },
-  "mx-claus-dark-skin-tone": {
+  "🧑🏿🎄": {
     name: "mx-claus-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-1f384",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x1F384",
   },
-  "mrs-claus": {
+  "🤶": {
     name: "mrs-claus",
     category: "people",
     unicode: "_1f936",
     htmlEntity: "&#x1F936",
   },
-  "mrs-claus-light-skin-tone": {
+  "🤶🏻": {
     name: "mrs-claus-light-skin-tone",
     category: "diversity",
     unicode: "_1f936-1f3fb",
     htmlEntity: "&#x1F936;&#x1F3FB",
   },
-  "mrs-claus-medium-light-skin-tone": {
+  "🤶🏼": {
     name: "mrs-claus-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f936-1f3fc",
     htmlEntity: "&#x1F936;&#x1F3FC",
   },
-  "mrs-claus-medium-skin-tone": {
+  "🤶🏽": {
     name: "mrs-claus-medium-skin-tone",
     category: "diversity",
     unicode: "_1f936-1f3fd",
     htmlEntity: "&#x1F936;&#x1F3FD",
   },
-  "mrs-claus-medium-dark-skin-tone": {
+  "🤶🏾": {
     name: "mrs-claus-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f936-1f3fe",
     htmlEntity: "&#x1F936;&#x1F3FE",
   },
-  "mrs-claus-dark-skin-tone": {
+  "🤶🏿": {
     name: "mrs-claus-dark-skin-tone",
     category: "diversity",
     unicode: "_1f936-1f3ff",
     htmlEntity: "&#x1F936;&#x1F3FF",
   },
-  "santa-claus": {
+  "🎅": {
     name: "santa-claus",
     category: "people",
     unicode: "_1f385",
     htmlEntity: "&#x1F385",
   },
-  "santa-claus-light-skin-tone": {
+  "🎅🏻": {
     name: "santa-claus-light-skin-tone",
     category: "diversity",
     unicode: "_1f385-1f3fb",
     htmlEntity: "&#x1F385;&#x1F3FB",
   },
-  "santa-claus-medium-light-skin-tone": {
+  "🎅🏼": {
     name: "santa-claus-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f385-1f3fc",
     htmlEntity: "&#x1F385;&#x1F3FC",
   },
-  "santa-claus-medium-skin-tone": {
+  "🎅🏽": {
     name: "santa-claus-medium-skin-tone",
     category: "diversity",
     unicode: "_1f385-1f3fd",
     htmlEntity: "&#x1F385;&#x1F3FD",
   },
-  "santa-claus-medium-dark-skin-tone": {
+  "🎅🏾": {
     name: "santa-claus-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f385-1f3fe",
     htmlEntity: "&#x1F385;&#x1F3FE",
   },
-  "santa-claus-dark-skin-tone": {
+  "🎅🏿": {
     name: "santa-claus-dark-skin-tone",
     category: "diversity",
     unicode: "_1f385-1f3ff",
     htmlEntity: "&#x1F385;&#x1F3FF",
   },
-  mage: {
+  "🧙": {
     name: "mage",
     category: "people",
     unicode: "_1f9d9",
     htmlEntity: "&#x1F9D9",
   },
-  "mage-light-skin-tone": {
+  "🧙🏻": {
     name: "mage-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d9-1f3fb",
     htmlEntity: "&#x1F9D9;&#x1F3FB",
   },
-  "mage-medium-light-skin-tone": {
+  "🧙🏼": {
     name: "mage-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d9-1f3fc",
     htmlEntity: "&#x1F9D9;&#x1F3FC",
   },
-  "mage-medium-skin-tone": {
+  "🧙🏽": {
     name: "mage-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d9-1f3fd",
     htmlEntity: "&#x1F9D9;&#x1F3FD",
   },
-  "mage-medium-dark-skin-tone": {
+  "🧙🏾": {
     name: "mage-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d9-1f3fe",
     htmlEntity: "&#x1F9D9;&#x1F3FE",
   },
-  "mage-dark-skin-tone": {
+  "🧙🏿": {
     name: "mage-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d9-1f3ff",
     htmlEntity: "&#x1F9D9;&#x1F3FF",
   },
-  "woman-mage": {
+  "🧙♀": {
     name: "woman-mage",
     category: "people",
     unicode: "_1f9d9-2640",
     htmlEntity: "&#x1F9D9;&#x2640",
   },
-  "woman-mage-light-skin-tone": {
+  "🧙🏻♀": {
     name: "woman-mage-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d9-1f3fb-2640",
     htmlEntity: "&#x1F9D9;&#x1F3FB;&#x2640",
   },
-  "woman-mage-medium-light-skin-tone": {
+  "🧙🏼♀": {
     name: "woman-mage-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d9-1f3fc-2640",
     htmlEntity: "&#x1F9D9;&#x1F3FC;&#x2640",
   },
-  "woman-mage-medium-skin-tone": {
+  "🧙🏽♀": {
     name: "woman-mage-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d9-1f3fd-2640",
     htmlEntity: "&#x1F9D9;&#x1F3FD;&#x2640",
   },
-  "woman-mage-medium-dark-skin-tone": {
+  "🧙🏾♀": {
     name: "woman-mage-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d9-1f3fe-2640",
     htmlEntity: "&#x1F9D9;&#x1F3FE;&#x2640",
   },
-  "woman-mage-dark-skin-tone": {
+  "🧙🏿♀": {
     name: "woman-mage-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d9-1f3ff-2640",
     htmlEntity: "&#x1F9D9;&#x1F3FF;&#x2640",
   },
-  "man-mage": {
+  "🧙♂": {
     name: "man-mage",
     category: "people",
     unicode: "_1f9d9-2642",
     htmlEntity: "&#x1F9D9;&#x2642",
   },
-  "man-mage-light-skin-tone": {
+  "🧙🏻♂": {
     name: "man-mage-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d9-1f3fb-2642",
     htmlEntity: "&#x1F9D9;&#x1F3FB;&#x2642",
   },
-  "man-mage-medium-light-skin-tone": {
+  "🧙🏼♂": {
     name: "man-mage-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d9-1f3fc-2642",
     htmlEntity: "&#x1F9D9;&#x1F3FC;&#x2642",
   },
-  "man-mage-medium-skin-tone": {
+  "🧙🏽♂": {
     name: "man-mage-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d9-1f3fd-2642",
     htmlEntity: "&#x1F9D9;&#x1F3FD;&#x2642",
   },
-  "man-mage-medium-dark-skin-tone": {
+  "🧙🏾♂": {
     name: "man-mage-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d9-1f3fe-2642",
     htmlEntity: "&#x1F9D9;&#x1F3FE;&#x2642",
   },
-  "man-mage-dark-skin-tone": {
+  "🧙🏿♂": {
     name: "man-mage-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d9-1f3ff-2642",
     htmlEntity: "&#x1F9D9;&#x1F3FF;&#x2642",
   },
-  elf: {
+  "🧝": {
     name: "elf",
     category: "people",
     unicode: "_1f9dd",
     htmlEntity: "&#x1F9DD",
   },
-  "elf-light-skin-tone": {
+  "🧝🏻": {
     name: "elf-light-skin-tone",
     category: "diversity",
     unicode: "_1f9dd-1f3fb",
     htmlEntity: "&#x1F9DD;&#x1F3FB",
   },
-  "elf-medium-light-skin-tone": {
+  "🧝🏼": {
     name: "elf-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9dd-1f3fc",
     htmlEntity: "&#x1F9DD;&#x1F3FC",
   },
-  "elf-medium-skin-tone": {
+  "🧝🏽": {
     name: "elf-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9dd-1f3fd",
     htmlEntity: "&#x1F9DD;&#x1F3FD",
   },
-  "elf-medium-dark-skin-tone": {
+  "🧝🏾": {
     name: "elf-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9dd-1f3fe",
     htmlEntity: "&#x1F9DD;&#x1F3FE",
   },
-  "elf-dark-skin-tone": {
+  "🧝🏿": {
     name: "elf-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9dd-1f3ff",
     htmlEntity: "&#x1F9DD;&#x1F3FF",
   },
-  "woman-elf": {
+  "🧝♀": {
     name: "woman-elf",
     category: "people",
     unicode: "_1f9dd-2640",
     htmlEntity: "&#x1F9DD;&#x2640",
   },
-  "woman-elf-light-skin-tone": {
+  "🧝🏻♀": {
     name: "woman-elf-light-skin-tone",
     category: "diversity",
     unicode: "_1f9dd-1f3fb-2640",
     htmlEntity: "&#x1F9DD;&#x1F3FB;&#x2640",
   },
-  "woman-elf-medium-light-skin-tone": {
+  "🧝🏼♀": {
     name: "woman-elf-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9dd-1f3fc-2640",
     htmlEntity: "&#x1F9DD;&#x1F3FC;&#x2640",
   },
-  "woman-elf-medium-skin-tone": {
+  "🧝🏽♀": {
     name: "woman-elf-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9dd-1f3fd-2640",
     htmlEntity: "&#x1F9DD;&#x1F3FD;&#x2640",
   },
-  "woman-elf-medium-dark-skin-tone": {
+  "🧝🏾♀": {
     name: "woman-elf-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9dd-1f3fe-2640",
     htmlEntity: "&#x1F9DD;&#x1F3FE;&#x2640",
   },
-  "woman-elf-dark-skin-tone": {
+  "🧝🏿♀": {
     name: "woman-elf-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9dd-1f3ff-2640",
     htmlEntity: "&#x1F9DD;&#x1F3FF;&#x2640",
   },
-  "man-elf": {
+  "🧝♂": {
     name: "man-elf",
     category: "people",
     unicode: "_1f9dd-2642",
     htmlEntity: "&#x1F9DD;&#x2642",
   },
-  "man-elf-light-skin-tone": {
+  "🧝🏻♂": {
     name: "man-elf-light-skin-tone",
     category: "diversity",
     unicode: "_1f9dd-1f3fb-2642",
     htmlEntity: "&#x1F9DD;&#x1F3FB;&#x2642",
   },
-  "man-elf-medium-light-skin-tone": {
+  "🧝🏼♂": {
     name: "man-elf-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9dd-1f3fc-2642",
     htmlEntity: "&#x1F9DD;&#x1F3FC;&#x2642",
   },
-  "man-elf-medium-skin-tone": {
+  "🧝🏽♂": {
     name: "man-elf-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9dd-1f3fd-2642",
     htmlEntity: "&#x1F9DD;&#x1F3FD;&#x2642",
   },
-  "man-elf-medium-dark-skin-tone": {
+  "🧝🏾♂": {
     name: "man-elf-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9dd-1f3fe-2642",
     htmlEntity: "&#x1F9DD;&#x1F3FE;&#x2642",
   },
-  "man-elf-dark-skin-tone": {
+  "🧝🏿♂": {
     name: "man-elf-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9dd-1f3ff-2642",
     htmlEntity: "&#x1F9DD;&#x1F3FF;&#x2642",
   },
-  vampire: {
+  "🧛": {
     name: "vampire",
     category: "people",
     unicode: "_1f9db",
     htmlEntity: "&#x1F9DB",
   },
-  "vampire-light-skin-tone": {
+  "🧛🏻": {
     name: "vampire-light-skin-tone",
     category: "diversity",
     unicode: "_1f9db-1f3fb",
     htmlEntity: "&#x1F9DB;&#x1F3FB",
   },
-  "vampire-medium-light-skin-tone": {
+  "🧛🏼": {
     name: "vampire-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9db-1f3fc",
     htmlEntity: "&#x1F9DB;&#x1F3FC",
   },
-  "vampire-medium-skin-tone": {
+  "🧛🏽": {
     name: "vampire-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9db-1f3fd",
     htmlEntity: "&#x1F9DB;&#x1F3FD",
   },
-  "vampire-medium-dark-skin-tone": {
+  "🧛🏾": {
     name: "vampire-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9db-1f3fe",
     htmlEntity: "&#x1F9DB;&#x1F3FE",
   },
-  "vampire-dark-skin-tone": {
+  "🧛🏿": {
     name: "vampire-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9db-1f3ff",
     htmlEntity: "&#x1F9DB;&#x1F3FF",
   },
-  "woman-vampire": {
+  "🧛♀": {
     name: "woman-vampire",
     category: "people",
     unicode: "_1f9db-2640",
     htmlEntity: "&#x1F9DB;&#x2640",
   },
-  "woman-vampire-light-skin-tone": {
+  "🧛🏻♀": {
     name: "woman-vampire-light-skin-tone",
     category: "diversity",
     unicode: "_1f9db-1f3fb-2640",
     htmlEntity: "&#x1F9DB;&#x1F3FB;&#x2640",
   },
-  "woman-vampire-medium-light-skin-tone": {
+  "🧛🏼♀": {
     name: "woman-vampire-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9db-1f3fc-2640",
     htmlEntity: "&#x1F9DB;&#x1F3FC;&#x2640",
   },
-  "woman-vampire-medium-skin-tone": {
+  "🧛🏽♀": {
     name: "woman-vampire-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9db-1f3fd-2640",
     htmlEntity: "&#x1F9DB;&#x1F3FD;&#x2640",
   },
-  "woman-vampire-medium-dark-skin-tone": {
+  "🧛🏾♀": {
     name: "woman-vampire-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9db-1f3fe-2640",
     htmlEntity: "&#x1F9DB;&#x1F3FE;&#x2640",
   },
-  "woman-vampire-dark-skin-tone": {
+  "🧛🏿♀": {
     name: "woman-vampire-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9db-1f3ff-2640",
     htmlEntity: "&#x1F9DB;&#x1F3FF;&#x2640",
   },
-  "man-vampire": {
+  "🧛♂": {
     name: "man-vampire",
     category: "people",
     unicode: "_1f9db-2642",
     htmlEntity: "&#x1F9DB;&#x2642",
   },
-  "man-vampire-light-skin-tone": {
+  "🧛🏻♂": {
     name: "man-vampire-light-skin-tone",
     category: "diversity",
     unicode: "_1f9db-1f3fb-2642",
     htmlEntity: "&#x1F9DB;&#x1F3FB;&#x2642",
   },
-  "man-vampire-medium-light-skin-tone": {
+  "🧛🏼♂": {
     name: "man-vampire-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9db-1f3fc-2642",
     htmlEntity: "&#x1F9DB;&#x1F3FC;&#x2642",
   },
-  "man-vampire-medium-skin-tone": {
+  "🧛🏽♂": {
     name: "man-vampire-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9db-1f3fd-2642",
     htmlEntity: "&#x1F9DB;&#x1F3FD;&#x2642",
   },
-  "man-vampire-medium-dark-skin-tone": {
+  "🧛🏾♂": {
     name: "man-vampire-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9db-1f3fe-2642",
     htmlEntity: "&#x1F9DB;&#x1F3FE;&#x2642",
   },
-  "man-vampire-dark-skin-tone": {
+  "🧛🏿♂": {
     name: "man-vampire-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9db-1f3ff-2642",
     htmlEntity: "&#x1F9DB;&#x1F3FF;&#x2642",
   },
-  zombie: {
+  "🧟": {
     name: "zombie",
     category: "people",
     unicode: "_1f9df",
     htmlEntity: "&#x1F9DF",
   },
-  "woman-zombie": {
+  "🧟♀": {
     name: "woman-zombie",
     category: "people",
     unicode: "_1f9df-2640",
     htmlEntity: "&#x1F9DF;&#x2640",
   },
-  "man-zombie": {
+  "🧟♂": {
     name: "man-zombie",
     category: "people",
     unicode: "_1f9df-2642",
     htmlEntity: "&#x1F9DF;&#x2642",
   },
-  genie: {
+  "🧞": {
     name: "genie",
     category: "people",
     unicode: "_1f9de",
     htmlEntity: "&#x1F9DE",
   },
-  "woman-genie": {
+  "🧞♀": {
     name: "woman-genie",
     category: "people",
     unicode: "_1f9de-2640",
     htmlEntity: "&#x1F9DE;&#x2640",
   },
-  "man-genie": {
+  "🧞♂": {
     name: "man-genie",
     category: "people",
     unicode: "_1f9de-2642",
     htmlEntity: "&#x1F9DE;&#x2642",
   },
-  merperson: {
+  "🧜": {
     name: "merperson",
     category: "people",
     unicode: "_1f9dc",
     htmlEntity: "&#x1F9DC",
   },
-  "merperson-light-skin-tone": {
+  "🧜🏻": {
     name: "merperson-light-skin-tone",
     category: "diversity",
     unicode: "_1f9dc-1f3fb",
     htmlEntity: "&#x1F9DC;&#x1F3FB",
   },
-  "merperson-medium-light-skin-tone": {
+  "🧜🏼": {
     name: "merperson-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9dc-1f3fc",
     htmlEntity: "&#x1F9DC;&#x1F3FC",
   },
-  "merperson-medium-skin-tone": {
+  "🧜🏽": {
     name: "merperson-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9dc-1f3fd",
     htmlEntity: "&#x1F9DC;&#x1F3FD",
   },
-  "merperson-medium-dark-skin-tone": {
+  "🧜🏾": {
     name: "merperson-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9dc-1f3fe",
     htmlEntity: "&#x1F9DC;&#x1F3FE",
   },
-  "merperson-dark-skin-tone": {
+  "🧜🏿": {
     name: "merperson-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9dc-1f3ff",
     htmlEntity: "&#x1F9DC;&#x1F3FF",
   },
-  mermaid: {
+  "🧜♀": {
     name: "mermaid",
     category: "people",
     unicode: "_1f9dc-2640",
     htmlEntity: "&#x1F9DC;&#x2640",
   },
-  "mermaid-light-skin-tone": {
+  "🧜🏻♀": {
     name: "mermaid-light-skin-tone",
     category: "diversity",
     unicode: "_1f9dc-1f3fb-2640",
     htmlEntity: "&#x1F9DC;&#x1F3FB;&#x2640",
   },
-  "mermaid-medium-light-skin-tone": {
+  "🧜🏼♀": {
     name: "mermaid-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9dc-1f3fc-2640",
     htmlEntity: "&#x1F9DC;&#x1F3FC;&#x2640",
   },
-  "mermaid-medium-skin-tone": {
+  "🧜🏽♀": {
     name: "mermaid-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9dc-1f3fd-2640",
     htmlEntity: "&#x1F9DC;&#x1F3FD;&#x2640",
   },
-  "mermaid-medium-dark-skin-tone": {
+  "🧜🏾♀": {
     name: "mermaid-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9dc-1f3fe-2640",
     htmlEntity: "&#x1F9DC;&#x1F3FE;&#x2640",
   },
-  "mermaid-dark-skin-tone": {
+  "🧜🏿♀": {
     name: "mermaid-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9dc-1f3ff-2640",
     htmlEntity: "&#x1F9DC;&#x1F3FF;&#x2640",
   },
-  merman: {
+  "🧜♂": {
     name: "merman",
     category: "people",
     unicode: "_1f9dc-2642",
     htmlEntity: "&#x1F9DC;&#x2642",
   },
-  "merman-light-skin-tone": {
+  "🧜🏻♂": {
     name: "merman-light-skin-tone",
     category: "diversity",
     unicode: "_1f9dc-1f3fb-2642",
     htmlEntity: "&#x1F9DC;&#x1F3FB;&#x2642",
   },
-  "merman-medium-light-skin-tone": {
+  "🧜🏼♂": {
     name: "merman-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9dc-1f3fc-2642",
     htmlEntity: "&#x1F9DC;&#x1F3FC;&#x2642",
   },
-  "merman-medium-skin-tone": {
+  "🧜🏽♂": {
     name: "merman-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9dc-1f3fd-2642",
     htmlEntity: "&#x1F9DC;&#x1F3FD;&#x2642",
   },
-  "merman-medium-dark-skin-tone": {
+  "🧜🏾♂": {
     name: "merman-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9dc-1f3fe-2642",
     htmlEntity: "&#x1F9DC;&#x1F3FE;&#x2642",
   },
-  "merman-dark-skin-tone": {
+  "🧜🏿♂": {
     name: "merman-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9dc-1f3ff-2642",
     htmlEntity: "&#x1F9DC;&#x1F3FF;&#x2642",
   },
-  fairy: {
+  "🧚": {
     name: "fairy",
     category: "people",
     unicode: "_1f9da",
     htmlEntity: "&#x1F9DA",
   },
-  "fairy-light-skin-tone": {
+  "🧚🏻": {
     name: "fairy-light-skin-tone",
     category: "diversity",
     unicode: "_1f9da-1f3fb",
     htmlEntity: "&#x1F9DA;&#x1F3FB",
   },
-  "fairy-medium-light-skin-tone": {
+  "🧚🏼": {
     name: "fairy-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9da-1f3fc",
     htmlEntity: "&#x1F9DA;&#x1F3FC",
   },
-  "fairy-medium-skin-tone": {
+  "🧚🏽": {
     name: "fairy-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9da-1f3fd",
     htmlEntity: "&#x1F9DA;&#x1F3FD",
   },
-  "fairy-medium-dark-skin-tone": {
+  "🧚🏾": {
     name: "fairy-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9da-1f3fe",
     htmlEntity: "&#x1F9DA;&#x1F3FE",
   },
-  "fairy-dark-skin-tone": {
+  "🧚🏿": {
     name: "fairy-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9da-1f3ff",
     htmlEntity: "&#x1F9DA;&#x1F3FF",
   },
-  "woman-fairy": {
+  "🧚♀": {
     name: "woman-fairy",
     category: "people",
     unicode: "_1f9da-2640",
     htmlEntity: "&#x1F9DA;&#x2640",
   },
-  "woman-fairy-light-skin-tone": {
+  "🧚🏻♀": {
     name: "woman-fairy-light-skin-tone",
     category: "diversity",
     unicode: "_1f9da-1f3fb-2640",
     htmlEntity: "&#x1F9DA;&#x1F3FB;&#x2640",
   },
-  "woman-fairy-medium-light-skin-tone": {
+  "🧚🏼♀": {
     name: "woman-fairy-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9da-1f3fc-2640",
     htmlEntity: "&#x1F9DA;&#x1F3FC;&#x2640",
   },
-  "woman-fairy-medium-skin-tone": {
+  "🧚🏽♀": {
     name: "woman-fairy-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9da-1f3fd-2640",
     htmlEntity: "&#x1F9DA;&#x1F3FD;&#x2640",
   },
-  "woman-fairy-medium-dark-skin-tone": {
+  "🧚🏾♀": {
     name: "woman-fairy-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9da-1f3fe-2640",
     htmlEntity: "&#x1F9DA;&#x1F3FE;&#x2640",
   },
-  "woman-fairy-dark-skin-tone": {
+  "🧚🏿♀": {
     name: "woman-fairy-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9da-1f3ff-2640",
     htmlEntity: "&#x1F9DA;&#x1F3FF;&#x2640",
   },
-  "man-fairy": {
+  "🧚♂": {
     name: "man-fairy",
     category: "people",
     unicode: "_1f9da-2642",
     htmlEntity: "&#x1F9DA;&#x2642",
   },
-  "man-fairy-light-skin-tone": {
+  "🧚🏻♂": {
     name: "man-fairy-light-skin-tone",
     category: "diversity",
     unicode: "_1f9da-1f3fb-2642",
     htmlEntity: "&#x1F9DA;&#x1F3FB;&#x2642",
   },
-  "man-fairy-medium-light-skin-tone": {
+  "🧚🏼♂": {
     name: "man-fairy-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9da-1f3fc-2642",
     htmlEntity: "&#x1F9DA;&#x1F3FC;&#x2642",
   },
-  "man-fairy-medium-skin-tone": {
+  "🧚🏽♂": {
     name: "man-fairy-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9da-1f3fd-2642",
     htmlEntity: "&#x1F9DA;&#x1F3FD;&#x2642",
   },
-  "man-fairy-medium-dark-skin-tone": {
+  "🧚🏾♂": {
     name: "man-fairy-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9da-1f3fe-2642",
     htmlEntity: "&#x1F9DA;&#x1F3FE;&#x2642",
   },
-  "man-fairy-dark-skin-tone": {
+  "🧚🏿♂": {
     name: "man-fairy-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9da-1f3ff-2642",
     htmlEntity: "&#x1F9DA;&#x1F3FF;&#x2642",
   },
-  "baby-angel": {
+  "👼": {
     name: "baby-angel",
     category: "people",
     unicode: "_1f47c",
     htmlEntity: "&#x1F47C",
   },
-  "baby-angel-light-skin-tone": {
+  "👼🏻": {
     name: "baby-angel-light-skin-tone",
     category: "diversity",
     unicode: "_1f47c-1f3fb",
     htmlEntity: "&#x1F47C;&#x1F3FB",
   },
-  "baby-angel-medium-light-skin-tone": {
+  "👼🏼": {
     name: "baby-angel-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f47c-1f3fc",
     htmlEntity: "&#x1F47C;&#x1F3FC",
   },
-  "baby-angel-medium-skin-tone": {
+  "👼🏽": {
     name: "baby-angel-medium-skin-tone",
     category: "diversity",
     unicode: "_1f47c-1f3fd",
     htmlEntity: "&#x1F47C;&#x1F3FD",
   },
-  "baby-angel-medium-dark-skin-tone": {
+  "👼🏾": {
     name: "baby-angel-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f47c-1f3fe",
     htmlEntity: "&#x1F47C;&#x1F3FE",
   },
-  "baby-angel-dark-skin-tone": {
+  "👼🏿": {
     name: "baby-angel-dark-skin-tone",
     category: "diversity",
     unicode: "_1f47c-1f3ff",
     htmlEntity: "&#x1F47C;&#x1F3FF",
   },
-  "pregnant-woman": {
+  "🤰": {
     name: "pregnant-woman",
     category: "people",
     unicode: "_1f930",
     htmlEntity: "&#x1F930",
   },
-  "pregnant-woman-light-skin-tone": {
+  "🤰🏻": {
     name: "pregnant-woman-light-skin-tone",
     category: "diversity",
     unicode: "_1f930-1f3fb",
     htmlEntity: "&#x1F930;&#x1F3FB",
   },
-  "pregnant-woman-medium-light-skin-tone": {
+  "🤰🏼": {
     name: "pregnant-woman-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f930-1f3fc",
     htmlEntity: "&#x1F930;&#x1F3FC",
   },
-  "pregnant-woman-medium-skin-tone": {
+  "🤰🏽": {
     name: "pregnant-woman-medium-skin-tone",
     category: "diversity",
     unicode: "_1f930-1f3fd",
     htmlEntity: "&#x1F930;&#x1F3FD",
   },
-  "pregnant-woman-medium-dark-skin-tone": {
+  "🤰🏾": {
     name: "pregnant-woman-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f930-1f3fe",
     htmlEntity: "&#x1F930;&#x1F3FE",
   },
-  "pregnant-woman-dark-skin-tone": {
+  "🤰🏿": {
     name: "pregnant-woman-dark-skin-tone",
     category: "diversity",
     unicode: "_1f930-1f3ff",
     htmlEntity: "&#x1F930;&#x1F3FF",
   },
-  "breast-feeding": {
+  "🤱": {
     name: "breast-feeding",
     category: "people",
     unicode: "_1f931",
     htmlEntity: "&#x1F931",
   },
-  "breast-feeding-light-skin-tone": {
+  "🤱🏻": {
     name: "breast-feeding-light-skin-tone",
     category: "diversity",
     unicode: "_1f931-1f3fb",
     htmlEntity: "&#x1F931;&#x1F3FB",
   },
-  "breast-feeding-medium-light-skin-tone": {
+  "🤱🏼": {
     name: "breast-feeding-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f931-1f3fc",
     htmlEntity: "&#x1F931;&#x1F3FC",
   },
-  "breast-feeding-medium-skin-tone": {
+  "🤱🏽": {
     name: "breast-feeding-medium-skin-tone",
     category: "diversity",
     unicode: "_1f931-1f3fd",
     htmlEntity: "&#x1F931;&#x1F3FD",
   },
-  "breast-feeding-medium-dark-skin-tone": {
+  "🤱🏾": {
     name: "breast-feeding-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f931-1f3fe",
     htmlEntity: "&#x1F931;&#x1F3FE",
   },
-  "breast-feeding-dark-skin-tone": {
+  "🤱🏿": {
     name: "breast-feeding-dark-skin-tone",
     category: "diversity",
     unicode: "_1f931-1f3ff",
     htmlEntity: "&#x1F931;&#x1F3FF",
   },
-  "person-feeding-baby": {
+  "🧑🍼": {
     name: "person-feeding-baby",
     category: "people",
     unicode: "_1f9d1-1f37c",
     htmlEntity: "&#x1F9D1;&#x1F37C",
   },
-  "person-feeding-baby-light-skin-tone": {
+  "🧑🏻🍼": {
     name: "person-feeding-baby-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-1f37c",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x1F37C",
   },
-  "person-feeding-baby-medium-light-skin-tone": {
+  "🧑🏼🍼": {
     name: "person-feeding-baby-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-1f37c",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x1F37C",
   },
-  "person-feeding-baby-medium-skin-tone": {
+  "🧑🏽🍼": {
     name: "person-feeding-baby-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-1f37c",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x1F37C",
   },
-  "person-feeding-baby-medium-dark-skin-tone": {
+  "🧑🏾🍼": {
     name: "person-feeding-baby-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-1f37c",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x1F37C",
   },
-  "person-feeding-baby-dark-skin-tone": {
+  "🧑🏿🍼": {
     name: "person-feeding-baby-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-1f37c",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x1F37C",
   },
-  "woman-feeding-baby": {
+  "👩🍼": {
     name: "woman-feeding-baby",
     category: "people",
     unicode: "_1f469-1f37c",
     htmlEntity: "&#x1F469;&#x1F37C",
   },
-  "woman-feeding-baby-light-skin-tone": {
+  "👩🏻🍼": {
     name: "woman-feeding-baby-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-1f37c",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x1F37C",
   },
-  "woman-feeding-baby-medium-light-skin-tone": {
+  "👩🏼🍼": {
     name: "woman-feeding-baby-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-1f37c",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x1F37C",
   },
-  "woman-feeding-baby-medium-skin-tone": {
+  "👩🏽🍼": {
     name: "woman-feeding-baby-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-1f37c",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x1F37C",
   },
-  "woman-feeding-baby-medium-dark-skin-tone": {
+  "👩🏾🍼": {
     name: "woman-feeding-baby-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-1f37c",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x1F37C",
   },
-  "woman-feeding-baby-dark-skin-tone": {
+  "👩🏿🍼": {
     name: "woman-feeding-baby-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-1f37c",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x1F37C",
   },
-  "man-feeding-baby": {
+  "👨🍼": {
     name: "man-feeding-baby",
     category: "people",
     unicode: "_1f468-1f37c",
     htmlEntity: "&#x1F468;&#x1F37C",
   },
-  "man-feeding-baby-light-skin-tone": {
+  "👨🏻🍼": {
     name: "man-feeding-baby-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-1f37c",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x1F37C",
   },
-  "man-feeding-baby-medium-light-skin-tone": {
+  "👨🏼🍼": {
     name: "man-feeding-baby-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-1f37c",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x1F37C",
   },
-  "man-feeding-baby-medium-skin-tone": {
+  "👨🏽🍼": {
     name: "man-feeding-baby-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-1f37c",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x1F37C",
   },
-  "man-feeding-baby-medium-dark-skin-tone": {
+  "👨🏾🍼": {
     name: "man-feeding-baby-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-1f37c",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x1F37C",
   },
-  "man-feeding-baby-dark-skin-tone": {
+  "👨🏿🍼": {
     name: "man-feeding-baby-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-1f37c",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x1F37C",
   },
-  "person-bowing": {
+  "🙇": {
     name: "person-bowing",
     category: "people",
     unicode: "_1f647",
     htmlEntity: "&#x1F647",
   },
-  "person-bowing-light-skin-tone": {
+  "🙇🏻": {
     name: "person-bowing-light-skin-tone",
     category: "diversity",
     unicode: "_1f647-1f3fb",
     htmlEntity: "&#x1F647;&#x1F3FB",
   },
-  "person-bowing-medium-light-skin-tone": {
+  "🙇🏼": {
     name: "person-bowing-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f647-1f3fc",
     htmlEntity: "&#x1F647;&#x1F3FC",
   },
-  "person-bowing-medium-skin-tone": {
+  "🙇🏽": {
     name: "person-bowing-medium-skin-tone",
     category: "diversity",
     unicode: "_1f647-1f3fd",
     htmlEntity: "&#x1F647;&#x1F3FD",
   },
-  "person-bowing-medium-dark-skin-tone": {
+  "🙇🏾": {
     name: "person-bowing-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f647-1f3fe",
     htmlEntity: "&#x1F647;&#x1F3FE",
   },
-  "person-bowing-dark-skin-tone": {
+  "🙇🏿": {
     name: "person-bowing-dark-skin-tone",
     category: "diversity",
     unicode: "_1f647-1f3ff",
     htmlEntity: "&#x1F647;&#x1F3FF",
   },
-  "woman-bowing": {
+  "🙇♀": {
     name: "woman-bowing",
     category: "people",
     unicode: "_1f647-2640",
     htmlEntity: "&#x1F647;&#x2640",
   },
-  "woman-bowing-light-skin-tone": {
+  "🙇🏻♀": {
     name: "woman-bowing-light-skin-tone",
     category: "diversity",
     unicode: "_1f647-1f3fb-2640",
     htmlEntity: "&#x1F647;&#x1F3FB;&#x2640",
   },
-  "woman-bowing-medium-light-skin-tone": {
+  "🙇🏼♀": {
     name: "woman-bowing-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f647-1f3fc-2640",
     htmlEntity: "&#x1F647;&#x1F3FC;&#x2640",
   },
-  "woman-bowing-medium-skin-tone": {
+  "🙇🏽♀": {
     name: "woman-bowing-medium-skin-tone",
     category: "diversity",
     unicode: "_1f647-1f3fd-2640",
     htmlEntity: "&#x1F647;&#x1F3FD;&#x2640",
   },
-  "woman-bowing-medium-dark-skin-tone": {
+  "🙇🏾♀": {
     name: "woman-bowing-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f647-1f3fe-2640",
     htmlEntity: "&#x1F647;&#x1F3FE;&#x2640",
   },
-  "woman-bowing-dark-skin-tone": {
+  "🙇🏿♀": {
     name: "woman-bowing-dark-skin-tone",
     category: "diversity",
     unicode: "_1f647-1f3ff-2640",
     htmlEntity: "&#x1F647;&#x1F3FF;&#x2640",
   },
-  "man-bowing": {
+  "🙇♂": {
     name: "man-bowing",
     category: "people",
     unicode: "_1f647-2642",
     htmlEntity: "&#x1F647;&#x2642",
   },
-  "man-bowing-light-skin-tone": {
+  "🙇🏻♂": {
     name: "man-bowing-light-skin-tone",
     category: "diversity",
     unicode: "_1f647-1f3fb-2642",
     htmlEntity: "&#x1F647;&#x1F3FB;&#x2642",
   },
-  "man-bowing-medium-light-skin-tone": {
+  "🙇🏼♂": {
     name: "man-bowing-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f647-1f3fc-2642",
     htmlEntity: "&#x1F647;&#x1F3FC;&#x2642",
   },
-  "man-bowing-medium-skin-tone": {
+  "🙇🏽♂": {
     name: "man-bowing-medium-skin-tone",
     category: "diversity",
     unicode: "_1f647-1f3fd-2642",
     htmlEntity: "&#x1F647;&#x1F3FD;&#x2642",
   },
-  "man-bowing-medium-dark-skin-tone": {
+  "🙇🏾♂": {
     name: "man-bowing-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f647-1f3fe-2642",
     htmlEntity: "&#x1F647;&#x1F3FE;&#x2642",
   },
-  "man-bowing-dark-skin-tone": {
+  "🙇🏿♂": {
     name: "man-bowing-dark-skin-tone",
     category: "diversity",
     unicode: "_1f647-1f3ff-2642",
     htmlEntity: "&#x1F647;&#x1F3FF;&#x2642",
   },
-  "person-tipping-hand": {
+  "💁": {
     name: "person-tipping-hand",
     category: "people",
     unicode: "_1f481",
     htmlEntity: "&#x1F481",
   },
-  "person-tipping-hand-light-skin-tone": {
+  "💁🏻": {
     name: "person-tipping-hand-light-skin-tone",
     category: "diversity",
     unicode: "_1f481-1f3fb",
     htmlEntity: "&#x1F481;&#x1F3FB",
   },
-  "person-tipping-hand-medium-light-skin-tone": {
+  "💁🏼": {
     name: "person-tipping-hand-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f481-1f3fc",
     htmlEntity: "&#x1F481;&#x1F3FC",
   },
-  "person-tipping-hand-medium-skin-tone": {
+  "💁🏽": {
     name: "person-tipping-hand-medium-skin-tone",
     category: "diversity",
     unicode: "_1f481-1f3fd",
     htmlEntity: "&#x1F481;&#x1F3FD",
   },
-  "person-tipping-hand-medium-dark-skin-tone": {
+  "💁🏾": {
     name: "person-tipping-hand-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f481-1f3fe",
     htmlEntity: "&#x1F481;&#x1F3FE",
   },
-  "person-tipping-hand-dark-skin-tone": {
+  "💁🏿": {
     name: "person-tipping-hand-dark-skin-tone",
     category: "diversity",
     unicode: "_1f481-1f3ff",
     htmlEntity: "&#x1F481;&#x1F3FF",
   },
-  "woman-tipping-hand": {
+  "💁♀": {
     name: "woman-tipping-hand",
     category: "people",
     unicode: "_1f481-2640",
     htmlEntity: "&#x1F481;&#x2640",
   },
-  "woman-tipping-hand-light-skin-tone": {
+  "💁🏻♀": {
     name: "woman-tipping-hand-light-skin-tone",
     category: "diversity",
     unicode: "_1f481-1f3fb-2640",
     htmlEntity: "&#x1F481;&#x1F3FB;&#x2640",
   },
-  "woman-tipping-hand-medium-light-skin-tone": {
+  "💁🏼♀": {
     name: "woman-tipping-hand-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f481-1f3fc-2640",
     htmlEntity: "&#x1F481;&#x1F3FC;&#x2640",
   },
-  "woman-tipping-hand-medium-skin-tone": {
+  "💁🏽♀": {
     name: "woman-tipping-hand-medium-skin-tone",
     category: "diversity",
     unicode: "_1f481-1f3fd-2640",
     htmlEntity: "&#x1F481;&#x1F3FD;&#x2640",
   },
-  "woman-tipping-hand-medium-dark-skin-tone": {
+  "💁🏾♀": {
     name: "woman-tipping-hand-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f481-1f3fe-2640",
     htmlEntity: "&#x1F481;&#x1F3FE;&#x2640",
   },
-  "woman-tipping-hand-dark-skin-tone": {
+  "💁🏿♀": {
     name: "woman-tipping-hand-dark-skin-tone",
     category: "diversity",
     unicode: "_1f481-1f3ff-2640",
     htmlEntity: "&#x1F481;&#x1F3FF;&#x2640",
   },
-  "man-tipping-hand": {
+  "💁♂": {
     name: "man-tipping-hand",
     category: "people",
     unicode: "_1f481-2642",
     htmlEntity: "&#x1F481;&#x2642",
   },
-  "man-tipping-hand-light-skin-tone": {
+  "💁🏻♂": {
     name: "man-tipping-hand-light-skin-tone",
     category: "diversity",
     unicode: "_1f481-1f3fb-2642",
     htmlEntity: "&#x1F481;&#x1F3FB;&#x2642",
   },
-  "man-tipping-hand-medium-light-skin-tone": {
+  "💁🏼♂": {
     name: "man-tipping-hand-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f481-1f3fc-2642",
     htmlEntity: "&#x1F481;&#x1F3FC;&#x2642",
   },
-  "man-tipping-hand-medium-skin-tone": {
+  "💁🏽♂": {
     name: "man-tipping-hand-medium-skin-tone",
     category: "diversity",
     unicode: "_1f481-1f3fd-2642",
     htmlEntity: "&#x1F481;&#x1F3FD;&#x2642",
   },
-  "man-tipping-hand-medium-dark-skin-tone": {
+  "💁🏾♂": {
     name: "man-tipping-hand-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f481-1f3fe-2642",
     htmlEntity: "&#x1F481;&#x1F3FE;&#x2642",
   },
-  "man-tipping-hand-dark-skin-tone": {
+  "💁🏿♂": {
     name: "man-tipping-hand-dark-skin-tone",
     category: "diversity",
     unicode: "_1f481-1f3ff-2642",
     htmlEntity: "&#x1F481;&#x1F3FF;&#x2642",
   },
-  "person-gesturing-no": {
+  "🙅": {
     name: "person-gesturing-no",
     category: "people",
     unicode: "_1f645",
     htmlEntity: "&#x1F645",
   },
-  "person-gesturing-no-light-skin-tone": {
+  "🙅🏻": {
     name: "person-gesturing-no-light-skin-tone",
     category: "diversity",
     unicode: "_1f645-1f3fb",
     htmlEntity: "&#x1F645;&#x1F3FB",
   },
-  "person-gesturing-no-medium-light-skin-tone": {
+  "🙅🏼": {
     name: "person-gesturing-no-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f645-1f3fc",
     htmlEntity: "&#x1F645;&#x1F3FC",
   },
-  "person-gesturing-no-medium-skin-tone": {
+  "🙅🏽": {
     name: "person-gesturing-no-medium-skin-tone",
     category: "diversity",
     unicode: "_1f645-1f3fd",
     htmlEntity: "&#x1F645;&#x1F3FD",
   },
-  "person-gesturing-no-medium-dark-skin-tone": {
+  "🙅🏾": {
     name: "person-gesturing-no-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f645-1f3fe",
     htmlEntity: "&#x1F645;&#x1F3FE",
   },
-  "person-gesturing-no-dark-skin-tone": {
+  "🙅🏿": {
     name: "person-gesturing-no-dark-skin-tone",
     category: "diversity",
     unicode: "_1f645-1f3ff",
     htmlEntity: "&#x1F645;&#x1F3FF",
   },
-  "woman-gesturing-no": {
+  "🙅♀": {
     name: "woman-gesturing-no",
     category: "people",
     unicode: "_1f645-2640",
     htmlEntity: "&#x1F645;&#x2640",
   },
-  "woman-gesturing-no-light-skin-tone": {
+  "🙅🏻♀": {
     name: "woman-gesturing-no-light-skin-tone",
     category: "diversity",
     unicode: "_1f645-1f3fb-2640",
     htmlEntity: "&#x1F645;&#x1F3FB;&#x2640",
   },
-  "woman-gesturing-no-medium-light-skin-tone": {
+  "🙅🏼♀": {
     name: "woman-gesturing-no-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f645-1f3fc-2640",
     htmlEntity: "&#x1F645;&#x1F3FC;&#x2640",
   },
-  "woman-gesturing-no-medium-skin-tone": {
+  "🙅🏽♀": {
     name: "woman-gesturing-no-medium-skin-tone",
     category: "diversity",
     unicode: "_1f645-1f3fd-2640",
     htmlEntity: "&#x1F645;&#x1F3FD;&#x2640",
   },
-  "woman-gesturing-no-medium-dark-skin-tone": {
+  "🙅🏾♀": {
     name: "woman-gesturing-no-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f645-1f3fe-2640",
     htmlEntity: "&#x1F645;&#x1F3FE;&#x2640",
   },
-  "woman-gesturing-no-dark-skin-tone": {
+  "🙅🏿♀": {
     name: "woman-gesturing-no-dark-skin-tone",
     category: "diversity",
     unicode: "_1f645-1f3ff-2640",
     htmlEntity: "&#x1F645;&#x1F3FF;&#x2640",
   },
-  "man-gesturing-no": {
+  "🙅♂": {
     name: "man-gesturing-no",
     category: "people",
     unicode: "_1f645-2642",
     htmlEntity: "&#x1F645;&#x2642",
   },
-  "man-gesturing-no-light-skin-tone": {
+  "🙅🏻♂": {
     name: "man-gesturing-no-light-skin-tone",
     category: "diversity",
     unicode: "_1f645-1f3fb-2642",
     htmlEntity: "&#x1F645;&#x1F3FB;&#x2642",
   },
-  "man-gesturing-no-medium-light-skin-tone": {
+  "🙅🏼♂": {
     name: "man-gesturing-no-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f645-1f3fc-2642",
     htmlEntity: "&#x1F645;&#x1F3FC;&#x2642",
   },
-  "man-gesturing-no-medium-skin-tone": {
+  "🙅🏽♂": {
     name: "man-gesturing-no-medium-skin-tone",
     category: "diversity",
     unicode: "_1f645-1f3fd-2642",
     htmlEntity: "&#x1F645;&#x1F3FD;&#x2642",
   },
-  "man-gesturing-no-medium-dark-skin-tone": {
+  "🙅🏾♂": {
     name: "man-gesturing-no-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f645-1f3fe-2642",
     htmlEntity: "&#x1F645;&#x1F3FE;&#x2642",
   },
-  "man-gesturing-no-dark-skin-tone": {
+  "🙅🏿♂": {
     name: "man-gesturing-no-dark-skin-tone",
     category: "diversity",
     unicode: "_1f645-1f3ff-2642",
     htmlEntity: "&#x1F645;&#x1F3FF;&#x2642",
   },
-  "person-gesturing-ok": {
+  "🙆": {
     name: "person-gesturing-ok",
     category: "people",
     unicode: "_1f646",
     htmlEntity: "&#x1F646",
   },
-  "person-gesturing-ok-light-skin-tone": {
+  "🙆🏻": {
     name: "person-gesturing-ok-light-skin-tone",
     category: "diversity",
     unicode: "_1f646-1f3fb",
     htmlEntity: "&#x1F646;&#x1F3FB",
   },
-  "person-gesturing-ok-medium-light-skin-tone": {
+  "🙆🏼": {
     name: "person-gesturing-ok-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f646-1f3fc",
     htmlEntity: "&#x1F646;&#x1F3FC",
   },
-  "person-gesturing-ok-medium-skin-tone": {
+  "🙆🏽": {
     name: "person-gesturing-ok-medium-skin-tone",
     category: "diversity",
     unicode: "_1f646-1f3fd",
     htmlEntity: "&#x1F646;&#x1F3FD",
   },
-  "person-gesturing-ok-medium-dark-skin-tone": {
+  "🙆🏾": {
     name: "person-gesturing-ok-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f646-1f3fe",
     htmlEntity: "&#x1F646;&#x1F3FE",
   },
-  "person-gesturing-ok-dark-skin-tone": {
+  "🙆🏿": {
     name: "person-gesturing-ok-dark-skin-tone",
     category: "diversity",
     unicode: "_1f646-1f3ff",
     htmlEntity: "&#x1F646;&#x1F3FF",
   },
-  "woman-gesturing-ok": {
+  "🙆♀": {
     name: "woman-gesturing-ok",
     category: "people",
     unicode: "_1f646-2640",
     htmlEntity: "&#x1F646;&#x2640",
   },
-  "woman-gesturing-ok-light-skin-tone": {
+  "🙆🏻♀": {
     name: "woman-gesturing-ok-light-skin-tone",
     category: "diversity",
     unicode: "_1f646-1f3fb-2640",
     htmlEntity: "&#x1F646;&#x1F3FB;&#x2640",
   },
-  "woman-gesturing-ok-medium-light-skin-tone": {
+  "🙆🏼♀": {
     name: "woman-gesturing-ok-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f646-1f3fc-2640",
     htmlEntity: "&#x1F646;&#x1F3FC;&#x2640",
   },
-  "woman-gesturing-ok-medium-skin-tone": {
+  "🙆🏽♀": {
     name: "woman-gesturing-ok-medium-skin-tone",
     category: "diversity",
     unicode: "_1f646-1f3fd-2640",
     htmlEntity: "&#x1F646;&#x1F3FD;&#x2640",
   },
-  "woman-gesturing-ok-medium-dark-skin-tone": {
+  "🙆🏾♀": {
     name: "woman-gesturing-ok-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f646-1f3fe-2640",
     htmlEntity: "&#x1F646;&#x1F3FE;&#x2640",
   },
-  "woman-gesturing-ok-dark-skin-tone": {
+  "🙆🏿♀": {
     name: "woman-gesturing-ok-dark-skin-tone",
     category: "diversity",
     unicode: "_1f646-1f3ff-2640",
     htmlEntity: "&#x1F646;&#x1F3FF;&#x2640",
   },
-  "man-gesturing-ok": {
+  "🙆♂": {
     name: "man-gesturing-ok",
     category: "people",
     unicode: "_1f646-2642",
     htmlEntity: "&#x1F646;&#x2642",
   },
-  "man-gesturing-ok-light-skin-tone": {
+  "🙆🏻♂": {
     name: "man-gesturing-ok-light-skin-tone",
     category: "diversity",
     unicode: "_1f646-1f3fb-2642",
     htmlEntity: "&#x1F646;&#x1F3FB;&#x2642",
   },
-  "man-gesturing-ok-medium-light-skin-tone": {
+  "🙆🏼♂": {
     name: "man-gesturing-ok-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f646-1f3fc-2642",
     htmlEntity: "&#x1F646;&#x1F3FC;&#x2642",
   },
-  "man-gesturing-ok-medium-skin-tone": {
+  "🙆🏽♂": {
     name: "man-gesturing-ok-medium-skin-tone",
     category: "diversity",
     unicode: "_1f646-1f3fd-2642",
     htmlEntity: "&#x1F646;&#x1F3FD;&#x2642",
   },
-  "man-gesturing-ok-medium-dark-skin-tone": {
+  "🙆🏾♂": {
     name: "man-gesturing-ok-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f646-1f3fe-2642",
     htmlEntity: "&#x1F646;&#x1F3FE;&#x2642",
   },
-  "man-gesturing-ok-dark-skin-tone": {
+  "🙆🏿♂": {
     name: "man-gesturing-ok-dark-skin-tone",
     category: "diversity",
     unicode: "_1f646-1f3ff-2642",
     htmlEntity: "&#x1F646;&#x1F3FF;&#x2642",
   },
-  "person-raising-hand": {
+  "🙋": {
     name: "person-raising-hand",
     category: "people",
     unicode: "_1f64b",
     htmlEntity: "&#x1F64B",
   },
-  "person-raising-hand-light-skin-tone": {
+  "🙋🏻": {
     name: "person-raising-hand-light-skin-tone",
     category: "diversity",
     unicode: "_1f64b-1f3fb",
     htmlEntity: "&#x1F64B;&#x1F3FB",
   },
-  "person-raising-hand-medium-light-skin-tone": {
+  "🙋🏼": {
     name: "person-raising-hand-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f64b-1f3fc",
     htmlEntity: "&#x1F64B;&#x1F3FC",
   },
-  "person-raising-hand-medium-skin-tone": {
+  "🙋🏽": {
     name: "person-raising-hand-medium-skin-tone",
     category: "diversity",
     unicode: "_1f64b-1f3fd",
     htmlEntity: "&#x1F64B;&#x1F3FD",
   },
-  "person-raising-hand-medium-dark-skin-tone": {
+  "🙋🏾": {
     name: "person-raising-hand-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f64b-1f3fe",
     htmlEntity: "&#x1F64B;&#x1F3FE",
   },
-  "person-raising-hand-dark-skin-tone": {
+  "🙋🏿": {
     name: "person-raising-hand-dark-skin-tone",
     category: "diversity",
     unicode: "_1f64b-1f3ff",
     htmlEntity: "&#x1F64B;&#x1F3FF",
   },
-  "woman-raising-hand": {
+  "🙋♀": {
     name: "woman-raising-hand",
     category: "people",
     unicode: "_1f64b-2640",
     htmlEntity: "&#x1F64B;&#x2640",
   },
-  "woman-raising-hand-light-skin-tone": {
+  "🙋🏻♀": {
     name: "woman-raising-hand-light-skin-tone",
     category: "diversity",
     unicode: "_1f64b-1f3fb-2640",
     htmlEntity: "&#x1F64B;&#x1F3FB;&#x2640",
   },
-  "woman-raising-hand-medium-light-skin-tone": {
+  "🙋🏼♀": {
     name: "woman-raising-hand-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f64b-1f3fc-2640",
     htmlEntity: "&#x1F64B;&#x1F3FC;&#x2640",
   },
-  "woman-raising-hand-medium-skin-tone": {
+  "🙋🏽♀": {
     name: "woman-raising-hand-medium-skin-tone",
     category: "diversity",
     unicode: "_1f64b-1f3fd-2640",
     htmlEntity: "&#x1F64B;&#x1F3FD;&#x2640",
   },
-  "woman-raising-hand-medium-dark-skin-tone": {
+  "🙋🏾♀": {
     name: "woman-raising-hand-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f64b-1f3fe-2640",
     htmlEntity: "&#x1F64B;&#x1F3FE;&#x2640",
   },
-  "woman-raising-hand-dark-skin-tone": {
+  "🙋🏿♀": {
     name: "woman-raising-hand-dark-skin-tone",
     category: "diversity",
     unicode: "_1f64b-1f3ff-2640",
     htmlEntity: "&#x1F64B;&#x1F3FF;&#x2640",
   },
-  "man-raising-hand": {
+  "🙋♂": {
     name: "man-raising-hand",
     category: "people",
     unicode: "_1f64b-2642",
     htmlEntity: "&#x1F64B;&#x2642",
   },
-  "man-raising-hand-light-skin-tone": {
+  "🙋🏻♂": {
     name: "man-raising-hand-light-skin-tone",
     category: "diversity",
     unicode: "_1f64b-1f3fb-2642",
     htmlEntity: "&#x1F64B;&#x1F3FB;&#x2642",
   },
-  "man-raising-hand-medium-light-skin-tone": {
+  "🙋🏼♂": {
     name: "man-raising-hand-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f64b-1f3fc-2642",
     htmlEntity: "&#x1F64B;&#x1F3FC;&#x2642",
   },
-  "man-raising-hand-medium-skin-tone": {
+  "🙋🏽♂": {
     name: "man-raising-hand-medium-skin-tone",
     category: "diversity",
     unicode: "_1f64b-1f3fd-2642",
     htmlEntity: "&#x1F64B;&#x1F3FD;&#x2642",
   },
-  "man-raising-hand-medium-dark-skin-tone": {
+  "🙋🏾♂": {
     name: "man-raising-hand-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f64b-1f3fe-2642",
     htmlEntity: "&#x1F64B;&#x1F3FE;&#x2642",
   },
-  "man-raising-hand-dark-skin-tone": {
+  "🙋🏿♂": {
     name: "man-raising-hand-dark-skin-tone",
     category: "diversity",
     unicode: "_1f64b-1f3ff-2642",
     htmlEntity: "&#x1F64B;&#x1F3FF;&#x2642",
   },
-  "deaf-person": {
+  "🧏": {
     name: "deaf-person",
     category: "people",
     unicode: "_1f9cf",
     htmlEntity: "&#x1F9CF",
   },
-  "deaf-person-light-skin-tone": {
+  "🧏🏻": {
     name: "deaf-person-light-skin-tone",
     category: "diversity",
     unicode: "_1f9cf-1f3fb",
     htmlEntity: "&#x1F9CF;&#x1F3FB",
   },
-  "deaf-person-medium-light-skin-tone": {
+  "🧏🏼": {
     name: "deaf-person-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9cf-1f3fc",
     htmlEntity: "&#x1F9CF;&#x1F3FC",
   },
-  "deaf-person-medium-skin-tone": {
+  "🧏🏽": {
     name: "deaf-person-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9cf-1f3fd",
     htmlEntity: "&#x1F9CF;&#x1F3FD",
   },
-  "deaf-person-medium-dark-skin-tone": {
+  "🧏🏾": {
     name: "deaf-person-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9cf-1f3fe",
     htmlEntity: "&#x1F9CF;&#x1F3FE",
   },
-  "deaf-person-dark-skin-tone": {
+  "🧏🏿": {
     name: "deaf-person-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9cf-1f3ff",
     htmlEntity: "&#x1F9CF;&#x1F3FF",
   },
-  "deaf-woman": {
+  "🧏♀": {
     name: "deaf-woman",
     category: "people",
     unicode: "_1f9cf-2640",
     htmlEntity: "&#x1F9CF;&#x2640",
   },
-  "deaf-woman-light-skin-tone": {
+  "🧏🏻♀": {
     name: "deaf-woman-light-skin-tone",
     category: "diversity",
     unicode: "_1f9cf-1f3fb-2640",
     htmlEntity: "&#x1F9CF;&#x1F3FB;&#x2640",
   },
-  "deaf-woman-medium-light-skin-tone": {
+  "🧏🏼♀": {
     name: "deaf-woman-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9cf-1f3fc-2640",
     htmlEntity: "&#x1F9CF;&#x1F3FC;&#x2640",
   },
-  "deaf-woman-medium-skin-tone": {
+  "🧏🏽♀": {
     name: "deaf-woman-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9cf-1f3fd-2640",
     htmlEntity: "&#x1F9CF;&#x1F3FD;&#x2640",
   },
-  "deaf-woman-medium-dark-skin-tone": {
+  "🧏🏾♀": {
     name: "deaf-woman-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9cf-1f3fe-2640",
     htmlEntity: "&#x1F9CF;&#x1F3FE;&#x2640",
   },
-  "deaf-woman-dark-skin-tone": {
+  "🧏🏿♀": {
     name: "deaf-woman-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9cf-1f3ff-2640",
     htmlEntity: "&#x1F9CF;&#x1F3FF;&#x2640",
   },
-  "deaf-man": {
+  "🧏♂": {
     name: "deaf-man",
     category: "people",
     unicode: "_1f9cf-2642",
     htmlEntity: "&#x1F9CF;&#x2642",
   },
-  "deaf-man-light-skin-tone": {
+  "🧏🏻♂": {
     name: "deaf-man-light-skin-tone",
     category: "diversity",
     unicode: "_1f9cf-1f3fb-2642",
     htmlEntity: "&#x1F9CF;&#x1F3FB;&#x2642",
   },
-  "deaf-man-medium-light-skin-tone": {
+  "🧏🏼♂": {
     name: "deaf-man-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9cf-1f3fc-2642",
     htmlEntity: "&#x1F9CF;&#x1F3FC;&#x2642",
   },
-  "deaf-man-medium-skin-tone": {
+  "🧏🏽♂": {
     name: "deaf-man-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9cf-1f3fd-2642",
     htmlEntity: "&#x1F9CF;&#x1F3FD;&#x2642",
   },
-  "deaf-man-medium-dark-skin-tone": {
+  "🧏🏾♂": {
     name: "deaf-man-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9cf-1f3fe-2642",
     htmlEntity: "&#x1F9CF;&#x1F3FE;&#x2642",
   },
-  "deaf-man-dark-skin-tone": {
+  "🧏🏿♂": {
     name: "deaf-man-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9cf-1f3ff-2642",
     htmlEntity: "&#x1F9CF;&#x1F3FF;&#x2642",
   },
-  "person-facepalming": {
+  "🤦": {
     name: "person-facepalming",
     category: "people",
     unicode: "_1f926",
     htmlEntity: "&#x1F926",
   },
-  "person-facepalming-light-skin-tone": {
+  "🤦🏻": {
     name: "person-facepalming-light-skin-tone",
     category: "diversity",
     unicode: "_1f926-1f3fb",
     htmlEntity: "&#x1F926;&#x1F3FB",
   },
-  "person-facepalming-medium-light-skin-tone": {
+  "🤦🏼": {
     name: "person-facepalming-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f926-1f3fc",
     htmlEntity: "&#x1F926;&#x1F3FC",
   },
-  "person-facepalming-medium-skin-tone": {
+  "🤦🏽": {
     name: "person-facepalming-medium-skin-tone",
     category: "diversity",
     unicode: "_1f926-1f3fd",
     htmlEntity: "&#x1F926;&#x1F3FD",
   },
-  "person-facepalming-medium-dark-skin-tone": {
+  "🤦🏾": {
     name: "person-facepalming-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f926-1f3fe",
     htmlEntity: "&#x1F926;&#x1F3FE",
   },
-  "person-facepalming-dark-skin-tone": {
+  "🤦🏿": {
     name: "person-facepalming-dark-skin-tone",
     category: "diversity",
     unicode: "_1f926-1f3ff",
     htmlEntity: "&#x1F926;&#x1F3FF",
   },
-  "woman-facepalming": {
+  "🤦♀": {
     name: "woman-facepalming",
     category: "people",
     unicode: "_1f926-2640",
     htmlEntity: "&#x1F926;&#x2640",
   },
-  "woman-facepalming-light-skin-tone": {
+  "🤦🏻♀": {
     name: "woman-facepalming-light-skin-tone",
     category: "diversity",
     unicode: "_1f926-1f3fb-2640",
     htmlEntity: "&#x1F926;&#x1F3FB;&#x2640",
   },
-  "woman-facepalming-medium-light-skin-tone": {
+  "🤦🏼♀": {
     name: "woman-facepalming-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f926-1f3fc-2640",
     htmlEntity: "&#x1F926;&#x1F3FC;&#x2640",
   },
-  "woman-facepalming-medium-skin-tone": {
+  "🤦🏽♀": {
     name: "woman-facepalming-medium-skin-tone",
     category: "diversity",
     unicode: "_1f926-1f3fd-2640",
     htmlEntity: "&#x1F926;&#x1F3FD;&#x2640",
   },
-  "woman-facepalming-medium-dark-skin-tone": {
+  "🤦🏾♀": {
     name: "woman-facepalming-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f926-1f3fe-2640",
     htmlEntity: "&#x1F926;&#x1F3FE;&#x2640",
   },
-  "woman-facepalming-dark-skin-tone": {
+  "🤦🏿♀": {
     name: "woman-facepalming-dark-skin-tone",
     category: "diversity",
     unicode: "_1f926-1f3ff-2640",
     htmlEntity: "&#x1F926;&#x1F3FF;&#x2640",
   },
-  "man-facepalming": {
+  "🤦♂": {
     name: "man-facepalming",
     category: "people",
     unicode: "_1f926-2642",
     htmlEntity: "&#x1F926;&#x2642",
   },
-  "man-facepalming-light-skin-tone": {
+  "🤦🏻♂": {
     name: "man-facepalming-light-skin-tone",
     category: "diversity",
     unicode: "_1f926-1f3fb-2642",
     htmlEntity: "&#x1F926;&#x1F3FB;&#x2642",
   },
-  "man-facepalming-medium-light-skin-tone": {
+  "🤦🏼♂": {
     name: "man-facepalming-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f926-1f3fc-2642",
     htmlEntity: "&#x1F926;&#x1F3FC;&#x2642",
   },
-  "man-facepalming-medium-skin-tone": {
+  "🤦🏽♂": {
     name: "man-facepalming-medium-skin-tone",
     category: "diversity",
     unicode: "_1f926-1f3fd-2642",
     htmlEntity: "&#x1F926;&#x1F3FD;&#x2642",
   },
-  "man-facepalming-medium-dark-skin-tone": {
+  "🤦🏾♂": {
     name: "man-facepalming-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f926-1f3fe-2642",
     htmlEntity: "&#x1F926;&#x1F3FE;&#x2642",
   },
-  "man-facepalming-dark-skin-tone": {
+  "🤦🏿♂": {
     name: "man-facepalming-dark-skin-tone",
     category: "diversity",
     unicode: "_1f926-1f3ff-2642",
     htmlEntity: "&#x1F926;&#x1F3FF;&#x2642",
   },
-  "person-shrugging": {
+  "🤷": {
     name: "person-shrugging",
     category: "people",
     unicode: "_1f937",
     htmlEntity: "&#x1F937",
   },
-  "person-shrugging-light-skin-tone": {
+  "🤷🏻": {
     name: "person-shrugging-light-skin-tone",
     category: "diversity",
     unicode: "_1f937-1f3fb",
     htmlEntity: "&#x1F937;&#x1F3FB",
   },
-  "person-shrugging-medium-light-skin-tone": {
+  "🤷🏼": {
     name: "person-shrugging-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f937-1f3fc",
     htmlEntity: "&#x1F937;&#x1F3FC",
   },
-  "person-shrugging-medium-skin-tone": {
+  "🤷🏽": {
     name: "person-shrugging-medium-skin-tone",
     category: "diversity",
     unicode: "_1f937-1f3fd",
     htmlEntity: "&#x1F937;&#x1F3FD",
   },
-  "person-shrugging-medium-dark-skin-tone": {
+  "🤷🏾": {
     name: "person-shrugging-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f937-1f3fe",
     htmlEntity: "&#x1F937;&#x1F3FE",
   },
-  "person-shrugging-dark-skin-tone": {
+  "🤷🏿": {
     name: "person-shrugging-dark-skin-tone",
     category: "diversity",
     unicode: "_1f937-1f3ff",
     htmlEntity: "&#x1F937;&#x1F3FF",
   },
-  "woman-shrugging": {
+  "🤷♀": {
     name: "woman-shrugging",
     category: "people",
     unicode: "_1f937-2640",
     htmlEntity: "&#x1F937;&#x2640",
   },
-  "woman-shrugging-light-skin-tone": {
+  "🤷🏻♀": {
     name: "woman-shrugging-light-skin-tone",
     category: "diversity",
     unicode: "_1f937-1f3fb-2640",
     htmlEntity: "&#x1F937;&#x1F3FB;&#x2640",
   },
-  "woman-shrugging-medium-light-skin-tone": {
+  "🤷🏼♀": {
     name: "woman-shrugging-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f937-1f3fc-2640",
     htmlEntity: "&#x1F937;&#x1F3FC;&#x2640",
   },
-  "woman-shrugging-medium-skin-tone": {
+  "🤷🏽♀": {
     name: "woman-shrugging-medium-skin-tone",
     category: "diversity",
     unicode: "_1f937-1f3fd-2640",
     htmlEntity: "&#x1F937;&#x1F3FD;&#x2640",
   },
-  "woman-shrugging-medium-dark-skin-tone": {
+  "🤷🏾♀": {
     name: "woman-shrugging-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f937-1f3fe-2640",
     htmlEntity: "&#x1F937;&#x1F3FE;&#x2640",
   },
-  "woman-shrugging-dark-skin-tone": {
+  "🤷🏿♀": {
     name: "woman-shrugging-dark-skin-tone",
     category: "diversity",
     unicode: "_1f937-1f3ff-2640",
     htmlEntity: "&#x1F937;&#x1F3FF;&#x2640",
   },
-  "man-shrugging": {
+  "🤷♂": {
     name: "man-shrugging",
     category: "people",
     unicode: "_1f937-2642",
     htmlEntity: "&#x1F937;&#x2642",
   },
-  "man-shrugging-light-skin-tone": {
+  "🤷🏻♂": {
     name: "man-shrugging-light-skin-tone",
     category: "diversity",
     unicode: "_1f937-1f3fb-2642",
     htmlEntity: "&#x1F937;&#x1F3FB;&#x2642",
   },
-  "man-shrugging-medium-light-skin-tone": {
+  "🤷🏼♂": {
     name: "man-shrugging-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f937-1f3fc-2642",
     htmlEntity: "&#x1F937;&#x1F3FC;&#x2642",
   },
-  "man-shrugging-medium-skin-tone": {
+  "🤷🏽♂": {
     name: "man-shrugging-medium-skin-tone",
     category: "diversity",
     unicode: "_1f937-1f3fd-2642",
     htmlEntity: "&#x1F937;&#x1F3FD;&#x2642",
   },
-  "man-shrugging-medium-dark-skin-tone": {
+  "🤷🏾♂": {
     name: "man-shrugging-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f937-1f3fe-2642",
     htmlEntity: "&#x1F937;&#x1F3FE;&#x2642",
   },
-  "man-shrugging-dark-skin-tone": {
+  "🤷🏿♂": {
     name: "man-shrugging-dark-skin-tone",
     category: "diversity",
     unicode: "_1f937-1f3ff-2642",
     htmlEntity: "&#x1F937;&#x1F3FF;&#x2642",
   },
-  "person-pouting": {
+  "🙎": {
     name: "person-pouting",
     category: "people",
     unicode: "_1f64e",
     htmlEntity: "&#x1F64E",
   },
-  "person-pouting-light-skin-tone": {
+  "🙎🏻": {
     name: "person-pouting-light-skin-tone",
     category: "diversity",
     unicode: "_1f64e-1f3fb",
     htmlEntity: "&#x1F64E;&#x1F3FB",
   },
-  "person-pouting-medium-light-skin-tone": {
+  "🙎🏼": {
     name: "person-pouting-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f64e-1f3fc",
     htmlEntity: "&#x1F64E;&#x1F3FC",
   },
-  "person-pouting-medium-skin-tone": {
+  "🙎🏽": {
     name: "person-pouting-medium-skin-tone",
     category: "diversity",
     unicode: "_1f64e-1f3fd",
     htmlEntity: "&#x1F64E;&#x1F3FD",
   },
-  "person-pouting-medium-dark-skin-tone": {
+  "🙎🏾": {
     name: "person-pouting-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f64e-1f3fe",
     htmlEntity: "&#x1F64E;&#x1F3FE",
   },
-  "person-pouting-dark-skin-tone": {
+  "🙎🏿": {
     name: "person-pouting-dark-skin-tone",
     category: "diversity",
     unicode: "_1f64e-1f3ff",
     htmlEntity: "&#x1F64E;&#x1F3FF",
   },
-  "woman-pouting": {
+  "🙎♀": {
     name: "woman-pouting",
     category: "people",
     unicode: "_1f64e-2640",
     htmlEntity: "&#x1F64E;&#x2640",
   },
-  "woman-pouting-light-skin-tone": {
+  "🙎🏻♀": {
     name: "woman-pouting-light-skin-tone",
     category: "diversity",
     unicode: "_1f64e-1f3fb-2640",
     htmlEntity: "&#x1F64E;&#x1F3FB;&#x2640",
   },
-  "woman-pouting-medium-light-skin-tone": {
+  "🙎🏼♀": {
     name: "woman-pouting-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f64e-1f3fc-2640",
     htmlEntity: "&#x1F64E;&#x1F3FC;&#x2640",
   },
-  "woman-pouting-medium-skin-tone": {
+  "🙎🏽♀": {
     name: "woman-pouting-medium-skin-tone",
     category: "diversity",
     unicode: "_1f64e-1f3fd-2640",
     htmlEntity: "&#x1F64E;&#x1F3FD;&#x2640",
   },
-  "woman-pouting-medium-dark-skin-tone": {
+  "🙎🏾♀": {
     name: "woman-pouting-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f64e-1f3fe-2640",
     htmlEntity: "&#x1F64E;&#x1F3FE;&#x2640",
   },
-  "woman-pouting-dark-skin-tone": {
+  "🙎🏿♀": {
     name: "woman-pouting-dark-skin-tone",
     category: "diversity",
     unicode: "_1f64e-1f3ff-2640",
     htmlEntity: "&#x1F64E;&#x1F3FF;&#x2640",
   },
-  "man-pouting": {
+  "🙎♂": {
     name: "man-pouting",
     category: "people",
     unicode: "_1f64e-2642",
     htmlEntity: "&#x1F64E;&#x2642",
   },
-  "man-pouting-light-skin-tone": {
+  "🙎🏻♂": {
     name: "man-pouting-light-skin-tone",
     category: "diversity",
     unicode: "_1f64e-1f3fb-2642",
     htmlEntity: "&#x1F64E;&#x1F3FB;&#x2642",
   },
-  "man-pouting-medium-light-skin-tone": {
+  "🙎🏼♂": {
     name: "man-pouting-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f64e-1f3fc-2642",
     htmlEntity: "&#x1F64E;&#x1F3FC;&#x2642",
   },
-  "man-pouting-medium-skin-tone": {
+  "🙎🏽♂": {
     name: "man-pouting-medium-skin-tone",
     category: "diversity",
     unicode: "_1f64e-1f3fd-2642",
     htmlEntity: "&#x1F64E;&#x1F3FD;&#x2642",
   },
-  "man-pouting-medium-dark-skin-tone": {
+  "🙎🏾♂": {
     name: "man-pouting-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f64e-1f3fe-2642",
     htmlEntity: "&#x1F64E;&#x1F3FE;&#x2642",
   },
-  "man-pouting-dark-skin-tone": {
+  "🙎🏿♂": {
     name: "man-pouting-dark-skin-tone",
     category: "diversity",
     unicode: "_1f64e-1f3ff-2642",
     htmlEntity: "&#x1F64E;&#x1F3FF;&#x2642",
   },
-  "person-frowning": {
+  "🙍": {
     name: "person-frowning",
     category: "people",
     unicode: "_1f64d",
     htmlEntity: "&#x1F64D",
   },
-  "person-frowning-light-skin-tone": {
+  "🙍🏻": {
     name: "person-frowning-light-skin-tone",
     category: "diversity",
     unicode: "_1f64d-1f3fb",
     htmlEntity: "&#x1F64D;&#x1F3FB",
   },
-  "person-frowning-medium-light-skin-tone": {
+  "🙍🏼": {
     name: "person-frowning-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f64d-1f3fc",
     htmlEntity: "&#x1F64D;&#x1F3FC",
   },
-  "person-frowning-medium-skin-tone": {
+  "🙍🏽": {
     name: "person-frowning-medium-skin-tone",
     category: "diversity",
     unicode: "_1f64d-1f3fd",
     htmlEntity: "&#x1F64D;&#x1F3FD",
   },
-  "person-frowning-medium-dark-skin-tone": {
+  "🙍🏾": {
     name: "person-frowning-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f64d-1f3fe",
     htmlEntity: "&#x1F64D;&#x1F3FE",
   },
-  "person-frowning-dark-skin-tone": {
+  "🙍🏿": {
     name: "person-frowning-dark-skin-tone",
     category: "diversity",
     unicode: "_1f64d-1f3ff",
     htmlEntity: "&#x1F64D;&#x1F3FF",
   },
-  "woman-frowning": {
+  "🙍♀": {
     name: "woman-frowning",
     category: "people",
     unicode: "_1f64d-2640",
     htmlEntity: "&#x1F64D;&#x2640",
   },
-  "woman-frowning-light-skin-tone": {
+  "🙍🏻♀": {
     name: "woman-frowning-light-skin-tone",
     category: "diversity",
     unicode: "_1f64d-1f3fb-2640",
     htmlEntity: "&#x1F64D;&#x1F3FB;&#x2640",
   },
-  "woman-frowning-medium-light-skin-tone": {
+  "🙍🏼♀": {
     name: "woman-frowning-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f64d-1f3fc-2640",
     htmlEntity: "&#x1F64D;&#x1F3FC;&#x2640",
   },
-  "woman-frowning-medium-skin-tone": {
+  "🙍🏽♀": {
     name: "woman-frowning-medium-skin-tone",
     category: "diversity",
     unicode: "_1f64d-1f3fd-2640",
     htmlEntity: "&#x1F64D;&#x1F3FD;&#x2640",
   },
-  "woman-frowning-medium-dark-skin-tone": {
+  "🙍🏾♀": {
     name: "woman-frowning-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f64d-1f3fe-2640",
     htmlEntity: "&#x1F64D;&#x1F3FE;&#x2640",
   },
-  "woman-frowning-dark-skin-tone": {
+  "🙍🏿♀": {
     name: "woman-frowning-dark-skin-tone",
     category: "diversity",
     unicode: "_1f64d-1f3ff-2640",
     htmlEntity: "&#x1F64D;&#x1F3FF;&#x2640",
   },
-  "man-frowning": {
+  "🙍♂": {
     name: "man-frowning",
     category: "people",
     unicode: "_1f64d-2642",
     htmlEntity: "&#x1F64D;&#x2642",
   },
-  "man-frowning-light-skin-tone": {
+  "🙍🏻♂": {
     name: "man-frowning-light-skin-tone",
     category: "diversity",
     unicode: "_1f64d-1f3fb-2642",
     htmlEntity: "&#x1F64D;&#x1F3FB;&#x2642",
   },
-  "man-frowning-medium-light-skin-tone": {
+  "🙍🏼♂": {
     name: "man-frowning-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f64d-1f3fc-2642",
     htmlEntity: "&#x1F64D;&#x1F3FC;&#x2642",
   },
-  "man-frowning-medium-skin-tone": {
+  "🙍🏽♂": {
     name: "man-frowning-medium-skin-tone",
     category: "diversity",
     unicode: "_1f64d-1f3fd-2642",
     htmlEntity: "&#x1F64D;&#x1F3FD;&#x2642",
   },
-  "man-frowning-medium-dark-skin-tone": {
+  "🙍🏾♂": {
     name: "man-frowning-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f64d-1f3fe-2642",
     htmlEntity: "&#x1F64D;&#x1F3FE;&#x2642",
   },
-  "man-frowning-dark-skin-tone": {
+  "🙍🏿♂": {
     name: "man-frowning-dark-skin-tone",
     category: "diversity",
     unicode: "_1f64d-1f3ff-2642",
     htmlEntity: "&#x1F64D;&#x1F3FF;&#x2642",
   },
-  "person-getting-haircut": {
+  "💇": {
     name: "person-getting-haircut",
     category: "people",
     unicode: "_1f487",
     htmlEntity: "&#x1F487",
   },
-  "person-getting-haircut-light-skin-tone": {
+  "💇🏻": {
     name: "person-getting-haircut-light-skin-tone",
     category: "diversity",
     unicode: "_1f487-1f3fb",
     htmlEntity: "&#x1F487;&#x1F3FB",
   },
-  "person-getting-haircut-medium-light-skin-tone": {
+  "💇🏼": {
     name: "person-getting-haircut-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f487-1f3fc",
     htmlEntity: "&#x1F487;&#x1F3FC",
   },
-  "person-getting-haircut-medium-skin-tone": {
+  "💇🏽": {
     name: "person-getting-haircut-medium-skin-tone",
     category: "diversity",
     unicode: "_1f487-1f3fd",
     htmlEntity: "&#x1F487;&#x1F3FD",
   },
-  "person-getting-haircut-medium-dark-skin-tone": {
+  "💇🏾": {
     name: "person-getting-haircut-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f487-1f3fe",
     htmlEntity: "&#x1F487;&#x1F3FE",
   },
-  "person-getting-haircut-dark-skin-tone": {
+  "💇🏿": {
     name: "person-getting-haircut-dark-skin-tone",
     category: "diversity",
     unicode: "_1f487-1f3ff",
     htmlEntity: "&#x1F487;&#x1F3FF",
   },
-  "woman-getting-haircut": {
+  "💇♀": {
     name: "woman-getting-haircut",
     category: "people",
     unicode: "_1f487-2640",
     htmlEntity: "&#x1F487;&#x2640",
   },
-  "woman-getting-haircut-light-skin-tone": {
+  "💇🏻♀": {
     name: "woman-getting-haircut-light-skin-tone",
     category: "diversity",
     unicode: "_1f487-1f3fb-2640",
     htmlEntity: "&#x1F487;&#x1F3FB;&#x2640",
   },
-  "woman-getting-haircut-medium-light-skin-tone": {
+  "💇🏼♀": {
     name: "woman-getting-haircut-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f487-1f3fc-2640",
     htmlEntity: "&#x1F487;&#x1F3FC;&#x2640",
   },
-  "woman-getting-haircut-medium-skin-tone": {
+  "💇🏽♀": {
     name: "woman-getting-haircut-medium-skin-tone",
     category: "diversity",
     unicode: "_1f487-1f3fd-2640",
     htmlEntity: "&#x1F487;&#x1F3FD;&#x2640",
   },
-  "woman-getting-haircut-medium-dark-skin-tone": {
+  "💇🏾♀": {
     name: "woman-getting-haircut-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f487-1f3fe-2640",
     htmlEntity: "&#x1F487;&#x1F3FE;&#x2640",
   },
-  "woman-getting-haircut-dark-skin-tone": {
+  "💇🏿♀": {
     name: "woman-getting-haircut-dark-skin-tone",
     category: "diversity",
     unicode: "_1f487-1f3ff-2640",
     htmlEntity: "&#x1F487;&#x1F3FF;&#x2640",
   },
-  "man-getting-haircut": {
+  "💇♂": {
     name: "man-getting-haircut",
     category: "people",
     unicode: "_1f487-2642",
     htmlEntity: "&#x1F487;&#x2642",
   },
-  "man-getting-haircut-light-skin-tone": {
+  "💇🏻♂": {
     name: "man-getting-haircut-light-skin-tone",
     category: "diversity",
     unicode: "_1f487-1f3fb-2642",
     htmlEntity: "&#x1F487;&#x1F3FB;&#x2642",
   },
-  "man-getting-haircut-medium-light-skin-tone": {
+  "💇🏼♂": {
     name: "man-getting-haircut-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f487-1f3fc-2642",
     htmlEntity: "&#x1F487;&#x1F3FC;&#x2642",
   },
-  "man-getting-haircut-medium-skin-tone": {
+  "💇🏽♂": {
     name: "man-getting-haircut-medium-skin-tone",
     category: "diversity",
     unicode: "_1f487-1f3fd-2642",
     htmlEntity: "&#x1F487;&#x1F3FD;&#x2642",
   },
-  "man-getting-haircut-medium-dark-skin-tone": {
+  "💇🏾♂": {
     name: "man-getting-haircut-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f487-1f3fe-2642",
     htmlEntity: "&#x1F487;&#x1F3FE;&#x2642",
   },
-  "man-getting-haircut-dark-skin-tone": {
+  "💇🏿♂": {
     name: "man-getting-haircut-dark-skin-tone",
     category: "diversity",
     unicode: "_1f487-1f3ff-2642",
     htmlEntity: "&#x1F487;&#x1F3FF;&#x2642",
   },
-  "person-getting-massage": {
+  "💆": {
     name: "person-getting-massage",
     category: "people",
     unicode: "_1f486",
     htmlEntity: "&#x1F486",
   },
-  "person-getting-massage-light-skin-tone": {
+  "💆🏻": {
     name: "person-getting-massage-light-skin-tone",
     category: "diversity",
     unicode: "_1f486-1f3fb",
     htmlEntity: "&#x1F486;&#x1F3FB",
   },
-  "person-getting-massage-medium-light-skin-tone": {
+  "💆🏼": {
     name: "person-getting-massage-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f486-1f3fc",
     htmlEntity: "&#x1F486;&#x1F3FC",
   },
-  "person-getting-massage-medium-skin-tone": {
+  "💆🏽": {
     name: "person-getting-massage-medium-skin-tone",
     category: "diversity",
     unicode: "_1f486-1f3fd",
     htmlEntity: "&#x1F486;&#x1F3FD",
   },
-  "person-getting-massage-medium-dark-skin-tone": {
+  "💆🏾": {
     name: "person-getting-massage-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f486-1f3fe",
     htmlEntity: "&#x1F486;&#x1F3FE",
   },
-  "person-getting-massage-dark-skin-tone": {
+  "💆🏿": {
     name: "person-getting-massage-dark-skin-tone",
     category: "diversity",
     unicode: "_1f486-1f3ff",
     htmlEntity: "&#x1F486;&#x1F3FF",
   },
-  "woman-getting-massage": {
+  "💆♀": {
     name: "woman-getting-massage",
     category: "people",
     unicode: "_1f486-2640",
     htmlEntity: "&#x1F486;&#x2640",
   },
-  "woman-getting-massage-light-skin-tone": {
+  "💆🏻♀": {
     name: "woman-getting-massage-light-skin-tone",
     category: "diversity",
     unicode: "_1f486-1f3fb-2640",
     htmlEntity: "&#x1F486;&#x1F3FB;&#x2640",
   },
-  "woman-getting-massage-medium-light-skin-tone": {
+  "💆🏼♀": {
     name: "woman-getting-massage-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f486-1f3fc-2640",
     htmlEntity: "&#x1F486;&#x1F3FC;&#x2640",
   },
-  "woman-getting-massage-medium-skin-tone": {
+  "💆🏽♀": {
     name: "woman-getting-massage-medium-skin-tone",
     category: "diversity",
     unicode: "_1f486-1f3fd-2640",
     htmlEntity: "&#x1F486;&#x1F3FD;&#x2640",
   },
-  "woman-getting-massage-medium-dark-skin-tone": {
+  "💆🏾♀": {
     name: "woman-getting-massage-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f486-1f3fe-2640",
     htmlEntity: "&#x1F486;&#x1F3FE;&#x2640",
   },
-  "woman-getting-massage-dark-skin-tone": {
+  "💆🏿♀": {
     name: "woman-getting-massage-dark-skin-tone",
     category: "diversity",
     unicode: "_1f486-1f3ff-2640",
     htmlEntity: "&#x1F486;&#x1F3FF;&#x2640",
   },
-  "man-getting-massage": {
+  "💆♂": {
     name: "man-getting-massage",
     category: "people",
     unicode: "_1f486-2642",
     htmlEntity: "&#x1F486;&#x2642",
   },
-  "man-getting-massage-light-skin-tone": {
+  "💆🏻♂": {
     name: "man-getting-massage-light-skin-tone",
     category: "diversity",
     unicode: "_1f486-1f3fb-2642",
     htmlEntity: "&#x1F486;&#x1F3FB;&#x2642",
   },
-  "man-getting-massage-medium-light-skin-tone": {
+  "💆🏼♂": {
     name: "man-getting-massage-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f486-1f3fc-2642",
     htmlEntity: "&#x1F486;&#x1F3FC;&#x2642",
   },
-  "man-getting-massage-medium-skin-tone": {
+  "💆🏽♂": {
     name: "man-getting-massage-medium-skin-tone",
     category: "diversity",
     unicode: "_1f486-1f3fd-2642",
     htmlEntity: "&#x1F486;&#x1F3FD;&#x2642",
   },
-  "man-getting-massage-medium-dark-skin-tone": {
+  "💆🏾♂": {
     name: "man-getting-massage-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f486-1f3fe-2642",
     htmlEntity: "&#x1F486;&#x1F3FE;&#x2642",
   },
-  "man-getting-massage-dark-skin-tone": {
+  "💆🏿♂": {
     name: "man-getting-massage-dark-skin-tone",
     category: "diversity",
     unicode: "_1f486-1f3ff-2642",
     htmlEntity: "&#x1F486;&#x1F3FF;&#x2642",
   },
-  "person-in-steamy-room": {
+  "🧖": {
     name: "person-in-steamy-room",
     category: "people",
     unicode: "_1f9d6",
     htmlEntity: "&#x1F9D6",
   },
-  "person-in-steamy-room-light-skin-tone": {
+  "🧖🏻": {
     name: "person-in-steamy-room-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d6-1f3fb",
     htmlEntity: "&#x1F9D6;&#x1F3FB",
   },
-  "person-in-steamy-room-medium-light-skin-tone": {
+  "🧖🏼": {
     name: "person-in-steamy-room-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d6-1f3fc",
     htmlEntity: "&#x1F9D6;&#x1F3FC",
   },
-  "person-in-steamy-room-medium-skin-tone": {
+  "🧖🏽": {
     name: "person-in-steamy-room-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d6-1f3fd",
     htmlEntity: "&#x1F9D6;&#x1F3FD",
   },
-  "person-in-steamy-room-medium-dark-skin-tone": {
+  "🧖🏾": {
     name: "person-in-steamy-room-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d6-1f3fe",
     htmlEntity: "&#x1F9D6;&#x1F3FE",
   },
-  "person-in-steamy-room-dark-skin-tone": {
+  "🧖🏿": {
     name: "person-in-steamy-room-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d6-1f3ff",
     htmlEntity: "&#x1F9D6;&#x1F3FF",
   },
-  "woman-in-steamy-room": {
+  "🧖♀": {
     name: "woman-in-steamy-room",
     category: "people",
     unicode: "_1f9d6-2640",
     htmlEntity: "&#x1F9D6;&#x2640",
   },
-  "woman-in-steamy-room-light-skin-tone": {
+  "🧖🏻♀": {
     name: "woman-in-steamy-room-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d6-1f3fb-2640",
     htmlEntity: "&#x1F9D6;&#x1F3FB;&#x2640",
   },
-  "woman-in-steamy-room-medium-light-skin-tone": {
+  "🧖🏼♀": {
     name: "woman-in-steamy-room-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d6-1f3fc-2640",
     htmlEntity: "&#x1F9D6;&#x1F3FC;&#x2640",
   },
-  "woman-in-steamy-room-medium-skin-tone": {
+  "🧖🏽♀": {
     name: "woman-in-steamy-room-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d6-1f3fd-2640",
     htmlEntity: "&#x1F9D6;&#x1F3FD;&#x2640",
   },
-  "woman-in-steamy-room-medium-dark-skin-tone": {
+  "🧖🏾♀": {
     name: "woman-in-steamy-room-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d6-1f3fe-2640",
     htmlEntity: "&#x1F9D6;&#x1F3FE;&#x2640",
   },
-  "woman-in-steamy-room-dark-skin-tone": {
+  "🧖🏿♀": {
     name: "woman-in-steamy-room-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d6-1f3ff-2640",
     htmlEntity: "&#x1F9D6;&#x1F3FF;&#x2640",
   },
-  "man-in-steamy-room": {
+  "🧖♂": {
     name: "man-in-steamy-room",
     category: "people",
     unicode: "_1f9d6-2642",
     htmlEntity: "&#x1F9D6;&#x2642",
   },
-  "man-in-steamy-room-light-skin-tone": {
+  "🧖🏻♂": {
     name: "man-in-steamy-room-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d6-1f3fb-2642",
     htmlEntity: "&#x1F9D6;&#x1F3FB;&#x2642",
   },
-  "man-in-steamy-room-medium-light-skin-tone": {
+  "🧖🏼♂": {
     name: "man-in-steamy-room-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d6-1f3fc-2642",
     htmlEntity: "&#x1F9D6;&#x1F3FC;&#x2642",
   },
-  "man-in-steamy-room-medium-skin-tone": {
+  "🧖🏽♂": {
     name: "man-in-steamy-room-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d6-1f3fd-2642",
     htmlEntity: "&#x1F9D6;&#x1F3FD;&#x2642",
   },
-  "man-in-steamy-room-medium-dark-skin-tone": {
+  "🧖🏾♂": {
     name: "man-in-steamy-room-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d6-1f3fe-2642",
     htmlEntity: "&#x1F9D6;&#x1F3FE;&#x2642",
   },
-  "man-in-steamy-room-dark-skin-tone": {
+  "🧖🏿♂": {
     name: "man-in-steamy-room-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d6-1f3ff-2642",
     htmlEntity: "&#x1F9D6;&#x1F3FF;&#x2642",
   },
-  "nail-polish": {
+  "💅": {
     name: "nail-polish",
     category: "people",
     unicode: "_1f485",
     htmlEntity: "&#x1F485",
   },
-  "nail-polish-light-skin-tone": {
+  "💅🏻": {
     name: "nail-polish-light-skin-tone",
     category: "diversity",
     unicode: "_1f485-1f3fb",
     htmlEntity: "&#x1F485;&#x1F3FB",
   },
-  "nail-polish-medium-light-skin-tone": {
+  "💅🏼": {
     name: "nail-polish-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f485-1f3fc",
     htmlEntity: "&#x1F485;&#x1F3FC",
   },
-  "nail-polish-medium-skin-tone": {
+  "💅🏽": {
     name: "nail-polish-medium-skin-tone",
     category: "diversity",
     unicode: "_1f485-1f3fd",
     htmlEntity: "&#x1F485;&#x1F3FD",
   },
-  "nail-polish-medium-dark-skin-tone": {
+  "💅🏾": {
     name: "nail-polish-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f485-1f3fe",
     htmlEntity: "&#x1F485;&#x1F3FE",
   },
-  "nail-polish-dark-skin-tone": {
+  "💅🏿": {
     name: "nail-polish-dark-skin-tone",
     category: "diversity",
     unicode: "_1f485-1f3ff",
     htmlEntity: "&#x1F485;&#x1F3FF",
   },
-  selfie: {
+  "🤳": {
     name: "selfie",
     category: "people",
     unicode: "_1f933",
     htmlEntity: "&#x1F933",
   },
-  "selfie-light-skin-tone": {
+  "🤳🏻": {
     name: "selfie-light-skin-tone",
     category: "diversity",
     unicode: "_1f933-1f3fb",
     htmlEntity: "&#x1F933;&#x1F3FB",
   },
-  "selfie-medium-light-skin-tone": {
+  "🤳🏼": {
     name: "selfie-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f933-1f3fc",
     htmlEntity: "&#x1F933;&#x1F3FC",
   },
-  "selfie-medium-skin-tone": {
+  "🤳🏽": {
     name: "selfie-medium-skin-tone",
     category: "diversity",
     unicode: "_1f933-1f3fd",
     htmlEntity: "&#x1F933;&#x1F3FD",
   },
-  "selfie-medium-dark-skin-tone": {
+  "🤳🏾": {
     name: "selfie-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f933-1f3fe",
     htmlEntity: "&#x1F933;&#x1F3FE",
   },
-  "selfie-dark-skin-tone": {
+  "🤳🏿": {
     name: "selfie-dark-skin-tone",
     category: "diversity",
     unicode: "_1f933-1f3ff",
     htmlEntity: "&#x1F933;&#x1F3FF",
   },
-  "woman-dancing": {
+  "💃": {
     name: "woman-dancing",
     category: "people",
     unicode: "_1f483",
     htmlEntity: "&#x1F483",
   },
-  "woman-dancing-light-skin-tone": {
+  "💃🏻": {
     name: "woman-dancing-light-skin-tone",
     category: "diversity",
     unicode: "_1f483-1f3fb",
     htmlEntity: "&#x1F483;&#x1F3FB",
   },
-  "woman-dancing-medium-light-skin-tone": {
+  "💃🏼": {
     name: "woman-dancing-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f483-1f3fc",
     htmlEntity: "&#x1F483;&#x1F3FC",
   },
-  "woman-dancing-medium-skin-tone": {
+  "💃🏽": {
     name: "woman-dancing-medium-skin-tone",
     category: "diversity",
     unicode: "_1f483-1f3fd",
     htmlEntity: "&#x1F483;&#x1F3FD",
   },
-  "woman-dancing-medium-dark-skin-tone": {
+  "💃🏾": {
     name: "woman-dancing-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f483-1f3fe",
     htmlEntity: "&#x1F483;&#x1F3FE",
   },
-  "woman-dancing-dark-skin-tone": {
+  "💃🏿": {
     name: "woman-dancing-dark-skin-tone",
     category: "diversity",
     unicode: "_1f483-1f3ff",
     htmlEntity: "&#x1F483;&#x1F3FF",
   },
-  "man-dancing": {
+  "🕺": {
     name: "man-dancing",
     category: "people",
     unicode: "_1f57a",
     htmlEntity: "&#x1F57A",
   },
-  "man-dancing-light-skin-tone": {
+  "🕺🏻": {
     name: "man-dancing-light-skin-tone",
     category: "diversity",
     unicode: "_1f57a-1f3fb",
     htmlEntity: "&#x1F57A;&#x1F3FB",
   },
-  "man-dancing-medium-light-skin-tone": {
+  "🕺🏼": {
     name: "man-dancing-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f57a-1f3fc",
     htmlEntity: "&#x1F57A;&#x1F3FC",
   },
-  "man-dancing-medium-skin-tone": {
+  "🕺🏽": {
     name: "man-dancing-medium-skin-tone",
     category: "diversity",
     unicode: "_1f57a-1f3fd",
     htmlEntity: "&#x1F57A;&#x1F3FD",
   },
-  "man-dancing-dark-skin-tone": {
+  "🕺🏿": {
     name: "man-dancing-dark-skin-tone",
     category: "diversity",
     unicode: "_1f57a-1f3ff",
     htmlEntity: "&#x1F57A;&#x1F3FF",
   },
-  "man-dancing-medium-dark-skin-tone": {
+  "🕺🏾": {
     name: "man-dancing-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f57a-1f3fe",
     htmlEntity: "&#x1F57A;&#x1F3FE",
   },
-  "people-with-bunny-ears": {
+  "👯": {
     name: "people-with-bunny-ears",
     category: "people",
     unicode: "_1f46f",
     htmlEntity: "&#x1F46F",
   },
-  "women-with-bunny-ears": {
+  "👯♀": {
     name: "women-with-bunny-ears",
     category: "people",
     unicode: "_1f46f-2640",
     htmlEntity: "&#x1F46F;&#x2640",
   },
-  "men-with-bunny-ears": {
+  "👯♂": {
     name: "men-with-bunny-ears",
     category: "people",
     unicode: "_1f46f-2642",
     htmlEntity: "&#x1F46F;&#x2642",
   },
-  "man-in-suit-levitating": {
+  "🕴": {
     name: "man-in-suit-levitating",
     category: "people",
     unicode: "_1f574",
     htmlEntity: "&#x1F574",
   },
-  "man-in-suit-levitating-light-skin-tone": {
+  "🕴🏻": {
     name: "man-in-suit-levitating-light-skin-tone",
     category: "diversity",
     unicode: "_1f574-1f3fb",
     htmlEntity: "&#x1F574;&#x1F3FB",
   },
-  "man-in-suit-levitating-medium-light-skin-tone": {
+  "🕴🏼": {
     name: "man-in-suit-levitating-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f574-1f3fc",
     htmlEntity: "&#x1F574;&#x1F3FC",
   },
-  "man-in-suit-levitating-medium-skin-tone": {
+  "🕴🏽": {
     name: "man-in-suit-levitating-medium-skin-tone",
     category: "diversity",
     unicode: "_1f574-1f3fd",
     htmlEntity: "&#x1F574;&#x1F3FD",
   },
-  "man-in-suit-levitating-medium-dark-skin-tone": {
+  "🕴🏾": {
     name: "man-in-suit-levitating-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f574-1f3fe",
     htmlEntity: "&#x1F574;&#x1F3FE",
   },
-  "man-in-suit-levitating-dark-skin-tone": {
+  "🕴🏿": {
     name: "man-in-suit-levitating-dark-skin-tone",
     category: "diversity",
     unicode: "_1f574-1f3ff",
     htmlEntity: "&#x1F574;&#x1F3FF",
   },
-  "person-in-manual-wheelchair": {
+  "🧑🦽": {
     name: "person-in-manual-wheelchair",
     category: "people",
     unicode: "_1f9d1-1f9bd",
     htmlEntity: "&#x1F9D1;&#x1F9BD",
   },
-  "person-in-manual-wheelchair-light-skin-tone": {
+  "🧑🏻🦽": {
     name: "person-in-manual-wheelchair-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-1f9bd",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x1F9BD",
   },
-  "person-in-manual-wheelchair-medium-light-skin-tone": {
+  "🧑🏼🦽": {
     name: "person-in-manual-wheelchair-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-1f9bd",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x1F9BD",
   },
-  "person-in-manual-wheelchair-medium-skin-tone": {
+  "🧑🏽🦽": {
     name: "person-in-manual-wheelchair-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-1f9bd",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x1F9BD",
   },
-  "person-in-manual-wheelchair-medium-dark-skin-tone": {
+  "🧑🏾🦽": {
     name: "person-in-manual-wheelchair-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-1f9bd",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x1F9BD",
   },
-  "person-in-manual-wheelchair-dark-skin-tone": {
+  "🧑🏿🦽": {
     name: "person-in-manual-wheelchair-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-1f9bd",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x1F9BD",
   },
-  "woman-in-manual-wheelchair": {
+  "👩🦽": {
     name: "woman-in-manual-wheelchair",
     category: "people",
     unicode: "_1f469-1f9bd",
     htmlEntity: "&#x1F469;&#x1F9BD",
   },
-  "woman-in-manual-wheelchair-light-skin-tone": {
+  "👩🏻🦽": {
     name: "woman-in-manual-wheelchair-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-1f9bd",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x1F9BD",
   },
-  "woman-in-manual-wheelchair-medium-light-skin-tone": {
+  "👩🏼🦽": {
     name: "woman-in-manual-wheelchair-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-1f9bd",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x1F9BD",
   },
-  "woman-in-manual-wheelchair-medium-skin-tone": {
+  "👩🏽🦽": {
     name: "woman-in-manual-wheelchair-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-1f9bd",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x1F9BD",
   },
-  "woman-in-manual-wheelchair-medium-dark-skin-tone": {
+  "👩🏾🦽": {
     name: "woman-in-manual-wheelchair-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-1f9bd",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x1F9BD",
   },
-  "woman-in-manual-wheelchair-dark-skin-tone": {
+  "👩🏿🦽": {
     name: "woman-in-manual-wheelchair-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-1f9bd",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x1F9BD",
   },
-  "man-in-manual-wheelchair": {
+  "👨🦽": {
     name: "man-in-manual-wheelchair",
     category: "people",
     unicode: "_1f468-1f9bd",
     htmlEntity: "&#x1F468;&#x1F9BD",
   },
-  "man-in-manual-wheelchair-light-skin-tone": {
+  "👨🏻🦽": {
     name: "man-in-manual-wheelchair-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-1f9bd",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x1F9BD",
   },
-  "man-in-manual-wheelchair-medium-light-skin-tone": {
+  "👨🏼🦽": {
     name: "man-in-manual-wheelchair-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-1f9bd",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x1F9BD",
   },
-  "man-in-manual-wheelchair-medium-skin-tone": {
+  "👨🏽🦽": {
     name: "man-in-manual-wheelchair-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-1f9bd",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x1F9BD",
   },
-  "man-in-manual-wheelchair-medium-dark-skin-tone": {
+  "👨🏾🦽": {
     name: "man-in-manual-wheelchair-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-1f9bd",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x1F9BD",
   },
-  "man-in-manual-wheelchair-dark-skin-tone": {
+  "👨🏿🦽": {
     name: "man-in-manual-wheelchair-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-1f9bd",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x1F9BD",
   },
-  "person-in-motorized-wheelchair": {
+  "🧑🦼": {
     name: "person-in-motorized-wheelchair",
     category: "people",
     unicode: "_1f9d1-1f9bc",
     htmlEntity: "&#x1F9D1;&#x1F9BC",
   },
-  "person-in-motorized-wheelchair-light-skin-tone": {
+  "🧑🏻🦼": {
     name: "person-in-motorized-wheelchair-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-1f9bc",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x1F9BC",
   },
-  "person-in-motorized-wheelchair-medium-light-skin-tone": {
+  "🧑🏼🦼": {
     name: "person-in-motorized-wheelchair-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-1f9bc",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x1F9BC",
   },
-  "person-in-motorized-wheelchair-medium-skin-tone": {
+  "🧑🏽🦼": {
     name: "person-in-motorized-wheelchair-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-1f9bc",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x1F9BC",
   },
-  "person-in-motorized-wheelchair-medium-dark-skin-tone": {
+  "🧑🏾🦼": {
     name: "person-in-motorized-wheelchair-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-1f9bc",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x1F9BC",
   },
-  "person-in-motorized-wheelchair-dark-skin-tone": {
+  "🧑🏿🦼": {
     name: "person-in-motorized-wheelchair-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-1f9bc",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x1F9BC",
   },
-  "woman-in-motorized-wheelchair": {
+  "👩🦼": {
     name: "woman-in-motorized-wheelchair",
     category: "people",
     unicode: "_1f469-1f9bc",
     htmlEntity: "&#x1F469;&#x1F9BC",
   },
-  "woman-in-motorized-wheelchair-light-skin-tone": {
+  "👩🏻🦼": {
     name: "woman-in-motorized-wheelchair-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-1f9bc",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x1F9BC",
   },
-  "woman-in-motorized-wheelchair-medium-light-skin-tone": {
+  "👩🏼🦼": {
     name: "woman-in-motorized-wheelchair-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-1f9bc",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x1F9BC",
   },
-  "woman-in-motorized-wheelchair-medium-skin-tone": {
+  "👩🏽🦼": {
     name: "woman-in-motorized-wheelchair-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-1f9bc",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x1F9BC",
   },
-  "woman-in-motorized-wheelchair-medium-dark-skin-tone": {
+  "👩🏾🦼": {
     name: "woman-in-motorized-wheelchair-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-1f9bc",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x1F9BC",
   },
-  "woman-in-motorized-wheelchair-dark-skin-tone": {
+  "👩🏿🦼": {
     name: "woman-in-motorized-wheelchair-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-1f9bc",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x1F9BC",
   },
-  "man-in-motorized-wheelchair": {
+  "👨🦼": {
     name: "man-in-motorized-wheelchair",
     category: "people",
     unicode: "_1f468-1f9bc",
     htmlEntity: "&#x1F468;&#x1F9BC",
   },
-  "man-in-motorized-wheelchair-light-skin-tone": {
+  "👨🏻🦼": {
     name: "man-in-motorized-wheelchair-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-1f9bc",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x1F9BC",
   },
-  "man-in-motorized-wheelchair-medium-light-skin-tone": {
+  "👨🏼🦼": {
     name: "man-in-motorized-wheelchair-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-1f9bc",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x1F9BC",
   },
-  "man-in-motorized-wheelchair-medium-skin-tone": {
+  "👨🏽🦼": {
     name: "man-in-motorized-wheelchair-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-1f9bc",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x1F9BC",
   },
-  "man-in-motorized-wheelchair-medium-dark-skin-tone": {
+  "👨🏾🦼": {
     name: "man-in-motorized-wheelchair-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-1f9bc",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x1F9BC",
   },
-  "man-in-motorized-wheelchair-dark-skin-tone": {
+  "👨🏿🦼": {
     name: "man-in-motorized-wheelchair-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-1f9bc",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x1F9BC",
   },
-  "person-walking": {
+  "🚶": {
     name: "person-walking",
     category: "people",
     unicode: "_1f6b6",
     htmlEntity: "&#x1F6B6",
   },
-  "person-walking-light-skin-tone": {
+  "🚶🏻": {
     name: "person-walking-light-skin-tone",
     category: "diversity",
     unicode: "_1f6b6-1f3fb",
     htmlEntity: "&#x1F6B6;&#x1F3FB",
   },
-  "person-walking-medium-light-skin-tone": {
+  "🚶🏼": {
     name: "person-walking-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f6b6-1f3fc",
     htmlEntity: "&#x1F6B6;&#x1F3FC",
   },
-  "person-walking-medium-skin-tone": {
+  "🚶🏽": {
     name: "person-walking-medium-skin-tone",
     category: "diversity",
     unicode: "_1f6b6-1f3fd",
     htmlEntity: "&#x1F6B6;&#x1F3FD",
   },
-  "person-walking-medium-dark-skin-tone": {
+  "🚶🏾": {
     name: "person-walking-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f6b6-1f3fe",
     htmlEntity: "&#x1F6B6;&#x1F3FE",
   },
-  "person-walking-dark-skin-tone": {
+  "🚶🏿": {
     name: "person-walking-dark-skin-tone",
     category: "diversity",
     unicode: "_1f6b6-1f3ff",
     htmlEntity: "&#x1F6B6;&#x1F3FF",
   },
-  "woman-walking": {
+  "🚶♀": {
     name: "woman-walking",
     category: "people",
     unicode: "_1f6b6-2640",
     htmlEntity: "&#x1F6B6;&#x2640",
   },
-  "woman-walking-light-skin-tone": {
+  "🚶🏻♀": {
     name: "woman-walking-light-skin-tone",
     category: "diversity",
     unicode: "_1f6b6-1f3fb-2640",
     htmlEntity: "&#x1F6B6;&#x1F3FB;&#x2640",
   },
-  "woman-walking-medium-light-skin-tone": {
+  "🚶🏼♀": {
     name: "woman-walking-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f6b6-1f3fc-2640",
     htmlEntity: "&#x1F6B6;&#x1F3FC;&#x2640",
   },
-  "woman-walking-medium-skin-tone": {
+  "🚶🏽♀": {
     name: "woman-walking-medium-skin-tone",
     category: "diversity",
     unicode: "_1f6b6-1f3fd-2640",
     htmlEntity: "&#x1F6B6;&#x1F3FD;&#x2640",
   },
-  "woman-walking-medium-dark-skin-tone": {
+  "🚶🏾♀": {
     name: "woman-walking-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f6b6-1f3fe-2640",
     htmlEntity: "&#x1F6B6;&#x1F3FE;&#x2640",
   },
-  "woman-walking-dark-skin-tone": {
+  "🚶🏿♀": {
     name: "woman-walking-dark-skin-tone",
     category: "diversity",
     unicode: "_1f6b6-1f3ff-2640",
     htmlEntity: "&#x1F6B6;&#x1F3FF;&#x2640",
   },
-  "man-walking": {
+  "🚶♂": {
     name: "man-walking",
     category: "people",
     unicode: "_1f6b6-2642",
     htmlEntity: "&#x1F6B6;&#x2642",
   },
-  "man-walking-light-skin-tone": {
+  "🚶🏻♂": {
     name: "man-walking-light-skin-tone",
     category: "diversity",
     unicode: "_1f6b6-1f3fb-2642",
     htmlEntity: "&#x1F6B6;&#x1F3FB;&#x2642",
   },
-  "man-walking-medium-light-skin-tone": {
+  "🚶🏼♂": {
     name: "man-walking-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f6b6-1f3fc-2642",
     htmlEntity: "&#x1F6B6;&#x1F3FC;&#x2642",
   },
-  "man-walking-medium-skin-tone": {
+  "🚶🏽♂": {
     name: "man-walking-medium-skin-tone",
     category: "diversity",
     unicode: "_1f6b6-1f3fd-2642",
     htmlEntity: "&#x1F6B6;&#x1F3FD;&#x2642",
   },
-  "man-walking-medium-dark-skin-tone": {
+  "🚶🏾♂": {
     name: "man-walking-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f6b6-1f3fe-2642",
     htmlEntity: "&#x1F6B6;&#x1F3FE;&#x2642",
   },
-  "man-walking-dark-skin-tone": {
+  "🚶🏿♂": {
     name: "man-walking-dark-skin-tone",
     category: "diversity",
     unicode: "_1f6b6-1f3ff-2642",
     htmlEntity: "&#x1F6B6;&#x1F3FF;&#x2642",
   },
-  "person-with-probing-cane": {
+  "🧑🦯": {
     name: "person-with-probing-cane",
     category: "people",
     unicode: "_1f9d1-1f9af",
     htmlEntity: "&#x1F9D1;&#x1F9AF",
   },
-  "person-with-probing-cane-light-skin-tone": {
+  "🧑🏻🦯": {
     name: "person-with-probing-cane-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-1f9af",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x1F9AF",
   },
-  "person-with-probing-cane-medium-light-skin-tone": {
+  "🧑🏼🦯": {
     name: "person-with-probing-cane-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-1f9af",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x1F9AF",
   },
-  "person-with-probing-cane-medium-skin-tone": {
+  "🧑🏽🦯": {
     name: "person-with-probing-cane-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-1f9af",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x1F9AF",
   },
-  "person-with-probing-cane-medium-dark-skin-tone": {
+  "🧑🏾🦯": {
     name: "person-with-probing-cane-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-1f9af",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x1F9AF",
   },
-  "person-with-probing-cane-dark-skin-tone": {
+  "🧑🏿🦯": {
     name: "person-with-probing-cane-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-1f9af",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x1F9AF",
   },
-  "woman-with-probing-cane": {
+  "👩🦯": {
     name: "woman-with-probing-cane",
     category: "people",
     unicode: "_1f469-1f9af",
     htmlEntity: "&#x1F469;&#x1F9AF",
   },
-  "woman-with-probing-cane-light-skin-tone": {
+  "👩🏻🦯": {
     name: "woman-with-probing-cane-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-1f9af",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x1F9AF",
   },
-  "woman-with-probing-cane-medium-light-skin-tone": {
+  "👩🏼🦯": {
     name: "woman-with-probing-cane-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-1f9af",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x1F9AF",
   },
-  "woman-with-probing-cane-medium-skin-tone": {
+  "👩🏽🦯": {
     name: "woman-with-probing-cane-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-1f9af",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x1F9AF",
   },
-  "woman-with-probing-cane-medium-dark-skin-tone": {
+  "👩🏾🦯": {
     name: "woman-with-probing-cane-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-1f9af",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x1F9AF",
   },
-  "woman-with-probing-cane-dark-skin-tone": {
+  "👩🏿🦯": {
     name: "woman-with-probing-cane-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-1f9af",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x1F9AF",
   },
-  "man-with-probing-cane": {
+  "👨🦯": {
     name: "man-with-probing-cane",
     category: "people",
     unicode: "_1f468-1f9af",
     htmlEntity: "&#x1F468;&#x1F9AF",
   },
-  "man-with-probing-cane-light-skin-tone": {
+  "👨🏻🦯": {
     name: "man-with-probing-cane-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-1f9af",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x1F9AF",
   },
-  "man-with-probing-cane-medium-skin-tone": {
+  "👨🏽🦯": {
     name: "man-with-probing-cane-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-1f9af",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x1F9AF",
   },
-  "man-with-probing-cane-medium-light-skin-tone": {
+  "👨🏼🦯": {
     name: "man-with-probing-cane-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-1f9af",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x1F9AF",
   },
-  "man-with-probing-cane-medium-dark-skin-tone": {
+  "👨🏾🦯": {
     name: "man-with-probing-cane-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-1f9af",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x1F9AF",
   },
-  "man-with-probing-cane-dark-skin-tone": {
+  "👨🏿🦯": {
     name: "man-with-probing-cane-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-1f9af",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x1F9AF",
   },
-  "person-kneeling": {
+  "🧎": {
     name: "person-kneeling",
     category: "people",
     unicode: "_1f9ce",
     htmlEntity: "&#x1F9CE",
   },
-  "person-kneeling-light-skin-tone": {
+  "🧎🏻": {
     name: "person-kneeling-light-skin-tone",
     category: "diversity",
     unicode: "_1f9ce-1f3fb",
     htmlEntity: "&#x1F9CE;&#x1F3FB",
   },
-  "person-kneeling-medium-light-skin-tone": {
+  "🧎🏼": {
     name: "person-kneeling-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9ce-1f3fc",
     htmlEntity: "&#x1F9CE;&#x1F3FC",
   },
-  "person-kneeling-medium-skin-tone": {
+  "🧎🏽": {
     name: "person-kneeling-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9ce-1f3fd",
     htmlEntity: "&#x1F9CE;&#x1F3FD",
   },
-  "person-kneeling-medium-dark-skin-tone": {
+  "🧎🏾": {
     name: "person-kneeling-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9ce-1f3fe",
     htmlEntity: "&#x1F9CE;&#x1F3FE",
   },
-  "person-kneeling-dark-skin-tone": {
+  "🧎🏿": {
     name: "person-kneeling-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9ce-1f3ff",
     htmlEntity: "&#x1F9CE;&#x1F3FF",
   },
-  "woman-kneeling": {
+  "🧎♀": {
     name: "woman-kneeling",
     category: "people",
     unicode: "_1f9ce-2640",
     htmlEntity: "&#x1F9CE;&#x2640",
   },
-  "woman-kneeling-light-skin-tone": {
+  "🧎🏻♀": {
     name: "woman-kneeling-light-skin-tone",
     category: "diversity",
     unicode: "_1f9ce-1f3fb-2640",
     htmlEntity: "&#x1F9CE;&#x1F3FB;&#x2640",
   },
-  "woman-kneeling-medium-light-skin-tone": {
+  "🧎🏼♀": {
     name: "woman-kneeling-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9ce-1f3fc-2640",
     htmlEntity: "&#x1F9CE;&#x1F3FC;&#x2640",
   },
-  "woman-kneeling-medium-skin-tone": {
+  "🧎🏽♀": {
     name: "woman-kneeling-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9ce-1f3fd-2640",
     htmlEntity: "&#x1F9CE;&#x1F3FD;&#x2640",
   },
-  "woman-kneeling-medium-dark-skin-tone": {
+  "🧎🏾♀": {
     name: "woman-kneeling-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9ce-1f3fe-2640",
     htmlEntity: "&#x1F9CE;&#x1F3FE;&#x2640",
   },
-  "woman-kneeling-dark-skin-tone": {
+  "🧎🏿♀": {
     name: "woman-kneeling-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9ce-1f3ff-2640",
     htmlEntity: "&#x1F9CE;&#x1F3FF;&#x2640",
   },
-  "man-kneeling": {
+  "🧎♂": {
     name: "man-kneeling",
     category: "people",
     unicode: "_1f9ce-2642",
     htmlEntity: "&#x1F9CE;&#x2642",
   },
-  "man-kneeling-light-skin-tone": {
+  "🧎🏻♂": {
     name: "man-kneeling-light-skin-tone",
     category: "diversity",
     unicode: "_1f9ce-1f3fb-2642",
     htmlEntity: "&#x1F9CE;&#x1F3FB;&#x2642",
   },
-  "man-kneeling-medium-light-skin-tone": {
+  "🧎🏼♂": {
     name: "man-kneeling-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9ce-1f3fc-2642",
     htmlEntity: "&#x1F9CE;&#x1F3FC;&#x2642",
   },
-  "man-kneeling-medium-skin-tone": {
+  "🧎🏽♂": {
     name: "man-kneeling-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9ce-1f3fd-2642",
     htmlEntity: "&#x1F9CE;&#x1F3FD;&#x2642",
   },
-  "man-kneeling-medium-dark-skin-tone": {
+  "🧎🏾♂": {
     name: "man-kneeling-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9ce-1f3fe-2642",
     htmlEntity: "&#x1F9CE;&#x1F3FE;&#x2642",
   },
-  "man-kneeling-dark-skin-tone": {
+  "🧎🏿♂": {
     name: "man-kneeling-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9ce-1f3ff-2642",
     htmlEntity: "&#x1F9CE;&#x1F3FF;&#x2642",
   },
-  "person-running": {
+  "🏃": {
     name: "person-running",
     category: "people",
     unicode: "_1f3c3",
     htmlEntity: "&#x1F3C3",
   },
-  "person-running-light-skin-tone": {
+  "🏃🏻": {
     name: "person-running-light-skin-tone",
     category: "diversity",
     unicode: "_1f3c3-1f3fb",
     htmlEntity: "&#x1F3C3;&#x1F3FB",
   },
-  "person-running-medium-light-skin-tone": {
+  "🏃🏼": {
     name: "person-running-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f3c3-1f3fc",
     htmlEntity: "&#x1F3C3;&#x1F3FC",
   },
-  "person-running-medium-skin-tone": {
+  "🏃🏽": {
     name: "person-running-medium-skin-tone",
     category: "diversity",
     unicode: "_1f3c3-1f3fd",
     htmlEntity: "&#x1F3C3;&#x1F3FD",
   },
-  "person-running-medium-dark-skin-tone": {
+  "🏃🏾": {
     name: "person-running-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f3c3-1f3fe",
     htmlEntity: "&#x1F3C3;&#x1F3FE",
   },
-  "person-running-dark-skin-tone": {
+  "🏃🏿": {
     name: "person-running-dark-skin-tone",
     category: "diversity",
     unicode: "_1f3c3-1f3ff",
     htmlEntity: "&#x1F3C3;&#x1F3FF",
   },
-  "woman-running": {
+  "🏃♀": {
     name: "woman-running",
     category: "people",
     unicode: "_1f3c3-2640",
     htmlEntity: "&#x1F3C3;&#x2640",
   },
-  "woman-running-light-skin-tone": {
+  "🏃🏻♀": {
     name: "woman-running-light-skin-tone",
     category: "diversity",
     unicode: "_1f3c3-1f3fb-2640",
     htmlEntity: "&#x1F3C3;&#x1F3FB;&#x2640",
   },
-  "woman-running-medium-light-skin-tone": {
+  "🏃🏼♀": {
     name: "woman-running-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f3c3-1f3fc-2640",
     htmlEntity: "&#x1F3C3;&#x1F3FC;&#x2640",
   },
-  "woman-running-medium-skin-tone": {
+  "🏃🏽♀": {
     name: "woman-running-medium-skin-tone",
     category: "diversity",
     unicode: "_1f3c3-1f3fd-2640",
     htmlEntity: "&#x1F3C3;&#x1F3FD;&#x2640",
   },
-  "woman-running-medium-dark-skin-tone": {
+  "🏃🏾♀": {
     name: "woman-running-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f3c3-1f3fe-2640",
     htmlEntity: "&#x1F3C3;&#x1F3FE;&#x2640",
   },
-  "woman-running-dark-skin-tone": {
+  "🏃🏿♀": {
     name: "woman-running-dark-skin-tone",
     category: "diversity",
     unicode: "_1f3c3-1f3ff-2640",
     htmlEntity: "&#x1F3C3;&#x1F3FF;&#x2640",
   },
-  "man-running": {
+  "🏃♂": {
     name: "man-running",
     category: "people",
     unicode: "_1f3c3-2642",
     htmlEntity: "&#x1F3C3;&#x2642",
   },
-  "man-running-light-skin-tone": {
+  "🏃🏻♂": {
     name: "man-running-light-skin-tone",
     category: "diversity",
     unicode: "_1f3c3-1f3fb-2642",
     htmlEntity: "&#x1F3C3;&#x1F3FB;&#x2642",
   },
-  "man-running-medium-light-skin-tone": {
+  "🏃🏼♂": {
     name: "man-running-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f3c3-1f3fc-2642",
     htmlEntity: "&#x1F3C3;&#x1F3FC;&#x2642",
   },
-  "man-running-medium-skin-tone": {
+  "🏃🏽♂": {
     name: "man-running-medium-skin-tone",
     category: "diversity",
     unicode: "_1f3c3-1f3fd-2642",
     htmlEntity: "&#x1F3C3;&#x1F3FD;&#x2642",
   },
-  "man-running-medium-dark-skin-tone": {
+  "🏃🏾♂": {
     name: "man-running-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f3c3-1f3fe-2642",
     htmlEntity: "&#x1F3C3;&#x1F3FE;&#x2642",
   },
-  "man-running-dark-skin-tone": {
+  "🏃🏿♂": {
     name: "man-running-dark-skin-tone",
     category: "diversity",
     unicode: "_1f3c3-1f3ff-2642",
     htmlEntity: "&#x1F3C3;&#x1F3FF;&#x2642",
   },
-  "person-standing": {
+  "🧍": {
     name: "person-standing",
     category: "people",
     unicode: "_1f9cd",
     htmlEntity: "&#x1F9CD",
   },
-  "person-standing-light-skin-tone": {
+  "🧍🏻": {
     name: "person-standing-light-skin-tone",
     category: "diversity",
     unicode: "_1f9cd-1f3fb",
     htmlEntity: "&#x1F9CD;&#x1F3FB",
   },
-  "person-standing-medium-light-skin-tone": {
+  "🧍🏼": {
     name: "person-standing-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9cd-1f3fc",
     htmlEntity: "&#x1F9CD;&#x1F3FC",
   },
-  "person-standing-medium-skin-tone": {
+  "🧍🏽": {
     name: "person-standing-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9cd-1f3fd",
     htmlEntity: "&#x1F9CD;&#x1F3FD",
   },
-  "person-standing-medium-dark-skin-tone": {
+  "🧍🏾": {
     name: "person-standing-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9cd-1f3fe",
     htmlEntity: "&#x1F9CD;&#x1F3FE",
   },
-  "person-standing-dark-skin-tone": {
+  "🧍🏿": {
     name: "person-standing-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9cd-1f3ff",
     htmlEntity: "&#x1F9CD;&#x1F3FF",
   },
-  "woman-standing": {
+  "🧍♀": {
     name: "woman-standing",
     category: "people",
     unicode: "_1f9cd-2640",
     htmlEntity: "&#x1F9CD;&#x2640",
   },
-  "woman-standing-light-skin-tone": {
+  "🧍🏻♀": {
     name: "woman-standing-light-skin-tone",
     category: "diversity",
     unicode: "_1f9cd-1f3fb-2640",
     htmlEntity: "&#x1F9CD;&#x1F3FB;&#x2640",
   },
-  "woman-standing-medium-light-skin-tone": {
+  "🧍🏼♀": {
     name: "woman-standing-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9cd-1f3fc-2640",
     htmlEntity: "&#x1F9CD;&#x1F3FC;&#x2640",
   },
-  "woman-standing-medium-skin-tone": {
+  "🧍🏽♀": {
     name: "woman-standing-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9cd-1f3fd-2640",
     htmlEntity: "&#x1F9CD;&#x1F3FD;&#x2640",
   },
-  "woman-standing-medium-dark-skin-tone": {
+  "🧍🏾♀": {
     name: "woman-standing-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9cd-1f3fe-2640",
     htmlEntity: "&#x1F9CD;&#x1F3FE;&#x2640",
   },
-  "woman-standing-dark-skin-tone": {
+  "🧍🏿♀": {
     name: "woman-standing-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9cd-1f3ff-2640",
     htmlEntity: "&#x1F9CD;&#x1F3FF;&#x2640",
   },
-  "man-standing": {
+  "🧍♂": {
     name: "man-standing",
     category: "people",
     unicode: "_1f9cd-2642",
     htmlEntity: "&#x1F9CD;&#x2642",
   },
-  "man-standing-light-skin-tone": {
+  "🧍🏻♂": {
     name: "man-standing-light-skin-tone",
     category: "diversity",
     unicode: "_1f9cd-1f3fb-2642",
     htmlEntity: "&#x1F9CD;&#x1F3FB;&#x2642",
   },
-  "man-standing-medium-light-skin-tone": {
+  "🧍🏼♂": {
     name: "man-standing-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9cd-1f3fc-2642",
     htmlEntity: "&#x1F9CD;&#x1F3FC;&#x2642",
   },
-  "man-standing-medium-skin-tone": {
+  "🧍🏽♂": {
     name: "man-standing-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9cd-1f3fd-2642",
     htmlEntity: "&#x1F9CD;&#x1F3FD;&#x2642",
   },
-  "man-standing-medium-dark-skin-tone": {
+  "🧍🏾♂": {
     name: "man-standing-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9cd-1f3fe-2642",
     htmlEntity: "&#x1F9CD;&#x1F3FE;&#x2642",
   },
-  "man-standing-dark-skin-tone": {
+  "🧍🏿♂": {
     name: "man-standing-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9cd-1f3ff-2642",
     htmlEntity: "&#x1F9CD;&#x1F3FF;&#x2642",
   },
-  "people-holding-hands": {
+  "🧑🤝🧑": {
     name: "people-holding-hands",
     category: "people",
     unicode: "_1f9d1-1f91d-1f9d1",
     htmlEntity: "&#x1F9D1;&#x1F91D;&#x1F9D1",
   },
-  "people-holding-hands-light-skin-tone": {
+  "🧑🏻🤝🧑🏻": {
     name: "people-holding-hands-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-1f91d-1f9d1-1f3fb",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x1F91D;&#x1F9D1;&#x1F3FB",
   },
-  "people-holding-hands-light-skin-tone-medium-light-skin-tone": {
+  "🧑🏻🤝🧑🏼": {
     name: "people-holding-hands-light-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-1f91d-1f9d1-1f3fc",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x1F91D;&#x1F9D1;&#x1F3FC",
   },
-  "people-holding-hands-light-skin-tone-medium-skin-tone": {
+  "🧑🏻🤝🧑🏽": {
     name: "people-holding-hands-light-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-1f91d-1f9d1-1f3fd",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x1F91D;&#x1F9D1;&#x1F3FD",
   },
-  "people-holding-hands-light-skin-tone-medium-dark-skin-tone": {
+  "🧑🏻🤝🧑🏾": {
     name: "people-holding-hands-light-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-1f91d-1f9d1-1f3fe",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x1F91D;&#x1F9D1;&#x1F3FE",
   },
-  "people-holding-hands-light-skin-tone-dark-skin-tone": {
+  "🧑🏻🤝🧑🏿": {
     name: "people-holding-hands-light-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-1f91d-1f9d1-1f3ff",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x1F91D;&#x1F9D1;&#x1F3FF",
   },
-  "people-holding-hands-medium-light-skin-tone-light-skin-tone": {
+  "🧑🏼🤝🧑🏻": {
     name: "people-holding-hands-medium-light-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-1f91d-1f9d1-1f3fb",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x1F91D;&#x1F9D1;&#x1F3FB",
   },
-  "people-holding-hands-medium-light-skin-tone": {
+  "🧑🏼🤝🧑🏼": {
     name: "people-holding-hands-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-1f91d-1f9d1-1f3fc",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x1F91D;&#x1F9D1;&#x1F3FC",
   },
-  "people-holding-hands-medium-light-skin-tone-medium-skin-tone": {
+  "🧑🏼🤝🧑🏽": {
     name: "people-holding-hands-medium-light-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-1f91d-1f9d1-1f3fd",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x1F91D;&#x1F9D1;&#x1F3FD",
   },
-  "people-holding-hands-medium-light-skin-tone-medium-dark-skin-tone": {
+  "🧑🏼🤝🧑🏾": {
     name: "people-holding-hands-medium-light-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-1f91d-1f9d1-1f3fe",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x1F91D;&#x1F9D1;&#x1F3FE",
   },
-  "people-holding-hands-medium-light-skin-tone-dark-skin-tone": {
+  "🧑🏼🤝🧑🏿": {
     name: "people-holding-hands-medium-light-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-1f91d-1f9d1-1f3ff",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x1F91D;&#x1F9D1;&#x1F3FF",
   },
-  "people-holding-hands-medium-skin-tone-light-skin-tone": {
+  "🧑🏽🤝🧑🏻": {
     name: "people-holding-hands-medium-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-1f91d-1f9d1-1f3fb",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x1F91D;&#x1F9D1;&#x1F3FB",
   },
-  "people-holding-hands-medium-skin-tone-medium-light-skin-tone": {
+  "🧑🏽🤝🧑🏼": {
     name: "people-holding-hands-medium-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-1f91d-1f9d1-1f3fc",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x1F91D;&#x1F9D1;&#x1F3FC",
   },
-  "people-holding-hands-medium-skin-tone": {
+  "🧑🏽🤝🧑🏽": {
     name: "people-holding-hands-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-1f91d-1f9d1-1f3fd",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x1F91D;&#x1F9D1;&#x1F3FD",
   },
-  "people-holding-hands-medium-skin-tone-medium-dark-skin-tone": {
+  "🧑🏽🤝🧑🏾": {
     name: "people-holding-hands-medium-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-1f91d-1f9d1-1f3fe",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x1F91D;&#x1F9D1;&#x1F3FE",
   },
-  "people-holding-hands-medium-skin-tone-dark-skin-tone": {
+  "🧑🏽🤝🧑🏿": {
     name: "people-holding-hands-medium-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-1f91d-1f9d1-1f3ff",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x1F91D;&#x1F9D1;&#x1F3FF",
   },
-  "people-holding-hands-medium-dark-skin-tone-light-skin-tone": {
+  "🧑🏾🤝🧑🏻": {
     name: "people-holding-hands-medium-dark-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-1f91d-1f9d1-1f3fb",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x1F91D;&#x1F9D1;&#x1F3FB",
   },
-  "people-holding-hands-medium-dark-skin-tone-medium-light-skin-tone": {
+  "🧑🏾🤝🧑🏼": {
     name: "people-holding-hands-medium-dark-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-1f91d-1f9d1-1f3fc",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x1F91D;&#x1F9D1;&#x1F3FC",
   },
-  "people-holding-hands-medium-dark-skin-tone-medium-skin-tone": {
+  "🧑🏾🤝🧑🏽": {
     name: "people-holding-hands-medium-dark-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-1f91d-1f9d1-1f3fd",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x1F91D;&#x1F9D1;&#x1F3FD",
   },
-  "people-holding-hands-medium-dark-skin-tone": {
+  "🧑🏾🤝🧑🏾": {
     name: "people-holding-hands-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-1f91d-1f9d1-1f3fe",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x1F91D;&#x1F9D1;&#x1F3FE",
   },
-  "people-holding-hands-medium-dark-skin-tone-dark-skin-tone": {
+  "🧑🏾🤝🧑🏿": {
     name: "people-holding-hands-medium-dark-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-1f91d-1f9d1-1f3ff",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x1F91D;&#x1F9D1;&#x1F3FF",
   },
-  "people-holding-hands-dark-skin-tone-light-skin-tone": {
+  "🧑🏿🤝🧑🏻": {
     name: "people-holding-hands-dark-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-1f91d-1f9d1-1f3fb",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x1F91D;&#x1F9D1;&#x1F3FB",
   },
-  "people-holding-hands-dark-skin-tone-medium-light-skin-tone": {
+  "🧑🏿🤝🧑🏼": {
     name: "people-holding-hands-dark-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-1f91d-1f9d1-1f3fc",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x1F91D;&#x1F9D1;&#x1F3FC",
   },
-  "people-holding-hands-dark-skin-tone-medium-skin-tone": {
+  "🧑🏿🤝🧑🏽": {
     name: "people-holding-hands-dark-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-1f91d-1f9d1-1f3fd",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x1F91D;&#x1F9D1;&#x1F3FD",
   },
-  "people-holding-hands-dark-skin-tone-medium-dark-skin-tone": {
+  "🧑🏿🤝🧑🏾": {
     name: "people-holding-hands-dark-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-1f91d-1f9d1-1f3fe",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x1F91D;&#x1F9D1;&#x1F3FE",
   },
-  "people-holding-hands-dark-skin-tone": {
+  "🧑🏿🤝🧑🏿": {
     name: "people-holding-hands-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-1f91d-1f9d1-1f3ff",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x1F91D;&#x1F9D1;&#x1F3FF",
   },
-  "woman-and-man-holding-hands": {
+  "👫": {
     name: "woman-and-man-holding-hands",
     category: "people",
     unicode: "_1f46b",
     htmlEntity: "&#x1F46B",
   },
-  "woman-and-man-holding-hands-light-skin-tone": {
+  "👫🏻": {
     name: "woman-and-man-holding-hands-light-skin-tone",
     category: "diversity",
     unicode: "_1f46b-1f3fb",
     htmlEntity: "&#x1F46B;&#x1F3FB",
   },
-  "woman-and-man-holding-hands-light-skin-tone-medium-light-skin-tone": {
+  "👩🏻🤝👨🏼": {
     name: "woman-and-man-holding-hands-light-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-1f91d-1f468-1f3fc",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x1F91D;&#x1F468;&#x1F3FC",
   },
-  "woman-and-man-holding-hands-light-skin-tone-medium-skin-tone": {
+  "👩🏻🤝👨🏽": {
     name: "woman-and-man-holding-hands-light-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-1f91d-1f468-1f3fd",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x1F91D;&#x1F468;&#x1F3FD",
   },
-  "woman-and-man-holding-hands-light-skin-tone-medium-dark-skin-tone": {
+  "👩🏻🤝👨🏾": {
     name: "woman-and-man-holding-hands-light-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-1f91d-1f468-1f3fe",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x1F91D;&#x1F468;&#x1F3FE",
   },
-  "woman-and-man-holding-hands-light-skin-tone-dark-skin-tone": {
+  "👩🏻🤝👨🏿": {
     name: "woman-and-man-holding-hands-light-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-1f91d-1f468-1f3ff",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x1F91D;&#x1F468;&#x1F3FF",
   },
-  "woman-and-man-holding-hands-medium-light-skin-tone-light-skin-tone": {
+  "👩🏼🤝👨🏻": {
     name: "woman-and-man-holding-hands-medium-light-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-1f91d-1f468-1f3fb",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x1F91D;&#x1F468;&#x1F3FB",
   },
-  "woman-and-man-holding-hands-medium-light-skin-tone": {
+  "👫🏼": {
     name: "woman-and-man-holding-hands-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f46b-1f3fc",
     htmlEntity: "&#x1F46B;&#x1F3FC",
   },
-  "woman-and-man-holding-hands-medium-light-skin-tone-medium-skin-tone": {
+  "👩🏼🤝👨🏽": {
     name: "woman-and-man-holding-hands-medium-light-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-1f91d-1f468-1f3fd",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x1F91D;&#x1F468;&#x1F3FD",
   },
-  "woman-and-man-holding-hands-medium-light-skin-tone-medium-dark-skin-tone": {
+  "👩🏼🤝👨🏾": {
     name: "woman-and-man-holding-hands-medium-light-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-1f91d-1f468-1f3fe",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x1F91D;&#x1F468;&#x1F3FE",
   },
-  "woman-and-man-holding-hands-medium-light-skin-tone-dark-skin-tone": {
+  "👩🏼🤝👨🏿": {
     name: "woman-and-man-holding-hands-medium-light-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-1f91d-1f468-1f3ff",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x1F91D;&#x1F468;&#x1F3FF",
   },
-  "woman-and-man-holding-hands-medium-skin-tone-light-skin-tone": {
+  "👩🏽🤝👨🏻": {
     name: "woman-and-man-holding-hands-medium-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-1f91d-1f468-1f3fb",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x1F91D;&#x1F468;&#x1F3FB",
   },
-  "woman-and-man-holding-hands-medium-skin-tone-medium-light-skin-tone": {
+  "👩🏽🤝👨🏼": {
     name: "woman-and-man-holding-hands-medium-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-1f91d-1f468-1f3fc",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x1F91D;&#x1F468;&#x1F3FC",
   },
-  "woman-and-man-holding-hands-medium-skin-tone": {
+  "👫🏽": {
     name: "woman-and-man-holding-hands-medium-skin-tone",
     category: "diversity",
     unicode: "_1f46b-1f3fd",
     htmlEntity: "&#x1F46B;&#x1F3FD",
   },
-  "woman-and-man-holding-hands-medium-skin-tone-medium-dark-skin-tone": {
+  "👩🏽🤝👨🏾": {
     name: "woman-and-man-holding-hands-medium-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-1f91d-1f468-1f3fe",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x1F91D;&#x1F468;&#x1F3FE",
   },
-  "woman-and-man-holding-hands-medium-skin-tone-dark-skin-tone": {
+  "👩🏽🤝👨🏿": {
     name: "woman-and-man-holding-hands-medium-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-1f91d-1f468-1f3ff",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x1F91D;&#x1F468;&#x1F3FF",
   },
-  "woman-and-man-holding-hands-medium-dark-skin-tone-light-skin-tone": {
+  "👩🏾🤝👨🏻": {
     name: "woman-and-man-holding-hands-medium-dark-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-1f91d-1f468-1f3fb",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x1F91D;&#x1F468;&#x1F3FB",
   },
-  "woman-and-man-holding-hands-medium-dark-skin-tone-medium-light-skin-tone": {
+  "👩🏾🤝👨🏼": {
     name: "woman-and-man-holding-hands-medium-dark-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-1f91d-1f468-1f3fc",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x1F91D;&#x1F468;&#x1F3FC",
   },
-  "woman-and-man-holding-hands-medium-dark-skin-tone-medium-skin-tone": {
+  "👩🏾🤝👨🏽": {
     name: "woman-and-man-holding-hands-medium-dark-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-1f91d-1f468-1f3fd",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x1F91D;&#x1F468;&#x1F3FD",
   },
-  "woman-and-man-holding-hands-medium-dark-skin-tone": {
+  "👫🏾": {
     name: "woman-and-man-holding-hands-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f46b-1f3fe",
     htmlEntity: "&#x1F46B;&#x1F3FE",
   },
-  "woman-and-man-holding-hands-medium-dark-skin-tone-dark-skin-tone": {
+  "👩🏾🤝👨🏿": {
     name: "woman-and-man-holding-hands-medium-dark-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-1f91d-1f468-1f3ff",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x1F91D;&#x1F468;&#x1F3FF",
   },
-  "woman-and-man-holding-hands-dark-skin-tone-light-skin-tone": {
+  "👩🏿🤝👨🏻": {
     name: "woman-and-man-holding-hands-dark-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-1f91d-1f468-1f3fb",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x1F91D;&#x1F468;&#x1F3FB",
   },
-  "woman-and-man-holding-hands-dark-skin-tone-medium-light-skin-tone": {
+  "👩🏿🤝👨🏼": {
     name: "woman-and-man-holding-hands-dark-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-1f91d-1f468-1f3fc",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x1F91D;&#x1F468;&#x1F3FC",
   },
-  "woman-and-man-holding-hands-dark-skin-tone-medium-skin-tone": {
+  "👩🏿🤝👨🏽": {
     name: "woman-and-man-holding-hands-dark-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-1f91d-1f468-1f3fd",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x1F91D;&#x1F468;&#x1F3FD",
   },
-  "woman-and-man-holding-hands-dark-skin-tone-medium-dark-skin-tone": {
+  "👩🏿🤝👨🏾": {
     name: "woman-and-man-holding-hands-dark-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-1f91d-1f468-1f3fe",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x1F91D;&#x1F468;&#x1F3FE",
   },
-  "woman-and-man-holding-hands-dark-skin-tone": {
+  "👫🏿": {
     name: "woman-and-man-holding-hands-dark-skin-tone",
     category: "diversity",
     unicode: "_1f46b-1f3ff",
     htmlEntity: "&#x1F46B;&#x1F3FF",
   },
-  "women-holding-hands": {
+  "👭": {
     name: "women-holding-hands",
     category: "people",
     unicode: "_1f46d",
     htmlEntity: "&#x1F46D",
   },
-  "women-holding-hands-light-skin-tone": {
+  "👭🏻": {
     name: "women-holding-hands-light-skin-tone",
     category: "diversity",
     unicode: "_1f46d-1f3fb",
     htmlEntity: "&#x1F46D;&#x1F3FB",
   },
-  "women-holding-hands-light-skin-tone-medium-light-skin-tone": {
+  "👩🏻🤝👩🏼": {
     name: "women-holding-hands-light-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-1f91d-1f469-1f3fc",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x1F91D;&#x1F469;&#x1F3FC",
   },
-  "women-holding-hands-light-skin-tone-medium-skin-tone": {
+  "👩🏻🤝👩🏽": {
     name: "women-holding-hands-light-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-1f91d-1f469-1f3fd",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x1F91D;&#x1F469;&#x1F3FD",
   },
-  "women-holding-hands-light-skin-tone-medium-dark-skin-tone": {
+  "👩🏻🤝👩🏾": {
     name: "women-holding-hands-light-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-1f91d-1f469-1f3fe",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x1F91D;&#x1F469;&#x1F3FE",
   },
-  "women-holding-hands-light-skin-tone-dark-skin-tone": {
+  "👩🏻🤝👩🏿": {
     name: "women-holding-hands-light-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-1f91d-1f469-1f3ff",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x1F91D;&#x1F469;&#x1F3FF",
   },
-  "women-holding-hands-medium-light-skin-tone-light-skin-tone": {
+  "👩🏼🤝👩🏻": {
     name: "women-holding-hands-medium-light-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-1f91d-1f469-1f3fb",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x1F91D;&#x1F469;&#x1F3FB",
   },
-  "women-holding-hands-medium-light-skin-tone": {
+  "👭🏼": {
     name: "women-holding-hands-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f46d-1f3fc",
     htmlEntity: "&#x1F46D;&#x1F3FC",
   },
-  "women-holding-hands-medium-light-skin-tone-medium-skin-tone": {
+  "👩🏼🤝👩🏽": {
     name: "women-holding-hands-medium-light-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-1f91d-1f469-1f3fd",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x1F91D;&#x1F469;&#x1F3FD",
   },
-  "women-holding-hands-medium-light-skin-tone-medium-dark-skin-tone": {
+  "👩🏼🤝👩🏾": {
     name: "women-holding-hands-medium-light-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-1f91d-1f469-1f3fe",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x1F91D;&#x1F469;&#x1F3FE",
   },
-  "women-holding-hands-medium-light-skin-tone-dark-skin-tone": {
+  "👩🏼🤝👩🏿": {
     name: "women-holding-hands-medium-light-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-1f91d-1f469-1f3ff",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x1F91D;&#x1F469;&#x1F3FF",
   },
-  "women-holding-hands-medium-skin-tone-light-skin-tone": {
+  "👩🏽🤝👩🏻": {
     name: "women-holding-hands-medium-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-1f91d-1f469-1f3fb",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x1F91D;&#x1F469;&#x1F3FB",
   },
-  "women-holding-hands-medium-skin-tone-medium-light-skin-tone": {
+  "👩🏽🤝👩🏼": {
     name: "women-holding-hands-medium-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-1f91d-1f469-1f3fc",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x1F91D;&#x1F469;&#x1F3FC",
   },
-  "women-holding-hands-medium-skin-tone": {
+  "👭🏽": {
     name: "women-holding-hands-medium-skin-tone",
     category: "diversity",
     unicode: "_1f46d-1f3fd",
     htmlEntity: "&#x1F46D;&#x1F3FD",
   },
-  "women-holding-hands-medium-skin-tone-medium-dark-skin-tone": {
+  "👩🏽🤝👩🏾": {
     name: "women-holding-hands-medium-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-1f91d-1f469-1f3fe",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x1F91D;&#x1F469;&#x1F3FE",
   },
-  "women-holding-hands-medium-skin-tone-dark-skin-tone": {
+  "👩🏽🤝👩🏿": {
     name: "women-holding-hands-medium-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-1f91d-1f469-1f3ff",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x1F91D;&#x1F469;&#x1F3FF",
   },
-  "women-holding-hands-medium-dark-skin-tone-light-skin-tone": {
+  "👩🏾🤝👩🏻": {
     name: "women-holding-hands-medium-dark-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-1f91d-1f469-1f3fb",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x1F91D;&#x1F469;&#x1F3FB",
   },
-  "women-holding-hands-medium-dark-skin-tone-medium-light-skin-tone": {
+  "👩🏾🤝👩🏼": {
     name: "women-holding-hands-medium-dark-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-1f91d-1f469-1f3fc",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x1F91D;&#x1F469;&#x1F3FC",
   },
-  "women-holding-hands-medium-dark-skin-tone-medium-skin-tone": {
+  "👩🏾🤝👩🏽": {
     name: "women-holding-hands-medium-dark-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-1f91d-1f469-1f3fd",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x1F91D;&#x1F469;&#x1F3FD",
   },
-  "women-holding-hands-medium-dark-skin-tone": {
+  "👭🏾": {
     name: "women-holding-hands-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f46d-1f3fe",
     htmlEntity: "&#x1F46D;&#x1F3FE",
   },
-  "women-holding-hands-medium-dark-skin-tone-dark-skin-tone": {
+  "👩🏾🤝👩🏿": {
     name: "women-holding-hands-medium-dark-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-1f91d-1f469-1f3ff",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x1F91D;&#x1F469;&#x1F3FF",
   },
-  "women-holding-hands-dark-skin-tone-light-skin-tone": {
+  "👩🏿🤝👩🏻": {
     name: "women-holding-hands-dark-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-1f91d-1f469-1f3fb",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x1F91D;&#x1F469;&#x1F3FB",
   },
-  "women-holding-hands-dark-skin-tone-medium-light-skin-tone": {
+  "👩🏿🤝👩🏼": {
     name: "women-holding-hands-dark-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-1f91d-1f469-1f3fc",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x1F91D;&#x1F469;&#x1F3FC",
   },
-  "women-holding-hands-dark-skin-tone-medium-skin-tone": {
+  "👩🏿🤝👩🏽": {
     name: "women-holding-hands-dark-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-1f91d-1f469-1f3fd",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x1F91D;&#x1F469;&#x1F3FD",
   },
-  "women-holding-hands-dark-skin-tone-medium-dark-skin-tone": {
+  "👩🏿🤝👩🏾": {
     name: "women-holding-hands-dark-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-1f91d-1f469-1f3fe",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x1F91D;&#x1F469;&#x1F3FE",
   },
-  "women-holding-hands-dark-skin-tone": {
+  "👭🏿": {
     name: "women-holding-hands-dark-skin-tone",
     category: "diversity",
     unicode: "_1f46d-1f3ff",
     htmlEntity: "&#x1F46D;&#x1F3FF",
   },
-  "men-holding-hands": {
+  "👬": {
     name: "men-holding-hands",
     category: "people",
     unicode: "_1f46c",
     htmlEntity: "&#x1F46C",
   },
-  "men-holding-hands-light-skin-tone": {
+  "👬🏻": {
     name: "men-holding-hands-light-skin-tone",
     category: "diversity",
     unicode: "_1f46c-1f3fb",
     htmlEntity: "&#x1F46C;&#x1F3FB",
   },
-  "men-holding-hands-light-skin-tone-medium-light-skin-tone": {
+  "👨🏻🤝👨🏼": {
     name: "men-holding-hands-light-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-1f91d-1f468-1f3fc",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x1F91D;&#x1F468;&#x1F3FC",
   },
-  "men-holding-hands-light-skin-tone-medium-skin-tone": {
+  "👨🏻🤝👨🏽": {
     name: "men-holding-hands-light-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-1f91d-1f468-1f3fd",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x1F91D;&#x1F468;&#x1F3FD",
   },
-  "men-holding-hands-light-skin-tone-medium-dark-skin-tone": {
+  "👨🏻🤝👨🏾": {
     name: "men-holding-hands-light-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-1f91d-1f468-1f3fe",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x1F91D;&#x1F468;&#x1F3FE",
   },
-  "men-holding-hands-light-skin-tone-dark-skin-tone": {
+  "👨🏻🤝👨🏿": {
     name: "men-holding-hands-light-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-1f91d-1f468-1f3ff",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x1F91D;&#x1F468;&#x1F3FF",
   },
-  "men-holding-hands-medium-light-skin-tone-light-skin-tone": {
+  "👨🏼🤝👨🏻": {
     name: "men-holding-hands-medium-light-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-1f91d-1f468-1f3fb",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x1F91D;&#x1F468;&#x1F3FB",
   },
-  "men-holding-hands-medium-light-skin-tone": {
+  "👬🏼": {
     name: "men-holding-hands-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f46c-1f3fc",
     htmlEntity: "&#x1F46C;&#x1F3FC",
   },
-  "men-holding-hands-medium-light-skin-tone-medium-skin-tone": {
+  "👨🏼🤝👨🏽": {
     name: "men-holding-hands-medium-light-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-1f91d-1f468-1f3fd",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x1F91D;&#x1F468;&#x1F3FD",
   },
-  "men-holding-hands-medium-light-skin-tone-medium-dark-skin-tone": {
+  "👨🏼🤝👨🏾": {
     name: "men-holding-hands-medium-light-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-1f91d-1f468-1f3fe",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x1F91D;&#x1F468;&#x1F3FE",
   },
-  "men-holding-hands-medium-light-skin-tone-dark-skin-tone": {
+  "👨🏼🤝👨🏿": {
     name: "men-holding-hands-medium-light-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-1f91d-1f468-1f3ff",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x1F91D;&#x1F468;&#x1F3FF",
   },
-  "men-holding-hands-medium-skin-tone-light-skin-tone": {
+  "👨🏽🤝👨🏻": {
     name: "men-holding-hands-medium-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-1f91d-1f468-1f3fb",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x1F91D;&#x1F468;&#x1F3FB",
   },
-  "men-holding-hands-medium-skin-tone-medium-light-skin-tone": {
+  "👨🏽🤝👨🏼": {
     name: "men-holding-hands-medium-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-1f91d-1f468-1f3fc",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x1F91D;&#x1F468;&#x1F3FC",
   },
-  "men-holding-hands-medium-skin-tone": {
+  "👬🏽": {
     name: "men-holding-hands-medium-skin-tone",
     category: "diversity",
     unicode: "_1f46c-1f3fd",
     htmlEntity: "&#x1F46C;&#x1F3FD",
   },
-  "men-holding-hands-medium-skin-tone-medium-dark-skin-tone": {
+  "👨🏽🤝👨🏾": {
     name: "men-holding-hands-medium-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-1f91d-1f468-1f3fe",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x1F91D;&#x1F468;&#x1F3FE",
   },
-  "men-holding-hands-medium-skin-tone-dark-skin-tone": {
+  "👨🏽🤝👨🏿": {
     name: "men-holding-hands-medium-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-1f91d-1f468-1f3ff",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x1F91D;&#x1F468;&#x1F3FF",
   },
-  "men-holding-hands-medium-dark-skin-tone-light-skin-tone": {
+  "👨🏾🤝👨🏻": {
     name: "men-holding-hands-medium-dark-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-1f91d-1f468-1f3fb",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x1F91D;&#x1F468;&#x1F3FB",
   },
-  "men-holding-hands-medium-dark-skin-tone-medium-light-skin-tone": {
+  "👨🏾🤝👨🏼": {
     name: "men-holding-hands-medium-dark-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-1f91d-1f468-1f3fc",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x1F91D;&#x1F468;&#x1F3FC",
   },
-  "men-holding-hands-medium-dark-skin-tone-medium-skin-tone": {
+  "👨🏾🤝👨🏽": {
     name: "men-holding-hands-medium-dark-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-1f91d-1f468-1f3fd",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x1F91D;&#x1F468;&#x1F3FD",
   },
-  "men-holding-hands-medium-dark-skin-tone": {
+  "👬🏾": {
     name: "men-holding-hands-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f46c-1f3fe",
     htmlEntity: "&#x1F46C;&#x1F3FE",
   },
-  "men-holding-hands-medium-dark-skin-tone-dark-skin-tone": {
+  "👨🏾🤝👨🏿": {
     name: "men-holding-hands-medium-dark-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-1f91d-1f468-1f3ff",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x1F91D;&#x1F468;&#x1F3FF",
   },
-  "men-holding-hands-dark-skin-tone-light-skin-tone": {
+  "👨🏿🤝👨🏻": {
     name: "men-holding-hands-dark-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-1f91d-1f468-1f3fb",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x1F91D;&#x1F468;&#x1F3FB",
   },
-  "men-holding-hands-dark-skin-tone-medium-light-skin-tone": {
+  "👨🏿🤝👨🏼": {
     name: "men-holding-hands-dark-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-1f91d-1f468-1f3fc",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x1F91D;&#x1F468;&#x1F3FC",
   },
-  "men-holding-hands-dark-skin-tone-medium-skin-tone": {
+  "👨🏿🤝👨🏽": {
     name: "men-holding-hands-dark-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-1f91d-1f468-1f3fd",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x1F91D;&#x1F468;&#x1F3FD",
   },
-  "men-holding-hands-dark-skin-tone-medium-dark-skin-tone": {
+  "👨🏿🤝👨🏾": {
     name: "men-holding-hands-dark-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-1f91d-1f468-1f3fe",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x1F91D;&#x1F468;&#x1F3FE",
   },
-  "men-holding-hands-dark-skin-tone": {
+  "👬🏿": {
     name: "men-holding-hands-dark-skin-tone",
     category: "diversity",
     unicode: "_1f46c-1f3ff",
     htmlEntity: "&#x1F46C;&#x1F3FF",
   },
-  "couple-with-heart": {
+  "💑": {
     name: "couple-with-heart",
     category: "people",
     unicode: "_1f491",
     htmlEntity: "&#x1F491",
   },
-  "couple-with-heart-light-skin-tone": {
+  "💑🏻": {
     name: "couple-with-heart-light-skin-tone",
     category: "diversity",
     unicode: "_1f491-1f3fb",
     htmlEntity: "&#x1F491;&#x1F3FB",
   },
-  "couple-with-heart-person-person-light-skin-tone-medium-light-skin-tone": {
+  "🧑🏻❤🧑🏼": {
     name: "couple-with-heart-person-person-light-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-2764-1f9d1-1f3fc",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x2764;&#x1F9D1;&#x1F3FC",
   },
-  "couple-with-heart-person-person-light-skin-tone-medium-skin-tone": {
+  "🧑🏻❤🧑🏽": {
     name: "couple-with-heart-person-person-light-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-2764-1f9d1-1f3fd",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x2764;&#x1F9D1;&#x1F3FD",
   },
-  "couple-with-heart-person-person-light-skin-tone-medium-dark-skin-tone": {
+  "🧑🏻❤🧑🏾": {
     name: "couple-with-heart-person-person-light-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-2764-1f9d1-1f3fe",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x2764;&#x1F9D1;&#x1F3FE",
   },
-  "couple-with-heart-person-person-light-skin-tone-dark-skin-tone": {
+  "🧑🏻❤🧑🏿": {
     name: "couple-with-heart-person-person-light-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-2764-1f9d1-1f3ff",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x2764;&#x1F9D1;&#x1F3FF",
   },
-  "couple-with-heart-person-person-medium-light-skin-tone-light-skin-tone": {
+  "🧑🏼❤🧑🏻": {
     name: "couple-with-heart-person-person-medium-light-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-2764-1f9d1-1f3fb",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x2764;&#x1F9D1;&#x1F3FB",
   },
-  "couple-with-heart-medium-light-skin-tone": {
+  "💑🏼": {
     name: "couple-with-heart-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f491-1f3fc",
     htmlEntity: "&#x1F491;&#x1F3FC",
   },
-  "couple-with-heart-person-person-medium-light-skin-tone-medium-skin-tone": {
+  "🧑🏼❤🧑🏽": {
     name: "couple-with-heart-person-person-medium-light-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-2764-1f9d1-1f3fd",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x2764;&#x1F9D1;&#x1F3FD",
   },
-  "couple-with-heart-person-person-medium-light-skin-tone-medium-dark-skin-tone":
-    {
-      name: "couple-with-heart-person-person-medium-light-skin-tone-medium-dark-skin-tone",
-      category: "diversity",
-      unicode: "_1f9d1-1f3fc-2764-1f9d1-1f3fe",
-      htmlEntity: "&#x1F9D1;&#x1F3FC;&#x2764;&#x1F9D1;&#x1F3FE",
-    },
-  "couple-with-heart-person-person-medium-light-skin-tone-dark-skin-tone": {
+  "🧑🏼❤🧑🏾": {
+    name: "couple-with-heart-person-person-medium-light-skin-tone-medium-dark-skin-tone",
+    category: "diversity",
+    unicode: "_1f9d1-1f3fc-2764-1f9d1-1f3fe",
+    htmlEntity: "&#x1F9D1;&#x1F3FC;&#x2764;&#x1F9D1;&#x1F3FE",
+  },
+  "🧑🏼❤🧑🏿": {
     name: "couple-with-heart-person-person-medium-light-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-2764-1f9d1-1f3ff",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x2764;&#x1F9D1;&#x1F3FF",
   },
-  "couple-with-heart-person-person-medium-skin-tone-light-skin-tone": {
+  "🧑🏽❤🧑🏻": {
     name: "couple-with-heart-person-person-medium-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-2764-1f9d1-1f3fb",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x2764;&#x1F9D1;&#x1F3FB",
   },
-  "couple-with-heart-person-person-medium-skin-tone-medium-light-skin-tone": {
+  "🧑🏽❤🧑🏼": {
     name: "couple-with-heart-person-person-medium-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-2764-1f9d1-1f3fc",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x2764;&#x1F9D1;&#x1F3FC",
   },
-  "couple-with-heart-medium-skin-tone": {
+  "💑🏽": {
     name: "couple-with-heart-medium-skin-tone",
     category: "diversity",
     unicode: "_1f491-1f3fd",
     htmlEntity: "&#x1F491;&#x1F3FD",
   },
-  "couple-with-heart-person-person-medium-skin-tone-medium-dark-skin-tone": {
+  "🧑🏽❤🧑🏾": {
     name: "couple-with-heart-person-person-medium-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-2764-1f9d1-1f3fe",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x2764;&#x1F9D1;&#x1F3FE",
   },
-  "couple-with-heart-person-person-medium-skin-tone-dark-skin-tone": {
+  "🧑🏽❤🧑🏿": {
     name: "couple-with-heart-person-person-medium-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-2764-1f9d1-1f3ff",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x2764;&#x1F9D1;&#x1F3FF",
   },
-  "couple-with-heart-person-person-medium-dark-skin-tone-light-skin-tone": {
+  "🧑🏾❤🧑🏻": {
     name: "couple-with-heart-person-person-medium-dark-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-2764-1f9d1-1f3fb",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x2764;&#x1F9D1;&#x1F3FB",
   },
-  "couple-with-heart-person-person-medium-dark-skin-tone-medium-light-skin-tone":
-    {
-      name: "couple-with-heart-person-person-medium-dark-skin-tone-medium-light-skin-tone",
-      category: "diversity",
-      unicode: "_1f9d1-1f3fe-2764-1f9d1-1f3fc",
-      htmlEntity: "&#x1F9D1;&#x1F3FE;&#x2764;&#x1F9D1;&#x1F3FC",
-    },
-  "couple-with-heart-person-person-medium-dark-skin-tone-medium-skin-tone": {
+  "🧑🏾❤🧑🏼": {
+    name: "couple-with-heart-person-person-medium-dark-skin-tone-medium-light-skin-tone",
+    category: "diversity",
+    unicode: "_1f9d1-1f3fe-2764-1f9d1-1f3fc",
+    htmlEntity: "&#x1F9D1;&#x1F3FE;&#x2764;&#x1F9D1;&#x1F3FC",
+  },
+  "🧑🏾❤🧑🏽": {
     name: "couple-with-heart-person-person-medium-dark-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-2764-1f9d1-1f3fd",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x2764;&#x1F9D1;&#x1F3FD",
   },
-  "couple-with-heart-medium-dark-skin-tone": {
+  "💑🏾": {
     name: "couple-with-heart-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f491-1f3fe",
     htmlEntity: "&#x1F491;&#x1F3FE",
   },
-  "couple-with-heart-person-person-medium-dark-skin-tone-dark-skin-tone": {
+  "🧑🏾❤🧑🏿": {
     name: "couple-with-heart-person-person-medium-dark-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-2764-1f9d1-1f3ff",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x2764;&#x1F9D1;&#x1F3FF",
   },
-  "couple-with-heart-person-person-dark-skin-tone-light-skin-tone": {
+  "🧑🏿❤🧑🏻": {
     name: "couple-with-heart-person-person-dark-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-2764-1f9d1-1f3fb",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x2764;&#x1F9D1;&#x1F3FB",
   },
-  "couple-with-heart-person-person-dark-skin-tone-medium-light-skin-tone": {
+  "🧑🏿❤🧑🏼": {
     name: "couple-with-heart-person-person-dark-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-2764-1f9d1-1f3fc",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x2764;&#x1F9D1;&#x1F3FC",
   },
-  "couple-with-heart-person-person-dark-skin-tone-medium-skin-tone": {
+  "🧑🏿❤🧑🏽": {
     name: "couple-with-heart-person-person-dark-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-2764-1f9d1-1f3fd",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x2764;&#x1F9D1;&#x1F3FD",
   },
-  "couple-with-heart-person-person-dark-skin-tone-medium-dark-skin-tone": {
+  "🧑🏿❤🧑🏾": {
     name: "couple-with-heart-person-person-dark-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-2764-1f9d1-1f3fe",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x2764;&#x1F9D1;&#x1F3FE",
   },
-  "couple-with-heart-dark-skin-tone": {
+  "💑🏿": {
     name: "couple-with-heart-dark-skin-tone",
     category: "diversity",
     unicode: "_1f491-1f3ff",
     htmlEntity: "&#x1F491;&#x1F3FF",
   },
-  "couple-with-heart-woman-man": {
+  "👩❤👨": {
     name: "couple-with-heart-woman-man",
     category: "people",
     unicode: "_1f469-2764-1f468",
     htmlEntity: "&#x1F469;&#x2764;&#x1F468",
   },
-  "couple-with-heart-woman-man-light-skin-tone": {
+  "👩🏻❤👨🏻": {
     name: "couple-with-heart-woman-man-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-2764-1f468-1f3fb",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x2764;&#x1F468;&#x1F3FB",
   },
-  "couple-with-heart-woman-man-light-skin-tone-medium-light-skin-tone": {
+  "👩🏻❤👨🏼": {
     name: "couple-with-heart-woman-man-light-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-2764-1f468-1f3fc",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x2764;&#x1F468;&#x1F3FC",
   },
-  "couple-with-heart-woman-man-light-skin-tone-medium-skin-tone": {
+  "👩🏻❤👨🏽": {
     name: "couple-with-heart-woman-man-light-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-2764-1f468-1f3fd",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x2764;&#x1F468;&#x1F3FD",
   },
-  "couple-with-heart-woman-man-light-skin-tone-medium-dark-skin-tone": {
+  "👩🏻❤👨🏾": {
     name: "couple-with-heart-woman-man-light-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-2764-1f468-1f3fe",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x2764;&#x1F468;&#x1F3FE",
   },
-  "couple-with-heart-woman-man-light-skin-tone-dark-skin-tone": {
+  "👩🏻❤👨🏿": {
     name: "couple-with-heart-woman-man-light-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-2764-1f468-1f3ff",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x2764;&#x1F468;&#x1F3FF",
   },
-  "couple-with-heart-woman-man-medium-light-skin-tone-light-skin-tone": {
+  "👩🏼❤👨🏻": {
     name: "couple-with-heart-woman-man-medium-light-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-2764-1f468-1f3fb",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x2764;&#x1F468;&#x1F3FB",
   },
-  "couple-with-heart-woman-man-medium-light-skin-tone": {
+  "👩🏼❤👨🏼": {
     name: "couple-with-heart-woman-man-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-2764-1f468-1f3fc",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x2764;&#x1F468;&#x1F3FC",
   },
-  "couple-with-heart-woman-man-medium-light-skin-tone-medium-skin-tone": {
+  "👩🏼❤👨🏽": {
     name: "couple-with-heart-woman-man-medium-light-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-2764-1f468-1f3fd",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x2764;&#x1F468;&#x1F3FD",
   },
-  "couple-with-heart-woman-man-medium-light-skin-tone-medium-dark-skin-tone": {
+  "👩🏼❤👨🏾": {
     name: "couple-with-heart-woman-man-medium-light-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-2764-1f468-1f3fe",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x2764;&#x1F468;&#x1F3FE",
   },
-  "couple-with-heart-woman-man-medium-light-skin-tone-dark-skin-tone": {
+  "👩🏼❤👨🏿": {
     name: "couple-with-heart-woman-man-medium-light-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-2764-1f468-1f3ff",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x2764;&#x1F468;&#x1F3FF",
   },
-  "couple-with-heart-woman-man-medium-skin-tone-light-skin-tone": {
+  "👩🏽❤👨🏻": {
     name: "couple-with-heart-woman-man-medium-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-2764-1f468-1f3fb",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x2764;&#x1F468;&#x1F3FB",
   },
-  "couple-with-heart-woman-man-medium-skin-tone-medium-light-skin-tone": {
+  "👩🏽❤👨🏼": {
     name: "couple-with-heart-woman-man-medium-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-2764-1f468-1f3fc",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x2764;&#x1F468;&#x1F3FC",
   },
-  "couple-with-heart-woman-man-medium-skin-tone": {
+  "👩🏽❤👨🏽": {
     name: "couple-with-heart-woman-man-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-2764-1f468-1f3fd",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x2764;&#x1F468;&#x1F3FD",
   },
-  "couple-with-heart-woman-man-medium-skin-tone-medium-dark-skin-tone": {
+  "👩🏽❤👨🏾": {
     name: "couple-with-heart-woman-man-medium-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-2764-1f468-1f3fe",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x2764;&#x1F468;&#x1F3FE",
   },
-  "couple-with-heart-woman-man-medium-skin-tone-dark-skin-tone": {
+  "👩🏽❤👨🏿": {
     name: "couple-with-heart-woman-man-medium-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-2764-1f468-1f3ff",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x2764;&#x1F468;&#x1F3FF",
   },
-  "couple-with-heart-woman-man-medium-dark-skin-tone-light-skin-tone": {
+  "👩🏾❤👨🏻": {
     name: "couple-with-heart-woman-man-medium-dark-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-2764-1f468-1f3fb",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x2764;&#x1F468;&#x1F3FB",
   },
-  "couple-with-heart-woman-man-medium-dark-skin-tone-medium-light-skin-tone": {
+  "👩🏾❤👨🏼": {
     name: "couple-with-heart-woman-man-medium-dark-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-2764-1f468-1f3fc",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x2764;&#x1F468;&#x1F3FC",
   },
-  "couple-with-heart-woman-man-medium-dark-skin-tone-medium-skin-tone": {
+  "👩🏾❤👨🏽": {
     name: "couple-with-heart-woman-man-medium-dark-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-2764-1f468-1f3fd",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x2764;&#x1F468;&#x1F3FD",
   },
-  "couple-with-heart-woman-man-medium-dark-skin-tone": {
+  "👩🏾❤👨🏾": {
     name: "couple-with-heart-woman-man-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-2764-1f468-1f3fe",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x2764;&#x1F468;&#x1F3FE",
   },
-  "couple-with-heart-woman-man-medium-dark-skin-tone-dark-skin-tone": {
+  "👩🏾❤👨🏿": {
     name: "couple-with-heart-woman-man-medium-dark-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-2764-1f468-1f3ff",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x2764;&#x1F468;&#x1F3FF",
   },
-  "couple-with-heart-woman-man-dark-skin-tone-light-skin-tone": {
+  "👩🏿❤👨🏻": {
     name: "couple-with-heart-woman-man-dark-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-2764-1f468-1f3fb",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x2764;&#x1F468;&#x1F3FB",
   },
-  "couple-with-heart-woman-man-dark-skin-tone-medium-light-skin-tone": {
+  "👩🏿❤👨🏼": {
     name: "couple-with-heart-woman-man-dark-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-2764-1f468-1f3fc",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x2764;&#x1F468;&#x1F3FC",
   },
-  "couple-with-heart-woman-man-dark-skin-tone-medium-skin-tone": {
+  "👩🏿❤👨🏽": {
     name: "couple-with-heart-woman-man-dark-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-2764-1f468-1f3fd",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x2764;&#x1F468;&#x1F3FD",
   },
-  "couple-with-heart-woman-man-dark-skin-tone-medium-dark-skin-tone": {
+  "👩🏿❤👨🏾": {
     name: "couple-with-heart-woman-man-dark-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-2764-1f468-1f3fe",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x2764;&#x1F468;&#x1F3FE",
   },
-  "couple-with-heart-woman-man-dark-skin-tone": {
+  "👩🏿❤👨🏿": {
     name: "couple-with-heart-woman-man-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-2764-1f468-1f3ff",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x2764;&#x1F468;&#x1F3FF",
   },
-  "couple-with-heart-woman-woman": {
+  "👩❤👩": {
     name: "couple-with-heart-woman-woman",
     category: "people",
     unicode: "_1f469-2764-1f469",
     htmlEntity: "&#x1F469;&#x2764;&#x1F469",
   },
-  "couple-with-heart-woman-woman-light-skin-tone": {
+  "👩🏻❤👩🏻": {
     name: "couple-with-heart-woman-woman-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-2764-1f469-1f3fb",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x2764;&#x1F469;&#x1F3FB",
   },
-  "couple-with-heart-woman-woman-light-skin-tone-medium-light-skin-tone": {
+  "👩🏻❤👩🏼": {
     name: "couple-with-heart-woman-woman-light-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-2764-1f469-1f3fc",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x2764;&#x1F469;&#x1F3FC",
   },
-  "couple-with-heart-woman-woman-light-skin-tone-medium-skin-tone": {
+  "👩🏻❤👩🏽": {
     name: "couple-with-heart-woman-woman-light-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-2764-1f469-1f3fd",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x2764;&#x1F469;&#x1F3FD",
   },
-  "couple-with-heart-woman-woman-light-skin-tone-medium-dark-skin-tone": {
+  "👩🏻❤👩🏾": {
     name: "couple-with-heart-woman-woman-light-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-2764-1f469-1f3fe",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x2764;&#x1F469;&#x1F3FE",
   },
-  "couple-with-heart-woman-woman-light-skin-tone-dark-skin-tone": {
+  "👩🏻❤👩🏿": {
     name: "couple-with-heart-woman-woman-light-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-2764-1f469-1f3ff",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x2764;&#x1F469;&#x1F3FF",
   },
-  "couple-with-heart-woman-woman-medium-light-skin-tone-light-skin-tone": {
+  "👩🏼❤👩🏻": {
     name: "couple-with-heart-woman-woman-medium-light-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-2764-1f469-1f3fb",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x2764;&#x1F469;&#x1F3FB",
   },
-  "couple-with-heart-woman-woman-medium-light-skin-tone": {
+  "👩🏼❤👩🏼": {
     name: "couple-with-heart-woman-woman-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-2764-1f469-1f3fc",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x2764;&#x1F469;&#x1F3FC",
   },
-  "couple-with-heart-woman-woman-medium-light-skin-tone-medium-skin-tone": {
+  "👩🏼❤👩🏽": {
     name: "couple-with-heart-woman-woman-medium-light-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-2764-1f469-1f3fd",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x2764;&#x1F469;&#x1F3FD",
   },
-  "couple-with-heart-woman-woman-medium-light-skin-tone-medium-dark-skin-tone":
-    {
-      name: "couple-with-heart-woman-woman-medium-light-skin-tone-medium-dark-skin-tone",
-      category: "diversity",
-      unicode: "_1f469-1f3fc-2764-1f469-1f3fe",
-      htmlEntity: "&#x1F469;&#x1F3FC;&#x2764;&#x1F469;&#x1F3FE",
-    },
-  "couple-with-heart-woman-woman-medium-light-skin-tone-dark-skin-tone": {
+  "👩🏼❤👩🏾": {
+    name: "couple-with-heart-woman-woman-medium-light-skin-tone-medium-dark-skin-tone",
+    category: "diversity",
+    unicode: "_1f469-1f3fc-2764-1f469-1f3fe",
+    htmlEntity: "&#x1F469;&#x1F3FC;&#x2764;&#x1F469;&#x1F3FE",
+  },
+  "👩🏼❤👩🏿": {
     name: "couple-with-heart-woman-woman-medium-light-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-2764-1f469-1f3ff",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x2764;&#x1F469;&#x1F3FF",
   },
-  "couple-with-heart-woman-woman-medium-skin-tone-light-skin-tone": {
+  "👩🏽❤👩🏻": {
     name: "couple-with-heart-woman-woman-medium-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-2764-1f469-1f3fb",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x2764;&#x1F469;&#x1F3FB",
   },
-  "couple-with-heart-woman-woman-medium-skin-tone-medium-light-skin-tone": {
+  "👩🏽❤👩🏼": {
     name: "couple-with-heart-woman-woman-medium-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-2764-1f469-1f3fc",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x2764;&#x1F469;&#x1F3FC",
   },
-  "couple-with-heart-woman-woman-medium-skin-tone": {
+  "👩🏽❤👩🏽": {
     name: "couple-with-heart-woman-woman-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-2764-1f469-1f3fd",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x2764;&#x1F469;&#x1F3FD",
   },
-  "couple-with-heart-woman-woman-medium-skin-tone-medium-dark-skin-tone": {
+  "👩🏽❤👩🏾": {
     name: "couple-with-heart-woman-woman-medium-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-2764-1f469-1f3fe",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x2764;&#x1F469;&#x1F3FE",
   },
-  "couple-with-heart-woman-woman-medium-skin-tone-dark-skin-tone": {
+  "👩🏽❤👩🏿": {
     name: "couple-with-heart-woman-woman-medium-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-2764-1f469-1f3ff",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x2764;&#x1F469;&#x1F3FF",
   },
-  "couple-with-heart-woman-woman-medium-dark-skin-tone-light-skin-tone": {
+  "👩🏾❤👩🏻": {
     name: "couple-with-heart-woman-woman-medium-dark-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-2764-1f469-1f3fb",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x2764;&#x1F469;&#x1F3FB",
   },
-  "couple-with-heart-woman-woman-medium-dark-skin-tone-medium-light-skin-tone":
-    {
-      name: "couple-with-heart-woman-woman-medium-dark-skin-tone-medium-light-skin-tone",
-      category: "diversity",
-      unicode: "_1f469-1f3fe-2764-1f469-1f3fc",
-      htmlEntity: "&#x1F469;&#x1F3FE;&#x2764;&#x1F469;&#x1F3FC",
-    },
-  "couple-with-heart-woman-woman-medium-dark-skin-tone-medium-skin-tone": {
+  "👩🏾❤👩🏼": {
+    name: "couple-with-heart-woman-woman-medium-dark-skin-tone-medium-light-skin-tone",
+    category: "diversity",
+    unicode: "_1f469-1f3fe-2764-1f469-1f3fc",
+    htmlEntity: "&#x1F469;&#x1F3FE;&#x2764;&#x1F469;&#x1F3FC",
+  },
+  "👩🏾❤👩🏽": {
     name: "couple-with-heart-woman-woman-medium-dark-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-2764-1f469-1f3fd",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x2764;&#x1F469;&#x1F3FD",
   },
-  "couple-with-heart-woman-woman-medium-dark-skin-tone": {
+  "👩🏾❤👩🏾": {
     name: "couple-with-heart-woman-woman-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-2764-1f469-1f3fe",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x2764;&#x1F469;&#x1F3FE",
   },
-  "couple-with-heart-woman-woman-medium-dark-skin-tone-dark-skin-tone": {
+  "👩🏾❤👩🏿": {
     name: "couple-with-heart-woman-woman-medium-dark-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-2764-1f469-1f3ff",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x2764;&#x1F469;&#x1F3FF",
   },
-  "couple-with-heart-woman-woman-dark-skin-tone-light-skin-tone": {
+  "👩🏿❤👩🏻": {
     name: "couple-with-heart-woman-woman-dark-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-2764-1f469-1f3fb",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x2764;&#x1F469;&#x1F3FB",
   },
-  "couple-with-heart-woman-woman-dark-skin-tone-medium-light-skin-tone": {
+  "👩🏿❤👩🏼": {
     name: "couple-with-heart-woman-woman-dark-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-2764-1f469-1f3fc",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x2764;&#x1F469;&#x1F3FC",
   },
-  "couple-with-heart-woman-woman-dark-skin-tone-medium-skin-tone": {
+  "👩🏿❤👩🏽": {
     name: "couple-with-heart-woman-woman-dark-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-2764-1f469-1f3fd",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x2764;&#x1F469;&#x1F3FD",
   },
-  "couple-with-heart-woman-woman-dark-skin-tone-medium-dark-skin-tone": {
+  "👩🏿❤👩🏾": {
     name: "couple-with-heart-woman-woman-dark-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-2764-1f469-1f3fe",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x2764;&#x1F469;&#x1F3FE",
   },
-  "couple-with-heart-woman-woman-dark-skin-tone": {
+  "👩🏿❤👩🏿": {
     name: "couple-with-heart-woman-woman-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-2764-1f469-1f3ff",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x2764;&#x1F469;&#x1F3FF",
   },
-  "couple-with-heart-man-man": {
+  "👨❤👨": {
     name: "couple-with-heart-man-man",
     category: "people",
     unicode: "_1f468-2764-1f468",
     htmlEntity: "&#x1F468;&#x2764;&#x1F468",
   },
-  "couple-with-heart-man-man-light-skin-tone": {
+  "👨🏻❤👨🏻": {
     name: "couple-with-heart-man-man-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-2764-1f468-1f3fb",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x2764;&#x1F468;&#x1F3FB",
   },
-  "couple-with-heart-man-man-light-skin-tone-medium-light-skin-tone": {
+  "👨🏻❤👨🏼": {
     name: "couple-with-heart-man-man-light-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-2764-1f468-1f3fc",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x2764;&#x1F468;&#x1F3FC",
   },
-  "couple-with-heart-man-man-light-skin-tone-medium-skin-tone": {
+  "👨🏻❤👨🏽": {
     name: "couple-with-heart-man-man-light-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-2764-1f468-1f3fd",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x2764;&#x1F468;&#x1F3FD",
   },
-  "couple-with-heart-man-man-light-skin-tone-medium-dark-skin-tone": {
+  "👨🏻❤👨🏾": {
     name: "couple-with-heart-man-man-light-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-2764-1f468-1f3fe",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x2764;&#x1F468;&#x1F3FE",
   },
-  "couple-with-heart-man-man-light-skin-tone-dark-skin-tone": {
+  "👨🏻❤👨🏿": {
     name: "couple-with-heart-man-man-light-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-2764-1f468-1f3ff",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x2764;&#x1F468;&#x1F3FF",
   },
-  "couple-with-heart-man-man-medium-light-skin-tone-light-skin-tone": {
+  "👨🏼❤👨🏻": {
     name: "couple-with-heart-man-man-medium-light-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-2764-1f468-1f3fb",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x2764;&#x1F468;&#x1F3FB",
   },
-  "couple-with-heart-man-man-medium-light-skin-tone": {
+  "👨🏼❤👨🏼": {
     name: "couple-with-heart-man-man-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-2764-1f468-1f3fc",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x2764;&#x1F468;&#x1F3FC",
   },
-  "couple-with-heart-man-man-medium-light-skin-tone-medium-skin-tone": {
+  "👨🏼❤👨🏽": {
     name: "couple-with-heart-man-man-medium-light-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-2764-1f468-1f3fd",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x2764;&#x1F468;&#x1F3FD",
   },
-  "couple-with-heart-man-man-medium-light-skin-tone-medium-dark-skin-tone": {
+  "👨🏼❤👨🏾": {
     name: "couple-with-heart-man-man-medium-light-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-2764-1f468-1f3fe",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x2764;&#x1F468;&#x1F3FE",
   },
-  "couple-with-heart-man-man-medium-light-skin-tone-dark-skin-tone": {
+  "👨🏼❤👨🏿": {
     name: "couple-with-heart-man-man-medium-light-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-2764-1f468-1f3ff",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x2764;&#x1F468;&#x1F3FF",
   },
-  "couple-with-heart-man-man-medium-skin-tone-light-skin-tone": {
+  "👨🏽❤👨🏻": {
     name: "couple-with-heart-man-man-medium-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-2764-1f468-1f3fb",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x2764;&#x1F468;&#x1F3FB",
   },
-  "couple-with-heart-man-man-medium-skin-tone-medium-light-skin-tone": {
+  "👨🏽❤👨🏼": {
     name: "couple-with-heart-man-man-medium-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-2764-1f468-1f3fc",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x2764;&#x1F468;&#x1F3FC",
   },
-  "couple-with-heart-man-man-medium-skin-tone": {
+  "👨🏽❤👨🏽": {
     name: "couple-with-heart-man-man-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-2764-1f468-1f3fd",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x2764;&#x1F468;&#x1F3FD",
   },
-  "couple-with-heart-man-man-medium-skin-tone-medium-dark-skin-tone": {
+  "👨🏽❤👨🏾": {
     name: "couple-with-heart-man-man-medium-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-2764-1f468-1f3fe",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x2764;&#x1F468;&#x1F3FE",
   },
-  "couple-with-heart-man-man-medium-skin-tone-dark-skin-tone": {
+  "👨🏽❤👨🏿": {
     name: "couple-with-heart-man-man-medium-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-2764-1f468-1f3ff",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x2764;&#x1F468;&#x1F3FF",
   },
-  "couple-with-heart-man-man-medium-dark-skin-tone-light-skin-tone": {
+  "👨🏾❤👨🏻": {
     name: "couple-with-heart-man-man-medium-dark-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-2764-1f468-1f3fb",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x2764;&#x1F468;&#x1F3FB",
   },
-  "couple-with-heart-man-man-medium-dark-skin-tone-medium-light-skin-tone": {
+  "👨🏾❤👨🏼": {
     name: "couple-with-heart-man-man-medium-dark-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-2764-1f468-1f3fc",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x2764;&#x1F468;&#x1F3FC",
   },
-  "couple-with-heart-man-man-medium-dark-skin-tone-medium-skin-tone": {
+  "👨🏾❤👨🏽": {
     name: "couple-with-heart-man-man-medium-dark-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-2764-1f468-1f3fd",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x2764;&#x1F468;&#x1F3FD",
   },
-  "couple-with-heart-man-man-medium-dark-skin-tone": {
+  "👨🏾❤👨🏾": {
     name: "couple-with-heart-man-man-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-2764-1f468-1f3fe",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x2764;&#x1F468;&#x1F3FE",
   },
-  "couple-with-heart-man-man-medium-dark-skin-tone-dark-skin-tone": {
+  "👨🏾❤👨🏿": {
     name: "couple-with-heart-man-man-medium-dark-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-2764-1f468-1f3ff",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x2764;&#x1F468;&#x1F3FF",
   },
-  "couple-with-heart-man-man-dark-skin-tone-light-skin-tone": {
+  "👨🏿❤👨🏻": {
     name: "couple-with-heart-man-man-dark-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-2764-1f468-1f3fb",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x2764;&#x1F468;&#x1F3FB",
   },
-  "couple-with-heart-man-man-dark-skin-tone-medium-light-skin-tone": {
+  "👨🏿❤👨🏼": {
     name: "couple-with-heart-man-man-dark-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-2764-1f468-1f3fc",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x2764;&#x1F468;&#x1F3FC",
   },
-  "couple-with-heart-man-man-dark-skin-tone-medium-skin-tone": {
+  "👨🏿❤👨🏽": {
     name: "couple-with-heart-man-man-dark-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-2764-1f468-1f3fd",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x2764;&#x1F468;&#x1F3FD",
   },
-  "couple-with-heart-man-man-dark-skin-tone-medium-dark-skin-tone": {
+  "👨🏿❤👨🏾": {
     name: "couple-with-heart-man-man-dark-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-2764-1f468-1f3fe",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x2764;&#x1F468;&#x1F3FE",
   },
-  "couple-with-heart-man-man-dark-skin-tone": {
+  "👨🏿❤👨🏿": {
     name: "couple-with-heart-man-man-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-2764-1f468-1f3ff",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x2764;&#x1F468;&#x1F3FF",
   },
-  kiss: {
+  "💏": {
     name: "kiss",
     category: "people",
     unicode: "_1f48f",
     htmlEntity: "&#x1F48F",
   },
-  "kiss-light-skin-tone": {
+  "💏🏻": {
     name: "kiss-light-skin-tone",
     category: "diversity",
     unicode: "_1f48f-1f3fb",
     htmlEntity: "&#x1F48F;&#x1F3FB",
   },
-  "kiss-person-person-light-skin-tone-medium-light-skin-tone": {
+  "🧑🏻❤💋🧑🏼": {
     name: "kiss-person-person-light-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-2764-1f48b-1f9d1-1f3fc",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x2764;&#x1F48B;&#x1F9D1;&#x1F3FC",
   },
-  "kiss-person-person-light-skin-tone-medium-skin-tone": {
+  "🧑🏻❤💋🧑🏽": {
     name: "kiss-person-person-light-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-2764-1f48b-1f9d1-1f3fd",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x2764;&#x1F48B;&#x1F9D1;&#x1F3FD",
   },
-  "kiss-person-person-light-skin-tone-medium-dark-skin-tone": {
+  "🧑🏻❤💋🧑🏾": {
     name: "kiss-person-person-light-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-2764-1f48b-1f9d1-1f3fe",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x2764;&#x1F48B;&#x1F9D1;&#x1F3FE",
   },
-  "kiss-person-person-light-skin-tone-dark-skin-tone": {
+  "🧑🏻❤💋🧑🏿": {
     name: "kiss-person-person-light-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fb-2764-1f48b-1f9d1-1f3ff",
     htmlEntity: "&#x1F9D1;&#x1F3FB;&#x2764;&#x1F48B;&#x1F9D1;&#x1F3FF",
   },
-  "kiss-person-person-medium-light-skin-tone-light-skin-tone": {
+  "🧑🏼❤💋🧑🏻": {
     name: "kiss-person-person-medium-light-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-2764-1f48b-1f9d1-1f3fb",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x2764;&#x1F48B;&#x1F9D1;&#x1F3FB",
   },
-  "kiss-medium-light-skin-tone": {
+  "💏🏼": {
     name: "kiss-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f48f-1f3fc",
     htmlEntity: "&#x1F48F;&#x1F3FC",
   },
-  "kiss-person-person-medium-light-skin-tone-medium-skin-tone": {
+  "🧑🏼❤💋🧑🏽": {
     name: "kiss-person-person-medium-light-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-2764-1f48b-1f9d1-1f3fd",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x2764;&#x1F48B;&#x1F9D1;&#x1F3FD",
   },
-  "kiss-person-person-medium-light-skin-tone-medium-dark-skin-tone": {
+  "🧑🏼❤💋🧑🏾": {
     name: "kiss-person-person-medium-light-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-2764-1f48b-1f9d1-1f3fe",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x2764;&#x1F48B;&#x1F9D1;&#x1F3FE",
   },
-  "kiss-person-person-medium-light-skin-tone-dark-skin-tone": {
+  "🧑🏼❤💋🧑🏿": {
     name: "kiss-person-person-medium-light-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fc-2764-1f48b-1f9d1-1f3ff",
     htmlEntity: "&#x1F9D1;&#x1F3FC;&#x2764;&#x1F48B;&#x1F9D1;&#x1F3FF",
   },
-  "kiss-person-person-medium-skin-tone-light-skin-tone": {
+  "🧑🏽❤💋🧑🏻": {
     name: "kiss-person-person-medium-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-2764-1f48b-1f9d1-1f3fb",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x2764;&#x1F48B;&#x1F9D1;&#x1F3FB",
   },
-  "kiss-person-person-medium-skin-tone-medium-light-skin-tone": {
+  "🧑🏽❤💋🧑🏼": {
     name: "kiss-person-person-medium-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-2764-1f48b-1f9d1-1f3fc",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x2764;&#x1F48B;&#x1F9D1;&#x1F3FC",
   },
-  "kiss-medium-skin-tone": {
+  "💏🏽": {
     name: "kiss-medium-skin-tone",
     category: "diversity",
     unicode: "_1f48f-1f3fd",
     htmlEntity: "&#x1F48F;&#x1F3FD",
   },
-  "kiss-person-person-medium-skin-tone-medium-dark-skin-tone": {
+  "🧑🏽❤💋🧑🏾": {
     name: "kiss-person-person-medium-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-2764-1f48b-1f9d1-1f3fe",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x2764;&#x1F48B;&#x1F9D1;&#x1F3FE",
   },
-  "kiss-person-person-medium-skin-tone-dark-skin-tone": {
+  "🧑🏽❤💋🧑🏿": {
     name: "kiss-person-person-medium-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fd-2764-1f48b-1f9d1-1f3ff",
     htmlEntity: "&#x1F9D1;&#x1F3FD;&#x2764;&#x1F48B;&#x1F9D1;&#x1F3FF",
   },
-  "kiss-person-person-medium-dark-skin-tone-light-skin-tone": {
+  "🧑🏾❤💋🧑🏻": {
     name: "kiss-person-person-medium-dark-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-2764-1f48b-1f9d1-1f3fb",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x2764;&#x1F48B;&#x1F9D1;&#x1F3FB",
   },
-  "kiss-person-person-medium-dark-skin-tone-medium-light-skin-tone": {
+  "🧑🏾❤💋🧑🏼": {
     name: "kiss-person-person-medium-dark-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-2764-1f48b-1f9d1-1f3fc",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x2764;&#x1F48B;&#x1F9D1;&#x1F3FC",
   },
-  "kiss-person-person-medium-dark-skin-tone-medium-skin-tone": {
+  "🧑🏾❤💋🧑🏽": {
     name: "kiss-person-person-medium-dark-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-2764-1f48b-1f9d1-1f3fd",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x2764;&#x1F48B;&#x1F9D1;&#x1F3FD",
   },
-  "kiss-medium-dark-skin-tone": {
+  "💏🏾": {
     name: "kiss-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f48f-1f3fe",
     htmlEntity: "&#x1F48F;&#x1F3FE",
   },
-  "kiss-person-person-medium-dark-skin-tone-dark-skin-tone": {
+  "🧑🏾❤💋🧑🏿": {
     name: "kiss-person-person-medium-dark-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3fe-2764-1f48b-1f9d1-1f3ff",
     htmlEntity: "&#x1F9D1;&#x1F3FE;&#x2764;&#x1F48B;&#x1F9D1;&#x1F3FF",
   },
-  "kiss-person-person-dark-skin-tone-light-skin-tone": {
+  "🧑🏿❤💋🧑🏻": {
     name: "kiss-person-person-dark-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-2764-1f48b-1f9d1-1f3fb",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x2764;&#x1F48B;&#x1F9D1;&#x1F3FB",
   },
-  "kiss-person-person-dark-skin-tone-medium-light-skin-tone": {
+  "🧑🏿❤💋🧑🏼": {
     name: "kiss-person-person-dark-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-2764-1f48b-1f9d1-1f3fc",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x2764;&#x1F48B;&#x1F9D1;&#x1F3FC",
   },
-  "kiss-person-person-dark-skin-tone-medium-skin-tone": {
+  "🧑🏿❤💋🧑🏽": {
     name: "kiss-person-person-dark-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f9d1-1f3ff-2764-1f48b-1f9d1-1f3fd",
     htmlEntity: "&#x1F9D1;&#x1F3FF;&#x2764;&#x1F48B;&#x1F9D1;&#x1F3FD",
   },
-  "kiss-dark-skin-tone": {
+  "💏🏿": {
     name: "kiss-dark-skin-tone",
     category: "diversity",
     unicode: "_1f48f-1f3ff",
     htmlEntity: "&#x1F48F;&#x1F3FF",
   },
-  "kiss-woman-man": {
+  "👩❤💋👨": {
     name: "kiss-woman-man",
     category: "people",
     unicode: "_1f469-2764-1f48b-1f468",
     htmlEntity: "&#x1F469;&#x2764;&#x1F48B;&#x1F468",
   },
-  "kiss-woman-man-light-skin-tone": {
+  "👩🏻❤💋👨🏻": {
     name: "kiss-woman-man-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-2764-1f48b-1f468-1f3fb",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x2764;&#x1F48B;&#x1F468;&#x1F3FB",
   },
-  "kiss-woman-man-light-skin-tone-medium-light-skin-tone": {
+  "👩🏻❤💋👨🏼": {
     name: "kiss-woman-man-light-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-2764-1f48b-1f468-1f3fc",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x2764;&#x1F48B;&#x1F468;&#x1F3FC",
   },
-  "kiss-woman-man-light-skin-tone-medium-skin-tone": {
+  "👩🏻❤💋👨🏽": {
     name: "kiss-woman-man-light-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-2764-1f48b-1f468-1f3fd",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x2764;&#x1F48B;&#x1F468;&#x1F3FD",
   },
-  "kiss-woman-man-light-skin-tone-medium-dark-skin-tone": {
+  "👩🏻❤💋👨🏾": {
     name: "kiss-woman-man-light-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-2764-1f48b-1f468-1f3fe",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x2764;&#x1F48B;&#x1F468;&#x1F3FE",
   },
-  "kiss-woman-man-light-skin-tone-dark-skin-tone": {
+  "👩🏻❤💋👨🏿": {
     name: "kiss-woman-man-light-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-2764-1f48b-1f468-1f3ff",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x2764;&#x1F48B;&#x1F468;&#x1F3FF",
   },
-  "kiss-woman-man-medium-light-skin-tone-light-skin-tone": {
+  "👩🏼❤💋👨🏻": {
     name: "kiss-woman-man-medium-light-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-2764-1f48b-1f468-1f3fb",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x2764;&#x1F48B;&#x1F468;&#x1F3FB",
   },
-  "kiss-woman-man-medium-light-skin-tone": {
+  "👩🏼❤💋👨🏼": {
     name: "kiss-woman-man-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-2764-1f48b-1f468-1f3fc",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x2764;&#x1F48B;&#x1F468;&#x1F3FC",
   },
-  "kiss-woman-man-medium-light-skin-tone-medium-skin-tone": {
+  "👩🏼❤💋👨🏽": {
     name: "kiss-woman-man-medium-light-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-2764-1f48b-1f468-1f3fd",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x2764;&#x1F48B;&#x1F468;&#x1F3FD",
   },
-  "kiss-woman-man-medium-light-skin-tone-medium-dark-skin-tone": {
+  "👩🏼❤💋👨🏾": {
     name: "kiss-woman-man-medium-light-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-2764-1f48b-1f468-1f3fe",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x2764;&#x1F48B;&#x1F468;&#x1F3FE",
   },
-  "kiss-woman-man-medium-light-skin-tone-dark-skin-tone": {
+  "👩🏼❤💋👨🏿": {
     name: "kiss-woman-man-medium-light-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-2764-1f48b-1f468-1f3ff",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x2764;&#x1F48B;&#x1F468;&#x1F3FF",
   },
-  "kiss-woman-man-medium-skin-tone-light-skin-tone": {
+  "👩🏽❤💋👨🏻": {
     name: "kiss-woman-man-medium-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-2764-1f48b-1f468-1f3fb",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x2764;&#x1F48B;&#x1F468;&#x1F3FB",
   },
-  "kiss-woman-man-medium-skin-tone-medium-light-skin-tone": {
+  "👩🏽❤💋👨🏼": {
     name: "kiss-woman-man-medium-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-2764-1f48b-1f468-1f3fc",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x2764;&#x1F48B;&#x1F468;&#x1F3FC",
   },
-  "kiss-woman-man-medium-skin-tone": {
+  "👩🏽❤💋👨🏽": {
     name: "kiss-woman-man-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-2764-1f48b-1f468-1f3fd",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x2764;&#x1F48B;&#x1F468;&#x1F3FD",
   },
-  "kiss-woman-man-medium-skin-tone-medium-dark-skin-tone": {
+  "👩🏽❤💋👨🏾": {
     name: "kiss-woman-man-medium-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-2764-1f48b-1f468-1f3fe",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x2764;&#x1F48B;&#x1F468;&#x1F3FE",
   },
-  "kiss-woman-man-medium-skin-tone-dark-skin-tone": {
+  "👩🏽❤💋👨🏿": {
     name: "kiss-woman-man-medium-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-2764-1f48b-1f468-1f3ff",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x2764;&#x1F48B;&#x1F468;&#x1F3FF",
   },
-  "kiss-woman-man-medium-dark-skin-tone-light-skin-tone": {
+  "👩🏾❤💋👨🏻": {
     name: "kiss-woman-man-medium-dark-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-2764-1f48b-1f468-1f3fb",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x2764;&#x1F48B;&#x1F468;&#x1F3FB",
   },
-  "kiss-woman-man-medium-dark-skin-tone-medium-light-skin-tone": {
+  "👩🏾❤💋👨🏼": {
     name: "kiss-woman-man-medium-dark-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-2764-1f48b-1f468-1f3fc",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x2764;&#x1F48B;&#x1F468;&#x1F3FC",
   },
-  "kiss-woman-man-medium-dark-skin-tone-medium-skin-tone": {
+  "👩🏾❤💋👨🏽": {
     name: "kiss-woman-man-medium-dark-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-2764-1f48b-1f468-1f3fd",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x2764;&#x1F48B;&#x1F468;&#x1F3FD",
   },
-  "kiss-woman-man-medium-dark-skin-tone": {
+  "👩🏾❤💋👨🏾": {
     name: "kiss-woman-man-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-2764-1f48b-1f468-1f3fe",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x2764;&#x1F48B;&#x1F468;&#x1F3FE",
   },
-  "kiss-woman-man-medium-dark-skin-tone-dark-skin-tone": {
+  "👩🏾❤💋👨🏿": {
     name: "kiss-woman-man-medium-dark-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-2764-1f48b-1f468-1f3ff",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x2764;&#x1F48B;&#x1F468;&#x1F3FF",
   },
-  "kiss-woman-man-dark-skin-tone-light-skin-tone": {
+  "👩🏿❤💋👨🏻": {
     name: "kiss-woman-man-dark-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-2764-1f48b-1f468-1f3fb",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x2764;&#x1F48B;&#x1F468;&#x1F3FB",
   },
-  "kiss-woman-man-dark-skin-tone-medium-light-skin-tone": {
+  "👩🏿❤💋👨🏼": {
     name: "kiss-woman-man-dark-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-2764-1f48b-1f468-1f3fc",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x2764;&#x1F48B;&#x1F468;&#x1F3FC",
   },
-  "kiss-woman-man-dark-skin-tone-medium-skin-tone": {
+  "👩🏿❤💋👨🏽": {
     name: "kiss-woman-man-dark-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-2764-1f48b-1f468-1f3fd",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x2764;&#x1F48B;&#x1F468;&#x1F3FD",
   },
-  "kiss-woman-man-dark-skin-tone-medium-dark-skin-tone": {
+  "👩🏿❤💋👨🏾": {
     name: "kiss-woman-man-dark-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-2764-1f48b-1f468-1f3fe",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x2764;&#x1F48B;&#x1F468;&#x1F3FE",
   },
-  "kiss-woman-man-dark-skin-tone": {
+  "👩🏿❤💋👨🏿": {
     name: "kiss-woman-man-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-2764-1f48b-1f468-1f3ff",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x2764;&#x1F48B;&#x1F468;&#x1F3FF",
   },
-  "kiss-woman-woman": {
+  "👩❤💋👩": {
     name: "kiss-woman-woman",
     category: "people",
     unicode: "_1f469-2764-1f48b-1f469",
     htmlEntity: "&#x1F469;&#x2764;&#x1F48B;&#x1F469",
   },
-  "kiss-woman-woman-light-skin-tone": {
+  "👩🏻❤💋👩🏻": {
     name: "kiss-woman-woman-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-2764-1f48b-1f469-1f3fb",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x2764;&#x1F48B;&#x1F469;&#x1F3FB",
   },
-  "kiss-woman-woman-light-skin-tone-medium-light-skin-tone": {
+  "👩🏻❤💋👩🏼": {
     name: "kiss-woman-woman-light-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-2764-1f48b-1f469-1f3fc",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x2764;&#x1F48B;&#x1F469;&#x1F3FC",
   },
-  "kiss-woman-woman-light-skin-tone-medium-skin-tone": {
+  "👩🏻❤💋👩🏽": {
     name: "kiss-woman-woman-light-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-2764-1f48b-1f469-1f3fd",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x2764;&#x1F48B;&#x1F469;&#x1F3FD",
   },
-  "kiss-woman-woman-light-skin-tone-medium-dark-skin-tone": {
+  "👩🏻❤💋👩🏾": {
     name: "kiss-woman-woman-light-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-2764-1f48b-1f469-1f3fe",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x2764;&#x1F48B;&#x1F469;&#x1F3FE",
   },
-  "kiss-woman-woman-light-skin-tone-dark-skin-tone": {
+  "👩🏻❤💋👩🏿": {
     name: "kiss-woman-woman-light-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fb-2764-1f48b-1f469-1f3ff",
     htmlEntity: "&#x1F469;&#x1F3FB;&#x2764;&#x1F48B;&#x1F469;&#x1F3FF",
   },
-  "kiss-woman-woman-medium-light-skin-tone-light-skin-tone": {
+  "👩🏼❤💋👩🏻": {
     name: "kiss-woman-woman-medium-light-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-2764-1f48b-1f469-1f3fb",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x2764;&#x1F48B;&#x1F469;&#x1F3FB",
   },
-  "kiss-woman-woman-medium-light-skin-tone": {
+  "👩🏼❤💋👩🏼": {
     name: "kiss-woman-woman-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-2764-1f48b-1f469-1f3fc",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x2764;&#x1F48B;&#x1F469;&#x1F3FC",
   },
-  "kiss-woman-woman-medium-light-skin-tone-medium-skin-tone": {
+  "👩🏼❤💋👩🏽": {
     name: "kiss-woman-woman-medium-light-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-2764-1f48b-1f469-1f3fd",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x2764;&#x1F48B;&#x1F469;&#x1F3FD",
   },
-  "kiss-woman-woman-medium-light-skin-tone-medium-dark-skin-tone": {
+  "👩🏼❤💋👩🏾": {
     name: "kiss-woman-woman-medium-light-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-2764-1f48b-1f469-1f3fe",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x2764;&#x1F48B;&#x1F469;&#x1F3FE",
   },
-  "kiss-woman-woman-medium-light-skin-tone-dark-skin-tone": {
+  "👩🏼❤💋👩🏿": {
     name: "kiss-woman-woman-medium-light-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fc-2764-1f48b-1f469-1f3ff",
     htmlEntity: "&#x1F469;&#x1F3FC;&#x2764;&#x1F48B;&#x1F469;&#x1F3FF",
   },
-  "kiss-woman-woman-medium-skin-tone-light-skin-tone": {
+  "👩🏽❤💋👩🏻": {
     name: "kiss-woman-woman-medium-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-2764-1f48b-1f469-1f3fb",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x2764;&#x1F48B;&#x1F469;&#x1F3FB",
   },
-  "kiss-woman-woman-medium-skin-tone-medium-light-skin-tone": {
+  "👩🏽❤💋👩🏼": {
     name: "kiss-woman-woman-medium-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-2764-1f48b-1f469-1f3fc",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x2764;&#x1F48B;&#x1F469;&#x1F3FC",
   },
-  "kiss-woman-woman-medium-skin-tone": {
+  "👩🏽❤💋👩🏽": {
     name: "kiss-woman-woman-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-2764-1f48b-1f469-1f3fd",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x2764;&#x1F48B;&#x1F469;&#x1F3FD",
   },
-  "kiss-woman-woman-medium-skin-tone-medium-dark-skin-tone": {
+  "👩🏽❤💋👩🏾": {
     name: "kiss-woman-woman-medium-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-2764-1f48b-1f469-1f3fe",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x2764;&#x1F48B;&#x1F469;&#x1F3FE",
   },
-  "kiss-woman-woman-medium-skin-tone-dark-skin-tone": {
+  "👩🏽❤💋👩🏿": {
     name: "kiss-woman-woman-medium-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fd-2764-1f48b-1f469-1f3ff",
     htmlEntity: "&#x1F469;&#x1F3FD;&#x2764;&#x1F48B;&#x1F469;&#x1F3FF",
   },
-  "kiss-woman-woman-medium-dark-skin-tone-light-skin-tone": {
+  "👩🏾❤💋👩🏻": {
     name: "kiss-woman-woman-medium-dark-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-2764-1f48b-1f469-1f3fb",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x2764;&#x1F48B;&#x1F469;&#x1F3FB",
   },
-  "kiss-woman-woman-medium-dark-skin-tone-medium-light-skin-tone": {
+  "👩🏾❤💋👩🏼": {
     name: "kiss-woman-woman-medium-dark-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-2764-1f48b-1f469-1f3fc",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x2764;&#x1F48B;&#x1F469;&#x1F3FC",
   },
-  "kiss-woman-woman-medium-dark-skin-tone-medium-skin-tone": {
+  "👩🏾❤💋👩🏽": {
     name: "kiss-woman-woman-medium-dark-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-2764-1f48b-1f469-1f3fd",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x2764;&#x1F48B;&#x1F469;&#x1F3FD",
   },
-  "kiss-woman-woman-medium-dark-skin-tone": {
+  "👩🏾❤💋👩🏾": {
     name: "kiss-woman-woman-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-2764-1f48b-1f469-1f3fe",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x2764;&#x1F48B;&#x1F469;&#x1F3FE",
   },
-  "kiss-woman-woman-medium-dark-skin-tone-dark-skin-tone": {
+  "👩🏾❤💋👩🏿": {
     name: "kiss-woman-woman-medium-dark-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3fe-2764-1f48b-1f469-1f3ff",
     htmlEntity: "&#x1F469;&#x1F3FE;&#x2764;&#x1F48B;&#x1F469;&#x1F3FF",
   },
-  "kiss-woman-woman-dark-skin-tone-light-skin-tone": {
+  "👩🏿❤💋👩🏻": {
     name: "kiss-woman-woman-dark-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-2764-1f48b-1f469-1f3fb",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x2764;&#x1F48B;&#x1F469;&#x1F3FB",
   },
-  "kiss-woman-woman-dark-skin-tone-medium-light-skin-tone": {
+  "👩🏿❤💋👩🏼": {
     name: "kiss-woman-woman-dark-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-2764-1f48b-1f469-1f3fc",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x2764;&#x1F48B;&#x1F469;&#x1F3FC",
   },
-  "kiss-woman-woman-dark-skin-tone-medium-skin-tone": {
+  "👩🏿❤💋👩🏽": {
     name: "kiss-woman-woman-dark-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-2764-1f48b-1f469-1f3fd",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x2764;&#x1F48B;&#x1F469;&#x1F3FD",
   },
-  "kiss-woman-woman-dark-skin-tone-medium-dark-skin-tone": {
+  "👩🏿❤💋👩🏾": {
     name: "kiss-woman-woman-dark-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-2764-1f48b-1f469-1f3fe",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x2764;&#x1F48B;&#x1F469;&#x1F3FE",
   },
-  "kiss-woman-woman-dark-skin-tone": {
+  "👩🏿❤💋👩🏿": {
     name: "kiss-woman-woman-dark-skin-tone",
     category: "diversity",
     unicode: "_1f469-1f3ff-2764-1f48b-1f469-1f3ff",
     htmlEntity: "&#x1F469;&#x1F3FF;&#x2764;&#x1F48B;&#x1F469;&#x1F3FF",
   },
-  "kiss-man-man": {
+  "👨❤💋👨": {
     name: "kiss-man-man",
     category: "people",
     unicode: "_1f468-2764-1f48b-1f468",
     htmlEntity: "&#x1F468;&#x2764;&#x1F48B;&#x1F468",
   },
-  "kiss-man-man-light-skin-tone": {
+  "👨🏻❤💋👨🏻": {
     name: "kiss-man-man-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-2764-1f48b-1f468-1f3fb",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x2764;&#x1F48B;&#x1F468;&#x1F3FB",
   },
-  "kiss-man-man-light-skin-tone-medium-light-skin-tone": {
+  "👨🏻❤💋👨🏼": {
     name: "kiss-man-man-light-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-2764-1f48b-1f468-1f3fc",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x2764;&#x1F48B;&#x1F468;&#x1F3FC",
   },
-  "kiss-man-man-light-skin-tone-medium-skin-tone": {
+  "👨🏻❤💋👨🏽": {
     name: "kiss-man-man-light-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-2764-1f48b-1f468-1f3fd",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x2764;&#x1F48B;&#x1F468;&#x1F3FD",
   },
-  "kiss-man-man-light-skin-tone-medium-dark-skin-tone": {
+  "👨🏻❤💋👨🏾": {
     name: "kiss-man-man-light-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-2764-1f48b-1f468-1f3fe",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x2764;&#x1F48B;&#x1F468;&#x1F3FE",
   },
-  "kiss-man-man-light-skin-tone-dark-skin-tone": {
+  "👨🏻❤💋👨🏿": {
     name: "kiss-man-man-light-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fb-2764-1f48b-1f468-1f3ff",
     htmlEntity: "&#x1F468;&#x1F3FB;&#x2764;&#x1F48B;&#x1F468;&#x1F3FF",
   },
-  "kiss-man-man-medium-light-skin-tone-light-skin-tone": {
+  "👨🏼❤💋👨🏻": {
     name: "kiss-man-man-medium-light-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-2764-1f48b-1f468-1f3fb",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x2764;&#x1F48B;&#x1F468;&#x1F3FB",
   },
-  "kiss-man-man-medium-light-skin-tone": {
+  "👨🏼❤💋👨🏼": {
     name: "kiss-man-man-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-2764-1f48b-1f468-1f3fc",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x2764;&#x1F48B;&#x1F468;&#x1F3FC",
   },
-  "kiss-man-man-medium-light-skin-tone-medium-skin-tone": {
+  "👨🏼❤💋👨🏽": {
     name: "kiss-man-man-medium-light-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-2764-1f48b-1f468-1f3fd",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x2764;&#x1F48B;&#x1F468;&#x1F3FD",
   },
-  "kiss-man-man-medium-light-skin-tone-medium-dark-skin-tone": {
+  "👨🏼❤💋👨🏾": {
     name: "kiss-man-man-medium-light-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-2764-1f48b-1f468-1f3fe",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x2764;&#x1F48B;&#x1F468;&#x1F3FE",
   },
-  "kiss-man-man-medium-light-skin-tone-dark-skin-tone": {
+  "👨🏼❤💋👨🏿": {
     name: "kiss-man-man-medium-light-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fc-2764-1f48b-1f468-1f3ff",
     htmlEntity: "&#x1F468;&#x1F3FC;&#x2764;&#x1F48B;&#x1F468;&#x1F3FF",
   },
-  "kiss-man-man-medium-skin-tone-light-skin-tone": {
+  "👨🏽❤💋👨🏻": {
     name: "kiss-man-man-medium-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-2764-1f48b-1f468-1f3fb",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x2764;&#x1F48B;&#x1F468;&#x1F3FB",
   },
-  "kiss-man-man-medium-skin-tone-medium-light-skin-tone": {
+  "👨🏽❤💋👨🏼": {
     name: "kiss-man-man-medium-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-2764-1f48b-1f468-1f3fc",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x2764;&#x1F48B;&#x1F468;&#x1F3FC",
   },
-  "kiss-man-man-medium-skin-tone": {
+  "👨🏽❤💋👨🏽": {
     name: "kiss-man-man-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-2764-1f48b-1f468-1f3fd",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x2764;&#x1F48B;&#x1F468;&#x1F3FD",
   },
-  "kiss-man-man-medium-skin-tone-medium-dark-skin-tone": {
+  "👨🏽❤💋👨🏾": {
     name: "kiss-man-man-medium-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-2764-1f48b-1f468-1f3fe",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x2764;&#x1F48B;&#x1F468;&#x1F3FE",
   },
-  "kiss-man-man-medium-skin-tone-dark-skin-tone": {
+  "👨🏽❤💋👨🏿": {
     name: "kiss-man-man-medium-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fd-2764-1f48b-1f468-1f3ff",
     htmlEntity: "&#x1F468;&#x1F3FD;&#x2764;&#x1F48B;&#x1F468;&#x1F3FF",
   },
-  "kiss-man-man-medium-dark-skin-tone-light-skin-tone": {
+  "👨🏾❤💋👨🏻": {
     name: "kiss-man-man-medium-dark-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-2764-1f48b-1f468-1f3fb",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x2764;&#x1F48B;&#x1F468;&#x1F3FB",
   },
-  "kiss-man-man-medium-dark-skin-tone-medium-light-skin-tone": {
+  "👨🏾❤💋👨🏼": {
     name: "kiss-man-man-medium-dark-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-2764-1f48b-1f468-1f3fc",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x2764;&#x1F48B;&#x1F468;&#x1F3FC",
   },
-  "kiss-man-man-medium-dark-skin-tone-medium-skin-tone": {
+  "👨🏾❤💋👨🏽": {
     name: "kiss-man-man-medium-dark-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-2764-1f48b-1f468-1f3fd",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x2764;&#x1F48B;&#x1F468;&#x1F3FD",
   },
-  "kiss-man-man-medium-dark-skin-tone": {
+  "👨🏾❤💋👨🏾": {
     name: "kiss-man-man-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-2764-1f48b-1f468-1f3fe",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x2764;&#x1F48B;&#x1F468;&#x1F3FE",
   },
-  "kiss-man-man-medium-dark-skin-tone-dark-skin-tone": {
+  "👨🏾❤💋👨🏿": {
     name: "kiss-man-man-medium-dark-skin-tone-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3fe-2764-1f48b-1f468-1f3ff",
     htmlEntity: "&#x1F468;&#x1F3FE;&#x2764;&#x1F48B;&#x1F468;&#x1F3FF",
   },
-  "kiss-man-man-dark-skin-tone-light-skin-tone": {
+  "👨🏿❤💋👨🏻": {
     name: "kiss-man-man-dark-skin-tone-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-2764-1f48b-1f468-1f3fb",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x2764;&#x1F48B;&#x1F468;&#x1F3FB",
   },
-  "kiss-man-man-dark-skin-tone-medium-light-skin-tone": {
+  "👨🏿❤💋👨🏼": {
     name: "kiss-man-man-dark-skin-tone-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-2764-1f48b-1f468-1f3fc",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x2764;&#x1F48B;&#x1F468;&#x1F3FC",
   },
-  "kiss-man-man-dark-skin-tone-medium-skin-tone": {
+  "👨🏿❤💋👨🏽": {
     name: "kiss-man-man-dark-skin-tone-medium-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-2764-1f48b-1f468-1f3fd",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x2764;&#x1F48B;&#x1F468;&#x1F3FD",
   },
-  "kiss-man-man-dark-skin-tone-medium-dark-skin-tone": {
+  "👨🏿❤💋👨🏾": {
     name: "kiss-man-man-dark-skin-tone-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-2764-1f48b-1f468-1f3fe",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x2764;&#x1F48B;&#x1F468;&#x1F3FE",
   },
-  "kiss-man-man-dark-skin-tone": {
+  "👨🏿❤💋👨🏿": {
     name: "kiss-man-man-dark-skin-tone",
     category: "diversity",
     unicode: "_1f468-1f3ff-2764-1f48b-1f468-1f3ff",
     htmlEntity: "&#x1F468;&#x1F3FF;&#x2764;&#x1F48B;&#x1F468;&#x1F3FF",
   },
-  family: {
+  "👪": {
     name: "family",
     category: "people",
     unicode: "_1f46a",
     htmlEntity: "&#x1F46A",
   },
-  "family-man-woman-boy": {
+  "👨👩👦": {
     name: "family-man-woman-boy",
     category: "people",
     unicode: "_1f468-1f469-1f466",
     htmlEntity: "&#x1F468;&#x1F469;&#x1F466",
   },
-  "family-man-woman-girl": {
+  "👨👩👧": {
     name: "family-man-woman-girl",
     category: "people",
     unicode: "_1f468-1f469-1f467",
     htmlEntity: "&#x1F468;&#x1F469;&#x1F467",
   },
-  "family-man-woman-girl-boy": {
+  "👨👩👧👦": {
     name: "family-man-woman-girl-boy",
     category: "people",
     unicode: "_1f468-1f469-1f467-1f466",
     htmlEntity: "&#x1F468;&#x1F469;&#x1F467;&#x1F466",
   },
-  "family-man-woman-boy-boy": {
+  "👨👩👦👦": {
     name: "family-man-woman-boy-boy",
     category: "people",
     unicode: "_1f468-1f469-1f466-1f466",
     htmlEntity: "&#x1F468;&#x1F469;&#x1F466;&#x1F466",
   },
-  "family-man-woman-girl-girl": {
+  "👨👩👧👧": {
     name: "family-man-woman-girl-girl",
     category: "people",
     unicode: "_1f468-1f469-1f467-1f467",
     htmlEntity: "&#x1F468;&#x1F469;&#x1F467;&#x1F467",
   },
-  "family-woman-woman-boy": {
+  "👩👩👦": {
     name: "family-woman-woman-boy",
     category: "people",
     unicode: "_1f469-1f469-1f466",
     htmlEntity: "&#x1F469;&#x1F469;&#x1F466",
   },
-  "family-woman-woman-girl": {
+  "👩👩👧": {
     name: "family-woman-woman-girl",
     category: "people",
     unicode: "_1f469-1f469-1f467",
     htmlEntity: "&#x1F469;&#x1F469;&#x1F467",
   },
-  "family-woman-woman-girl-boy": {
+  "👩👩👧👦": {
     name: "family-woman-woman-girl-boy",
     category: "people",
     unicode: "_1f469-1f469-1f467-1f466",
     htmlEntity: "&#x1F469;&#x1F469;&#x1F467;&#x1F466",
   },
-  "family-woman-woman-boy-boy": {
+  "👩👩👦👦": {
     name: "family-woman-woman-boy-boy",
     category: "people",
     unicode: "_1f469-1f469-1f466-1f466",
     htmlEntity: "&#x1F469;&#x1F469;&#x1F466;&#x1F466",
   },
-  "family-woman-woman-girl-girl": {
+  "👩👩👧👧": {
     name: "family-woman-woman-girl-girl",
     category: "people",
     unicode: "_1f469-1f469-1f467-1f467",
     htmlEntity: "&#x1F469;&#x1F469;&#x1F467;&#x1F467",
   },
-  "family-man-man-boy": {
+  "👨👨👦": {
     name: "family-man-man-boy",
     category: "people",
     unicode: "_1f468-1f468-1f466",
     htmlEntity: "&#x1F468;&#x1F468;&#x1F466",
   },
-  "family-man-man-girl": {
+  "👨👨👧": {
     name: "family-man-man-girl",
     category: "people",
     unicode: "_1f468-1f468-1f467",
     htmlEntity: "&#x1F468;&#x1F468;&#x1F467",
   },
-  "family-man-man-girl-boy": {
+  "👨👨👧👦": {
     name: "family-man-man-girl-boy",
     category: "people",
     unicode: "_1f468-1f468-1f467-1f466",
     htmlEntity: "&#x1F468;&#x1F468;&#x1F467;&#x1F466",
   },
-  "family-man-man-boy-boy": {
+  "👨👨👦👦": {
     name: "family-man-man-boy-boy",
     category: "people",
     unicode: "_1f468-1f468-1f466-1f466",
     htmlEntity: "&#x1F468;&#x1F468;&#x1F466;&#x1F466",
   },
-  "family-man-man-girl-girl": {
+  "👨👨👧👧": {
     name: "family-man-man-girl-girl",
     category: "people",
     unicode: "_1f468-1f468-1f467-1f467",
     htmlEntity: "&#x1F468;&#x1F468;&#x1F467;&#x1F467",
   },
-  "family-woman-boy": {
+  "👩👦": {
     name: "family-woman-boy",
     category: "people",
     unicode: "_1f469-1f466",
     htmlEntity: "&#x1F469;&#x1F466",
   },
-  "family-woman-girl": {
+  "👩👧": {
     name: "family-woman-girl",
     category: "people",
     unicode: "_1f469-1f467",
     htmlEntity: "&#x1F469;&#x1F467",
   },
-  "family-woman-girl-boy": {
+  "👩👧👦": {
     name: "family-woman-girl-boy",
     category: "people",
     unicode: "_1f469-1f467-1f466",
     htmlEntity: "&#x1F469;&#x1F467;&#x1F466",
   },
-  "family-woman-boy-boy": {
+  "👩👦👦": {
     name: "family-woman-boy-boy",
     category: "people",
     unicode: "_1f469-1f466-1f466",
     htmlEntity: "&#x1F469;&#x1F466;&#x1F466",
   },
-  "family-woman-girl-girl": {
+  "👩👧👧": {
     name: "family-woman-girl-girl",
     category: "people",
     unicode: "_1f469-1f467-1f467",
     htmlEntity: "&#x1F469;&#x1F467;&#x1F467",
   },
-  "family-man-boy": {
+  "👨👦": {
     name: "family-man-boy",
     category: "people",
     unicode: "_1f468-1f466",
     htmlEntity: "&#x1F468;&#x1F466",
   },
-  "family-man-girl": {
+  "👨👧": {
     name: "family-man-girl",
     category: "people",
     unicode: "_1f468-1f467",
     htmlEntity: "&#x1F468;&#x1F467",
   },
-  "family-man-girl-boy": {
+  "👨👧👦": {
     name: "family-man-girl-boy",
     category: "people",
     unicode: "_1f468-1f467-1f466",
     htmlEntity: "&#x1F468;&#x1F467;&#x1F466",
   },
-  "family-man-boy-boy": {
+  "👨👦👦": {
     name: "family-man-boy-boy",
     category: "people",
     unicode: "_1f468-1f466-1f466",
     htmlEntity: "&#x1F468;&#x1F466;&#x1F466",
   },
-  "family-man-girl-girl": {
+  "👨👧👧": {
     name: "family-man-girl-girl",
     category: "people",
     unicode: "_1f468-1f467-1f467",
     htmlEntity: "&#x1F468;&#x1F467;&#x1F467",
   },
-  yarn: {
+  "🧶": {
     name: "yarn",
     category: "people",
     unicode: "_1f9f6",
     htmlEntity: "&#x1F9F6",
   },
-  thread: {
+  "🧵": {
     name: "thread",
     category: "people",
     unicode: "_1f9f5",
     htmlEntity: "&#x1F9F5",
   },
-  coat: {
+  "🧥": {
     name: "coat",
     category: "people",
     unicode: "_1f9e5",
     htmlEntity: "&#x1F9E5",
   },
-  "lab-coat": {
+  "🥼": {
     name: "lab-coat",
     category: "people",
     unicode: "_1f97c",
     htmlEntity: "&#x1F97C",
   },
-  "safety-vest": {
+  "🦺": {
     name: "safety-vest",
     category: "people",
     unicode: "_1f9ba",
     htmlEntity: "&#x1F9BA",
   },
-  "woman’s-clothes": {
+  "👚": {
     name: "woman’s-clothes",
     category: "people",
     unicode: "_1f45a",
     htmlEntity: "&#x1F45A",
   },
-  "t-shirt": {
+  "👕": {
     name: "t-shirt",
     category: "people",
     unicode: "_1f455",
     htmlEntity: "&#x1F455",
   },
-  jeans: {
+  "👖": {
     name: "jeans",
     category: "people",
     unicode: "_1f456",
     htmlEntity: "&#x1F456",
   },
-  briefs: {
+  "🩲": {
     name: "briefs",
     category: "people",
     unicode: "_1fa72",
     htmlEntity: "&#x1FA72",
   },
-  shorts: {
+  "🩳": {
     name: "shorts",
     category: "people",
     unicode: "_1fa73",
     htmlEntity: "&#x1FA73",
   },
-  necktie: {
+  "👔": {
     name: "necktie",
     category: "people",
     unicode: "_1f454",
     htmlEntity: "&#x1F454",
   },
-  dress: {
+  "👗": {
     name: "dress",
     category: "people",
     unicode: "_1f457",
     htmlEntity: "&#x1F457",
   },
-  bikini: {
+  "👙": {
     name: "bikini",
     category: "people",
     unicode: "_1f459",
     htmlEntity: "&#x1F459",
   },
-  "one-piece-swimsuit": {
+  "🩱": {
     name: "one-piece-swimsuit",
     category: "people",
     unicode: "_1fa71",
     htmlEntity: "&#x1FA71",
   },
-  kimono: {
+  "👘": {
     name: "kimono",
     category: "people",
     unicode: "_1f458",
     htmlEntity: "&#x1F458",
   },
-  sari: {
+  "🥻": {
     name: "sari",
     category: "people",
     unicode: "_1f97b",
     htmlEntity: "&#x1F97B",
   },
-  "flat-shoe": {
+  "🥿": {
     name: "flat-shoe",
     category: "people",
     unicode: "_1f97f",
     htmlEntity: "&#x1F97F",
   },
-  "high-heeled-shoe": {
+  "👠": {
     name: "high-heeled-shoe",
     category: "people",
     unicode: "_1f460",
     htmlEntity: "&#x1F460",
   },
-  "woman’s-sandal": {
+  "👡": {
     name: "woman’s-sandal",
     category: "people",
     unicode: "_1f461",
     htmlEntity: "&#x1F461",
   },
-  "woman’s-boot": {
+  "👢": {
     name: "woman’s-boot",
     category: "people",
     unicode: "_1f462",
     htmlEntity: "&#x1F462",
   },
-  "man’s-shoe": {
+  "👞": {
     name: "man’s-shoe",
     category: "people",
     unicode: "_1f45e",
     htmlEntity: "&#x1F45E",
   },
-  "running-shoe": {
+  "👟": {
     name: "running-shoe",
     category: "people",
     unicode: "_1f45f",
     htmlEntity: "&#x1F45F",
   },
-  "hiking-boot": {
+  "🥾": {
     name: "hiking-boot",
     category: "people",
     unicode: "_1f97e",
     htmlEntity: "&#x1F97E",
   },
-  "thong-sandal": {
+  "🩴": {
     name: "thong-sandal",
     category: "people",
     unicode: "_1fa74",
     htmlEntity: "&#x1FA74",
   },
-  socks: {
+  "🧦": {
     name: "socks",
     category: "people",
     unicode: "_1f9e6",
     htmlEntity: "&#x1F9E6",
   },
-  gloves: {
+  "🧤": {
     name: "gloves",
     category: "people",
     unicode: "_1f9e4",
     htmlEntity: "&#x1F9E4",
   },
-  scarf: {
+  "🧣": {
     name: "scarf",
     category: "people",
     unicode: "_1f9e3",
     htmlEntity: "&#x1F9E3",
   },
-  "top-hat": {
+  "🎩": {
     name: "top-hat",
     category: "people",
     unicode: "_1f3a9",
     htmlEntity: "&#x1F3A9",
   },
-  "billed-cap": {
+  "🧢": {
     name: "billed-cap",
     category: "people",
     unicode: "_1f9e2",
     htmlEntity: "&#x1F9E2",
   },
-  "woman’s-hat": {
+  "👒": {
     name: "woman’s-hat",
     category: "people",
     unicode: "_1f452",
     htmlEntity: "&#x1F452",
   },
-  "graduation-cap": {
+  "🎓": {
     name: "graduation-cap",
     category: "people",
     unicode: "_1f393",
     htmlEntity: "&#x1F393",
   },
-  "rescue-worker’s-helmet": {
+  "⛑": {
     name: "rescue-worker’s-helmet",
     category: "people",
     unicode: "_26d1",
     htmlEntity: "&#x26D1",
   },
-  "military-helmet": {
+  "🪖": {
     name: "military-helmet",
     category: "people",
     unicode: "_1fa96",
     htmlEntity: "&#x1FA96",
   },
-  crown: {
+  "👑": {
     name: "crown",
     category: "people",
     unicode: "_1f451",
     htmlEntity: "&#x1F451",
   },
-  ring: {
+  "💍": {
     name: "ring",
     category: "people",
     unicode: "_1f48d",
     htmlEntity: "&#x1F48D",
   },
-  "clutch-bag": {
+  "👝": {
     name: "clutch-bag",
     category: "people",
     unicode: "_1f45d",
     htmlEntity: "&#x1F45D",
   },
-  purse: {
+  "👛": {
     name: "purse",
     category: "people",
     unicode: "_1f45b",
     htmlEntity: "&#x1F45B",
   },
-  handbag: {
+  "👜": {
     name: "handbag",
     category: "people",
     unicode: "_1f45c",
     htmlEntity: "&#x1F45C",
   },
-  briefcase: {
+  "💼": {
     name: "briefcase",
     category: "people",
     unicode: "_1f4bc",
     htmlEntity: "&#x1F4BC",
   },
-  backpack: {
+  "🎒": {
     name: "backpack",
     category: "people",
     unicode: "_1f392",
     htmlEntity: "&#x1F392",
   },
-  luggage: {
+  "🧳": {
     name: "luggage",
     category: "people",
     unicode: "_1f9f3",
     htmlEntity: "&#x1F9F3",
   },
-  glasses: {
+  "👓": {
     name: "glasses",
     category: "people",
     unicode: "_1f453",
     htmlEntity: "&#x1F453",
   },
-  sunglasses: {
+  "🕶": {
     name: "sunglasses",
     category: "people",
     unicode: "_1f576",
     htmlEntity: "&#x1F576",
   },
-  goggles: {
+  "🥽": {
     name: "goggles",
     category: "people",
     unicode: "_1f97d",
     htmlEntity: "&#x1F97D",
   },
-  "closed-umbrella": {
+  "🌂": {
     name: "closed-umbrella",
     category: "people",
     unicode: "_1f302",

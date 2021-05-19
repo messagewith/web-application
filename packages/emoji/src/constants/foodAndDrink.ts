@@ -1,733 +1,733 @@
 import { EmojiInformation } from "../types/emojiInformation";
 
 export const FOOD_AND_DRINK: EmojiInformation = {
-  "green-apple": {
+  "🍏": {
     name: "green-apple",
     category: "food",
     unicode: "_1f34f",
     htmlEntity: "&#x1F34F",
   },
-  "red-apple": {
+  "🍎": {
     name: "red-apple",
     category: "food",
     unicode: "_1f34e",
     htmlEntity: "&#x1F34E",
   },
-  pear: {
+  "🍐": {
     name: "pear",
     category: "food",
     unicode: "_1f350",
     htmlEntity: "&#x1F350",
   },
-  tangerine: {
+  "🍊": {
     name: "tangerine",
     category: "food",
     unicode: "_1f34a",
     htmlEntity: "&#x1F34A",
   },
-  lemon: {
+  "🍋": {
     name: "lemon",
     category: "food",
     unicode: "_1f34b",
     htmlEntity: "&#x1F34B",
   },
-  banana: {
+  "🍌": {
     name: "banana",
     category: "food",
     unicode: "_1f34c",
     htmlEntity: "&#x1F34C",
   },
-  watermelon: {
+  "🍉": {
     name: "watermelon",
     category: "food",
     unicode: "_1f349",
     htmlEntity: "&#x1F349",
   },
-  grapes: {
+  "🍇": {
     name: "grapes",
     category: "food",
     unicode: "_1f347",
     htmlEntity: "&#x1F347",
   },
-  blueberries: {
+  "🫐": {
     name: "blueberries",
     category: "food",
     unicode: "_1fad0",
     htmlEntity: "&#x1FAD0",
   },
-  strawberry: {
+  "🍓": {
     name: "strawberry",
     category: "food",
     unicode: "_1f353",
     htmlEntity: "&#x1F353",
   },
-  melon: {
+  "🍈": {
     name: "melon",
     category: "food",
     unicode: "_1f348",
     htmlEntity: "&#x1F348",
   },
-  cherries: {
+  "🍒": {
     name: "cherries",
     category: "food",
     unicode: "_1f352",
     htmlEntity: "&#x1F352",
   },
-  peach: {
+  "🍑": {
     name: "peach",
     category: "food",
     unicode: "_1f351",
     htmlEntity: "&#x1F351",
   },
-  mango: {
+  "🥭": {
     name: "mango",
     category: "food",
     unicode: "_1f96d",
     htmlEntity: "&#x1F96D",
   },
-  pineapple: {
+  "🍍": {
     name: "pineapple",
     category: "food",
     unicode: "_1f34d",
     htmlEntity: "&#x1F34D",
   },
-  coconut: {
+  "🥥": {
     name: "coconut",
     category: "food",
     unicode: "_1f965",
     htmlEntity: "&#x1F965",
   },
-  "kiwi-fruit": {
+  "🥝": {
     name: "kiwi-fruit",
     category: "food",
     unicode: "_1f95d",
     htmlEntity: "&#x1F95D",
   },
-  tomato: {
+  "🍅": {
     name: "tomato",
     category: "food",
     unicode: "_1f345",
     htmlEntity: "&#x1F345",
   },
-  eggplant: {
+  "🍆": {
     name: "eggplant",
     category: "food",
     unicode: "_1f346",
     htmlEntity: "&#x1F346",
   },
-  avocado: {
+  "🥑": {
     name: "avocado",
     category: "food",
     unicode: "_1f951",
     htmlEntity: "&#x1F951",
   },
-  olive: {
+  "🫒": {
     name: "olive",
     category: "food",
     unicode: "_1fad2",
     htmlEntity: "&#x1FAD2",
   },
-  broccoli: {
+  "🥦": {
     name: "broccoli",
     category: "food",
     unicode: "_1f966",
     htmlEntity: "&#x1F966",
   },
-  "leafy-green": {
+  "🥬": {
     name: "leafy-green",
     category: "food",
     unicode: "_1f96c",
     htmlEntity: "&#x1F96C",
   },
-  "bell-pepper": {
+  "🫑": {
     name: "bell-pepper",
     category: "food",
     unicode: "_1fad1",
     htmlEntity: "&#x1FAD1",
   },
-  cucumber: {
+  "🥒": {
     name: "cucumber",
     category: "food",
     unicode: "_1f952",
     htmlEntity: "&#x1F952",
   },
-  "hot-pepper": {
+  "🌶": {
     name: "hot-pepper",
     category: "food",
     unicode: "_1f336",
     htmlEntity: "&#x1F336",
   },
-  "ear-of-corn": {
+  "🌽": {
     name: "ear-of-corn",
     category: "food",
     unicode: "_1f33d",
     htmlEntity: "&#x1F33D",
   },
-  carrot: {
+  "🥕": {
     name: "carrot",
     category: "food",
     unicode: "_1f955",
     htmlEntity: "&#x1F955",
   },
-  garlic: {
+  "🧄": {
     name: "garlic",
     category: "food",
     unicode: "_1f9c4",
     htmlEntity: "&#x1F9C4",
   },
-  onion: {
+  "🧅": {
     name: "onion",
     category: "food",
     unicode: "_1f9c5",
     htmlEntity: "&#x1F9C5",
   },
-  potato: {
+  "🥔": {
     name: "potato",
     category: "food",
     unicode: "_1f954",
     htmlEntity: "&#x1F954",
   },
-  "roasted-sweet-potato": {
+  "🍠": {
     name: "roasted-sweet-potato",
     category: "food",
     unicode: "_1f360",
     htmlEntity: "&#x1F360",
   },
-  croissant: {
+  "🥐": {
     name: "croissant",
     category: "food",
     unicode: "_1f950",
     htmlEntity: "&#x1F950",
   },
-  bagel: {
+  "🥯": {
     name: "bagel",
     category: "food",
     unicode: "_1f96f",
     htmlEntity: "&#x1F96F",
   },
-  bread: {
+  "🍞": {
     name: "bread",
     category: "food",
     unicode: "_1f35e",
     htmlEntity: "&#x1F35E",
   },
-  "baguette-bread": {
+  "🥖": {
     name: "baguette-bread",
     category: "food",
     unicode: "_1f956",
     htmlEntity: "&#x1F956",
   },
-  flatbread: {
+  "🫓": {
     name: "flatbread",
     category: "food",
     unicode: "_1fad3",
     htmlEntity: "&#x1FAD3",
   },
-  pretzel: {
+  "🥨": {
     name: "pretzel",
     category: "food",
     unicode: "_1f968",
     htmlEntity: "&#x1F968",
   },
-  "cheese-wedge": {
+  "🧀": {
     name: "cheese-wedge",
     category: "food",
     unicode: "_1f9c0",
     htmlEntity: "&#x1F9C0",
   },
-  egg: {
+  "🥚": {
     name: "egg",
     category: "food",
     unicode: "_1f95a",
     htmlEntity: "&#x1F95A",
   },
-  cooking: {
+  "🍳": {
     name: "cooking",
     category: "food",
     unicode: "_1f373",
     htmlEntity: "&#x1F373",
   },
-  butter: {
+  "🧈": {
     name: "butter",
     category: "food",
     unicode: "_1f9c8",
     htmlEntity: "&#x1F9C8",
   },
-  pancakes: {
+  "🥞": {
     name: "pancakes",
     category: "food",
     unicode: "_1f95e",
     htmlEntity: "&#x1F95E",
   },
-  waffle: {
+  "🧇": {
     name: "waffle",
     category: "food",
     unicode: "_1f9c7",
     htmlEntity: "&#x1F9C7",
   },
-  bacon: {
+  "🥓": {
     name: "bacon",
     category: "food",
     unicode: "_1f953",
     htmlEntity: "&#x1F953",
   },
-  "cut-of-meat": {
+  "🥩": {
     name: "cut-of-meat",
     category: "food",
     unicode: "_1f969",
     htmlEntity: "&#x1F969",
   },
-  "poultry-leg": {
+  "🍗": {
     name: "poultry-leg",
     category: "food",
     unicode: "_1f357",
     htmlEntity: "&#x1F357",
   },
-  "meat-on-bone": {
+  "🍖": {
     name: "meat-on-bone",
     category: "food",
     unicode: "_1f356",
     htmlEntity: "&#x1F356",
   },
-  "hot-dog": {
+  "🌭": {
     name: "hot-dog",
     category: "food",
     unicode: "_1f32d",
     htmlEntity: "&#x1F32D",
   },
-  hamburger: {
+  "🍔": {
     name: "hamburger",
     category: "food",
     unicode: "_1f354",
     htmlEntity: "&#x1F354",
   },
-  "french-fries": {
+  "🍟": {
     name: "french-fries",
     category: "food",
     unicode: "_1f35f",
     htmlEntity: "&#x1F35F",
   },
-  pizza: {
+  "🍕": {
     name: "pizza",
     category: "food",
     unicode: "_1f355",
     htmlEntity: "&#x1F355",
   },
-  sandwich: {
+  "🥪": {
     name: "sandwich",
     category: "food",
     unicode: "_1f96a",
     htmlEntity: "&#x1F96A",
   },
-  "stuffed-flatbread": {
+  "🥙": {
     name: "stuffed-flatbread",
     category: "food",
     unicode: "_1f959",
     htmlEntity: "&#x1F959",
   },
-  falafel: {
+  "🧆": {
     name: "falafel",
     category: "food",
     unicode: "_1f9c6",
     htmlEntity: "&#x1F9C6",
   },
-  taco: {
+  "🌮": {
     name: "taco",
     category: "food",
     unicode: "_1f32e",
     htmlEntity: "&#x1F32E",
   },
-  burrito: {
+  "🌯": {
     name: "burrito",
     category: "food",
     unicode: "_1f32f",
     htmlEntity: "&#x1F32F",
   },
-  tamale: {
+  "🫔": {
     name: "tamale",
     category: "food",
     unicode: "_1fad4",
     htmlEntity: "&#x1FAD4",
   },
-  "green-salad": {
+  "🥗": {
     name: "green-salad",
     category: "food",
     unicode: "_1f957",
     htmlEntity: "&#x1F957",
   },
-  "shallow-pan-of-food": {
+  "🥘": {
     name: "shallow-pan-of-food",
     category: "food",
     unicode: "_1f958",
     htmlEntity: "&#x1F958",
   },
-  fondue: {
+  "🫕": {
     name: "fondue",
     category: "food",
     unicode: "_1fad5",
     htmlEntity: "&#x1FAD5",
   },
-  "canned-food": {
+  "🥫": {
     name: "canned-food",
     category: "food",
     unicode: "_1f96b",
     htmlEntity: "&#x1F96B",
   },
-  spaghetti: {
+  "🍝": {
     name: "spaghetti",
     category: "food",
     unicode: "_1f35d",
     htmlEntity: "&#x1F35D",
   },
-  "steaming-bowl": {
+  "🍜": {
     name: "steaming-bowl",
     category: "food",
     unicode: "_1f35c",
     htmlEntity: "&#x1F35C",
   },
-  "pot-of-food": {
+  "🍲": {
     name: "pot-of-food",
     category: "food",
     unicode: "_1f372",
     htmlEntity: "&#x1F372",
   },
-  "curry-rice": {
+  "🍛": {
     name: "curry-rice",
     category: "food",
     unicode: "_1f35b",
     htmlEntity: "&#x1F35B",
   },
-  sushi: {
+  "🍣": {
     name: "sushi",
     category: "food",
     unicode: "_1f363",
     htmlEntity: "&#x1F363",
   },
-  "bento-box": {
+  "🍱": {
     name: "bento-box",
     category: "food",
     unicode: "_1f371",
     htmlEntity: "&#x1F371",
   },
-  dumpling: {
+  "🥟": {
     name: "dumpling",
     category: "food",
     unicode: "_1f95f",
     htmlEntity: "&#x1F95F",
   },
-  oyster: {
+  "🦪": {
     name: "oyster",
     category: "food",
     unicode: "_1f9aa",
     htmlEntity: "&#x1F9AA",
   },
-  "fried-shrimp": {
+  "🍤": {
     name: "fried-shrimp",
     category: "food",
     unicode: "_1f364",
     htmlEntity: "&#x1F364",
   },
-  "rice-ball": {
+  "🍙": {
     name: "rice-ball",
     category: "food",
     unicode: "_1f359",
     htmlEntity: "&#x1F359",
   },
-  "cooked-rice": {
+  "🍚": {
     name: "cooked-rice",
     category: "food",
     unicode: "_1f35a",
     htmlEntity: "&#x1F35A",
   },
-  "rice-cracker": {
+  "🍘": {
     name: "rice-cracker",
     category: "food",
     unicode: "_1f358",
     htmlEntity: "&#x1F358",
   },
-  "fish-cake-with-swirl": {
+  "🍥": {
     name: "fish-cake-with-swirl",
     category: "food",
     unicode: "_1f365",
     htmlEntity: "&#x1F365",
   },
-  "fortune-cookie": {
+  "🥠": {
     name: "fortune-cookie",
     category: "food",
     unicode: "_1f960",
     htmlEntity: "&#x1F960",
   },
-  "moon-cake": {
+  "🥮": {
     name: "moon-cake",
     category: "food",
     unicode: "_1f96e",
     htmlEntity: "&#x1F96E",
   },
-  oden: {
+  "🍢": {
     name: "oden",
     category: "food",
     unicode: "_1f362",
     htmlEntity: "&#x1F362",
   },
-  dango: {
+  "🍡": {
     name: "dango",
     category: "food",
     unicode: "_1f361",
     htmlEntity: "&#x1F361",
   },
-  "shaved-ice": {
+  "🍧": {
     name: "shaved-ice",
     category: "food",
     unicode: "_1f367",
     htmlEntity: "&#x1F367",
   },
-  "ice-cream": {
+  "🍨": {
     name: "ice-cream",
     category: "food",
     unicode: "_1f368",
     htmlEntity: "&#x1F368",
   },
-  "soft-ice-cream": {
+  "🍦": {
     name: "soft-ice-cream",
     category: "food",
     unicode: "_1f366",
     htmlEntity: "&#x1F366",
   },
-  pie: {
+  "🥧": {
     name: "pie",
     category: "food",
     unicode: "_1f967",
     htmlEntity: "&#x1F967",
   },
-  cupcake: {
+  "🧁": {
     name: "cupcake",
     category: "food",
     unicode: "_1f9c1",
     htmlEntity: "&#x1F9C1",
   },
-  shortcake: {
+  "🍰": {
     name: "shortcake",
     category: "food",
     unicode: "_1f370",
     htmlEntity: "&#x1F370",
   },
-  "birthday-cake": {
+  "🎂": {
     name: "birthday-cake",
     category: "food",
     unicode: "_1f382",
     htmlEntity: "&#x1F382",
   },
-  custard: {
+  "🍮": {
     name: "custard",
     category: "food",
     unicode: "_1f36e",
     htmlEntity: "&#x1F36E",
   },
-  lollipop: {
+  "🍭": {
     name: "lollipop",
     category: "food",
     unicode: "_1f36d",
     htmlEntity: "&#x1F36D",
   },
-  candy: {
+  "🍬": {
     name: "candy",
     category: "food",
     unicode: "_1f36c",
     htmlEntity: "&#x1F36C",
   },
-  "chocolate-bar": {
+  "🍫": {
     name: "chocolate-bar",
     category: "food",
     unicode: "_1f36b",
     htmlEntity: "&#x1F36B",
   },
-  popcorn: {
+  "🍿": {
     name: "popcorn",
     category: "food",
     unicode: "_1f37f",
     htmlEntity: "&#x1F37F",
   },
-  doughnut: {
+  "🍩": {
     name: "doughnut",
     category: "food",
     unicode: "_1f369",
     htmlEntity: "&#x1F369",
   },
-  cookie: {
+  "🍪": {
     name: "cookie",
     category: "food",
     unicode: "_1f36a",
     htmlEntity: "&#x1F36A",
   },
-  chestnut: {
+  "🌰": {
     name: "chestnut",
     category: "food",
     unicode: "_1f330",
     htmlEntity: "&#x1F330",
   },
-  peanuts: {
+  "🥜": {
     name: "peanuts",
     category: "food",
     unicode: "_1f95c",
     htmlEntity: "&#x1F95C",
   },
-  "honey-pot": {
+  "🍯": {
     name: "honey-pot",
     category: "food",
     unicode: "_1f36f",
     htmlEntity: "&#x1F36F",
   },
-  "glass-of-milk": {
+  "🥛": {
     name: "glass-of-milk",
     category: "food",
     unicode: "_1f95b",
     htmlEntity: "&#x1F95B",
   },
-  "baby-bottle": {
+  "🍼": {
     name: "baby-bottle",
     category: "food",
     unicode: "_1f37c",
     htmlEntity: "&#x1F37C",
   },
-  "hot-beverage": {
+  "☕": {
     name: "hot-beverage",
     category: "food",
     unicode: "_2615",
     htmlEntity: "&#x2615",
   },
-  "teacup-without-handle": {
+  "🍵": {
     name: "teacup-without-handle",
     category: "food",
     unicode: "_1f375",
     htmlEntity: "&#x1F375",
   },
-  teapot: {
+  "🫖": {
     name: "teapot",
     category: "food",
     unicode: "_1fad6",
     htmlEntity: "&#x1FAD6",
   },
-  mate: {
+  "🧉": {
     name: "mate",
     category: "food",
     unicode: "_1f9c9",
     htmlEntity: "&#x1F9C9",
   },
-  "bubble-tea": {
+  "🧋": {
     name: "bubble-tea",
     category: "food",
     unicode: "_1f9cb",
     htmlEntity: "&#x1F9CB",
   },
-  "beverage-box": {
+  "🧃": {
     name: "beverage-box",
     category: "food",
     unicode: "_1f9c3",
     htmlEntity: "&#x1F9C3",
   },
-  "cup-with-straw": {
+  "🥤": {
     name: "cup-with-straw",
     category: "food",
     unicode: "_1f964",
     htmlEntity: "&#x1F964",
   },
-  sake: {
+  "🍶": {
     name: "sake",
     category: "food",
     unicode: "_1f376",
     htmlEntity: "&#x1F376",
   },
-  "beer-mug": {
+  "🍺": {
     name: "beer-mug",
     category: "food",
     unicode: "_1f37a",
     htmlEntity: "&#x1F37A",
   },
-  "clinking-beer-mugs": {
+  "🍻": {
     name: "clinking-beer-mugs",
     category: "food",
     unicode: "_1f37b",
     htmlEntity: "&#x1F37B",
   },
-  "clinking-glasses": {
+  "🥂": {
     name: "clinking-glasses",
     category: "food",
     unicode: "_1f942",
     htmlEntity: "&#x1F942",
   },
-  "wine-glass": {
+  "🍷": {
     name: "wine-glass",
     category: "food",
     unicode: "_1f377",
     htmlEntity: "&#x1F377",
   },
-  "tumbler-glass": {
+  "🥃": {
     name: "tumbler-glass",
     category: "food",
     unicode: "_1f943",
     htmlEntity: "&#x1F943",
   },
-  "cocktail-glass": {
+  "🍸": {
     name: "cocktail-glass",
     category: "food",
     unicode: "_1f378",
     htmlEntity: "&#x1F378",
   },
-  "tropical-drink": {
+  "🍹": {
     name: "tropical-drink",
     category: "food",
     unicode: "_1f379",
     htmlEntity: "&#x1F379",
   },
-  "bottle-with-popping-cork": {
+  "🍾": {
     name: "bottle-with-popping-cork",
     category: "food",
     unicode: "_1f37e",
     htmlEntity: "&#x1F37E",
   },
-  "ice-cube": {
+  "🧊": {
     name: "ice-cube",
     category: "food",
     unicode: "_1f9ca",
     htmlEntity: "&#x1F9CA",
   },
-  spoon: {
+  "🥄": {
     name: "spoon",
     category: "food",
     unicode: "_1f944",
     htmlEntity: "&#x1F944",
   },
-  "fork-and-knife": {
+  "🍴": {
     name: "fork-and-knife",
     category: "food",
     unicode: "_1f374",
     htmlEntity: "&#x1F374",
   },
-  "fork-and-knife-with-plate": {
+  "🍽": {
     name: "fork-and-knife-with-plate",
     category: "food",
     unicode: "_1f37d",
     htmlEntity: "&#x1F37D",
   },
-  "bowl-with-spoon": {
+  "🥣": {
     name: "bowl-with-spoon",
     category: "food",
     unicode: "_1f963",
     htmlEntity: "&#x1F963",
   },
-  "takeout-box": {
+  "🥡": {
     name: "takeout-box",
     category: "food",
     unicode: "_1f961",
     htmlEntity: "&#x1F961",
   },
-  chopsticks: {
+  "🥢": {
     name: "chopsticks",
     category: "food",
     unicode: "_1f962",
     htmlEntity: "&#x1F962",
   },
-  salt: {
+  "🧂": {
     name: "salt",
     category: "food",
     unicode: "_1f9c2",

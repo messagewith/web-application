@@ -1,1618 +1,1618 @@
 import { EmojiInformation } from "../types/emojiInformation";
 
 export const FLAGS: EmojiInformation = {
-  "white-flag": {
+  "🏳": {
     name: "white-flag",
     category: "flags",
     unicode: "_1f3f3",
     htmlEntity: "&#x1F3F3",
   },
-  "black-flag": {
+  "🏴": {
     name: "black-flag",
     category: "flags",
     unicode: "_1f3f4",
     htmlEntity: "&#x1F3F4",
   },
-  "chequered-flag": {
+  "🏁": {
     name: "chequered-flag",
     category: "flags",
     unicode: "_1f3c1",
     htmlEntity: "&#x1F3C1",
   },
-  "triangular-flag": {
+  "🚩": {
     name: "triangular-flag",
     category: "flags",
     unicode: "_1f6a9",
     htmlEntity: "&#x1F6A9",
   },
-  "rainbow-flag": {
+  "🏳🌈": {
     name: "rainbow-flag",
     category: "flags",
     unicode: "_1f3f3-1f308",
     htmlEntity: "&#x1F3F3;&#x1F308",
   },
-  "transgender-flag": {
+  "🏳⚧": {
     name: "transgender-flag",
     category: "flags",
     unicode: "_1f3f3-26a7",
     htmlEntity: "&#x1F3F3;&#x26A7",
   },
-  "pirate-flag": {
+  "🏴☠": {
     name: "pirate-flag",
     category: "flags",
     unicode: "_1f3f4-2620",
     htmlEntity: "&#x1F3F4;&#x2620",
   },
-  "flag-afghanistan": {
+  "🇦🇫": {
     name: "flag-afghanistan",
     category: "flags",
     unicode: "_1f1e6-1f1eb",
     htmlEntity: "&#x1F1E6;&#x1F1EB",
   },
-  "flag-åland-islands": {
+  "🇦🇽": {
     name: "flag-åland-islands",
     category: "flags",
     unicode: "_1f1e6-1f1fd",
     htmlEntity: "&#x1F1E6;&#x1F1FD",
   },
-  "flag-albania": {
+  "🇦🇱": {
     name: "flag-albania",
     category: "flags",
     unicode: "_1f1e6-1f1f1",
     htmlEntity: "&#x1F1E6;&#x1F1F1",
   },
-  "flag-algeria": {
+  "🇩🇿": {
     name: "flag-algeria",
     category: "flags",
     unicode: "_1f1e9-1f1ff",
     htmlEntity: "&#x1F1E9;&#x1F1FF",
   },
-  "flag-american-samoa": {
+  "🇦🇸": {
     name: "flag-american-samoa",
     category: "flags",
     unicode: "_1f1e6-1f1f8",
     htmlEntity: "&#x1F1E6;&#x1F1F8",
   },
-  "flag-andorra": {
+  "🇦🇩": {
     name: "flag-andorra",
     category: "flags",
     unicode: "_1f1e6-1f1e9",
     htmlEntity: "&#x1F1E6;&#x1F1E9",
   },
-  "flag-angola": {
+  "🇦🇴": {
     name: "flag-angola",
     category: "flags",
     unicode: "_1f1e6-1f1f4",
     htmlEntity: "&#x1F1E6;&#x1F1F4",
   },
-  "flag-anguilla": {
+  "🇦🇮": {
     name: "flag-anguilla",
     category: "flags",
     unicode: "_1f1e6-1f1ee",
     htmlEntity: "&#x1F1E6;&#x1F1EE",
   },
-  "flag-antarctica": {
+  "🇦🇶": {
     name: "flag-antarctica",
     category: "flags",
     unicode: "_1f1e6-1f1f6",
     htmlEntity: "&#x1F1E6;&#x1F1F6",
   },
-  "flag-antigua--barbuda": {
+  "🇦🇬": {
     name: "flag-antigua--barbuda",
     category: "flags",
     unicode: "_1f1e6-1f1ec",
     htmlEntity: "&#x1F1E6;&#x1F1EC",
   },
-  "flag-argentina": {
+  "🇦🇷": {
     name: "flag-argentina",
     category: "flags",
     unicode: "_1f1e6-1f1f7",
     htmlEntity: "&#x1F1E6;&#x1F1F7",
   },
-  "flag-armenia": {
+  "🇦🇲": {
     name: "flag-armenia",
     category: "flags",
     unicode: "_1f1e6-1f1f2",
     htmlEntity: "&#x1F1E6;&#x1F1F2",
   },
-  "flag-aruba": {
+  "🇦🇼": {
     name: "flag-aruba",
     category: "flags",
     unicode: "_1f1e6-1f1fc",
     htmlEntity: "&#x1F1E6;&#x1F1FC",
   },
-  "flag-australia": {
+  "🇦🇺": {
     name: "flag-australia",
     category: "flags",
     unicode: "_1f1e6-1f1fa",
     htmlEntity: "&#x1F1E6;&#x1F1FA",
   },
-  "flag-austria": {
+  "🇦🇹": {
     name: "flag-austria",
     category: "flags",
     unicode: "_1f1e6-1f1f9",
     htmlEntity: "&#x1F1E6;&#x1F1F9",
   },
-  "flag-azerbaijan": {
+  "🇦🇿": {
     name: "flag-azerbaijan",
     category: "flags",
     unicode: "_1f1e6-1f1ff",
     htmlEntity: "&#x1F1E6;&#x1F1FF",
   },
-  "flag-bahamas": {
+  "🇧🇸": {
     name: "flag-bahamas",
     category: "flags",
     unicode: "_1f1e7-1f1f8",
     htmlEntity: "&#x1F1E7;&#x1F1F8",
   },
-  "flag-bahrain": {
+  "🇧🇭": {
     name: "flag-bahrain",
     category: "flags",
     unicode: "_1f1e7-1f1ed",
     htmlEntity: "&#x1F1E7;&#x1F1ED",
   },
-  "flag-bangladesh": {
+  "🇧🇩": {
     name: "flag-bangladesh",
     category: "flags",
     unicode: "_1f1e7-1f1e9",
     htmlEntity: "&#x1F1E7;&#x1F1E9",
   },
-  "flag-barbados": {
+  "🇧🇧": {
     name: "flag-barbados",
     category: "flags",
     unicode: "_1f1e7-1f1e7",
     htmlEntity: "&#x1F1E7;&#x1F1E7",
   },
-  "flag-belarus": {
+  "🇧🇾": {
     name: "flag-belarus",
     category: "flags",
     unicode: "_1f1e7-1f1fe",
     htmlEntity: "&#x1F1E7;&#x1F1FE",
   },
-  "flag-belgium": {
+  "🇧🇪": {
     name: "flag-belgium",
     category: "flags",
     unicode: "_1f1e7-1f1ea",
     htmlEntity: "&#x1F1E7;&#x1F1EA",
   },
-  "flag-belize": {
+  "🇧🇿": {
     name: "flag-belize",
     category: "flags",
     unicode: "_1f1e7-1f1ff",
     htmlEntity: "&#x1F1E7;&#x1F1FF",
   },
-  "flag-benin": {
+  "🇧🇯": {
     name: "flag-benin",
     category: "flags",
     unicode: "_1f1e7-1f1ef",
     htmlEntity: "&#x1F1E7;&#x1F1EF",
   },
-  "flag-bermuda": {
+  "🇧🇲": {
     name: "flag-bermuda",
     category: "flags",
     unicode: "_1f1e7-1f1f2",
     htmlEntity: "&#x1F1E7;&#x1F1F2",
   },
-  "flag-bhutan": {
+  "🇧🇹": {
     name: "flag-bhutan",
     category: "flags",
     unicode: "_1f1e7-1f1f9",
     htmlEntity: "&#x1F1E7;&#x1F1F9",
   },
-  "flag-bolivia": {
+  "🇧🇴": {
     name: "flag-bolivia",
     category: "flags",
     unicode: "_1f1e7-1f1f4",
     htmlEntity: "&#x1F1E7;&#x1F1F4",
   },
-  "flag-bosnia--herzegovina": {
+  "🇧🇦": {
     name: "flag-bosnia--herzegovina",
     category: "flags",
     unicode: "_1f1e7-1f1e6",
     htmlEntity: "&#x1F1E7;&#x1F1E6",
   },
-  "flag-botswana": {
+  "🇧🇼": {
     name: "flag-botswana",
     category: "flags",
     unicode: "_1f1e7-1f1fc",
     htmlEntity: "&#x1F1E7;&#x1F1FC",
   },
-  "flag-brazil": {
+  "🇧🇷": {
     name: "flag-brazil",
     category: "flags",
     unicode: "_1f1e7-1f1f7",
     htmlEntity: "&#x1F1E7;&#x1F1F7",
   },
-  "flag-british-indian-ocean-territory": {
+  "🇮🇴": {
     name: "flag-british-indian-ocean-territory",
     category: "flags",
     unicode: "_1f1ee-1f1f4",
     htmlEntity: "&#x1F1EE;&#x1F1F4",
   },
-  "flag-british-virgin-islands": {
+  "🇻🇬": {
     name: "flag-british-virgin-islands",
     category: "flags",
     unicode: "_1f1fb-1f1ec",
     htmlEntity: "&#x1F1FB;&#x1F1EC",
   },
-  "flag-brunei": {
+  "🇧🇳": {
     name: "flag-brunei",
     category: "flags",
     unicode: "_1f1e7-1f1f3",
     htmlEntity: "&#x1F1E7;&#x1F1F3",
   },
-  "flag-bulgaria": {
+  "🇧🇬": {
     name: "flag-bulgaria",
     category: "flags",
     unicode: "_1f1e7-1f1ec",
     htmlEntity: "&#x1F1E7;&#x1F1EC",
   },
-  "flag-burkina-faso": {
+  "🇧🇫": {
     name: "flag-burkina-faso",
     category: "flags",
     unicode: "_1f1e7-1f1eb",
     htmlEntity: "&#x1F1E7;&#x1F1EB",
   },
-  "flag-burundi": {
+  "🇧🇮": {
     name: "flag-burundi",
     category: "flags",
     unicode: "_1f1e7-1f1ee",
     htmlEntity: "&#x1F1E7;&#x1F1EE",
   },
-  "flag-cambodia": {
+  "🇰🇭": {
     name: "flag-cambodia",
     category: "flags",
     unicode: "_1f1f0-1f1ed",
     htmlEntity: "&#x1F1F0;&#x1F1ED",
   },
-  "flag-cameroon": {
+  "🇨🇲": {
     name: "flag-cameroon",
     category: "flags",
     unicode: "_1f1e8-1f1f2",
     htmlEntity: "&#x1F1E8;&#x1F1F2",
   },
-  "flag-canada": {
+  "🇨🇦": {
     name: "flag-canada",
     category: "flags",
     unicode: "_1f1e8-1f1e6",
     htmlEntity: "&#x1F1E8;&#x1F1E6",
   },
-  "flag-canary-islands": {
+  "🇮🇨": {
     name: "flag-canary-islands",
     category: "flags",
     unicode: "_1f1ee-1f1e8",
     htmlEntity: "&#x1F1EE;&#x1F1E8",
   },
-  "flag-cape-verde": {
+  "🇨🇻": {
     name: "flag-cape-verde",
     category: "flags",
     unicode: "_1f1e8-1f1fb",
     htmlEntity: "&#x1F1E8;&#x1F1FB",
   },
-  "flag-caribbean-netherlands": {
+  "🇧🇶": {
     name: "flag-caribbean-netherlands",
     category: "flags",
     unicode: "_1f1e7-1f1f6",
     htmlEntity: "&#x1F1E7;&#x1F1F6",
   },
-  "flag-cayman-islands": {
+  "🇰🇾": {
     name: "flag-cayman-islands",
     category: "flags",
     unicode: "_1f1f0-1f1fe",
     htmlEntity: "&#x1F1F0;&#x1F1FE",
   },
-  "flag-central-african-republic": {
+  "🇨🇫": {
     name: "flag-central-african-republic",
     category: "flags",
     unicode: "_1f1e8-1f1eb",
     htmlEntity: "&#x1F1E8;&#x1F1EB",
   },
-  "flag-chad": {
+  "🇹🇩": {
     name: "flag-chad",
     category: "flags",
     unicode: "_1f1f9-1f1e9",
     htmlEntity: "&#x1F1F9;&#x1F1E9",
   },
-  "flag-chile": {
+  "🇨🇱": {
     name: "flag-chile",
     category: "flags",
     unicode: "_1f1e8-1f1f1",
     htmlEntity: "&#x1F1E8;&#x1F1F1",
   },
-  "flag-china": {
+  "🇨🇳": {
     name: "flag-china",
     category: "flags",
     unicode: "_1f1e8-1f1f3",
     htmlEntity: "&#x1F1E8;&#x1F1F3",
   },
-  "flag-christmas-island": {
+  "🇨🇽": {
     name: "flag-christmas-island",
     category: "flags",
     unicode: "_1f1e8-1f1fd",
     htmlEntity: "&#x1F1E8;&#x1F1FD",
   },
-  "flag-cocos-keeling-islands": {
+  "🇨🇨": {
     name: "flag-cocos-keeling-islands",
     category: "flags",
     unicode: "_1f1e8-1f1e8",
     htmlEntity: "&#x1F1E8;&#x1F1E8",
   },
-  "flag-colombia": {
+  "🇨🇴": {
     name: "flag-colombia",
     category: "flags",
     unicode: "_1f1e8-1f1f4",
     htmlEntity: "&#x1F1E8;&#x1F1F4",
   },
-  "flag-comoros": {
+  "🇰🇲": {
     name: "flag-comoros",
     category: "flags",
     unicode: "_1f1f0-1f1f2",
     htmlEntity: "&#x1F1F0;&#x1F1F2",
   },
-  "flag-congo---brazzaville": {
+  "🇨🇬": {
     name: "flag-congo---brazzaville",
     category: "flags",
     unicode: "_1f1e8-1f1ec",
     htmlEntity: "&#x1F1E8;&#x1F1EC",
   },
-  "flag-congo---kinshasa": {
+  "🇨🇩": {
     name: "flag-congo---kinshasa",
     category: "flags",
     unicode: "_1f1e8-1f1e9",
     htmlEntity: "&#x1F1E8;&#x1F1E9",
   },
-  "flag-cook-islands": {
+  "🇨🇰": {
     name: "flag-cook-islands",
     category: "flags",
     unicode: "_1f1e8-1f1f0",
     htmlEntity: "&#x1F1E8;&#x1F1F0",
   },
-  "flag-costa-rica": {
+  "🇨🇷": {
     name: "flag-costa-rica",
     category: "flags",
     unicode: "_1f1e8-1f1f7",
     htmlEntity: "&#x1F1E8;&#x1F1F7",
   },
-  "flag-côte-d’ivoire": {
+  "🇨🇮": {
     name: "flag-côte-d’ivoire",
     category: "flags",
     unicode: "_1f1e8-1f1ee",
     htmlEntity: "&#x1F1E8;&#x1F1EE",
   },
-  "flag-croatia": {
+  "🇭🇷": {
     name: "flag-croatia",
     category: "flags",
     unicode: "_1f1ed-1f1f7",
     htmlEntity: "&#x1F1ED;&#x1F1F7",
   },
-  "flag-cuba": {
+  "🇨🇺": {
     name: "flag-cuba",
     category: "flags",
     unicode: "_1f1e8-1f1fa",
     htmlEntity: "&#x1F1E8;&#x1F1FA",
   },
-  "flag-curaçao": {
+  "🇨🇼": {
     name: "flag-curaçao",
     category: "flags",
     unicode: "_1f1e8-1f1fc",
     htmlEntity: "&#x1F1E8;&#x1F1FC",
   },
-  "flag-cyprus": {
+  "🇨🇾": {
     name: "flag-cyprus",
     category: "flags",
     unicode: "_1f1e8-1f1fe",
     htmlEntity: "&#x1F1E8;&#x1F1FE",
   },
-  "flag-czechia": {
+  "🇨🇿": {
     name: "flag-czechia",
     category: "flags",
     unicode: "_1f1e8-1f1ff",
     htmlEntity: "&#x1F1E8;&#x1F1FF",
   },
-  "flag-denmark": {
+  "🇩🇰": {
     name: "flag-denmark",
     category: "flags",
     unicode: "_1f1e9-1f1f0",
     htmlEntity: "&#x1F1E9;&#x1F1F0",
   },
-  "flag-djibouti": {
+  "🇩🇯": {
     name: "flag-djibouti",
     category: "flags",
     unicode: "_1f1e9-1f1ef",
     htmlEntity: "&#x1F1E9;&#x1F1EF",
   },
-  "flag-dominica": {
+  "🇩🇲": {
     name: "flag-dominica",
     category: "flags",
     unicode: "_1f1e9-1f1f2",
     htmlEntity: "&#x1F1E9;&#x1F1F2",
   },
-  "flag-dominican-republic": {
+  "🇩🇴": {
     name: "flag-dominican-republic",
     category: "flags",
     unicode: "_1f1e9-1f1f4",
     htmlEntity: "&#x1F1E9;&#x1F1F4",
   },
-  "flag-ecuador": {
+  "🇪🇨": {
     name: "flag-ecuador",
     category: "flags",
     unicode: "_1f1ea-1f1e8",
     htmlEntity: "&#x1F1EA;&#x1F1E8",
   },
-  "flag-egypt": {
+  "🇪🇬": {
     name: "flag-egypt",
     category: "flags",
     unicode: "_1f1ea-1f1ec",
     htmlEntity: "&#x1F1EA;&#x1F1EC",
   },
-  "flag-el-salvador": {
+  "🇸🇻": {
     name: "flag-el-salvador",
     category: "flags",
     unicode: "_1f1f8-1f1fb",
     htmlEntity: "&#x1F1F8;&#x1F1FB",
   },
-  "flag-equatorial-guinea": {
+  "🇬🇶": {
     name: "flag-equatorial-guinea",
     category: "flags",
     unicode: "_1f1ec-1f1f6",
     htmlEntity: "&#x1F1EC;&#x1F1F6",
   },
-  "flag-eritrea": {
+  "🇪🇷": {
     name: "flag-eritrea",
     category: "flags",
     unicode: "_1f1ea-1f1f7",
     htmlEntity: "&#x1F1EA;&#x1F1F7",
   },
-  "flag-estonia": {
+  "🇪🇪": {
     name: "flag-estonia",
     category: "flags",
     unicode: "_1f1ea-1f1ea",
     htmlEntity: "&#x1F1EA;&#x1F1EA",
   },
-  "flag-ethiopia": {
+  "🇪🇹": {
     name: "flag-ethiopia",
     category: "flags",
     unicode: "_1f1ea-1f1f9",
     htmlEntity: "&#x1F1EA;&#x1F1F9",
   },
-  "flag-european-union": {
+  "🇪🇺": {
     name: "flag-european-union",
     category: "flags",
     unicode: "_1f1ea-1f1fa",
     htmlEntity: "&#x1F1EA;&#x1F1FA",
   },
-  "flag-falkland-islands": {
+  "🇫🇰": {
     name: "flag-falkland-islands",
     category: "flags",
     unicode: "_1f1eb-1f1f0",
     htmlEntity: "&#x1F1EB;&#x1F1F0",
   },
-  "flag-faroe-islands": {
+  "🇫🇴": {
     name: "flag-faroe-islands",
     category: "flags",
     unicode: "_1f1eb-1f1f4",
     htmlEntity: "&#x1F1EB;&#x1F1F4",
   },
-  "flag-fiji": {
+  "🇫🇯": {
     name: "flag-fiji",
     category: "flags",
     unicode: "_1f1eb-1f1ef",
     htmlEntity: "&#x1F1EB;&#x1F1EF",
   },
-  "flag-finland": {
+  "🇫🇮": {
     name: "flag-finland",
     category: "flags",
     unicode: "_1f1eb-1f1ee",
     htmlEntity: "&#x1F1EB;&#x1F1EE",
   },
-  "flag-france": {
+  "🇫🇷": {
     name: "flag-france",
     category: "flags",
     unicode: "_1f1eb-1f1f7",
     htmlEntity: "&#x1F1EB;&#x1F1F7",
   },
-  "flag-french-guiana": {
+  "🇬🇫": {
     name: "flag-french-guiana",
     category: "flags",
     unicode: "_1f1ec-1f1eb",
     htmlEntity: "&#x1F1EC;&#x1F1EB",
   },
-  "flag-french-polynesia": {
+  "🇵🇫": {
     name: "flag-french-polynesia",
     category: "flags",
     unicode: "_1f1f5-1f1eb",
     htmlEntity: "&#x1F1F5;&#x1F1EB",
   },
-  "flag-french-southern-territories": {
+  "🇹🇫": {
     name: "flag-french-southern-territories",
     category: "flags",
     unicode: "_1f1f9-1f1eb",
     htmlEntity: "&#x1F1F9;&#x1F1EB",
   },
-  "flag-gabon": {
+  "🇬🇦": {
     name: "flag-gabon",
     category: "flags",
     unicode: "_1f1ec-1f1e6",
     htmlEntity: "&#x1F1EC;&#x1F1E6",
   },
-  "flag-gambia": {
+  "🇬🇲": {
     name: "flag-gambia",
     category: "flags",
     unicode: "_1f1ec-1f1f2",
     htmlEntity: "&#x1F1EC;&#x1F1F2",
   },
-  "flag-georgia": {
+  "🇬🇪": {
     name: "flag-georgia",
     category: "flags",
     unicode: "_1f1ec-1f1ea",
     htmlEntity: "&#x1F1EC;&#x1F1EA",
   },
-  "flag-germany": {
+  "🇩🇪": {
     name: "flag-germany",
     category: "flags",
     unicode: "_1f1e9-1f1ea",
     htmlEntity: "&#x1F1E9;&#x1F1EA",
   },
-  "flag-ghana": {
+  "🇬🇭": {
     name: "flag-ghana",
     category: "flags",
     unicode: "_1f1ec-1f1ed",
     htmlEntity: "&#x1F1EC;&#x1F1ED",
   },
-  "flag-gibraltar": {
+  "🇬🇮": {
     name: "flag-gibraltar",
     category: "flags",
     unicode: "_1f1ec-1f1ee",
     htmlEntity: "&#x1F1EC;&#x1F1EE",
   },
-  "flag-greece": {
+  "🇬🇷": {
     name: "flag-greece",
     category: "flags",
     unicode: "_1f1ec-1f1f7",
     htmlEntity: "&#x1F1EC;&#x1F1F7",
   },
-  "flag-greenland": {
+  "🇬🇱": {
     name: "flag-greenland",
     category: "flags",
     unicode: "_1f1ec-1f1f1",
     htmlEntity: "&#x1F1EC;&#x1F1F1",
   },
-  "flag-grenada": {
+  "🇬🇩": {
     name: "flag-grenada",
     category: "flags",
     unicode: "_1f1ec-1f1e9",
     htmlEntity: "&#x1F1EC;&#x1F1E9",
   },
-  "flag-guadeloupe": {
+  "🇬🇵": {
     name: "flag-guadeloupe",
     category: "flags",
     unicode: "_1f1ec-1f1f5",
     htmlEntity: "&#x1F1EC;&#x1F1F5",
   },
-  "flag-guam": {
+  "🇬🇺": {
     name: "flag-guam",
     category: "flags",
     unicode: "_1f1ec-1f1fa",
     htmlEntity: "&#x1F1EC;&#x1F1FA",
   },
-  "flag-guatemala": {
+  "🇬🇹": {
     name: "flag-guatemala",
     category: "flags",
     unicode: "_1f1ec-1f1f9",
     htmlEntity: "&#x1F1EC;&#x1F1F9",
   },
-  "flag-guernsey": {
+  "🇬🇬": {
     name: "flag-guernsey",
     category: "flags",
     unicode: "_1f1ec-1f1ec",
     htmlEntity: "&#x1F1EC;&#x1F1EC",
   },
-  "flag-guinea": {
+  "🇬🇳": {
     name: "flag-guinea",
     category: "flags",
     unicode: "_1f1ec-1f1f3",
     htmlEntity: "&#x1F1EC;&#x1F1F3",
   },
-  "flag-guinea-bissau": {
+  "🇬🇼": {
     name: "flag-guinea-bissau",
     category: "flags",
     unicode: "_1f1ec-1f1fc",
     htmlEntity: "&#x1F1EC;&#x1F1FC",
   },
-  "flag-guyana": {
+  "🇬🇾": {
     name: "flag-guyana",
     category: "flags",
     unicode: "_1f1ec-1f1fe",
     htmlEntity: "&#x1F1EC;&#x1F1FE",
   },
-  "flag-haiti": {
+  "🇭🇹": {
     name: "flag-haiti",
     category: "flags",
     unicode: "_1f1ed-1f1f9",
     htmlEntity: "&#x1F1ED;&#x1F1F9",
   },
-  "flag-honduras": {
+  "🇭🇳": {
     name: "flag-honduras",
     category: "flags",
     unicode: "_1f1ed-1f1f3",
     htmlEntity: "&#x1F1ED;&#x1F1F3",
   },
-  "flag-hong-kong-sar-china": {
+  "🇭🇰": {
     name: "flag-hong-kong-sar-china",
     category: "flags",
     unicode: "_1f1ed-1f1f0",
     htmlEntity: "&#x1F1ED;&#x1F1F0",
   },
-  "flag-hungary": {
+  "🇭🇺": {
     name: "flag-hungary",
     category: "flags",
     unicode: "_1f1ed-1f1fa",
     htmlEntity: "&#x1F1ED;&#x1F1FA",
   },
-  "flag-iceland": {
+  "🇮🇸": {
     name: "flag-iceland",
     category: "flags",
     unicode: "_1f1ee-1f1f8",
     htmlEntity: "&#x1F1EE;&#x1F1F8",
   },
-  "flag-india": {
+  "🇮🇳": {
     name: "flag-india",
     category: "flags",
     unicode: "_1f1ee-1f1f3",
     htmlEntity: "&#x1F1EE;&#x1F1F3",
   },
-  "flag-indonesia": {
+  "🇮🇩": {
     name: "flag-indonesia",
     category: "flags",
     unicode: "_1f1ee-1f1e9",
     htmlEntity: "&#x1F1EE;&#x1F1E9",
   },
-  "flag-iran": {
+  "🇮🇷": {
     name: "flag-iran",
     category: "flags",
     unicode: "_1f1ee-1f1f7",
     htmlEntity: "&#x1F1EE;&#x1F1F7",
   },
-  "flag-iraq": {
+  "🇮🇶": {
     name: "flag-iraq",
     category: "flags",
     unicode: "_1f1ee-1f1f6",
     htmlEntity: "&#x1F1EE;&#x1F1F6",
   },
-  "flag-ireland": {
+  "🇮🇪": {
     name: "flag-ireland",
     category: "flags",
     unicode: "_1f1ee-1f1ea",
     htmlEntity: "&#x1F1EE;&#x1F1EA",
   },
-  "flag-isle-of-man": {
+  "🇮🇲": {
     name: "flag-isle-of-man",
     category: "flags",
     unicode: "_1f1ee-1f1f2",
     htmlEntity: "&#x1F1EE;&#x1F1F2",
   },
-  "flag-israel": {
+  "🇮🇱": {
     name: "flag-israel",
     category: "flags",
     unicode: "_1f1ee-1f1f1",
     htmlEntity: "&#x1F1EE;&#x1F1F1",
   },
-  "flag-italy": {
+  "🇮🇹": {
     name: "flag-italy",
     category: "flags",
     unicode: "_1f1ee-1f1f9",
     htmlEntity: "&#x1F1EE;&#x1F1F9",
   },
-  "flag-jamaica": {
+  "🇯🇲": {
     name: "flag-jamaica",
     category: "flags",
     unicode: "_1f1ef-1f1f2",
     htmlEntity: "&#x1F1EF;&#x1F1F2",
   },
-  "flag-japan": {
+  "🇯🇵": {
     name: "flag-japan",
     category: "flags",
     unicode: "_1f1ef-1f1f5",
     htmlEntity: "&#x1F1EF;&#x1F1F5",
   },
-  "crossed-flags": {
+  "🎌": {
     name: "crossed-flags",
     category: "flags",
     unicode: "_1f38c",
     htmlEntity: "&#x1F38C",
   },
-  "flag-jersey": {
+  "🇯🇪": {
     name: "flag-jersey",
     category: "flags",
     unicode: "_1f1ef-1f1ea",
     htmlEntity: "&#x1F1EF;&#x1F1EA",
   },
-  "flag-jordan": {
+  "🇯🇴": {
     name: "flag-jordan",
     category: "flags",
     unicode: "_1f1ef-1f1f4",
     htmlEntity: "&#x1F1EF;&#x1F1F4",
   },
-  "flag-kazakhstan": {
+  "🇰🇿": {
     name: "flag-kazakhstan",
     category: "flags",
     unicode: "_1f1f0-1f1ff",
     htmlEntity: "&#x1F1F0;&#x1F1FF",
   },
-  "flag-kenya": {
+  "🇰🇪": {
     name: "flag-kenya",
     category: "flags",
     unicode: "_1f1f0-1f1ea",
     htmlEntity: "&#x1F1F0;&#x1F1EA",
   },
-  "flag-kiribati": {
+  "🇰🇮": {
     name: "flag-kiribati",
     category: "flags",
     unicode: "_1f1f0-1f1ee",
     htmlEntity: "&#x1F1F0;&#x1F1EE",
   },
-  "flag-kosovo": {
+  "🇽🇰": {
     name: "flag-kosovo",
     category: "flags",
     unicode: "_1f1fd-1f1f0",
     htmlEntity: "&#x1F1FD;&#x1F1F0",
   },
-  "flag-kuwait": {
+  "🇰🇼": {
     name: "flag-kuwait",
     category: "flags",
     unicode: "_1f1f0-1f1fc",
     htmlEntity: "&#x1F1F0;&#x1F1FC",
   },
-  "flag-kyrgyzstan": {
+  "🇰🇬": {
     name: "flag-kyrgyzstan",
     category: "flags",
     unicode: "_1f1f0-1f1ec",
     htmlEntity: "&#x1F1F0;&#x1F1EC",
   },
-  "flag-laos": {
+  "🇱🇦": {
     name: "flag-laos",
     category: "flags",
     unicode: "_1f1f1-1f1e6",
     htmlEntity: "&#x1F1F1;&#x1F1E6",
   },
-  "flag-latvia": {
+  "🇱🇻": {
     name: "flag-latvia",
     category: "flags",
     unicode: "_1f1f1-1f1fb",
     htmlEntity: "&#x1F1F1;&#x1F1FB",
   },
-  "flag-lebanon": {
+  "🇱🇧": {
     name: "flag-lebanon",
     category: "flags",
     unicode: "_1f1f1-1f1e7",
     htmlEntity: "&#x1F1F1;&#x1F1E7",
   },
-  "flag-lesotho": {
+  "🇱🇸": {
     name: "flag-lesotho",
     category: "flags",
     unicode: "_1f1f1-1f1f8",
     htmlEntity: "&#x1F1F1;&#x1F1F8",
   },
-  "flag-liberia": {
+  "🇱🇷": {
     name: "flag-liberia",
     category: "flags",
     unicode: "_1f1f1-1f1f7",
     htmlEntity: "&#x1F1F1;&#x1F1F7",
   },
-  "flag-libya": {
+  "🇱🇾": {
     name: "flag-libya",
     category: "flags",
     unicode: "_1f1f1-1f1fe",
     htmlEntity: "&#x1F1F1;&#x1F1FE",
   },
-  "flag-liechtenstein": {
+  "🇱🇮": {
     name: "flag-liechtenstein",
     category: "flags",
     unicode: "_1f1f1-1f1ee",
     htmlEntity: "&#x1F1F1;&#x1F1EE",
   },
-  "flag-lithuania": {
+  "🇱🇹": {
     name: "flag-lithuania",
     category: "flags",
     unicode: "_1f1f1-1f1f9",
     htmlEntity: "&#x1F1F1;&#x1F1F9",
   },
-  "flag-luxembourg": {
+  "🇱🇺": {
     name: "flag-luxembourg",
     category: "flags",
     unicode: "_1f1f1-1f1fa",
     htmlEntity: "&#x1F1F1;&#x1F1FA",
   },
-  "flag-macao-sar-china": {
+  "🇲🇴": {
     name: "flag-macao-sar-china",
     category: "flags",
     unicode: "_1f1f2-1f1f4",
     htmlEntity: "&#x1F1F2;&#x1F1F4",
   },
-  "flag-macedonia": {
+  "🇲🇰": {
     name: "flag-macedonia",
     category: "flags",
     unicode: "_1f1f2-1f1f0",
     htmlEntity: "&#x1F1F2;&#x1F1F0",
   },
-  "flag-madagascar": {
+  "🇲🇬": {
     name: "flag-madagascar",
     category: "flags",
     unicode: "_1f1f2-1f1ec",
     htmlEntity: "&#x1F1F2;&#x1F1EC",
   },
-  "flag-malawi": {
+  "🇲🇼": {
     name: "flag-malawi",
     category: "flags",
     unicode: "_1f1f2-1f1fc",
     htmlEntity: "&#x1F1F2;&#x1F1FC",
   },
-  "flag-malaysia": {
+  "🇲🇾": {
     name: "flag-malaysia",
     category: "flags",
     unicode: "_1f1f2-1f1fe",
     htmlEntity: "&#x1F1F2;&#x1F1FE",
   },
-  "flag-maldives": {
+  "🇲🇻": {
     name: "flag-maldives",
     category: "flags",
     unicode: "_1f1f2-1f1fb",
     htmlEntity: "&#x1F1F2;&#x1F1FB",
   },
-  "flag-mali": {
+  "🇲🇱": {
     name: "flag-mali",
     category: "flags",
     unicode: "_1f1f2-1f1f1",
     htmlEntity: "&#x1F1F2;&#x1F1F1",
   },
-  "flag-malta": {
+  "🇲🇹": {
     name: "flag-malta",
     category: "flags",
     unicode: "_1f1f2-1f1f9",
     htmlEntity: "&#x1F1F2;&#x1F1F9",
   },
-  "flag-marshall-islands": {
+  "🇲🇭": {
     name: "flag-marshall-islands",
     category: "flags",
     unicode: "_1f1f2-1f1ed",
     htmlEntity: "&#x1F1F2;&#x1F1ED",
   },
-  "flag-martinique": {
+  "🇲🇶": {
     name: "flag-martinique",
     category: "flags",
     unicode: "_1f1f2-1f1f6",
     htmlEntity: "&#x1F1F2;&#x1F1F6",
   },
-  "flag-mauritania": {
+  "🇲🇷": {
     name: "flag-mauritania",
     category: "flags",
     unicode: "_1f1f2-1f1f7",
     htmlEntity: "&#x1F1F2;&#x1F1F7",
   },
-  "flag-mauritius": {
+  "🇲🇺": {
     name: "flag-mauritius",
     category: "flags",
     unicode: "_1f1f2-1f1fa",
     htmlEntity: "&#x1F1F2;&#x1F1FA",
   },
-  "flag-mayotte": {
+  "🇾🇹": {
     name: "flag-mayotte",
     category: "flags",
     unicode: "_1f1fe-1f1f9",
     htmlEntity: "&#x1F1FE;&#x1F1F9",
   },
-  "flag-mexico": {
+  "🇲🇽": {
     name: "flag-mexico",
     category: "flags",
     unicode: "_1f1f2-1f1fd",
     htmlEntity: "&#x1F1F2;&#x1F1FD",
   },
-  "flag-micronesia": {
+  "🇫🇲": {
     name: "flag-micronesia",
     category: "flags",
     unicode: "_1f1eb-1f1f2",
     htmlEntity: "&#x1F1EB;&#x1F1F2",
   },
-  "flag-moldova": {
+  "🇲🇩": {
     name: "flag-moldova",
     category: "flags",
     unicode: "_1f1f2-1f1e9",
     htmlEntity: "&#x1F1F2;&#x1F1E9",
   },
-  "flag-monaco": {
+  "🇲🇨": {
     name: "flag-monaco",
     category: "flags",
     unicode: "_1f1f2-1f1e8",
     htmlEntity: "&#x1F1F2;&#x1F1E8",
   },
-  "flag-mongolia": {
+  "🇲🇳": {
     name: "flag-mongolia",
     category: "flags",
     unicode: "_1f1f2-1f1f3",
     htmlEntity: "&#x1F1F2;&#x1F1F3",
   },
-  "flag-montenegro": {
+  "🇲🇪": {
     name: "flag-montenegro",
     category: "flags",
     unicode: "_1f1f2-1f1ea",
     htmlEntity: "&#x1F1F2;&#x1F1EA",
   },
-  "flag-montserrat": {
+  "🇲🇸": {
     name: "flag-montserrat",
     category: "flags",
     unicode: "_1f1f2-1f1f8",
     htmlEntity: "&#x1F1F2;&#x1F1F8",
   },
-  "flag-morocco": {
+  "🇲🇦": {
     name: "flag-morocco",
     category: "flags",
     unicode: "_1f1f2-1f1e6",
     htmlEntity: "&#x1F1F2;&#x1F1E6",
   },
-  "flag-mozambique": {
+  "🇲🇿": {
     name: "flag-mozambique",
     category: "flags",
     unicode: "_1f1f2-1f1ff",
     htmlEntity: "&#x1F1F2;&#x1F1FF",
   },
-  "flag-myanmar-burma": {
+  "🇲🇲": {
     name: "flag-myanmar-burma",
     category: "flags",
     unicode: "_1f1f2-1f1f2",
     htmlEntity: "&#x1F1F2;&#x1F1F2",
   },
-  "flag-namibia": {
+  "🇳🇦": {
     name: "flag-namibia",
     category: "flags",
     unicode: "_1f1f3-1f1e6",
     htmlEntity: "&#x1F1F3;&#x1F1E6",
   },
-  "flag-nauru": {
+  "🇳🇷": {
     name: "flag-nauru",
     category: "flags",
     unicode: "_1f1f3-1f1f7",
     htmlEntity: "&#x1F1F3;&#x1F1F7",
   },
-  "flag-nepal": {
+  "🇳🇵": {
     name: "flag-nepal",
     category: "flags",
     unicode: "_1f1f3-1f1f5",
     htmlEntity: "&#x1F1F3;&#x1F1F5",
   },
-  "flag-netherlands": {
+  "🇳🇱": {
     name: "flag-netherlands",
     category: "flags",
     unicode: "_1f1f3-1f1f1",
     htmlEntity: "&#x1F1F3;&#x1F1F1",
   },
-  "flag-new-caledonia": {
+  "🇳🇨": {
     name: "flag-new-caledonia",
     category: "flags",
     unicode: "_1f1f3-1f1e8",
     htmlEntity: "&#x1F1F3;&#x1F1E8",
   },
-  "flag-new-zealand": {
+  "🇳🇿": {
     name: "flag-new-zealand",
     category: "flags",
     unicode: "_1f1f3-1f1ff",
     htmlEntity: "&#x1F1F3;&#x1F1FF",
   },
-  "flag-nicaragua": {
+  "🇳🇮": {
     name: "flag-nicaragua",
     category: "flags",
     unicode: "_1f1f3-1f1ee",
     htmlEntity: "&#x1F1F3;&#x1F1EE",
   },
-  "flag-niger": {
+  "🇳🇪": {
     name: "flag-niger",
     category: "flags",
     unicode: "_1f1f3-1f1ea",
     htmlEntity: "&#x1F1F3;&#x1F1EA",
   },
-  "flag-nigeria": {
+  "🇳🇬": {
     name: "flag-nigeria",
     category: "flags",
     unicode: "_1f1f3-1f1ec",
     htmlEntity: "&#x1F1F3;&#x1F1EC",
   },
-  "flag-niue": {
+  "🇳🇺": {
     name: "flag-niue",
     category: "flags",
     unicode: "_1f1f3-1f1fa",
     htmlEntity: "&#x1F1F3;&#x1F1FA",
   },
-  "flag-norfolk-island": {
+  "🇳🇫": {
     name: "flag-norfolk-island",
     category: "flags",
     unicode: "_1f1f3-1f1eb",
     htmlEntity: "&#x1F1F3;&#x1F1EB",
   },
-  "flag-north-korea": {
+  "🇰🇵": {
     name: "flag-north-korea",
     category: "flags",
     unicode: "_1f1f0-1f1f5",
     htmlEntity: "&#x1F1F0;&#x1F1F5",
   },
-  "flag-northern-mariana-islands": {
+  "🇲🇵": {
     name: "flag-northern-mariana-islands",
     category: "flags",
     unicode: "_1f1f2-1f1f5",
     htmlEntity: "&#x1F1F2;&#x1F1F5",
   },
-  "flag-norway": {
+  "🇳🇴": {
     name: "flag-norway",
     category: "flags",
     unicode: "_1f1f3-1f1f4",
     htmlEntity: "&#x1F1F3;&#x1F1F4",
   },
-  "flag-oman": {
+  "🇴🇲": {
     name: "flag-oman",
     category: "flags",
     unicode: "_1f1f4-1f1f2",
     htmlEntity: "&#x1F1F4;&#x1F1F2",
   },
-  "flag-pakistan": {
+  "🇵🇰": {
     name: "flag-pakistan",
     category: "flags",
     unicode: "_1f1f5-1f1f0",
     htmlEntity: "&#x1F1F5;&#x1F1F0",
   },
-  "flag-palau": {
+  "🇵🇼": {
     name: "flag-palau",
     category: "flags",
     unicode: "_1f1f5-1f1fc",
     htmlEntity: "&#x1F1F5;&#x1F1FC",
   },
-  "flag-palestinian-territories": {
+  "🇵🇸": {
     name: "flag-palestinian-territories",
     category: "flags",
     unicode: "_1f1f5-1f1f8",
     htmlEntity: "&#x1F1F5;&#x1F1F8",
   },
-  "flag-panama": {
+  "🇵🇦": {
     name: "flag-panama",
     category: "flags",
     unicode: "_1f1f5-1f1e6",
     htmlEntity: "&#x1F1F5;&#x1F1E6",
   },
-  "flag-papua-new-guinea": {
+  "🇵🇬": {
     name: "flag-papua-new-guinea",
     category: "flags",
     unicode: "_1f1f5-1f1ec",
     htmlEntity: "&#x1F1F5;&#x1F1EC",
   },
-  "flag-paraguay": {
+  "🇵🇾": {
     name: "flag-paraguay",
     category: "flags",
     unicode: "_1f1f5-1f1fe",
     htmlEntity: "&#x1F1F5;&#x1F1FE",
   },
-  "flag-peru": {
+  "🇵🇪": {
     name: "flag-peru",
     category: "flags",
     unicode: "_1f1f5-1f1ea",
     htmlEntity: "&#x1F1F5;&#x1F1EA",
   },
-  "flag-philippines": {
+  "🇵🇭": {
     name: "flag-philippines",
     category: "flags",
     unicode: "_1f1f5-1f1ed",
     htmlEntity: "&#x1F1F5;&#x1F1ED",
   },
-  "flag-pitcairn-islands": {
+  "🇵🇳": {
     name: "flag-pitcairn-islands",
     category: "flags",
     unicode: "_1f1f5-1f1f3",
     htmlEntity: "&#x1F1F5;&#x1F1F3",
   },
-  "flag-poland": {
+  "🇵🇱": {
     name: "flag-poland",
     category: "flags",
     unicode: "_1f1f5-1f1f1",
     htmlEntity: "&#x1F1F5;&#x1F1F1",
   },
-  "flag-portugal": {
+  "🇵🇹": {
     name: "flag-portugal",
     category: "flags",
     unicode: "_1f1f5-1f1f9",
     htmlEntity: "&#x1F1F5;&#x1F1F9",
   },
-  "flag-puerto-rico": {
+  "🇵🇷": {
     name: "flag-puerto-rico",
     category: "flags",
     unicode: "_1f1f5-1f1f7",
     htmlEntity: "&#x1F1F5;&#x1F1F7",
   },
-  "flag-qatar": {
+  "🇶🇦": {
     name: "flag-qatar",
     category: "flags",
     unicode: "_1f1f6-1f1e6",
     htmlEntity: "&#x1F1F6;&#x1F1E6",
   },
-  "flag-réunion": {
+  "🇷🇪": {
     name: "flag-réunion",
     category: "flags",
     unicode: "_1f1f7-1f1ea",
     htmlEntity: "&#x1F1F7;&#x1F1EA",
   },
-  "flag-romania": {
+  "🇷🇴": {
     name: "flag-romania",
     category: "flags",
     unicode: "_1f1f7-1f1f4",
     htmlEntity: "&#x1F1F7;&#x1F1F4",
   },
-  "flag-russia": {
+  "🇷🇺": {
     name: "flag-russia",
     category: "flags",
     unicode: "_1f1f7-1f1fa",
     htmlEntity: "&#x1F1F7;&#x1F1FA",
   },
-  "flag-rwanda": {
+  "🇷🇼": {
     name: "flag-rwanda",
     category: "flags",
     unicode: "_1f1f7-1f1fc",
     htmlEntity: "&#x1F1F7;&#x1F1FC",
   },
-  "flag-samoa": {
+  "🇼🇸": {
     name: "flag-samoa",
     category: "flags",
     unicode: "_1f1fc-1f1f8",
     htmlEntity: "&#x1F1FC;&#x1F1F8",
   },
-  "flag-san-marino": {
+  "🇸🇲": {
     name: "flag-san-marino",
     category: "flags",
     unicode: "_1f1f8-1f1f2",
     htmlEntity: "&#x1F1F8;&#x1F1F2",
   },
-  "flag-são-tomé--príncipe": {
+  "🇸🇹": {
     name: "flag-são-tomé--príncipe",
     category: "flags",
     unicode: "_1f1f8-1f1f9",
     htmlEntity: "&#x1F1F8;&#x1F1F9",
   },
-  "flag-saudi-arabia": {
+  "🇸🇦": {
     name: "flag-saudi-arabia",
     category: "flags",
     unicode: "_1f1f8-1f1e6",
     htmlEntity: "&#x1F1F8;&#x1F1E6",
   },
-  "flag-senegal": {
+  "🇸🇳": {
     name: "flag-senegal",
     category: "flags",
     unicode: "_1f1f8-1f1f3",
     htmlEntity: "&#x1F1F8;&#x1F1F3",
   },
-  "flag-serbia": {
+  "🇷🇸": {
     name: "flag-serbia",
     category: "flags",
     unicode: "_1f1f7-1f1f8",
     htmlEntity: "&#x1F1F7;&#x1F1F8",
   },
-  "flag-seychelles": {
+  "🇸🇨": {
     name: "flag-seychelles",
     category: "flags",
     unicode: "_1f1f8-1f1e8",
     htmlEntity: "&#x1F1F8;&#x1F1E8",
   },
-  "flag-sierra-leone": {
+  "🇸🇱": {
     name: "flag-sierra-leone",
     category: "flags",
     unicode: "_1f1f8-1f1f1",
     htmlEntity: "&#x1F1F8;&#x1F1F1",
   },
-  "flag-singapore": {
+  "🇸🇬": {
     name: "flag-singapore",
     category: "flags",
     unicode: "_1f1f8-1f1ec",
     htmlEntity: "&#x1F1F8;&#x1F1EC",
   },
-  "flag-sint-maarten": {
+  "🇸🇽": {
     name: "flag-sint-maarten",
     category: "flags",
     unicode: "_1f1f8-1f1fd",
     htmlEntity: "&#x1F1F8;&#x1F1FD",
   },
-  "flag-slovakia": {
+  "🇸🇰": {
     name: "flag-slovakia",
     category: "flags",
     unicode: "_1f1f8-1f1f0",
     htmlEntity: "&#x1F1F8;&#x1F1F0",
   },
-  "flag-slovenia": {
+  "🇸🇮": {
     name: "flag-slovenia",
     category: "flags",
     unicode: "_1f1f8-1f1ee",
     htmlEntity: "&#x1F1F8;&#x1F1EE",
   },
-  "flag-south-georgia--south-sandwich-islands": {
+  "🇬🇸": {
     name: "flag-south-georgia--south-sandwich-islands",
     category: "flags",
     unicode: "_1f1ec-1f1f8",
     htmlEntity: "&#x1F1EC;&#x1F1F8",
   },
-  "flag-solomon-islands": {
+  "🇸🇧": {
     name: "flag-solomon-islands",
     category: "flags",
     unicode: "_1f1f8-1f1e7",
     htmlEntity: "&#x1F1F8;&#x1F1E7",
   },
-  "flag-somalia": {
+  "🇸🇴": {
     name: "flag-somalia",
     category: "flags",
     unicode: "_1f1f8-1f1f4",
     htmlEntity: "&#x1F1F8;&#x1F1F4",
   },
-  "flag-south-africa": {
+  "🇿🇦": {
     name: "flag-south-africa",
     category: "flags",
     unicode: "_1f1ff-1f1e6",
     htmlEntity: "&#x1F1FF;&#x1F1E6",
   },
-  "flag-south-korea": {
+  "🇰🇷": {
     name: "flag-south-korea",
     category: "flags",
     unicode: "_1f1f0-1f1f7",
     htmlEntity: "&#x1F1F0;&#x1F1F7",
   },
-  "flag-south-sudan": {
+  "🇸🇸": {
     name: "flag-south-sudan",
     category: "flags",
     unicode: "_1f1f8-1f1f8",
     htmlEntity: "&#x1F1F8;&#x1F1F8",
   },
-  "flag-spain": {
+  "🇪🇸": {
     name: "flag-spain",
     category: "flags",
     unicode: "_1f1ea-1f1f8",
     htmlEntity: "&#x1F1EA;&#x1F1F8",
   },
-  "flag-sri-lanka": {
+  "🇱🇰": {
     name: "flag-sri-lanka",
     category: "flags",
     unicode: "_1f1f1-1f1f0",
     htmlEntity: "&#x1F1F1;&#x1F1F0",
   },
-  "flag-st-barthélemy": {
+  "🇧🇱": {
     name: "flag-st-barthélemy",
     category: "flags",
     unicode: "_1f1e7-1f1f1",
     htmlEntity: "&#x1F1E7;&#x1F1F1",
   },
-  "flag-st-helena": {
+  "🇸🇭": {
     name: "flag-st-helena",
     category: "flags",
     unicode: "_1f1f8-1f1ed",
     htmlEntity: "&#x1F1F8;&#x1F1ED",
   },
-  "flag-st-kitts--nevis": {
+  "🇰🇳": {
     name: "flag-st-kitts--nevis",
     category: "flags",
     unicode: "_1f1f0-1f1f3",
     htmlEntity: "&#x1F1F0;&#x1F1F3",
   },
-  "flag-st-lucia": {
+  "🇱🇨": {
     name: "flag-st-lucia",
     category: "flags",
     unicode: "_1f1f1-1f1e8",
     htmlEntity: "&#x1F1F1;&#x1F1E8",
   },
-  "flag-st-pierre--miquelon": {
+  "🇵🇲": {
     name: "flag-st-pierre--miquelon",
     category: "flags",
     unicode: "_1f1f5-1f1f2",
     htmlEntity: "&#x1F1F5;&#x1F1F2",
   },
-  "flag-st-vincent--grenadines": {
+  "🇻🇨": {
     name: "flag-st-vincent--grenadines",
     category: "flags",
     unicode: "_1f1fb-1f1e8",
     htmlEntity: "&#x1F1FB;&#x1F1E8",
   },
-  "flag-sudan": {
+  "🇸🇩": {
     name: "flag-sudan",
     category: "flags",
     unicode: "_1f1f8-1f1e9",
     htmlEntity: "&#x1F1F8;&#x1F1E9",
   },
-  "flag-suriname": {
+  "🇸🇷": {
     name: "flag-suriname",
     category: "flags",
     unicode: "_1f1f8-1f1f7",
     htmlEntity: "&#x1F1F8;&#x1F1F7",
   },
-  "flag-eswatini": {
+  "🇸🇿": {
     name: "flag-eswatini",
     category: "flags",
     unicode: "_1f1f8-1f1ff",
     htmlEntity: "&#x1F1F8;&#x1F1FF",
   },
-  "flag-sweden": {
+  "🇸🇪": {
     name: "flag-sweden",
     category: "flags",
     unicode: "_1f1f8-1f1ea",
     htmlEntity: "&#x1F1F8;&#x1F1EA",
   },
-  "flag-switzerland": {
+  "🇨🇭": {
     name: "flag-switzerland",
     category: "flags",
     unicode: "_1f1e8-1f1ed",
     htmlEntity: "&#x1F1E8;&#x1F1ED",
   },
-  "flag-syria": {
+  "🇸🇾": {
     name: "flag-syria",
     category: "flags",
     unicode: "_1f1f8-1f1fe",
     htmlEntity: "&#x1F1F8;&#x1F1FE",
   },
-  "flag-taiwan": {
+  "🇹🇼": {
     name: "flag-taiwan",
     category: "flags",
     unicode: "_1f1f9-1f1fc",
     htmlEntity: "&#x1F1F9;&#x1F1FC",
   },
-  "flag-tajikistan": {
+  "🇹🇯": {
     name: "flag-tajikistan",
     category: "flags",
     unicode: "_1f1f9-1f1ef",
     htmlEntity: "&#x1F1F9;&#x1F1EF",
   },
-  "flag-tanzania": {
+  "🇹🇿": {
     name: "flag-tanzania",
     category: "flags",
     unicode: "_1f1f9-1f1ff",
     htmlEntity: "&#x1F1F9;&#x1F1FF",
   },
-  "flag-thailand": {
+  "🇹🇭": {
     name: "flag-thailand",
     category: "flags",
     unicode: "_1f1f9-1f1ed",
     htmlEntity: "&#x1F1F9;&#x1F1ED",
   },
-  "flag-timor-leste": {
+  "🇹🇱": {
     name: "flag-timor-leste",
     category: "flags",
     unicode: "_1f1f9-1f1f1",
     htmlEntity: "&#x1F1F9;&#x1F1F1",
   },
-  "flag-togo": {
+  "🇹🇬": {
     name: "flag-togo",
     category: "flags",
     unicode: "_1f1f9-1f1ec",
     htmlEntity: "&#x1F1F9;&#x1F1EC",
   },
-  "flag-tokelau": {
+  "🇹🇰": {
     name: "flag-tokelau",
     category: "flags",
     unicode: "_1f1f9-1f1f0",
     htmlEntity: "&#x1F1F9;&#x1F1F0",
   },
-  "flag-tonga": {
+  "🇹🇴": {
     name: "flag-tonga",
     category: "flags",
     unicode: "_1f1f9-1f1f4",
     htmlEntity: "&#x1F1F9;&#x1F1F4",
   },
-  "flag-trinidad--tobago": {
+  "🇹🇹": {
     name: "flag-trinidad--tobago",
     category: "flags",
     unicode: "_1f1f9-1f1f9",
     htmlEntity: "&#x1F1F9;&#x1F1F9",
   },
-  "flag-tunisia": {
+  "🇹🇳": {
     name: "flag-tunisia",
     category: "flags",
     unicode: "_1f1f9-1f1f3",
     htmlEntity: "&#x1F1F9;&#x1F1F3",
   },
-  "flag-turkey": {
+  "🇹🇷": {
     name: "flag-turkey",
     category: "flags",
     unicode: "_1f1f9-1f1f7",
     htmlEntity: "&#x1F1F9;&#x1F1F7",
   },
-  "flag-turkmenistan": {
+  "🇹🇲": {
     name: "flag-turkmenistan",
     category: "flags",
     unicode: "_1f1f9-1f1f2",
     htmlEntity: "&#x1F1F9;&#x1F1F2",
   },
-  "flag-turks--caicos-islands": {
+  "🇹🇨": {
     name: "flag-turks--caicos-islands",
     category: "flags",
     unicode: "_1f1f9-1f1e8",
     htmlEntity: "&#x1F1F9;&#x1F1E8",
   },
-  "flag-us-virgin-islands": {
+  "🇻🇮": {
     name: "flag-us-virgin-islands",
     category: "flags",
     unicode: "_1f1fb-1f1ee",
     htmlEntity: "&#x1F1FB;&#x1F1EE",
   },
-  "flag-tuvalu": {
+  "🇹🇻": {
     name: "flag-tuvalu",
     category: "flags",
     unicode: "_1f1f9-1f1fb",
     htmlEntity: "&#x1F1F9;&#x1F1FB",
   },
-  "flag-uganda": {
+  "🇺🇬": {
     name: "flag-uganda",
     category: "flags",
     unicode: "_1f1fa-1f1ec",
     htmlEntity: "&#x1F1FA;&#x1F1EC",
   },
-  "flag-ukraine": {
+  "🇺🇦": {
     name: "flag-ukraine",
     category: "flags",
     unicode: "_1f1fa-1f1e6",
     htmlEntity: "&#x1F1FA;&#x1F1E6",
   },
-  "flag-united-arab-emirates": {
+  "🇦🇪": {
     name: "flag-united-arab-emirates",
     category: "flags",
     unicode: "_1f1e6-1f1ea",
     htmlEntity: "&#x1F1E6;&#x1F1EA",
   },
-  "flag-united-kingdom": {
+  "🇬🇧": {
     name: "flag-united-kingdom",
     category: "flags",
     unicode: "_1f1ec-1f1e7",
     htmlEntity: "&#x1F1EC;&#x1F1E7",
   },
-  "flag-england": {
+  "🏴󠁧󠁢󠁥󠁮󠁧󠁿": {
     name: "flag-england",
     category: "flags",
     unicode: "_1f3f4-e0067-e0062-e0065-e006e-e0067-e007f",
     htmlEntity:
       "&#x1F3F4;&#xE0067;&#xE0062;&#xE0065;&#xE006E;&#xE0067;&#xE007F",
   },
-  "flag-scotland": {
+  "🏴󠁧󠁢󠁳󠁣󠁴󠁿": {
     name: "flag-scotland",
     category: "flags",
     unicode: "_1f3f4-e0067-e0062-e0073-e0063-e0074-e007f",
     htmlEntity:
       "&#x1F3F4;&#xE0067;&#xE0062;&#xE0073;&#xE0063;&#xE0074;&#xE007F",
   },
-  "flag-wales": {
+  "🏴󠁧󠁢󠁷󠁬󠁳󠁿": {
     name: "flag-wales",
     category: "flags",
     unicode: "_1f3f4-e0067-e0062-e0077-e006c-e0073-e007f",
     htmlEntity:
       "&#x1F3F4;&#xE0067;&#xE0062;&#xE0077;&#xE006C;&#xE0073;&#xE007F",
   },
-  "flag-united-states": {
+  "🇺🇸": {
     name: "flag-united-states",
     category: "flags",
     unicode: "_1f1fa-1f1f8",
     htmlEntity: "&#x1F1FA;&#x1F1F8",
   },
-  "flag-uruguay": {
+  "🇺🇾": {
     name: "flag-uruguay",
     category: "flags",
     unicode: "_1f1fa-1f1fe",
     htmlEntity: "&#x1F1FA;&#x1F1FE",
   },
-  "flag-uzbekistan": {
+  "🇺🇿": {
     name: "flag-uzbekistan",
     category: "flags",
     unicode: "_1f1fa-1f1ff",
     htmlEntity: "&#x1F1FA;&#x1F1FF",
   },
-  "flag-vanuatu": {
+  "🇻🇺": {
     name: "flag-vanuatu",
     category: "flags",
     unicode: "_1f1fb-1f1fa",
     htmlEntity: "&#x1F1FB;&#x1F1FA",
   },
-  "flag-vatican-city": {
+  "🇻🇦": {
     name: "flag-vatican-city",
     category: "flags",
     unicode: "_1f1fb-1f1e6",
     htmlEntity: "&#x1F1FB;&#x1F1E6",
   },
-  "flag-venezuela": {
+  "🇻🇪": {
     name: "flag-venezuela",
     category: "flags",
     unicode: "_1f1fb-1f1ea",
     htmlEntity: "&#x1F1FB;&#x1F1EA",
   },
-  "flag-vietnam": {
+  "🇻🇳": {
     name: "flag-vietnam",
     category: "flags",
     unicode: "_1f1fb-1f1f3",
     htmlEntity: "&#x1F1FB;&#x1F1F3",
   },
-  "flag-wallis--futuna": {
+  "🇼🇫": {
     name: "flag-wallis--futuna",
     category: "flags",
     unicode: "_1f1fc-1f1eb",
     htmlEntity: "&#x1F1FC;&#x1F1EB",
   },
-  "flag-western-sahara": {
+  "🇪🇭": {
     name: "flag-western-sahara",
     category: "flags",
     unicode: "_1f1ea-1f1ed",
     htmlEntity: "&#x1F1EA;&#x1F1ED",
   },
-  "flag-yemen": {
+  "🇾🇪": {
     name: "flag-yemen",
     category: "flags",
     unicode: "_1f1fe-1f1ea",
     htmlEntity: "&#x1F1FE;&#x1F1EA",
   },
-  "flag-zambia": {
+  "🇿🇲": {
     name: "flag-zambia",
     category: "flags",
     unicode: "_1f1ff-1f1f2",
     htmlEntity: "&#x1F1FF;&#x1F1F2",
   },
-  "flag-zimbabwe": {
+  "🇿🇼": {
     name: "flag-zimbabwe",
     category: "flags",
     unicode: "_1f1ff-1f1fc",
     htmlEntity: "&#x1F1FF;&#x1F1FC",
   },
-  "flag-ascension-island": {
+  "🇦🇨": {
     name: "flag-ascension-island",
     category: "flags",
     unicode: "_1f1e6-1f1e8",
     htmlEntity: "&#x1F1E6;&#x1F1E8",
   },
-  "flag-bouvet-island": {
+  "🇧🇻": {
     name: "flag-bouvet-island",
     category: "flags",
     unicode: "_1f1e7-1f1fb",
     htmlEntity: "&#x1F1E7;&#x1F1FB",
   },
-  "flag-clipperton-island": {
+  "🇨🇵": {
     name: "flag-clipperton-island",
     category: "flags",
     unicode: "_1f1e8-1f1f5",
     htmlEntity: "&#x1F1E8;&#x1F1F5",
   },
-  "flag-ceuta--melilla": {
+  "🇪🇦": {
     name: "flag-ceuta--melilla",
     category: "flags",
     unicode: "_1f1ea-1f1e6",
     htmlEntity: "&#x1F1EA;&#x1F1E6",
   },
-  "flag-diego-garcia": {
+  "🇩🇬": {
     name: "flag-diego-garcia",
     category: "flags",
     unicode: "_1f1e9-1f1ec",
     htmlEntity: "&#x1F1E9;&#x1F1EC",
   },
-  "flag-heard--mcdonald-islands": {
+  "🇭🇲": {
     name: "flag-heard--mcdonald-islands",
     category: "flags",
     unicode: "_1f1ed-1f1f2",
     htmlEntity: "&#x1F1ED;&#x1F1F2",
   },
-  "flag-st-martin": {
+  "🇲🇫": {
     name: "flag-st-martin",
     category: "flags",
     unicode: "_1f1f2-1f1eb",
     htmlEntity: "&#x1F1F2;&#x1F1EB",
   },
-  "flag-svalbard--jan-mayen": {
+  "🇸🇯": {
     name: "flag-svalbard--jan-mayen",
     category: "flags",
     unicode: "_1f1f8-1f1ef",
     htmlEntity: "&#x1F1F8;&#x1F1EF",
   },
-  "flag-tristan-da-cunha": {
+  "🇹🇦": {
     name: "flag-tristan-da-cunha",
     category: "flags",
     unicode: "_1f1f9-1f1e6",
     htmlEntity: "&#x1F1F9;&#x1F1E6",
   },
-  "flag-us-outlying-islands": {
+  "🇺🇲": {
     name: "flag-us-outlying-islands",
     category: "flags",
     unicode: "_1f1fa-1f1f2",
     htmlEntity: "&#x1F1FA;&#x1F1F2",
   },
-  "flag-united-nations": {
+  "🇺🇳": {
     name: "flag-united-nations",
     category: "flags",
     unicode: "_1f1fa-1f1f3",

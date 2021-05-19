@@ -1,763 +1,763 @@
 import { EmojiInformation } from "../types/emojiInformation";
 
 export const TRAVEL_AND_PLACES: EmojiInformation = {
-  automobile: {
+  "🚗": {
     name: "automobile",
     category: "travel",
     unicode: "_1f697",
     htmlEntity: "&#x1F697",
   },
-  taxi: {
+  "🚕": {
     name: "taxi",
     category: "travel",
     unicode: "_1f695",
     htmlEntity: "&#x1F695",
   },
-  "sport-utility-vehicle": {
+  "🚙": {
     name: "sport-utility-vehicle",
     category: "travel",
     unicode: "_1f699",
     htmlEntity: "&#x1F699",
   },
-  "pickup-truck": {
+  "🛻": {
     name: "pickup-truck",
     category: "travel",
     unicode: "_1f6fb",
     htmlEntity: "&#x1F6FB",
   },
-  bus: {
+  "🚌": {
     name: "bus",
     category: "travel",
     unicode: "_1f68c",
     htmlEntity: "&#x1F68C",
   },
-  trolleybus: {
+  "🚎": {
     name: "trolleybus",
     category: "travel",
     unicode: "_1f68e",
     htmlEntity: "&#x1F68E",
   },
-  "racing-car": {
+  "🏎": {
     name: "racing-car",
     category: "travel",
     unicode: "_1f3ce",
     htmlEntity: "&#x1F3CE",
   },
-  "police-car": {
+  "🚓": {
     name: "police-car",
     category: "travel",
     unicode: "_1f693",
     htmlEntity: "&#x1F693",
   },
-  ambulance: {
+  "🚑": {
     name: "ambulance",
     category: "travel",
     unicode: "_1f691",
     htmlEntity: "&#x1F691",
   },
-  "fire-engine": {
+  "🚒": {
     name: "fire-engine",
     category: "travel",
     unicode: "_1f692",
     htmlEntity: "&#x1F692",
   },
-  minibus: {
+  "🚐": {
     name: "minibus",
     category: "travel",
     unicode: "_1f690",
     htmlEntity: "&#x1F690",
   },
-  "delivery-truck": {
+  "🚚": {
     name: "delivery-truck",
     category: "travel",
     unicode: "_1f69a",
     htmlEntity: "&#x1F69A",
   },
-  "articulated-lorry": {
+  "🚛": {
     name: "articulated-lorry",
     category: "travel",
     unicode: "_1f69b",
     htmlEntity: "&#x1F69B",
   },
-  tractor: {
+  "🚜": {
     name: "tractor",
     category: "travel",
     unicode: "_1f69c",
     htmlEntity: "&#x1F69C",
   },
-  "probing-cane": {
+  "🦯": {
     name: "probing-cane",
     category: "travel",
     unicode: "_1f9af",
     htmlEntity: "&#x1F9AF",
   },
-  "manual-wheelchair": {
+  "🦽": {
     name: "manual-wheelchair",
     category: "travel",
     unicode: "_1f9bd",
     htmlEntity: "&#x1F9BD",
   },
-  "motorized-wheelchair": {
+  "🦼": {
     name: "motorized-wheelchair",
     category: "travel",
     unicode: "_1f9bc",
     htmlEntity: "&#x1F9BC",
   },
-  "kick-scooter": {
+  "🛴": {
     name: "kick-scooter",
     category: "travel",
     unicode: "_1f6f4",
     htmlEntity: "&#x1F6F4",
   },
-  bicycle: {
+  "🚲": {
     name: "bicycle",
     category: "travel",
     unicode: "_1f6b2",
     htmlEntity: "&#x1F6B2",
   },
-  "motor-scooter": {
+  "🛵": {
     name: "motor-scooter",
     category: "travel",
     unicode: "_1f6f5",
     htmlEntity: "&#x1F6F5",
   },
-  motorcycle: {
+  "🏍": {
     name: "motorcycle",
     category: "travel",
     unicode: "_1f3cd",
     htmlEntity: "&#x1F3CD",
   },
-  "auto-rickshaw": {
+  "🛺": {
     name: "auto-rickshaw",
     category: "travel",
     unicode: "_1f6fa",
     htmlEntity: "&#x1F6FA",
   },
-  "police-car-light": {
+  "🚨": {
     name: "police-car-light",
     category: "travel",
     unicode: "_1f6a8",
     htmlEntity: "&#x1F6A8",
   },
-  "oncoming-police-car": {
+  "🚔": {
     name: "oncoming-police-car",
     category: "travel",
     unicode: "_1f694",
     htmlEntity: "&#x1F694",
   },
-  "oncoming-bus": {
+  "🚍": {
     name: "oncoming-bus",
     category: "travel",
     unicode: "_1f68d",
     htmlEntity: "&#x1F68D",
   },
-  "oncoming-automobile": {
+  "🚘": {
     name: "oncoming-automobile",
     category: "travel",
     unicode: "_1f698",
     htmlEntity: "&#x1F698",
   },
-  "oncoming-taxi": {
+  "🚖": {
     name: "oncoming-taxi",
     category: "travel",
     unicode: "_1f696",
     htmlEntity: "&#x1F696",
   },
-  "aerial-tramway": {
+  "🚡": {
     name: "aerial-tramway",
     category: "travel",
     unicode: "_1f6a1",
     htmlEntity: "&#x1F6A1",
   },
-  "mountain-cableway": {
+  "🚠": {
     name: "mountain-cableway",
     category: "travel",
     unicode: "_1f6a0",
     htmlEntity: "&#x1F6A0",
   },
-  "suspension-railway": {
+  "🚟": {
     name: "suspension-railway",
     category: "travel",
     unicode: "_1f69f",
     htmlEntity: "&#x1F69F",
   },
-  "railway-car": {
+  "🚃": {
     name: "railway-car",
     category: "travel",
     unicode: "_1f683",
     htmlEntity: "&#x1F683",
   },
-  "tram-car": {
+  "🚋": {
     name: "tram-car",
     category: "travel",
     unicode: "_1f68b",
     htmlEntity: "&#x1F68B",
   },
-  "mountain-railway": {
+  "🚞": {
     name: "mountain-railway",
     category: "travel",
     unicode: "_1f69e",
     htmlEntity: "&#x1F69E",
   },
-  monorail: {
+  "🚝": {
     name: "monorail",
     category: "travel",
     unicode: "_1f69d",
     htmlEntity: "&#x1F69D",
   },
-  "high-speed-train": {
+  "🚄": {
     name: "high-speed-train",
     category: "travel",
     unicode: "_1f684",
     htmlEntity: "&#x1F684",
   },
-  "bullet-train": {
+  "🚅": {
     name: "bullet-train",
     category: "travel",
     unicode: "_1f685",
     htmlEntity: "&#x1F685",
   },
-  "light-rail": {
+  "🚈": {
     name: "light-rail",
     category: "travel",
     unicode: "_1f688",
     htmlEntity: "&#x1F688",
   },
-  locomotive: {
+  "🚂": {
     name: "locomotive",
     category: "travel",
     unicode: "_1f682",
     htmlEntity: "&#x1F682",
   },
-  train: {
+  "🚆": {
     name: "train",
     category: "travel",
     unicode: "_1f686",
     htmlEntity: "&#x1F686",
   },
-  metro: {
+  "🚇": {
     name: "metro",
     category: "travel",
     unicode: "_1f687",
     htmlEntity: "&#x1F687",
   },
-  tram: {
+  "🚊": {
     name: "tram",
     category: "travel",
     unicode: "_1f68a",
     htmlEntity: "&#x1F68A",
   },
-  station: {
+  "🚉": {
     name: "station",
     category: "travel",
     unicode: "_1f689",
     htmlEntity: "&#x1F689",
   },
-  airplane: {
+  "✈": {
     name: "airplane",
     category: "travel",
     unicode: "_2708",
     htmlEntity: "&#x2708",
   },
-  "airplane-departure": {
+  "🛫": {
     name: "airplane-departure",
     category: "travel",
     unicode: "_1f6eb",
     htmlEntity: "&#x1F6EB",
   },
-  "airplane-arrival": {
+  "🛬": {
     name: "airplane-arrival",
     category: "travel",
     unicode: "_1f6ec",
     htmlEntity: "&#x1F6EC",
   },
-  "small-airplane": {
+  "🛩": {
     name: "small-airplane",
     category: "travel",
     unicode: "_1f6e9",
     htmlEntity: "&#x1F6E9",
   },
-  seat: {
+  "💺": {
     name: "seat",
     category: "travel",
     unicode: "_1f4ba",
     htmlEntity: "&#x1F4BA",
   },
-  satellite: {
+  "🛰": {
     name: "satellite",
     category: "travel",
     unicode: "_1f6f0",
     htmlEntity: "&#x1F6F0",
   },
-  rocket: {
+  "🚀": {
     name: "rocket",
     category: "travel",
     unicode: "_1f680",
     htmlEntity: "&#x1F680",
   },
-  "flying-saucer": {
+  "🛸": {
     name: "flying-saucer",
     category: "travel",
     unicode: "_1f6f8",
     htmlEntity: "&#x1F6F8",
   },
-  helicopter: {
+  "🚁": {
     name: "helicopter",
     category: "travel",
     unicode: "_1f681",
     htmlEntity: "&#x1F681",
   },
-  canoe: {
+  "🛶": {
     name: "canoe",
     category: "travel",
     unicode: "_1f6f6",
     htmlEntity: "&#x1F6F6",
   },
-  sailboat: {
+  "⛵": {
     name: "sailboat",
     category: "travel",
     unicode: "_26f5",
     htmlEntity: "&#x26F5",
   },
-  speedboat: {
+  "🚤": {
     name: "speedboat",
     category: "travel",
     unicode: "_1f6a4",
     htmlEntity: "&#x1F6A4",
   },
-  "motor-boat": {
+  "🛥": {
     name: "motor-boat",
     category: "travel",
     unicode: "_1f6e5",
     htmlEntity: "&#x1F6E5",
   },
-  "passenger-ship": {
+  "🛳": {
     name: "passenger-ship",
     category: "travel",
     unicode: "_1f6f3",
     htmlEntity: "&#x1F6F3",
   },
-  ferry: {
+  "⛴": {
     name: "ferry",
     category: "travel",
     unicode: "_26f4",
     htmlEntity: "&#x26F4",
   },
-  ship: {
+  "🚢": {
     name: "ship",
     category: "travel",
     unicode: "_1f6a2",
     htmlEntity: "&#x1F6A2",
   },
-  anchor: {
+  "⚓": {
     name: "anchor",
     category: "travel",
     unicode: "_2693",
     htmlEntity: "&#x2693",
   },
-  "fuel-pump": {
+  "⛽": {
     name: "fuel-pump",
     category: "travel",
     unicode: "_26fd",
     htmlEntity: "&#x26FD",
   },
-  construction: {
+  "🚧": {
     name: "construction",
     category: "travel",
     unicode: "_1f6a7",
     htmlEntity: "&#x1F6A7",
   },
-  "vertical-traffic-light": {
+  "🚦": {
     name: "vertical-traffic-light",
     category: "travel",
     unicode: "_1f6a6",
     htmlEntity: "&#x1F6A6",
   },
-  "horizontal-traffic-light": {
+  "🚥": {
     name: "horizontal-traffic-light",
     category: "travel",
     unicode: "_1f6a5",
     htmlEntity: "&#x1F6A5",
   },
-  "bus-stop": {
+  "🚏": {
     name: "bus-stop",
     category: "travel",
     unicode: "_1f68f",
     htmlEntity: "&#x1F68F",
   },
-  "world-map": {
+  "🗺": {
     name: "world-map",
     category: "travel",
     unicode: "_1f5fa",
     htmlEntity: "&#x1F5FA",
   },
-  moai: {
+  "🗿": {
     name: "moai",
     category: "travel",
     unicode: "_1f5ff",
     htmlEntity: "&#x1F5FF",
   },
-  "statue-of-liberty": {
+  "🗽": {
     name: "statue-of-liberty",
     category: "travel",
     unicode: "_1f5fd",
     htmlEntity: "&#x1F5FD",
   },
-  "tokyo-tower": {
+  "🗼": {
     name: "tokyo-tower",
     category: "travel",
     unicode: "_1f5fc",
     htmlEntity: "&#x1F5FC",
   },
-  castle: {
+  "🏰": {
     name: "castle",
     category: "travel",
     unicode: "_1f3f0",
     htmlEntity: "&#x1F3F0",
   },
-  "japanese-castle": {
+  "🏯": {
     name: "japanese-castle",
     category: "travel",
     unicode: "_1f3ef",
     htmlEntity: "&#x1F3EF",
   },
-  stadium: {
+  "🏟": {
     name: "stadium",
     category: "travel",
     unicode: "_1f3df",
     htmlEntity: "&#x1F3DF",
   },
-  "ferris-wheel": {
+  "🎡": {
     name: "ferris-wheel",
     category: "travel",
     unicode: "_1f3a1",
     htmlEntity: "&#x1F3A1",
   },
-  "roller-coaster": {
+  "🎢": {
     name: "roller-coaster",
     category: "travel",
     unicode: "_1f3a2",
     htmlEntity: "&#x1F3A2",
   },
-  "carousel-horse": {
+  "🎠": {
     name: "carousel-horse",
     category: "travel",
     unicode: "_1f3a0",
     htmlEntity: "&#x1F3A0",
   },
-  fountain: {
+  "⛲": {
     name: "fountain",
     category: "travel",
     unicode: "_26f2",
     htmlEntity: "&#x26F2",
   },
-  "umbrella-on-ground": {
+  "⛱": {
     name: "umbrella-on-ground",
     category: "travel",
     unicode: "_26f1",
     htmlEntity: "&#x26F1",
   },
-  "beach-with-umbrella": {
+  "🏖": {
     name: "beach-with-umbrella",
     category: "travel",
     unicode: "_1f3d6",
     htmlEntity: "&#x1F3D6",
   },
-  "desert-island": {
+  "🏝": {
     name: "desert-island",
     category: "travel",
     unicode: "_1f3dd",
     htmlEntity: "&#x1F3DD",
   },
-  desert: {
+  "🏜": {
     name: "desert",
     category: "travel",
     unicode: "_1f3dc",
     htmlEntity: "&#x1F3DC",
   },
-  volcano: {
+  "🌋": {
     name: "volcano",
     category: "travel",
     unicode: "_1f30b",
     htmlEntity: "&#x1F30B",
   },
-  mountain: {
+  "⛰": {
     name: "mountain",
     category: "travel",
     unicode: "_26f0",
     htmlEntity: "&#x26F0",
   },
-  "snow-capped-mountain": {
+  "🏔": {
     name: "snow-capped-mountain",
     category: "travel",
     unicode: "_1f3d4",
     htmlEntity: "&#x1F3D4",
   },
-  "mount-fuji": {
+  "🗻": {
     name: "mount-fuji",
     category: "travel",
     unicode: "_1f5fb",
     htmlEntity: "&#x1F5FB",
   },
-  camping: {
+  "🏕": {
     name: "camping",
     category: "travel",
     unicode: "_1f3d5",
     htmlEntity: "&#x1F3D5",
   },
-  tent: {
+  "⛺": {
     name: "tent",
     category: "travel",
     unicode: "_26fa",
     htmlEntity: "&#x26FA",
   },
-  house: {
+  "🏠": {
     name: "house",
     category: "travel",
     unicode: "_1f3e0",
     htmlEntity: "&#x1F3E0",
   },
-  "house-with-garden": {
+  "🏡": {
     name: "house-with-garden",
     category: "travel",
     unicode: "_1f3e1",
     htmlEntity: "&#x1F3E1",
   },
-  houses: {
+  "🏘": {
     name: "houses",
     category: "travel",
     unicode: "_1f3d8",
     htmlEntity: "&#x1F3D8",
   },
-  "derelict-house": {
+  "🏚": {
     name: "derelict-house",
     category: "travel",
     unicode: "_1f3da",
     htmlEntity: "&#x1F3DA",
   },
-  hut: {
+  "🛖": {
     name: "hut",
     category: "travel",
     unicode: "_1f6d6",
     htmlEntity: "&#x1F6D6",
   },
-  "building-construction": {
+  "🏗": {
     name: "building-construction",
     category: "travel",
     unicode: "_1f3d7",
     htmlEntity: "&#x1F3D7",
   },
-  factory: {
+  "🏭": {
     name: "factory",
     category: "travel",
     unicode: "_1f3ed",
     htmlEntity: "&#x1F3ED",
   },
-  "office-building": {
+  "🏢": {
     name: "office-building",
     category: "travel",
     unicode: "_1f3e2",
     htmlEntity: "&#x1F3E2",
   },
-  "department-store": {
+  "🏬": {
     name: "department-store",
     category: "travel",
     unicode: "_1f3ec",
     htmlEntity: "&#x1F3EC",
   },
-  "japanese-post-office": {
+  "🏣": {
     name: "japanese-post-office",
     category: "travel",
     unicode: "_1f3e3",
     htmlEntity: "&#x1F3E3",
   },
-  "post-office": {
+  "🏤": {
     name: "post-office",
     category: "travel",
     unicode: "_1f3e4",
     htmlEntity: "&#x1F3E4",
   },
-  hospital: {
+  "🏥": {
     name: "hospital",
     category: "travel",
     unicode: "_1f3e5",
     htmlEntity: "&#x1F3E5",
   },
-  bank: {
+  "🏦": {
     name: "bank",
     category: "travel",
     unicode: "_1f3e6",
     htmlEntity: "&#x1F3E6",
   },
-  hotel: {
+  "🏨": {
     name: "hotel",
     category: "travel",
     unicode: "_1f3e8",
     htmlEntity: "&#x1F3E8",
   },
-  "convenience-store": {
+  "🏪": {
     name: "convenience-store",
     category: "travel",
     unicode: "_1f3ea",
     htmlEntity: "&#x1F3EA",
   },
-  school: {
+  "🏫": {
     name: "school",
     category: "travel",
     unicode: "_1f3eb",
     htmlEntity: "&#x1F3EB",
   },
-  "love-hotel": {
+  "🏩": {
     name: "love-hotel",
     category: "travel",
     unicode: "_1f3e9",
     htmlEntity: "&#x1F3E9",
   },
-  wedding: {
+  "💒": {
     name: "wedding",
     category: "travel",
     unicode: "_1f492",
     htmlEntity: "&#x1F492",
   },
-  "classical-building": {
+  "🏛": {
     name: "classical-building",
     category: "travel",
     unicode: "_1f3db",
     htmlEntity: "&#x1F3DB",
   },
-  church: {
+  "⛪": {
     name: "church",
     category: "travel",
     unicode: "_26ea",
     htmlEntity: "&#x26EA",
   },
-  mosque: {
+  "🕌": {
     name: "mosque",
     category: "travel",
     unicode: "_1f54c",
     htmlEntity: "&#x1F54C",
   },
-  synagogue: {
+  "🕍": {
     name: "synagogue",
     category: "travel",
     unicode: "_1f54d",
     htmlEntity: "&#x1F54D",
   },
-  "hindu-temple": {
+  "🛕": {
     name: "hindu-temple",
     category: "travel",
     unicode: "_1f6d5",
     htmlEntity: "&#x1F6D5",
   },
-  kaaba: {
+  "🕋": {
     name: "kaaba",
     category: "travel",
     unicode: "_1f54b",
     htmlEntity: "&#x1F54B",
   },
-  "shinto-shrine": {
+  "⛩": {
     name: "shinto-shrine",
     category: "travel",
     unicode: "_26e9",
     htmlEntity: "&#x26E9",
   },
-  "railway-track": {
+  "🛤": {
     name: "railway-track",
     category: "travel",
     unicode: "_1f6e4",
     htmlEntity: "&#x1F6E4",
   },
-  motorway: {
+  "🛣": {
     name: "motorway",
     category: "travel",
     unicode: "_1f6e3",
     htmlEntity: "&#x1F6E3",
   },
-  "map-of-japan": {
+  "🗾": {
     name: "map-of-japan",
     category: "travel",
     unicode: "_1f5fe",
     htmlEntity: "&#x1F5FE",
   },
-  "moon-viewing-ceremony": {
+  "🎑": {
     name: "moon-viewing-ceremony",
     category: "travel",
     unicode: "_1f391",
     htmlEntity: "&#x1F391",
   },
-  "national-park": {
+  "🏞": {
     name: "national-park",
     category: "travel",
     unicode: "_1f3de",
     htmlEntity: "&#x1F3DE",
   },
-  sunrise: {
+  "🌅": {
     name: "sunrise",
     category: "travel",
     unicode: "_1f305",
     htmlEntity: "&#x1F305",
   },
-  "sunrise-over-mountains": {
+  "🌄": {
     name: "sunrise-over-mountains",
     category: "travel",
     unicode: "_1f304",
     htmlEntity: "&#x1F304",
   },
-  "shooting-star": {
+  "🌠": {
     name: "shooting-star",
     category: "travel",
     unicode: "_1f320",
     htmlEntity: "&#x1F320",
   },
-  sparkler: {
+  "🎇": {
     name: "sparkler",
     category: "travel",
     unicode: "_1f387",
     htmlEntity: "&#x1F387",
   },
-  fireworks: {
+  "🎆": {
     name: "fireworks",
     category: "travel",
     unicode: "_1f386",
     htmlEntity: "&#x1F386",
   },
-  sunset: {
+  "🌇": {
     name: "sunset",
     category: "travel",
     unicode: "_1f307",
     htmlEntity: "&#x1F307",
   },
-  "cityscape-at-dusk": {
+  "🌆": {
     name: "cityscape-at-dusk",
     category: "travel",
     unicode: "_1f306",
     htmlEntity: "&#x1F306",
   },
-  cityscape: {
+  "🏙": {
     name: "cityscape",
     category: "travel",
     unicode: "_1f3d9",
     htmlEntity: "&#x1F3D9",
   },
-  "night-with-stars": {
+  "🌃": {
     name: "night-with-stars",
     category: "travel",
     unicode: "_1f303",
     htmlEntity: "&#x1F303",
   },
-  "milky-way": {
+  "🌌": {
     name: "milky-way",
     category: "travel",
     unicode: "_1f30c",
     htmlEntity: "&#x1F30C",
   },
-  "bridge-at-night": {
+  "🌉": {
     name: "bridge-at-night",
     category: "travel",
     unicode: "_1f309",
     htmlEntity: "&#x1F309",
   },
-  foggy: {
+  "🌁": {
     name: "foggy",
     category: "travel",
     unicode: "_1f301",

@@ -1,1195 +1,1195 @@
 import { EmojiInformation } from "../types/emojiInformation";
 
 export const ANIMALS_AND_NATURE: EmojiInformation = {
-  "dog-face": {
+  "🐶": {
     name: "dog-face",
     category: "nature",
     unicode: "_1f436",
     htmlEntity: "&#x1F436",
   },
-  "cat-face": {
+  "🐱": {
     name: "cat-face",
     category: "nature",
     unicode: "_1f431",
     htmlEntity: "&#x1F431",
   },
-  "mouse-face": {
+  "🐭": {
     name: "mouse-face",
     category: "nature",
     unicode: "_1f42d",
     htmlEntity: "&#x1F42D",
   },
-  hamster: {
+  "🐹": {
     name: "hamster",
     category: "nature",
     unicode: "_1f439",
     htmlEntity: "&#x1F439",
   },
-  "rabbit-face": {
+  "🐰": {
     name: "rabbit-face",
     category: "nature",
     unicode: "_1f430",
     htmlEntity: "&#x1F430",
   },
-  fox: {
+  "🦊": {
     name: "fox",
     category: "nature",
     unicode: "_1f98a",
     htmlEntity: "&#x1F98A",
   },
-  bear: {
+  "🐻": {
     name: "bear",
     category: "nature",
     unicode: "_1f43b",
     htmlEntity: "&#x1F43B",
   },
-  panda: {
+  "🐼": {
     name: "panda",
     category: "nature",
     unicode: "_1f43c",
     htmlEntity: "&#x1F43C",
   },
-  "polar-bear": {
+  "🐻❄": {
     name: "polar-bear",
     category: "nature",
     unicode: "_1f43b-2744",
     htmlEntity: "&#x1F43B;&#x2744",
   },
-  koala: {
+  "🐨": {
     name: "koala",
     category: "nature",
     unicode: "_1f428",
     htmlEntity: "&#x1F428",
   },
-  "tiger-face": {
+  "🐯": {
     name: "tiger-face",
     category: "nature",
     unicode: "_1f42f",
     htmlEntity: "&#x1F42F",
   },
-  lion: {
+  "🦁": {
     name: "lion",
     category: "nature",
     unicode: "_1f981",
     htmlEntity: "&#x1F981",
   },
-  "cow-face": {
+  "🐮": {
     name: "cow-face",
     category: "nature",
     unicode: "_1f42e",
     htmlEntity: "&#x1F42E",
   },
-  "pig-face": {
+  "🐷": {
     name: "pig-face",
     category: "nature",
     unicode: "_1f437",
     htmlEntity: "&#x1F437",
   },
-  "pig-nose": {
+  "🐽": {
     name: "pig-nose",
     category: "nature",
     unicode: "_1f43d",
     htmlEntity: "&#x1F43D",
   },
-  frog: {
+  "🐸": {
     name: "frog",
     category: "nature",
     unicode: "_1f438",
     htmlEntity: "&#x1F438",
   },
-  "monkey-face": {
+  "🐵": {
     name: "monkey-face",
     category: "nature",
     unicode: "_1f435",
     htmlEntity: "&#x1F435",
   },
-  "see-no-evil-monkey": {
+  "🙈": {
     name: "see-no-evil-monkey",
     category: "nature",
     unicode: "_1f648",
     htmlEntity: "&#x1F648",
   },
-  "hear-no-evil-monkey": {
+  "🙉": {
     name: "hear-no-evil-monkey",
     category: "nature",
     unicode: "_1f649",
     htmlEntity: "&#x1F649",
   },
-  "speak-no-evil-monkey": {
+  "🙊": {
     name: "speak-no-evil-monkey",
     category: "nature",
     unicode: "_1f64a",
     htmlEntity: "&#x1F64A",
   },
-  monkey: {
+  "🐒": {
     name: "monkey",
     category: "nature",
     unicode: "_1f412",
     htmlEntity: "&#x1F412",
   },
-  chicken: {
+  "🐔": {
     name: "chicken",
     category: "nature",
     unicode: "_1f414",
     htmlEntity: "&#x1F414",
   },
-  penguin: {
+  "🐧": {
     name: "penguin",
     category: "nature",
     unicode: "_1f427",
     htmlEntity: "&#x1F427",
   },
-  bird: {
+  "🐦": {
     name: "bird",
     category: "nature",
     unicode: "_1f426",
     htmlEntity: "&#x1F426",
   },
-  "baby-chick": {
+  "🐤": {
     name: "baby-chick",
     category: "nature",
     unicode: "_1f424",
     htmlEntity: "&#x1F424",
   },
-  "hatching-chick": {
+  "🐣": {
     name: "hatching-chick",
     category: "nature",
     unicode: "_1f423",
     htmlEntity: "&#x1F423",
   },
-  "front-facing-baby-chick": {
+  "🐥": {
     name: "front-facing-baby-chick",
     category: "nature",
     unicode: "_1f425",
     htmlEntity: "&#x1F425",
   },
-  duck: {
+  "🦆": {
     name: "duck",
     category: "nature",
     unicode: "_1f986",
     htmlEntity: "&#x1F986",
   },
-  dodo: {
+  "🦤": {
     name: "dodo",
     category: "nature",
     unicode: "_1f9a4",
     htmlEntity: "&#x1F9A4",
   },
-  eagle: {
+  "🦅": {
     name: "eagle",
     category: "nature",
     unicode: "_1f985",
     htmlEntity: "&#x1F985",
   },
-  owl: {
+  "🦉": {
     name: "owl",
     category: "nature",
     unicode: "_1f989",
     htmlEntity: "&#x1F989",
   },
-  bat: {
+  "🦇": {
     name: "bat",
     category: "nature",
     unicode: "_1f987",
     htmlEntity: "&#x1F987",
   },
-  wolf: {
+  "🐺": {
     name: "wolf",
     category: "nature",
     unicode: "_1f43a",
     htmlEntity: "&#x1F43A",
   },
-  boar: {
+  "🐗": {
     name: "boar",
     category: "nature",
     unicode: "_1f417",
     htmlEntity: "&#x1F417",
   },
-  "horse-face": {
+  "🐴": {
     name: "horse-face",
     category: "nature",
     unicode: "_1f434",
     htmlEntity: "&#x1F434",
   },
-  unicorn: {
+  "🦄": {
     name: "unicorn",
     category: "nature",
     unicode: "_1f984",
     htmlEntity: "&#x1F984",
   },
-  honeybee: {
+  "🐝": {
     name: "honeybee",
     category: "nature",
     unicode: "_1f41d",
     htmlEntity: "&#x1F41D",
   },
-  bug: {
+  "🐛": {
     name: "bug",
     category: "nature",
     unicode: "_1f41b",
     htmlEntity: "&#x1F41B",
   },
-  butterfly: {
+  "🦋": {
     name: "butterfly",
     category: "nature",
     unicode: "_1f98b",
     htmlEntity: "&#x1F98B",
   },
-  snail: {
+  "🐌": {
     name: "snail",
     category: "nature",
     unicode: "_1f40c",
     htmlEntity: "&#x1F40C",
   },
-  worm: {
+  "🪱": {
     name: "worm",
     category: "nature",
     unicode: "_1fab1",
     htmlEntity: "&#x1FAB1",
   },
-  "lady-beetle": {
+  "🐞": {
     name: "lady-beetle",
     category: "nature",
     unicode: "_1f41e",
     htmlEntity: "&#x1F41E",
   },
-  ant: {
+  "🐜": {
     name: "ant",
     category: "nature",
     unicode: "_1f41c",
     htmlEntity: "&#x1F41C",
   },
-  fly: {
+  "🪰": {
     name: "fly",
     category: "nature",
     unicode: "_1fab0",
     htmlEntity: "&#x1FAB0",
   },
-  mosquito: {
+  "🦟": {
     name: "mosquito",
     category: "nature",
     unicode: "_1f99f",
     htmlEntity: "&#x1F99F",
   },
-  cockroach: {
+  "🪳": {
     name: "cockroach",
     category: "nature",
     unicode: "_1fab3",
     htmlEntity: "&#x1FAB3",
   },
-  beetle: {
+  "🪲": {
     name: "beetle",
     category: "nature",
     unicode: "_1fab2",
     htmlEntity: "&#x1FAB2",
   },
-  cricket: {
+  "🦗": {
     name: "cricket",
     category: "nature",
     unicode: "_1f997",
     htmlEntity: "&#x1F997",
   },
-  spider: {
+  "🕷": {
     name: "spider",
     category: "nature",
     unicode: "_1f577",
     htmlEntity: "&#x1F577",
   },
-  "spider-web": {
+  "🕸": {
     name: "spider-web",
     category: "nature",
     unicode: "_1f578",
     htmlEntity: "&#x1F578",
   },
-  scorpion: {
+  "🦂": {
     name: "scorpion",
     category: "nature",
     unicode: "_1f982",
     htmlEntity: "&#x1F982",
   },
-  turtle: {
+  "🐢": {
     name: "turtle",
     category: "nature",
     unicode: "_1f422",
     htmlEntity: "&#x1F422",
   },
-  snake: {
+  "🐍": {
     name: "snake",
     category: "nature",
     unicode: "_1f40d",
     htmlEntity: "&#x1F40D",
   },
-  lizard: {
+  "🦎": {
     name: "lizard",
     category: "nature",
     unicode: "_1f98e",
     htmlEntity: "&#x1F98E",
   },
-  "t-rex": {
+  "🦖": {
     name: "t-rex",
     category: "nature",
     unicode: "_1f996",
     htmlEntity: "&#x1F996",
   },
-  sauropod: {
+  "🦕": {
     name: "sauropod",
     category: "nature",
     unicode: "_1f995",
     htmlEntity: "&#x1F995",
   },
-  octopus: {
+  "🐙": {
     name: "octopus",
     category: "nature",
     unicode: "_1f419",
     htmlEntity: "&#x1F419",
   },
-  squid: {
+  "🦑": {
     name: "squid",
     category: "nature",
     unicode: "_1f991",
     htmlEntity: "&#x1F991",
   },
-  shrimp: {
+  "🦐": {
     name: "shrimp",
     category: "nature",
     unicode: "_1f990",
     htmlEntity: "&#x1F990",
   },
-  lobster: {
+  "🦞": {
     name: "lobster",
     category: "nature",
     unicode: "_1f99e",
     htmlEntity: "&#x1F99E",
   },
-  crab: {
+  "🦀": {
     name: "crab",
     category: "nature",
     unicode: "_1f980",
     htmlEntity: "&#x1F980",
   },
-  blowfish: {
+  "🐡": {
     name: "blowfish",
     category: "nature",
     unicode: "_1f421",
     htmlEntity: "&#x1F421",
   },
-  "tropical-fish": {
+  "🐠": {
     name: "tropical-fish",
     category: "nature",
     unicode: "_1f420",
     htmlEntity: "&#x1F420",
   },
-  fish: {
+  "🐟": {
     name: "fish",
     category: "nature",
     unicode: "_1f41f",
     htmlEntity: "&#x1F41F",
   },
-  seal: {
+  "🦭": {
     name: "seal",
     category: "nature",
     unicode: "_1f9ad",
     htmlEntity: "&#x1F9AD",
   },
-  dolphin: {
+  "🐬": {
     name: "dolphin",
     category: "nature",
     unicode: "_1f42c",
     htmlEntity: "&#x1F42C",
   },
-  "spouting-whale": {
+  "🐳": {
     name: "spouting-whale",
     category: "nature",
     unicode: "_1f433",
     htmlEntity: "&#x1F433",
   },
-  whale: {
+  "🐋": {
     name: "whale",
     category: "nature",
     unicode: "_1f40b",
     htmlEntity: "&#x1F40B",
   },
-  shark: {
+  "🦈": {
     name: "shark",
     category: "nature",
     unicode: "_1f988",
     htmlEntity: "&#x1F988",
   },
-  crocodile: {
+  "🐊": {
     name: "crocodile",
     category: "nature",
     unicode: "_1f40a",
     htmlEntity: "&#x1F40A",
   },
-  tiger: {
+  "🐅": {
     name: "tiger",
     category: "nature",
     unicode: "_1f405",
     htmlEntity: "&#x1F405",
   },
-  leopard: {
+  "🐆": {
     name: "leopard",
     category: "nature",
     unicode: "_1f406",
     htmlEntity: "&#x1F406",
   },
-  zebra: {
+  "🦓": {
     name: "zebra",
     category: "nature",
     unicode: "_1f993",
     htmlEntity: "&#x1F993",
   },
-  gorilla: {
+  "🦍": {
     name: "gorilla",
     category: "nature",
     unicode: "_1f98d",
     htmlEntity: "&#x1F98D",
   },
-  orangutan: {
+  "🦧": {
     name: "orangutan",
     category: "nature",
     unicode: "_1f9a7",
     htmlEntity: "&#x1F9A7",
   },
-  elephant: {
+  "🐘": {
     name: "elephant",
     category: "nature",
     unicode: "_1f418",
     htmlEntity: "&#x1F418",
   },
-  mammoth: {
+  "🦣": {
     name: "mammoth",
     category: "nature",
     unicode: "_1f9a3",
     htmlEntity: "&#x1F9A3",
   },
-  bison: {
+  "🦬": {
     name: "bison",
     category: "nature",
     unicode: "_1f9ac",
     htmlEntity: "&#x1F9AC",
   },
-  hippopotamus: {
+  "🦛": {
     name: "hippopotamus",
     category: "nature",
     unicode: "_1f99b",
     htmlEntity: "&#x1F99B",
   },
-  rhinoceros: {
+  "🦏": {
     name: "rhinoceros",
     category: "nature",
     unicode: "_1f98f",
     htmlEntity: "&#x1F98F",
   },
-  camel: {
+  "🐪": {
     name: "camel",
     category: "nature",
     unicode: "_1f42a",
     htmlEntity: "&#x1F42A",
   },
-  "two-hump-camel": {
+  "🐫": {
     name: "two-hump-camel",
     category: "nature",
     unicode: "_1f42b",
     htmlEntity: "&#x1F42B",
   },
-  giraffe: {
+  "🦒": {
     name: "giraffe",
     category: "nature",
     unicode: "_1f992",
     htmlEntity: "&#x1F992",
   },
-  kangaroo: {
+  "🦘": {
     name: "kangaroo",
     category: "nature",
     unicode: "_1f998",
     htmlEntity: "&#x1F998",
   },
-  "water-buffalo": {
+  "🐃": {
     name: "water-buffalo",
     category: "nature",
     unicode: "_1f403",
     htmlEntity: "&#x1F403",
   },
-  ox: {
+  "🐂": {
     name: "ox",
     category: "nature",
     unicode: "_1f402",
     htmlEntity: "&#x1F402",
   },
-  cow: {
+  "🐄": {
     name: "cow",
     category: "nature",
     unicode: "_1f404",
     htmlEntity: "&#x1F404",
   },
-  horse: {
+  "🐎": {
     name: "horse",
     category: "nature",
     unicode: "_1f40e",
     htmlEntity: "&#x1F40E",
   },
-  pig: {
+  "🐖": {
     name: "pig",
     category: "nature",
     unicode: "_1f416",
     htmlEntity: "&#x1F416",
   },
-  ram: {
+  "🐏": {
     name: "ram",
     category: "nature",
     unicode: "_1f40f",
     htmlEntity: "&#x1F40F",
   },
-  ewe: {
+  "🐑": {
     name: "ewe",
     category: "nature",
     unicode: "_1f411",
     htmlEntity: "&#x1F411",
   },
-  llama: {
+  "🦙": {
     name: "llama",
     category: "nature",
     unicode: "_1f999",
     htmlEntity: "&#x1F999",
   },
-  goat: {
+  "🐐": {
     name: "goat",
     category: "nature",
     unicode: "_1f410",
     htmlEntity: "&#x1F410",
   },
-  deer: {
+  "🦌": {
     name: "deer",
     category: "nature",
     unicode: "_1f98c",
     htmlEntity: "&#x1F98C",
   },
-  dog: {
+  "🐕": {
     name: "dog",
     category: "nature",
     unicode: "_1f415",
     htmlEntity: "&#x1F415",
   },
-  poodle: {
+  "🐩": {
     name: "poodle",
     category: "nature",
     unicode: "_1f429",
     htmlEntity: "&#x1F429",
   },
-  "guide-dog": {
+  "🦮": {
     name: "guide-dog",
     category: "nature",
     unicode: "_1f9ae",
     htmlEntity: "&#x1F9AE",
   },
-  "service-dog": {
+  "🐕🦺": {
     name: "service-dog",
     category: "nature",
     unicode: "_1f415-1f9ba",
     htmlEntity: "&#x1F415;&#x1F9BA",
   },
-  cat: {
+  "🐈": {
     name: "cat",
     category: "nature",
     unicode: "_1f408",
     htmlEntity: "&#x1F408",
   },
-  "black-cat": {
+  "🐈⬛": {
     name: "black-cat",
     category: "nature",
     unicode: "_1f408-2b1b",
     htmlEntity: "&#x1F408;&#x2B1B",
   },
-  rooster: {
+  "🐓": {
     name: "rooster",
     category: "nature",
     unicode: "_1f413",
     htmlEntity: "&#x1F413",
   },
-  turkey: {
+  "🦃": {
     name: "turkey",
     category: "nature",
     unicode: "_1f983",
     htmlEntity: "&#x1F983",
   },
-  peacock: {
+  "🦚": {
     name: "peacock",
     category: "nature",
     unicode: "_1f99a",
     htmlEntity: "&#x1F99A",
   },
-  parrot: {
+  "🦜": {
     name: "parrot",
     category: "nature",
     unicode: "_1f99c",
     htmlEntity: "&#x1F99C",
   },
-  swan: {
+  "🦢": {
     name: "swan",
     category: "nature",
     unicode: "_1f9a2",
     htmlEntity: "&#x1F9A2",
   },
-  flamingo: {
+  "🦩": {
     name: "flamingo",
     category: "nature",
     unicode: "_1f9a9",
     htmlEntity: "&#x1F9A9",
   },
-  dove: {
+  "🕊": {
     name: "dove",
     category: "nature",
     unicode: "_1f54a",
     htmlEntity: "&#x1F54A",
   },
-  rabbit: {
+  "🐇": {
     name: "rabbit",
     category: "nature",
     unicode: "_1f407",
     htmlEntity: "&#x1F407",
   },
-  raccoon: {
+  "🦝": {
     name: "raccoon",
     category: "nature",
     unicode: "_1f99d",
     htmlEntity: "&#x1F99D",
   },
-  skunk: {
+  "🦨": {
     name: "skunk",
     category: "nature",
     unicode: "_1f9a8",
     htmlEntity: "&#x1F9A8",
   },
-  badger: {
+  "🦡": {
     name: "badger",
     category: "nature",
     unicode: "_1f9a1",
     htmlEntity: "&#x1F9A1",
   },
-  beaver: {
+  "🦫": {
     name: "beaver",
     category: "nature",
     unicode: "_1f9ab",
     htmlEntity: "&#x1F9AB",
   },
-  otter: {
+  "🦦": {
     name: "otter",
     category: "nature",
     unicode: "_1f9a6",
     htmlEntity: "&#x1F9A6",
   },
-  sloth: {
+  "🦥": {
     name: "sloth",
     category: "nature",
     unicode: "_1f9a5",
     htmlEntity: "&#x1F9A5",
   },
-  mouse: {
+  "🐁": {
     name: "mouse",
     category: "nature",
     unicode: "_1f401",
     htmlEntity: "&#x1F401",
   },
-  rat: {
+  "🐀": {
     name: "rat",
     category: "nature",
     unicode: "_1f400",
     htmlEntity: "&#x1F400",
   },
-  chipmunk: {
+  "🐿": {
     name: "chipmunk",
     category: "nature",
     unicode: "_1f43f",
     htmlEntity: "&#x1F43F",
   },
-  hedgehog: {
+  "🦔": {
     name: "hedgehog",
     category: "nature",
     unicode: "_1f994",
     htmlEntity: "&#x1F994",
   },
-  "paw-prints": {
+  "🐾": {
     name: "paw-prints",
     category: "nature",
     unicode: "_1f43e",
     htmlEntity: "&#x1F43E",
   },
-  dragon: {
+  "🐉": {
     name: "dragon",
     category: "nature",
     unicode: "_1f409",
     htmlEntity: "&#x1F409",
   },
-  "dragon-face": {
+  "🐲": {
     name: "dragon-face",
     category: "nature",
     unicode: "_1f432",
     htmlEntity: "&#x1F432",
   },
-  cactus: {
+  "🌵": {
     name: "cactus",
     category: "nature",
     unicode: "_1f335",
     htmlEntity: "&#x1F335",
   },
-  "christmas-tree": {
+  "🎄": {
     name: "christmas-tree",
     category: "nature",
     unicode: "_1f384",
     htmlEntity: "&#x1F384",
   },
-  "evergreen-tree": {
+  "🌲": {
     name: "evergreen-tree",
     category: "nature",
     unicode: "_1f332",
     htmlEntity: "&#x1F332",
   },
-  "deciduous-tree": {
+  "🌳": {
     name: "deciduous-tree",
     category: "nature",
     unicode: "_1f333",
     htmlEntity: "&#x1F333",
   },
-  "palm-tree": {
+  "🌴": {
     name: "palm-tree",
     category: "nature",
     unicode: "_1f334",
     htmlEntity: "&#x1F334",
   },
-  seedling: {
+  "🌱": {
     name: "seedling",
     category: "nature",
     unicode: "_1f331",
     htmlEntity: "&#x1F331",
   },
-  herb: {
+  "🌿": {
     name: "herb",
     category: "nature",
     unicode: "_1f33f",
     htmlEntity: "&#x1F33F",
   },
-  shamrock: {
+  "☘": {
     name: "shamrock",
     category: "nature",
     unicode: "_2618",
     htmlEntity: "&#x2618",
   },
-  "four-leaf-clover": {
+  "🍀": {
     name: "four-leaf-clover",
     category: "nature",
     unicode: "_1f340",
     htmlEntity: "&#x1F340",
   },
-  "pine-decoration": {
+  "🎍": {
     name: "pine-decoration",
     category: "nature",
     unicode: "_1f38d",
     htmlEntity: "&#x1F38D",
   },
-  "tanabata-tree": {
+  "🎋": {
     name: "tanabata-tree",
     category: "nature",
     unicode: "_1f38b",
     htmlEntity: "&#x1F38B",
   },
-  "leaf-fluttering-in-wind": {
+  "🍃": {
     name: "leaf-fluttering-in-wind",
     category: "nature",
     unicode: "_1f343",
     htmlEntity: "&#x1F343",
   },
-  "fallen-leaf": {
+  "🍂": {
     name: "fallen-leaf",
     category: "nature",
     unicode: "_1f342",
     htmlEntity: "&#x1F342",
   },
-  "maple-leaf": {
+  "🍁": {
     name: "maple-leaf",
     category: "nature",
     unicode: "_1f341",
     htmlEntity: "&#x1F341",
   },
-  feather: {
+  "🪶": {
     name: "feather",
     category: "nature",
     unicode: "_1fab6",
     htmlEntity: "&#x1FAB6",
   },
-  mushroom: {
+  "🍄": {
     name: "mushroom",
     category: "nature",
     unicode: "_1f344",
     htmlEntity: "&#x1F344",
   },
-  "spiral-shell": {
+  "🐚": {
     name: "spiral-shell",
     category: "nature",
     unicode: "_1f41a",
     htmlEntity: "&#x1F41A",
   },
-  rock: {
+  "🪨": {
     name: "rock",
     category: "nature",
     unicode: "_1faa8",
     htmlEntity: "&#x1FAA8",
   },
-  wood: {
+  "🪵": {
     name: "wood",
     category: "nature",
     unicode: "_1fab5",
     htmlEntity: "&#x1FAB5",
   },
-  "sheaf-of-rice": {
+  "🌾": {
     name: "sheaf-of-rice",
     category: "nature",
     unicode: "_1f33e",
     htmlEntity: "&#x1F33E",
   },
-  "potted-plant": {
+  "🪴": {
     name: "potted-plant",
     category: "nature",
     unicode: "_1fab4",
     htmlEntity: "&#x1FAB4",
   },
-  bouquet: {
+  "💐": {
     name: "bouquet",
     category: "nature",
     unicode: "_1f490",
     htmlEntity: "&#x1F490",
   },
-  tulip: {
+  "🌷": {
     name: "tulip",
     category: "nature",
     unicode: "_1f337",
     htmlEntity: "&#x1F337",
   },
-  rose: {
+  "🌹": {
     name: "rose",
     category: "nature",
     unicode: "_1f339",
     htmlEntity: "&#x1F339",
   },
-  "wilted-flower": {
+  "🥀": {
     name: "wilted-flower",
     category: "nature",
     unicode: "_1f940",
     htmlEntity: "&#x1F940",
   },
-  hibiscus: {
+  "🌺": {
     name: "hibiscus",
     category: "nature",
     unicode: "_1f33a",
     htmlEntity: "&#x1F33A",
   },
-  "cherry-blossom": {
+  "🌸": {
     name: "cherry-blossom",
     category: "nature",
     unicode: "_1f338",
     htmlEntity: "&#x1F338",
   },
-  blossom: {
+  "🌼": {
     name: "blossom",
     category: "nature",
     unicode: "_1f33c",
     htmlEntity: "&#x1F33C",
   },
-  sunflower: {
+  "🌻": {
     name: "sunflower",
     category: "nature",
     unicode: "_1f33b",
     htmlEntity: "&#x1F33B",
   },
-  "sun-with-face": {
+  "🌞": {
     name: "sun-with-face",
     category: "nature",
     unicode: "_1f31e",
     htmlEntity: "&#x1F31E",
   },
-  "full-moon-face": {
+  "🌝": {
     name: "full-moon-face",
     category: "nature",
     unicode: "_1f31d",
     htmlEntity: "&#x1F31D",
   },
-  "first-quarter-moon-face": {
+  "🌛": {
     name: "first-quarter-moon-face",
     category: "nature",
     unicode: "_1f31b",
     htmlEntity: "&#x1F31B",
   },
-  "last-quarter-moon-face": {
+  "🌜": {
     name: "last-quarter-moon-face",
     category: "nature",
     unicode: "_1f31c",
     htmlEntity: "&#x1F31C",
   },
-  "new-moon-face": {
+  "🌚": {
     name: "new-moon-face",
     category: "nature",
     unicode: "_1f31a",
     htmlEntity: "&#x1F31A",
   },
-  "full-moon": {
+  "🌕": {
     name: "full-moon",
     category: "nature",
     unicode: "_1f315",
     htmlEntity: "&#x1F315",
   },
-  "waning-gibbous-moon": {
+  "🌖": {
     name: "waning-gibbous-moon",
     category: "nature",
     unicode: "_1f316",
     htmlEntity: "&#x1F316",
   },
-  "last-quarter-moon": {
+  "🌗": {
     name: "last-quarter-moon",
     category: "nature",
     unicode: "_1f317",
     htmlEntity: "&#x1F317",
   },
-  "waning-crescent-moon": {
+  "🌘": {
     name: "waning-crescent-moon",
     category: "nature",
     unicode: "_1f318",
     htmlEntity: "&#x1F318",
   },
-  "new-moon": {
+  "🌑": {
     name: "new-moon",
     category: "nature",
     unicode: "_1f311",
     htmlEntity: "&#x1F311",
   },
-  "waxing-crescent-moon": {
+  "🌒": {
     name: "waxing-crescent-moon",
     category: "nature",
     unicode: "_1f312",
     htmlEntity: "&#x1F312",
   },
-  "first-quarter-moon": {
+  "🌓": {
     name: "first-quarter-moon",
     category: "nature",
     unicode: "_1f313",
     htmlEntity: "&#x1F313",
   },
-  "waxing-gibbous-moon": {
+  "🌔": {
     name: "waxing-gibbous-moon",
     category: "nature",
     unicode: "_1f314",
     htmlEntity: "&#x1F314",
   },
-  "crescent-moon": {
+  "🌙": {
     name: "crescent-moon",
     category: "nature",
     unicode: "_1f319",
     htmlEntity: "&#x1F319",
   },
-  "globe-showing-americas": {
+  "🌎": {
     name: "globe-showing-americas",
     category: "nature",
     unicode: "_1f30e",
     htmlEntity: "&#x1F30E",
   },
-  "globe-showing-europe-africa": {
+  "🌍": {
     name: "globe-showing-europe-africa",
     category: "nature",
     unicode: "_1f30d",
     htmlEntity: "&#x1F30D",
   },
-  "globe-showing-asia-australia": {
+  "🌏": {
     name: "globe-showing-asia-australia",
     category: "nature",
     unicode: "_1f30f",
     htmlEntity: "&#x1F30F",
   },
-  "ringed-planet": {
+  "🪐": {
     name: "ringed-planet",
     category: "nature",
     unicode: "_1fa90",
     htmlEntity: "&#x1FA90",
   },
-  dizzy: {
+  "💫": {
     name: "dizzy",
     category: "nature",
     unicode: "_1f4ab",
     htmlEntity: "&#x1F4AB",
   },
-  star: {
+  "⭐": {
     name: "star",
     category: "nature",
     unicode: "_2b50",
     htmlEntity: "&#x2B50",
   },
-  "glowing-star": {
+  "🌟": {
     name: "glowing-star",
     category: "nature",
     unicode: "_1f31f",
     htmlEntity: "&#x1F31F",
   },
-  sparkles: {
+  "✨": {
     name: "sparkles",
     category: "nature",
     unicode: "_2728",
     htmlEntity: "&#x2728",
   },
-  "high-voltage": {
+  "⚡": {
     name: "high-voltage",
     category: "nature",
     unicode: "_26a1",
     htmlEntity: "&#x26A1",
   },
-  comet: {
+  "☄": {
     name: "comet",
     category: "nature",
     unicode: "_2604",
     htmlEntity: "&#x2604",
   },
-  collision: {
+  "💥": {
     name: "collision",
     category: "nature",
     unicode: "_1f4a5",
     htmlEntity: "&#x1F4A5",
   },
-  fire: {
+  "🔥": {
     name: "fire",
     category: "nature",
     unicode: "_1f525",
     htmlEntity: "&#x1F525",
   },
-  tornado: {
+  "🌪": {
     name: "tornado",
     category: "nature",
     unicode: "_1f32a",
     htmlEntity: "&#x1F32A",
   },
-  rainbow: {
+  "🌈": {
     name: "rainbow",
     category: "nature",
     unicode: "_1f308",
     htmlEntity: "&#x1F308",
   },
-  sun: {
+  "☀": {
     name: "sun",
     category: "nature",
     unicode: "_2600",
     htmlEntity: "&#x2600",
   },
-  "sun-behind-small-cloud": {
+  "🌤": {
     name: "sun-behind-small-cloud",
     category: "nature",
     unicode: "_1f324",
     htmlEntity: "&#x1F324",
   },
-  "sun-behind-cloud": {
+  "⛅": {
     name: "sun-behind-cloud",
     category: "nature",
     unicode: "_26c5",
     htmlEntity: "&#x26C5",
   },
-  "sun-behind-large-cloud": {
+  "🌥": {
     name: "sun-behind-large-cloud",
     category: "nature",
     unicode: "_1f325",
     htmlEntity: "&#x1F325",
   },
-  cloud: {
+  "☁": {
     name: "cloud",
     category: "nature",
     unicode: "_2601",
     htmlEntity: "&#x2601",
   },
-  "sun-behind-rain-cloud": {
+  "🌦": {
     name: "sun-behind-rain-cloud",
     category: "nature",
     unicode: "_1f326",
     htmlEntity: "&#x1F326",
   },
-  "cloud-with-rain": {
+  "🌧": {
     name: "cloud-with-rain",
     category: "nature",
     unicode: "_1f327",
     htmlEntity: "&#x1F327",
   },
-  "cloud-with-lightning-and-rain": {
+  "⛈": {
     name: "cloud-with-lightning-and-rain",
     category: "nature",
     unicode: "_26c8",
     htmlEntity: "&#x26C8",
   },
-  "cloud-with-lightning": {
+  "🌩": {
     name: "cloud-with-lightning",
     category: "nature",
     unicode: "_1f329",
     htmlEntity: "&#x1F329",
   },
-  "cloud-with-snow": {
+  "🌨": {
     name: "cloud-with-snow",
     category: "nature",
     unicode: "_1f328",
     htmlEntity: "&#x1F328",
   },
-  snowflake: {
+  "❄": {
     name: "snowflake",
     category: "nature",
     unicode: "_2744",
     htmlEntity: "&#x2744",
   },
-  snowman: {
+  "☃": {
     name: "snowman",
     category: "nature",
     unicode: "_2603",
     htmlEntity: "&#x2603",
   },
-  "snowman-without-snow": {
+  "⛄": {
     name: "snowman-without-snow",
     category: "nature",
     unicode: "_26c4",
     htmlEntity: "&#x26C4",
   },
-  "wind-face": {
+  "🌬": {
     name: "wind-face",
     category: "nature",
     unicode: "_1f32c",
     htmlEntity: "&#x1F32C",
   },
-  "dashing-away": {
+  "💨": {
     name: "dashing-away",
     category: "nature",
     unicode: "_1f4a8",
     htmlEntity: "&#x1F4A8",
   },
-  droplet: {
+  "💧": {
     name: "droplet",
     category: "nature",
     unicode: "_1f4a7",
     htmlEntity: "&#x1F4A7",
   },
-  "sweat-droplets": {
+  "💦": {
     name: "sweat-droplets",
     category: "nature",
     unicode: "_1f4a6",
     htmlEntity: "&#x1F4A6",
   },
-  "umbrella-with-rain-drops": {
+  "☔": {
     name: "umbrella-with-rain-drops",
     category: "nature",
     unicode: "_2614",
     htmlEntity: "&#x2614",
   },
-  umbrella: {
+  "☂": {
     name: "umbrella",
     category: "nature",
     unicode: "_2602",
     htmlEntity: "&#x2602",
   },
-  "water-wave": {
+  "🌊": {
     name: "water-wave",
     category: "nature",
     unicode: "_1f30a",
     htmlEntity: "&#x1F30A",
   },
-  fog: {
+  "🌫": {
     name: "fog",
     category: "nature",
     unicode: "_1f32b",

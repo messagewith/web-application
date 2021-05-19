@@ -1,1381 +1,1381 @@
 import { EmojiInformation } from "../types/emojiInformation";
 
 export const OBJECTS: EmojiInformation = {
-  watch: {
+  "⌚": {
     name: "watch",
     category: "objects",
     unicode: "_231a",
     htmlEntity: "&#x231A",
   },
-  "mobile-phone": {
+  "📱": {
     name: "mobile-phone",
     category: "objects",
     unicode: "_1f4f1",
     htmlEntity: "&#x1F4F1",
   },
-  "mobile-phone-with-arrow": {
+  "📲": {
     name: "mobile-phone-with-arrow",
     category: "objects",
     unicode: "_1f4f2",
     htmlEntity: "&#x1F4F2",
   },
-  "laptop-computer": {
+  "💻": {
     name: "laptop-computer",
     category: "objects",
     unicode: "_1f4bb",
     htmlEntity: "&#x1F4BB",
   },
-  keyboard: {
+  "⌨": {
     name: "keyboard",
     category: "objects",
     unicode: "_2328",
     htmlEntity: "&#x2328",
   },
-  "desktop-computer": {
+  "🖥": {
     name: "desktop-computer",
     category: "objects",
     unicode: "_1f5a5",
     htmlEntity: "&#x1F5A5",
   },
-  printer: {
+  "🖨": {
     name: "printer",
     category: "objects",
     unicode: "_1f5a8",
     htmlEntity: "&#x1F5A8",
   },
-  "computer-mouse": {
+  "🖱": {
     name: "computer-mouse",
     category: "objects",
     unicode: "_1f5b1",
     htmlEntity: "&#x1F5B1",
   },
-  trackball: {
+  "🖲": {
     name: "trackball",
     category: "objects",
     unicode: "_1f5b2",
     htmlEntity: "&#x1F5B2",
   },
-  joystick: {
+  "🕹": {
     name: "joystick",
     category: "objects",
     unicode: "_1f579",
     htmlEntity: "&#x1F579",
   },
-  clamp: {
+  "🗜": {
     name: "clamp",
     category: "objects",
     unicode: "_1f5dc",
     htmlEntity: "&#x1F5DC",
   },
-  "computer-disk": {
+  "💽": {
     name: "computer-disk",
     category: "objects",
     unicode: "_1f4bd",
     htmlEntity: "&#x1F4BD",
   },
-  "floppy-disk": {
+  "💾": {
     name: "floppy-disk",
     category: "objects",
     unicode: "_1f4be",
     htmlEntity: "&#x1F4BE",
   },
-  "optical-disk": {
+  "💿": {
     name: "optical-disk",
     category: "objects",
     unicode: "_1f4bf",
     htmlEntity: "&#x1F4BF",
   },
-  dvd: {
+  "📀": {
     name: "dvd",
     category: "objects",
     unicode: "_1f4c0",
     htmlEntity: "&#x1F4C0",
   },
-  videocassette: {
+  "📼": {
     name: "videocassette",
     category: "objects",
     unicode: "_1f4fc",
     htmlEntity: "&#x1F4FC",
   },
-  camera: {
+  "📷": {
     name: "camera",
     category: "objects",
     unicode: "_1f4f7",
     htmlEntity: "&#x1F4F7",
   },
-  "camera-with-flash": {
+  "📸": {
     name: "camera-with-flash",
     category: "objects",
     unicode: "_1f4f8",
     htmlEntity: "&#x1F4F8",
   },
-  "video-camera": {
+  "📹": {
     name: "video-camera",
     category: "objects",
     unicode: "_1f4f9",
     htmlEntity: "&#x1F4F9",
   },
-  "movie-camera": {
+  "🎥": {
     name: "movie-camera",
     category: "objects",
     unicode: "_1f3a5",
     htmlEntity: "&#x1F3A5",
   },
-  "film-projector": {
+  "📽": {
     name: "film-projector",
     category: "objects",
     unicode: "_1f4fd",
     htmlEntity: "&#x1F4FD",
   },
-  "film-frames": {
+  "🎞": {
     name: "film-frames",
     category: "objects",
     unicode: "_1f39e",
     htmlEntity: "&#x1F39E",
   },
-  "telephone-receiver": {
+  "📞": {
     name: "telephone-receiver",
     category: "objects",
     unicode: "_1f4de",
     htmlEntity: "&#x1F4DE",
   },
-  telephone: {
+  "☎": {
     name: "telephone",
     category: "objects",
     unicode: "_260e",
     htmlEntity: "&#x260E",
   },
-  pager: {
+  "📟": {
     name: "pager",
     category: "objects",
     unicode: "_1f4df",
     htmlEntity: "&#x1F4DF",
   },
-  "fax-machine": {
+  "📠": {
     name: "fax-machine",
     category: "objects",
     unicode: "_1f4e0",
     htmlEntity: "&#x1F4E0",
   },
-  television: {
+  "📺": {
     name: "television",
     category: "objects",
     unicode: "_1f4fa",
     htmlEntity: "&#x1F4FA",
   },
-  radio: {
+  "📻": {
     name: "radio",
     category: "objects",
     unicode: "_1f4fb",
     htmlEntity: "&#x1F4FB",
   },
-  "studio-microphone": {
+  "🎙": {
     name: "studio-microphone",
     category: "objects",
     unicode: "_1f399",
     htmlEntity: "&#x1F399",
   },
-  "level-slider": {
+  "🎚": {
     name: "level-slider",
     category: "objects",
     unicode: "_1f39a",
     htmlEntity: "&#x1F39A",
   },
-  "control-knobs": {
+  "🎛": {
     name: "control-knobs",
     category: "objects",
     unicode: "_1f39b",
     htmlEntity: "&#x1F39B",
   },
-  compass: {
+  "🧭": {
     name: "compass",
     category: "objects",
     unicode: "_1f9ed",
     htmlEntity: "&#x1F9ED",
   },
-  stopwatch: {
+  "⏱": {
     name: "stopwatch",
     category: "objects",
     unicode: "_23f1",
     htmlEntity: "&#x23F1",
   },
-  "timer-clock": {
+  "⏲": {
     name: "timer-clock",
     category: "objects",
     unicode: "_23f2",
     htmlEntity: "&#x23F2",
   },
-  "alarm-clock": {
+  "⏰": {
     name: "alarm-clock",
     category: "objects",
     unicode: "_23f0",
     htmlEntity: "&#x23F0",
   },
-  "mantelpiece-clock": {
+  "🕰": {
     name: "mantelpiece-clock",
     category: "objects",
     unicode: "_1f570",
     htmlEntity: "&#x1F570",
   },
-  "hourglass-done": {
+  "⌛": {
     name: "hourglass-done",
     category: "objects",
     unicode: "_231b",
     htmlEntity: "&#x231B",
   },
-  "hourglass-not-done": {
+  "⏳": {
     name: "hourglass-not-done",
     category: "objects",
     unicode: "_23f3",
     htmlEntity: "&#x23F3",
   },
-  "satellite-antenna": {
+  "📡": {
     name: "satellite-antenna",
     category: "objects",
     unicode: "_1f4e1",
     htmlEntity: "&#x1F4E1",
   },
-  battery: {
+  "🔋": {
     name: "battery",
     category: "objects",
     unicode: "_1f50b",
     htmlEntity: "&#x1F50B",
   },
-  "electric-plug": {
+  "🔌": {
     name: "electric-plug",
     category: "objects",
     unicode: "_1f50c",
     htmlEntity: "&#x1F50C",
   },
-  "light-bulb": {
+  "💡": {
     name: "light-bulb",
     category: "objects",
     unicode: "_1f4a1",
     htmlEntity: "&#x1F4A1",
   },
-  flashlight: {
+  "🔦": {
     name: "flashlight",
     category: "objects",
     unicode: "_1f526",
     htmlEntity: "&#x1F526",
   },
-  candle: {
+  "🕯": {
     name: "candle",
     category: "objects",
     unicode: "_1f56f",
     htmlEntity: "&#x1F56F",
   },
-  "diya-lamp": {
+  "🪔": {
     name: "diya-lamp",
     category: "objects",
     unicode: "_1fa94",
     htmlEntity: "&#x1FA94",
   },
-  "fire-extinguisher": {
+  "🧯": {
     name: "fire-extinguisher",
     category: "objects",
     unicode: "_1f9ef",
     htmlEntity: "&#x1F9EF",
   },
-  "oil-drum": {
+  "🛢": {
     name: "oil-drum",
     category: "objects",
     unicode: "_1f6e2",
     htmlEntity: "&#x1F6E2",
   },
-  "money-with-wings": {
+  "💸": {
     name: "money-with-wings",
     category: "objects",
     unicode: "_1f4b8",
     htmlEntity: "&#x1F4B8",
   },
-  "dollar-banknote": {
+  "💵": {
     name: "dollar-banknote",
     category: "objects",
     unicode: "_1f4b5",
     htmlEntity: "&#x1F4B5",
   },
-  "yen-banknote": {
+  "💴": {
     name: "yen-banknote",
     category: "objects",
     unicode: "_1f4b4",
     htmlEntity: "&#x1F4B4",
   },
-  "euro-banknote": {
+  "💶": {
     name: "euro-banknote",
     category: "objects",
     unicode: "_1f4b6",
     htmlEntity: "&#x1F4B6",
   },
-  "pound-banknote": {
+  "💷": {
     name: "pound-banknote",
     category: "objects",
     unicode: "_1f4b7",
     htmlEntity: "&#x1F4B7",
   },
-  coin: {
+  "🪙": {
     name: "coin",
     category: "objects",
     unicode: "_1fa99",
     htmlEntity: "&#x1FA99",
   },
-  "money-bag": {
+  "💰": {
     name: "money-bag",
     category: "objects",
     unicode: "_1f4b0",
     htmlEntity: "&#x1F4B0",
   },
-  "credit-card": {
+  "💳": {
     name: "credit-card",
     category: "objects",
     unicode: "_1f4b3",
     htmlEntity: "&#x1F4B3",
   },
-  "gem-stone": {
+  "💎": {
     name: "gem-stone",
     category: "objects",
     unicode: "_1f48e",
     htmlEntity: "&#x1F48E",
   },
-  "balance-scale": {
+  "⚖": {
     name: "balance-scale",
     category: "objects",
     unicode: "_2696",
     htmlEntity: "&#x2696",
   },
-  ladder: {
+  "🪜": {
     name: "ladder",
     category: "objects",
     unicode: "_1fa9c",
     htmlEntity: "&#x1FA9C",
   },
-  toolbox: {
+  "🧰": {
     name: "toolbox",
     category: "objects",
     unicode: "_1f9f0",
     htmlEntity: "&#x1F9F0",
   },
-  screwdriver: {
+  "🪛": {
     name: "screwdriver",
     category: "objects",
     unicode: "_1fa9b",
     htmlEntity: "&#x1FA9B",
   },
-  wrench: {
+  "🔧": {
     name: "wrench",
     category: "objects",
     unicode: "_1f527",
     htmlEntity: "&#x1F527",
   },
-  hammer: {
+  "🔨": {
     name: "hammer",
     category: "objects",
     unicode: "_1f528",
     htmlEntity: "&#x1F528",
   },
-  "hammer-and-pick": {
+  "⚒": {
     name: "hammer-and-pick",
     category: "objects",
     unicode: "_2692",
     htmlEntity: "&#x2692",
   },
-  "hammer-and-wrench": {
+  "🛠": {
     name: "hammer-and-wrench",
     category: "objects",
     unicode: "_1f6e0",
     htmlEntity: "&#x1F6E0",
   },
-  pick: {
+  "⛏": {
     name: "pick",
     category: "objects",
     unicode: "_26cf",
     htmlEntity: "&#x26CF",
   },
-  "nut-and-bolt": {
+  "🔩": {
     name: "nut-and-bolt",
     category: "objects",
     unicode: "_1f529",
     htmlEntity: "&#x1F529",
   },
-  gear: {
+  "⚙": {
     name: "gear",
     category: "objects",
     unicode: "_2699",
     htmlEntity: "&#x2699",
   },
-  brick: {
+  "🧱": {
     name: "brick",
     category: "objects",
     unicode: "_1f9f1",
     htmlEntity: "&#x1F9F1",
   },
-  chains: {
+  "⛓": {
     name: "chains",
     category: "objects",
     unicode: "_26d3",
     htmlEntity: "&#x26D3",
   },
-  hook: {
+  "🪝": {
     name: "hook",
     category: "objects",
     unicode: "_1fa9d",
     htmlEntity: "&#x1FA9D",
   },
-  knot: {
+  "🪢": {
     name: "knot",
     category: "objects",
     unicode: "_1faa2",
     htmlEntity: "&#x1FAA2",
   },
-  magnet: {
+  "🧲": {
     name: "magnet",
     category: "objects",
     unicode: "_1f9f2",
     htmlEntity: "&#x1F9F2",
   },
-  pistol: {
+  "🔫": {
     name: "pistol",
     category: "objects",
     unicode: "_1f52b",
     htmlEntity: "&#x1F52B",
   },
-  bomb: {
+  "💣": {
     name: "bomb",
     category: "objects",
     unicode: "_1f4a3",
     htmlEntity: "&#x1F4A3",
   },
-  firecracker: {
+  "🧨": {
     name: "firecracker",
     category: "objects",
     unicode: "_1f9e8",
     htmlEntity: "&#x1F9E8",
   },
-  axe: {
+  "🪓": {
     name: "axe",
     category: "objects",
     unicode: "_1fa93",
     htmlEntity: "&#x1FA93",
   },
-  "carpentry-saw": {
+  "🪚": {
     name: "carpentry-saw",
     category: "objects",
     unicode: "_1fa9a",
     htmlEntity: "&#x1FA9A",
   },
-  "kitchen-knife": {
+  "🔪": {
     name: "kitchen-knife",
     category: "objects",
     unicode: "_1f52a",
     htmlEntity: "&#x1F52A",
   },
-  dagger: {
+  "🗡": {
     name: "dagger",
     category: "objects",
     unicode: "_1f5e1",
     htmlEntity: "&#x1F5E1",
   },
-  "crossed-swords": {
+  "⚔": {
     name: "crossed-swords",
     category: "objects",
     unicode: "_2694",
     htmlEntity: "&#x2694",
   },
-  shield: {
+  "🛡": {
     name: "shield",
     category: "objects",
     unicode: "_1f6e1",
     htmlEntity: "&#x1F6E1",
   },
-  cigarette: {
+  "🚬": {
     name: "cigarette",
     category: "objects",
     unicode: "_1f6ac",
     htmlEntity: "&#x1F6AC",
   },
-  coffin: {
+  "⚰": {
     name: "coffin",
     category: "objects",
     unicode: "_26b0",
     htmlEntity: "&#x26B0",
   },
-  headstone: {
+  "🪦": {
     name: "headstone",
     category: "objects",
     unicode: "_1faa6",
     htmlEntity: "&#x1FAA6",
   },
-  "funeral-urn": {
+  "⚱": {
     name: "funeral-urn",
     category: "objects",
     unicode: "_26b1",
     htmlEntity: "&#x26B1",
   },
-  amphora: {
+  "🏺": {
     name: "amphora",
     category: "objects",
     unicode: "_1f3fa",
     htmlEntity: "&#x1F3FA",
   },
-  "magic-wand": {
+  "🪄": {
     name: "magic-wand",
     category: "objects",
     unicode: "_1fa84",
     htmlEntity: "&#x1FA84",
   },
-  "crystal-ball": {
+  "🔮": {
     name: "crystal-ball",
     category: "objects",
     unicode: "_1f52e",
     htmlEntity: "&#x1F52E",
   },
-  "prayer-beads": {
+  "📿": {
     name: "prayer-beads",
     category: "objects",
     unicode: "_1f4ff",
     htmlEntity: "&#x1F4FF",
   },
-  "nazar-amulet": {
+  "🧿": {
     name: "nazar-amulet",
     category: "objects",
     unicode: "_1f9ff",
     htmlEntity: "&#x1F9FF",
   },
-  "barber-pole": {
+  "💈": {
     name: "barber-pole",
     category: "objects",
     unicode: "_1f488",
     htmlEntity: "&#x1F488",
   },
-  alembic: {
+  "⚗": {
     name: "alembic",
     category: "objects",
     unicode: "_2697",
     htmlEntity: "&#x2697",
   },
-  telescope: {
+  "🔭": {
     name: "telescope",
     category: "objects",
     unicode: "_1f52d",
     htmlEntity: "&#x1F52D",
   },
-  microscope: {
+  "🔬": {
     name: "microscope",
     category: "objects",
     unicode: "_1f52c",
     htmlEntity: "&#x1F52C",
   },
-  hole: {
+  "🕳": {
     name: "hole",
     category: "objects",
     unicode: "_1f573",
     htmlEntity: "&#x1F573",
   },
-  window: {
+  "🪟": {
     name: "window",
     category: "objects",
     unicode: "_1fa9f",
     htmlEntity: "&#x1FA9F",
   },
-  "adhesive-bandage": {
+  "🩹": {
     name: "adhesive-bandage",
     category: "objects",
     unicode: "_1fa79",
     htmlEntity: "&#x1FA79",
   },
-  stethoscope: {
+  "🩺": {
     name: "stethoscope",
     category: "objects",
     unicode: "_1fa7a",
     htmlEntity: "&#x1FA7A",
   },
-  pill: {
+  "💊": {
     name: "pill",
     category: "objects",
     unicode: "_1f48a",
     htmlEntity: "&#x1F48A",
   },
-  syringe: {
+  "💉": {
     name: "syringe",
     category: "objects",
     unicode: "_1f489",
     htmlEntity: "&#x1F489",
   },
-  "drop-of-blood": {
+  "🩸": {
     name: "drop-of-blood",
     category: "objects",
     unicode: "_1fa78",
     htmlEntity: "&#x1FA78",
   },
-  dna: {
+  "🧬": {
     name: "dna",
     category: "objects",
     unicode: "_1f9ec",
     htmlEntity: "&#x1F9EC",
   },
-  microbe: {
+  "🦠": {
     name: "microbe",
     category: "objects",
     unicode: "_1f9a0",
     htmlEntity: "&#x1F9A0",
   },
-  "petri-dish": {
+  "🧫": {
     name: "petri-dish",
     category: "objects",
     unicode: "_1f9eb",
     htmlEntity: "&#x1F9EB",
   },
-  "test-tube": {
+  "🧪": {
     name: "test-tube",
     category: "objects",
     unicode: "_1f9ea",
     htmlEntity: "&#x1F9EA",
   },
-  thermometer: {
+  "🌡": {
     name: "thermometer",
     category: "objects",
     unicode: "_1f321",
     htmlEntity: "&#x1F321",
   },
-  "mouse-trap": {
+  "🪤": {
     name: "mouse-trap",
     category: "objects",
     unicode: "_1faa4",
     htmlEntity: "&#x1FAA4",
   },
-  broom: {
+  "🧹": {
     name: "broom",
     category: "objects",
     unicode: "_1f9f9",
     htmlEntity: "&#x1F9F9",
   },
-  basket: {
+  "🧺": {
     name: "basket",
     category: "objects",
     unicode: "_1f9fa",
     htmlEntity: "&#x1F9FA",
   },
-  "sewing-needle": {
+  "🪡": {
     name: "sewing-needle",
     category: "objects",
     unicode: "_1faa1",
     htmlEntity: "&#x1FAA1",
   },
-  "roll-of-paper": {
+  "🧻": {
     name: "roll-of-paper",
     category: "objects",
     unicode: "_1f9fb",
     htmlEntity: "&#x1F9FB",
   },
-  toilet: {
+  "🚽": {
     name: "toilet",
     category: "objects",
     unicode: "_1f6bd",
     htmlEntity: "&#x1F6BD",
   },
-  plunger: {
+  "🪠": {
     name: "plunger",
     category: "objects",
     unicode: "_1faa0",
     htmlEntity: "&#x1FAA0",
   },
-  bucket: {
+  "🪣": {
     name: "bucket",
     category: "objects",
     unicode: "_1faa3",
     htmlEntity: "&#x1FAA3",
   },
-  "potable-water": {
+  "🚰": {
     name: "potable-water",
     category: "objects",
     unicode: "_1f6b0",
     htmlEntity: "&#x1F6B0",
   },
-  shower: {
+  "🚿": {
     name: "shower",
     category: "objects",
     unicode: "_1f6bf",
     htmlEntity: "&#x1F6BF",
   },
-  bathtub: {
+  "🛁": {
     name: "bathtub",
     category: "objects",
     unicode: "_1f6c1",
     htmlEntity: "&#x1F6C1",
   },
-  "person-taking-bath": {
+  "🛀": {
     name: "person-taking-bath",
     category: "objects",
     unicode: "_1f6c0",
     htmlEntity: "&#x1F6C0",
   },
-  "person-taking-bath-light-skin-tone": {
+  "🛀🏻": {
     name: "person-taking-bath-light-skin-tone",
     category: "diversity",
     unicode: "_1f6c0-1f3fb",
     htmlEntity: "&#x1F6C0;&#x1F3FB",
   },
-  "person-taking-bath-medium-light-skin-tone": {
+  "🛀🏼": {
     name: "person-taking-bath-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f6c0-1f3fc",
     htmlEntity: "&#x1F6C0;&#x1F3FC",
   },
-  "person-taking-bath-medium-skin-tone": {
+  "🛀🏽": {
     name: "person-taking-bath-medium-skin-tone",
     category: "diversity",
     unicode: "_1f6c0-1f3fd",
     htmlEntity: "&#x1F6C0;&#x1F3FD",
   },
-  "person-taking-bath-medium-dark-skin-tone": {
+  "🛀🏾": {
     name: "person-taking-bath-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f6c0-1f3fe",
     htmlEntity: "&#x1F6C0;&#x1F3FE",
   },
-  "person-taking-bath-dark-skin-tone": {
+  "🛀🏿": {
     name: "person-taking-bath-dark-skin-tone",
     category: "diversity",
     unicode: "_1f6c0-1f3ff",
     htmlEntity: "&#x1F6C0;&#x1F3FF",
   },
-  toothbrush: {
+  "🪥": {
     name: "toothbrush",
     category: "objects",
     unicode: "_1faa5",
     htmlEntity: "&#x1FAA5",
   },
-  soap: {
+  "🧼": {
     name: "soap",
     category: "objects",
     unicode: "_1f9fc",
     htmlEntity: "&#x1F9FC",
   },
-  razor: {
+  "🪒": {
     name: "razor",
     category: "objects",
     unicode: "_1fa92",
     htmlEntity: "&#x1FA92",
   },
-  sponge: {
+  "🧽": {
     name: "sponge",
     category: "objects",
     unicode: "_1f9fd",
     htmlEntity: "&#x1F9FD",
   },
-  "lotion-bottle": {
+  "🧴": {
     name: "lotion-bottle",
     category: "objects",
     unicode: "_1f9f4",
     htmlEntity: "&#x1F9F4",
   },
-  "bellhop-bell": {
+  "🛎": {
     name: "bellhop-bell",
     category: "objects",
     unicode: "_1f6ce",
     htmlEntity: "&#x1F6CE",
   },
-  key: {
+  "🔑": {
     name: "key",
     category: "objects",
     unicode: "_1f511",
     htmlEntity: "&#x1F511",
   },
-  "old-key": {
+  "🗝": {
     name: "old-key",
     category: "objects",
     unicode: "_1f5dd",
     htmlEntity: "&#x1F5DD",
   },
-  door: {
+  "🚪": {
     name: "door",
     category: "objects",
     unicode: "_1f6aa",
     htmlEntity: "&#x1F6AA",
   },
-  chair: {
+  "🪑": {
     name: "chair",
     category: "objects",
     unicode: "_1fa91",
     htmlEntity: "&#x1FA91",
   },
-  mirror: {
+  "🪞": {
     name: "mirror",
     category: "objects",
     unicode: "_1fa9e",
     htmlEntity: "&#x1FA9E",
   },
-  "couch-and-lamp": {
+  "🛋": {
     name: "couch-and-lamp",
     category: "objects",
     unicode: "_1f6cb",
     htmlEntity: "&#x1F6CB",
   },
-  bed: {
+  "🛏": {
     name: "bed",
     category: "objects",
     unicode: "_1f6cf",
     htmlEntity: "&#x1F6CF",
   },
-  "person-in-bed": {
+  "🛌": {
     name: "person-in-bed",
     category: "objects",
     unicode: "_1f6cc",
     htmlEntity: "&#x1F6CC",
   },
-  "person-in-bed-light-skin-tone": {
+  "🛌🏻": {
     name: "person-in-bed-light-skin-tone",
     category: "diversity",
     unicode: "_1f6cc-1f3fb",
     htmlEntity: "&#x1F6CC;&#x1F3FB",
   },
-  "person-in-bed-medium-light-skin-tone": {
+  "🛌🏼": {
     name: "person-in-bed-medium-light-skin-tone",
     category: "diversity",
     unicode: "_1f6cc-1f3fc",
     htmlEntity: "&#x1F6CC;&#x1F3FC",
   },
-  "person-in-bed-medium-skin-tone": {
+  "🛌🏽": {
     name: "person-in-bed-medium-skin-tone",
     category: "diversity",
     unicode: "_1f6cc-1f3fd",
     htmlEntity: "&#x1F6CC;&#x1F3FD",
   },
-  "person-in-bed-medium-dark-skin-tone": {
+  "🛌🏾": {
     name: "person-in-bed-medium-dark-skin-tone",
     category: "diversity",
     unicode: "_1f6cc-1f3fe",
     htmlEntity: "&#x1F6CC;&#x1F3FE",
   },
-  "person-in-bed-dark-skin-tone": {
+  "🛌🏿": {
     name: "person-in-bed-dark-skin-tone",
     category: "diversity",
     unicode: "_1f6cc-1f3ff",
     htmlEntity: "&#x1F6CC;&#x1F3FF",
   },
-  "teddy-bear": {
+  "🧸": {
     name: "teddy-bear",
     category: "objects",
     unicode: "_1f9f8",
     htmlEntity: "&#x1F9F8",
   },
-  "framed-picture": {
+  "🖼": {
     name: "framed-picture",
     category: "objects",
     unicode: "_1f5bc",
     htmlEntity: "&#x1F5BC",
   },
-  "shopping-bags": {
+  "🛍": {
     name: "shopping-bags",
     category: "objects",
     unicode: "_1f6cd",
     htmlEntity: "&#x1F6CD",
   },
-  "shopping-cart": {
+  "🛒": {
     name: "shopping-cart",
     category: "objects",
     unicode: "_1f6d2",
     htmlEntity: "&#x1F6D2",
   },
-  "wrapped-gift": {
+  "🎁": {
     name: "wrapped-gift",
     category: "objects",
     unicode: "_1f381",
     htmlEntity: "&#x1F381",
   },
-  balloon: {
+  "🎈": {
     name: "balloon",
     category: "objects",
     unicode: "_1f388",
     htmlEntity: "&#x1F388",
   },
-  "carp-streamer": {
+  "🎏": {
     name: "carp-streamer",
     category: "objects",
     unicode: "_1f38f",
     htmlEntity: "&#x1F38F",
   },
-  ribbon: {
+  "🎀": {
     name: "ribbon",
     category: "objects",
     unicode: "_1f380",
     htmlEntity: "&#x1F380",
   },
-  "confetti-ball": {
+  "🎊": {
     name: "confetti-ball",
     category: "objects",
     unicode: "_1f38a",
     htmlEntity: "&#x1F38A",
   },
-  "party-popper": {
+  "🎉": {
     name: "party-popper",
     category: "objects",
     unicode: "_1f389",
     htmlEntity: "&#x1F389",
   },
-  piñata: {
+  "🪅": {
     name: "piñata",
     category: "objects",
     unicode: "_1fa85",
     htmlEntity: "&#x1FA85",
   },
-  "nesting-dolls": {
+  "🪆": {
     name: "nesting-dolls",
     category: "objects",
     unicode: "_1fa86",
     htmlEntity: "&#x1FA86",
   },
-  "japanese-dolls": {
+  "🎎": {
     name: "japanese-dolls",
     category: "objects",
     unicode: "_1f38e",
     htmlEntity: "&#x1F38E",
   },
-  "red-paper-lantern": {
+  "🏮": {
     name: "red-paper-lantern",
     category: "objects",
     unicode: "_1f3ee",
     htmlEntity: "&#x1F3EE",
   },
-  "wind-chime": {
+  "🎐": {
     name: "wind-chime",
     category: "objects",
     unicode: "_1f390",
     htmlEntity: "&#x1F390",
   },
-  "red-envelope": {
+  "🧧": {
     name: "red-envelope",
     category: "objects",
     unicode: "_1f9e7",
     htmlEntity: "&#x1F9E7",
   },
-  envelope: {
+  "✉": {
     name: "envelope",
     category: "objects",
     unicode: "_2709",
     htmlEntity: "&#x2709",
   },
-  "envelope-with-arrow": {
+  "📩": {
     name: "envelope-with-arrow",
     category: "objects",
     unicode: "_1f4e9",
     htmlEntity: "&#x1F4E9",
   },
-  "incoming-envelope": {
+  "📨": {
     name: "incoming-envelope",
     category: "objects",
     unicode: "_1f4e8",
     htmlEntity: "&#x1F4E8",
   },
-  "e-mail": {
+  "📧": {
     name: "e-mail",
     category: "objects",
     unicode: "_1f4e7",
     htmlEntity: "&#x1F4E7",
   },
-  "love-letter": {
+  "💌": {
     name: "love-letter",
     category: "objects",
     unicode: "_1f48c",
     htmlEntity: "&#x1F48C",
   },
-  "inbox-tray": {
+  "📥": {
     name: "inbox-tray",
     category: "objects",
     unicode: "_1f4e5",
     htmlEntity: "&#x1F4E5",
   },
-  "outbox-tray": {
+  "📤": {
     name: "outbox-tray",
     category: "objects",
     unicode: "_1f4e4",
     htmlEntity: "&#x1F4E4",
   },
-  package: {
+  "📦": {
     name: "package",
     category: "objects",
     unicode: "_1f4e6",
     htmlEntity: "&#x1F4E6",
   },
-  label: {
+  "🏷": {
     name: "label",
     category: "objects",
     unicode: "_1f3f7",
     htmlEntity: "&#x1F3F7",
   },
-  "closed-mailbox-with-lowered-flag": {
+  "📪": {
     name: "closed-mailbox-with-lowered-flag",
     category: "objects",
     unicode: "_1f4ea",
     htmlEntity: "&#x1F4EA",
   },
-  "closed-mailbox-with-raised-flag": {
+  "📫": {
     name: "closed-mailbox-with-raised-flag",
     category: "objects",
     unicode: "_1f4eb",
     htmlEntity: "&#x1F4EB",
   },
-  "open-mailbox-with-raised-flag": {
+  "📬": {
     name: "open-mailbox-with-raised-flag",
     category: "objects",
     unicode: "_1f4ec",
     htmlEntity: "&#x1F4EC",
   },
-  "open-mailbox-with-lowered-flag": {
+  "📭": {
     name: "open-mailbox-with-lowered-flag",
     category: "objects",
     unicode: "_1f4ed",
     htmlEntity: "&#x1F4ED",
   },
-  postbox: {
+  "📮": {
     name: "postbox",
     category: "objects",
     unicode: "_1f4ee",
     htmlEntity: "&#x1F4EE",
   },
-  "postal-horn": {
+  "📯": {
     name: "postal-horn",
     category: "objects",
     unicode: "_1f4ef",
     htmlEntity: "&#x1F4EF",
   },
-  placard: {
+  "🪧": {
     name: "placard",
     category: "objects",
     unicode: "_1faa7",
     htmlEntity: "&#x1FAA7",
   },
-  scroll: {
+  "📜": {
     name: "scroll",
     category: "objects",
     unicode: "_1f4dc",
     htmlEntity: "&#x1F4DC",
   },
-  "page-with-curl": {
+  "📃": {
     name: "page-with-curl",
     category: "objects",
     unicode: "_1f4c3",
     htmlEntity: "&#x1F4C3",
   },
-  "page-facing-up": {
+  "📄": {
     name: "page-facing-up",
     category: "objects",
     unicode: "_1f4c4",
     htmlEntity: "&#x1F4C4",
   },
-  "bookmark-tabs": {
+  "📑": {
     name: "bookmark-tabs",
     category: "objects",
     unicode: "_1f4d1",
     htmlEntity: "&#x1F4D1",
   },
-  receipt: {
+  "🧾": {
     name: "receipt",
     category: "objects",
     unicode: "_1f9fe",
     htmlEntity: "&#x1F9FE",
   },
-  "bar-chart": {
+  "📊": {
     name: "bar-chart",
     category: "objects",
     unicode: "_1f4ca",
     htmlEntity: "&#x1F4CA",
   },
-  "chart-increasing": {
+  "📈": {
     name: "chart-increasing",
     category: "objects",
     unicode: "_1f4c8",
     htmlEntity: "&#x1F4C8",
   },
-  "chart-decreasing": {
+  "📉": {
     name: "chart-decreasing",
     category: "objects",
     unicode: "_1f4c9",
     htmlEntity: "&#x1F4C9",
   },
-  "spiral-notepad": {
+  "🗒": {
     name: "spiral-notepad",
     category: "objects",
     unicode: "_1f5d2",
     htmlEntity: "&#x1F5D2",
   },
-  "spiral-calendar": {
+  "🗓": {
     name: "spiral-calendar",
     category: "objects",
     unicode: "_1f5d3",
     htmlEntity: "&#x1F5D3",
   },
-  "tear-off-calendar": {
+  "📆": {
     name: "tear-off-calendar",
     category: "objects",
     unicode: "_1f4c6",
     htmlEntity: "&#x1F4C6",
   },
-  calendar: {
+  "📅": {
     name: "calendar",
     category: "objects",
     unicode: "_1f4c5",
     htmlEntity: "&#x1F4C5",
   },
-  wastebasket: {
+  "🗑": {
     name: "wastebasket",
     category: "objects",
     unicode: "_1f5d1",
     htmlEntity: "&#x1F5D1",
   },
-  "card-index": {
+  "📇": {
     name: "card-index",
     category: "objects",
     unicode: "_1f4c7",
     htmlEntity: "&#x1F4C7",
   },
-  "card-file-box": {
+  "🗃": {
     name: "card-file-box",
     category: "objects",
     unicode: "_1f5c3",
     htmlEntity: "&#x1F5C3",
   },
-  "ballot-box-with-ballot": {
+  "🗳": {
     name: "ballot-box-with-ballot",
     category: "objects",
     unicode: "_1f5f3",
     htmlEntity: "&#x1F5F3",
   },
-  "file-cabinet": {
+  "🗄": {
     name: "file-cabinet",
     category: "objects",
     unicode: "_1f5c4",
     htmlEntity: "&#x1F5C4",
   },
-  clipboard: {
+  "📋": {
     name: "clipboard",
     category: "objects",
     unicode: "_1f4cb",
     htmlEntity: "&#x1F4CB",
   },
-  "file-folder": {
+  "📁": {
     name: "file-folder",
     category: "objects",
     unicode: "_1f4c1",
     htmlEntity: "&#x1F4C1",
   },
-  "open-file-folder": {
+  "📂": {
     name: "open-file-folder",
     category: "objects",
     unicode: "_1f4c2",
     htmlEntity: "&#x1F4C2",
   },
-  "card-index-dividers": {
+  "🗂": {
     name: "card-index-dividers",
     category: "objects",
     unicode: "_1f5c2",
     htmlEntity: "&#x1F5C2",
   },
-  "rolled-up-newspaper": {
+  "🗞": {
     name: "rolled-up-newspaper",
     category: "objects",
     unicode: "_1f5de",
     htmlEntity: "&#x1F5DE",
   },
-  newspaper: {
+  "📰": {
     name: "newspaper",
     category: "objects",
     unicode: "_1f4f0",
     htmlEntity: "&#x1F4F0",
   },
-  notebook: {
+  "📓": {
     name: "notebook",
     category: "objects",
     unicode: "_1f4d3",
     htmlEntity: "&#x1F4D3",
   },
-  "notebook-with-decorative-cover": {
+  "📔": {
     name: "notebook-with-decorative-cover",
     category: "objects",
     unicode: "_1f4d4",
     htmlEntity: "&#x1F4D4",
   },
-  ledger: {
+  "📒": {
     name: "ledger",
     category: "objects",
     unicode: "_1f4d2",
     htmlEntity: "&#x1F4D2",
   },
-  "closed-book": {
+  "📕": {
     name: "closed-book",
     category: "objects",
     unicode: "_1f4d5",
     htmlEntity: "&#x1F4D5",
   },
-  "green-book": {
+  "📗": {
     name: "green-book",
     category: "objects",
     unicode: "_1f4d7",
     htmlEntity: "&#x1F4D7",
   },
-  "blue-book": {
+  "📘": {
     name: "blue-book",
     category: "objects",
     unicode: "_1f4d8",
     htmlEntity: "&#x1F4D8",
   },
-  "orange-book": {
+  "📙": {
     name: "orange-book",
     category: "objects",
     unicode: "_1f4d9",
     htmlEntity: "&#x1F4D9",
   },
-  books: {
+  "📚": {
     name: "books",
     category: "objects",
     unicode: "_1f4da",
     htmlEntity: "&#x1F4DA",
   },
-  "open-book": {
+  "📖": {
     name: "open-book",
     category: "objects",
     unicode: "_1f4d6",
     htmlEntity: "&#x1F4D6",
   },
-  bookmark: {
+  "🔖": {
     name: "bookmark",
     category: "objects",
     unicode: "_1f516",
     htmlEntity: "&#x1F516",
   },
-  "safety-pin": {
+  "🧷": {
     name: "safety-pin",
     category: "objects",
     unicode: "_1f9f7",
     htmlEntity: "&#x1F9F7",
   },
-  link: {
+  "🔗": {
     name: "link",
     category: "objects",
     unicode: "_1f517",
     htmlEntity: "&#x1F517",
   },
-  paperclip: {
+  "📎": {
     name: "paperclip",
     category: "objects",
     unicode: "_1f4ce",
     htmlEntity: "&#x1F4CE",
   },
-  "linked-paperclips": {
+  "🖇": {
     name: "linked-paperclips",
     category: "objects",
     unicode: "_1f587",
     htmlEntity: "&#x1F587",
   },
-  "triangular-ruler": {
+  "📐": {
     name: "triangular-ruler",
     category: "objects",
     unicode: "_1f4d0",
     htmlEntity: "&#x1F4D0",
   },
-  "straight-ruler": {
+  "📏": {
     name: "straight-ruler",
     category: "objects",
     unicode: "_1f4cf",
     htmlEntity: "&#x1F4CF",
   },
-  abacus: {
+  "🧮": {
     name: "abacus",
     category: "objects",
     unicode: "_1f9ee",
     htmlEntity: "&#x1F9EE",
   },
-  pushpin: {
+  "📌": {
     name: "pushpin",
     category: "objects",
     unicode: "_1f4cc",
     htmlEntity: "&#x1F4CC",
   },
-  "round-pushpin": {
+  "📍": {
     name: "round-pushpin",
     category: "objects",
     unicode: "_1f4cd",
     htmlEntity: "&#x1F4CD",
   },
-  scissors: {
+  "✂": {
     name: "scissors",
     category: "objects",
     unicode: "_2702",
     htmlEntity: "&#x2702",
   },
-  pen: {
+  "🖊": {
     name: "pen",
     category: "objects",
     unicode: "_1f58a",
     htmlEntity: "&#x1F58A",
   },
-  "fountain-pen": {
+  "🖋": {
     name: "fountain-pen",
     category: "objects",
     unicode: "_1f58b",
     htmlEntity: "&#x1F58B",
   },
-  "black-nib": {
+  "✒": {
     name: "black-nib",
     category: "objects",
     unicode: "_2712",
     htmlEntity: "&#x2712",
   },
-  paintbrush: {
+  "🖌": {
     name: "paintbrush",
     category: "objects",
     unicode: "_1f58c",
     htmlEntity: "&#x1F58C",
   },
-  crayon: {
+  "🖍": {
     name: "crayon",
     category: "objects",
     unicode: "_1f58d",
     htmlEntity: "&#x1F58D",
   },
-  memo: {
+  "📝": {
     name: "memo",
     category: "objects",
     unicode: "_1f4dd",
     htmlEntity: "&#x1F4DD",
   },
-  pencil: {
+  "✏": {
     name: "pencil",
     category: "objects",
     unicode: "_270f",
     htmlEntity: "&#x270F",
   },
-  "magnifying-glass-tilted-left": {
+  "🔍": {
     name: "magnifying-glass-tilted-left",
     category: "objects",
     unicode: "_1f50d",
     htmlEntity: "&#x1F50D",
   },
-  "magnifying-glass-tilted-right": {
+  "🔎": {
     name: "magnifying-glass-tilted-right",
     category: "objects",
     unicode: "_1f50e",
     htmlEntity: "&#x1F50E",
   },
-  "locked-with-pen": {
+  "🔏": {
     name: "locked-with-pen",
     category: "objects",
     unicode: "_1f50f",
     htmlEntity: "&#x1F50F",
   },
-  "locked-with-key": {
+  "🔐": {
     name: "locked-with-key",
     category: "objects",
     unicode: "_1f510",
     htmlEntity: "&#x1F510",
   },
-  locked: {
+  "🔒": {
     name: "locked",
     category: "objects",
     unicode: "_1f512",
     htmlEntity: "&#x1F512",
   },
-  unlocked: {
+  "🔓": {
     name: "unlocked",
     category: "objects",
     unicode: "_1f513",

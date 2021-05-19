@@ -9,7 +9,7 @@ export default {
 };
 
 export const withPrimary = () => {
-  const type = select("Emoji", ALL_NAMES, "grinning-face");
+  const type = select("Emoji", ALL_NAMES, "😀");
   const size = select("Size", [24, 32], 24);
 
   return <Emoji type={type} size={size} />;
