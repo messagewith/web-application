@@ -1,6 +1,6 @@
 import { Language } from "../types/language";
 
-export const de: Language = {
+export const deDE: Language = {
   form: {
     email: "E-Mail",
     password: "Passwort",

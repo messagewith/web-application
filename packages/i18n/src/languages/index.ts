@@ -1,32 +1,32 @@
 import { IsoCode } from "../types/isoCode";
 import { Language } from "../types/language";
-import { en } from "./en";
-import { pl } from "./pl";
-import { de } from "./de";
+import { EN_US } from "./en-US";
+import { PL_PL, } from "./pl-PL";
+import { deDE } from "./de-DE";
 
 export const languages: { [isoCode in IsoCode]: Language } = {
-  [IsoCode.BG]: en,
-  [IsoCode.CN]: en,
-  [IsoCode.CZ]: en,
-  [IsoCode.DK]: en,
-  [IsoCode.NL]: en,
-  [IsoCode.EE]: en,
-  [IsoCode.EN]: en,
-  [IsoCode.FI]: en,
-  [IsoCode.FR]: en,
-  [IsoCode.DE]: de,
-  [IsoCode.GR]: en,
-  [IsoCode.HU]: en,
-  [IsoCode.IT]: en,
-  [IsoCode.JP]: en,
-  [IsoCode.LV]: en,
-  [IsoCode.LT]: en,
-  [IsoCode.PL]: pl,
-  [IsoCode.PT]: en,
-  [IsoCode.RO]: en,
-  [IsoCode.RU]: en,
-  [IsoCode.SK]: en,
-  [IsoCode.SI]: en,
-  [IsoCode.ES]: en,
-  [IsoCode.SE]: en,
+  [IsoCode.BG]: EN_US,
+  [IsoCode.CN]: EN_US,
+  [IsoCode.CZ]: EN_US,
+  [IsoCode.DK]: EN_US,
+  [IsoCode.NL]: EN_US,
+  [IsoCode.EE]: EN_US,
+  [IsoCode.EN_US]: EN_US,
+  [IsoCode.FI]: EN_US,
+  [IsoCode.FR]: EN_US,
+  [IsoCode.DE_DE]: deDE,
+  [IsoCode.GR]: EN_US,
+  [IsoCode.HU]: EN_US,
+  [IsoCode.IT]: EN_US,
+  [IsoCode.JP]: EN_US,
+  [IsoCode.LV]: EN_US,
+  [IsoCode.LT]: EN_US,
+  [IsoCode.PL_PL]: PL_PL,
+  [IsoCode.PT]: EN_US,
+  [IsoCode.RO]: EN_US,
+  [IsoCode.RU]: EN_US,
+  [IsoCode.SK]: EN_US,
+  [IsoCode.SI]: EN_US,
+  [IsoCode.ES]: EN_US,
+  [IsoCode.SE]: EN_US,
 };

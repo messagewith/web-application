@@ -26,7 +26,7 @@ export const AVAILABLE_LANGUAGES: AvailableLanguages = {
     englishName: "Estonian",
     regionalName: "Eesti",
   },
-  [IsoCode.EN]: {
+  [IsoCode.EN_US]: {
     englishName: "English",
     regionalName: "English",
   },
@@ -38,7 +38,7 @@ export const AVAILABLE_LANGUAGES: AvailableLanguages = {
     englishName: "French",
     regionalName: "Français",
   },
-  [IsoCode.DE]: {
+  [IsoCode.DE_DE]: {
     englishName: "German",
     regionalName: "Deutsch",
   },
@@ -66,7 +66,7 @@ export const AVAILABLE_LANGUAGES: AvailableLanguages = {
     englishName: "Lithuanian",
     regionalName: "Lietuvių kalba",
   },
-  [IsoCode.PL]: {
+  [IsoCode.PL_PL]: {
     englishName: "Polish",
     regionalName: "Polski",
   },

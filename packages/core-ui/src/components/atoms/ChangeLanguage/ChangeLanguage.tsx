@@ -28,30 +28,30 @@ import skFlag from "@iconify/icons-emojione/flag-for-slovakia";
 import siFlag from "@iconify/icons-emojione/flag-for-slovenia";
 import esFlag from "@iconify/icons-emojione/flag-for-spain";
 import seFlag from "@iconify/icons-emojione/flag-for-sweden";
-import enFlag from "@iconify/icons-emojione/flag-for-united-states";
+import usFlag from "@iconify/icons-emojione/flag-for-united-states";
 import bxsDownArrow from "@iconify/icons-bx/bxs-down-arrow";
 import Icon from "@iconify/react";
 import { rgba } from "polished";
 import { useOutsideClick } from "rooks";
 
-const flags: { [isoCode in IsoCode]: typeof enFlag } = {
+const flags: { [isoCode in IsoCode]: typeof usFlag } = {
   [IsoCode.BG]: bgFlag,
   [IsoCode.CN]: cnFlag,
   [IsoCode.CZ]: czFlag,
   [IsoCode.DK]: dkFlag,
   [IsoCode.NL]: nlFlag,
-  [IsoCode.EN]: enFlag,
+  [IsoCode.EN_US]: usFlag,
   [IsoCode.EE]: eeFlag,
   [IsoCode.FI]: fiFlag,
   [IsoCode.FR]: frFlag,
-  [IsoCode.DE]: deFlag,
+  [IsoCode.DE_DE]: deFlag,
   [IsoCode.GR]: grFlag,
   [IsoCode.HU]: huFlag,
   [IsoCode.IT]: itFlag,
   [IsoCode.JP]: jpFlag,
   [IsoCode.LV]: lvFlag,
   [IsoCode.LT]: ltFlag,
-  [IsoCode.PL]: plFlag,
+  [IsoCode.PL_PL]: plFlag,
   [IsoCode.PT]: ptFlag,
   [IsoCode.RO]: roFlag,
   [IsoCode.RU]: ruFlag,
