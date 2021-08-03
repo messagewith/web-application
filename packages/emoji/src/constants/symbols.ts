@@ -668,7 +668,7 @@ export const SYMBOLS: EmojiInformation = {
     htmlEntity: "&#x1F531",
   },
   "⚜": {
-    name: "fleur-deDE-lis",
+    name: "fleur-de-lis",
     category: "symbols",
     unicode: "_269c",
     htmlEntity: "&#x269C",
