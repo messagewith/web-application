@@ -1,22 +1,11 @@
 import React, { FC } from "react";
-import styled, { css, keyframes } from "styled-components";
+import styled, { css } from "styled-components";
 import Icon from "@iconify/react";
 import googleIcon from "@iconify/icons-logos/google-icon";
 import facebookIcon from "@iconify/icons-logos/facebook";
 import githubIcon from "@iconify/icons-logos/github-icon";
-import { useButtonEffects } from "./useButtonEffects";
-
-const rippleAnimation = keyframes`
-  0% {
-    opacity: 0.6;
-    transform: scale(0);
-  }
-  
-  100% {
-    opacity: 0;
-    transform: scale(1);
-  }
-`;
+import { useButtonEffects } from "../../../hooks/useButtonEffects";
+import { rippleDefaultStyles } from "../../../theme/rippleDefaultStyles";
 
 const StyledWrapper = styled.button<{
   $type: ButtonType;
@@ -112,14 +101,7 @@ const StyledWrapper = styled.button<{
       $type === "primary" || $type === "confirm" ? "130px" : "260px"};
     height: ${({ $type }) =>
       $type === "primary" || $type === "confirm" ? "130px" : "260px"};
-    position: absolute;
-    background: #fff;
-    border-radius: 50%;
-    transform: scale(0);
-    pointer-events: none;
-    opacity: 0;
-    animation: ${rippleAnimation} 0.6s ease-out;
-    transform-origin: center center;
+    ${rippleDefaultStyles};
   }
 `;
 
