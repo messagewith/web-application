@@ -4,11 +4,14 @@ import Icon from "@iconify/react";
 import googleIcon from "@iconify/icons-logos/google-icon";
 import facebookIcon from "@iconify/icons-logos/facebook";
 import githubIcon from "@iconify/icons-logos/github-icon";
+import loadingIcon from "@iconify/icons-bx/bx-loader-alt";
 import { useButtonEffects } from "../../../hooks/useButtonEffects";
 import { rippleDefaultStyles } from "../../../theme/rippleDefaultStyles";
+import { loadingAnimation } from "../../../theme/animations";
 
 const StyledWrapper = styled.button<{
   $type: ButtonType;
+  $isLoading: boolean;
 }>`
   height: 35px;
   border: 0;
@@ -64,14 +67,6 @@ const StyledWrapper = styled.button<{
   ${({ $type }) =>
     $type === "social" &&
     css`
-      display: flex;
-      align-items: center;
-      justify-content: center;
-
-      span {
-        margin-right: auto;
-      }
-
       background: ${({ theme }) => theme.background};
       color: ${({ theme }) => theme.foreground};
       font-weight: 500;
@@ -96,6 +91,57 @@ const StyledWrapper = styled.button<{
       height: 40px;
     `}
   
+  ${({ $isLoading, $type }) => {
+    const allStyles = `cursor: default;`;
+
+    if (!$isLoading) return css``;
+
+    if ($type === "primary" || $type === "secondary")
+      return css`
+        ${allStyles};
+
+        :hover {
+          background: ${({ theme }) => theme.primary};
+        }
+
+        :active {
+          transform: scale(1);
+          background: ${({ theme }) => theme.primary};
+        }
+      `;
+
+    if ($type === "tertiary" || $type === "confirm")
+      return css`
+        ${allStyles};
+
+        :hover {
+          background: ${({ theme }) => theme.secondary};
+        }
+
+        :active {
+          transform: scale(1);
+          background: ${({ theme }) => theme.secondary};
+          box-shadow: ${({ theme }) => theme.boxShadow};
+        }
+      `;
+
+    if ($type === "social")
+      return css`
+        ${allStyles};
+
+        :hover {
+          background: ${({ theme }) => theme.background};
+        }
+
+        :active {
+          transform: scale(1);
+          background: ${({ theme }) => theme.background};
+        }
+      `;
+
+    return css``;
+  }}
+  
   .ripple {
     width: ${({ $type }) =>
       $type === "primary" || $type === "confirm" ? "130px" : "260px"};
@@ -105,9 +151,48 @@ const StyledWrapper = styled.button<{
   }
 `;
 
+const StyledInnerWrapper = styled.div<{
+  $isLoading: boolean;
+  $isSocial: boolean;
+}>`
+  transition: opacity 0.2s ease-in-out, transform 0.2s ease-in-out;
+
+  ${({ $isSocial }) =>
+    $isSocial &&
+    css`
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      span {
+        margin-right: auto;
+      }
+    `}
+
+  ${({ $isLoading }) =>
+    $isLoading &&
+    css`
+      opacity: 0;
+      transform: scale(0.6);
+      pointer-events: none;
+    `}
+`;
+
 const StyledIcon = styled(Icon)`
   margin-right: auto;
   font-size: 2.5rem;
+`;
+
+const StyledLoadingIcon = styled(Icon)`
+  stroke: #fff !important;
+  left: 50%;
+  top: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%) !important;
+  z-index: 10;
+  display: block;
+  transform-origin: top left;
+  animation: 1s ${loadingAnimation} linear infinite;
 `;
 
 const getIcon = (socialType?: SocialType): typeof facebookIcon => {
@@ -129,6 +214,7 @@ export const Button: FC<Props> = ({
   type = "primary",
   socialType = "github",
   onClick,
+  isLoading = false,
 }) => {
   const { ...mouseEvents } = useButtonEffects({
     rippleWidth: type === "primary" || type === "confirm" ? 130 : undefined,
@@ -138,11 +224,15 @@ export const Button: FC<Props> = ({
     <StyledWrapper
       className={className as string}
       $type={type}
-      onClick={onClick}
-      {...mouseEvents}
+      onClick={!isLoading ? onClick : undefined}
+      $isLoading={isLoading}
+      {...(!isLoading ? mouseEvents : {})}
     >
-      {type === "social" && <StyledIcon icon={getIcon(socialType)} />}
-      <span>{children}</span>
+      <StyledInnerWrapper $isLoading={isLoading} $isSocial={type === "social"}>
+        {type === "social" && <StyledIcon icon={getIcon(socialType)} />}
+        <span>{children}</span>
+      </StyledInnerWrapper>
+      {isLoading && <StyledLoadingIcon icon={loadingIcon} />}
     </StyledWrapper>
   );
 };
@@ -155,4 +245,5 @@ interface Props {
   className?: string;
   socialType?: SocialType;
   onClick?: React.MouseEventHandler<HTMLButtonElement>;
+  isLoading?: boolean;
 }
