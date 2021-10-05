@@ -107,6 +107,7 @@ const StyledWrapper = styled.button<{
         :active {
           transform: scale(1);
           background: ${({ theme }) => theme.primary};
+          box-shadow: unset;
         }
       `;
 
