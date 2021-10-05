@@ -19,6 +19,7 @@
     "moduleResolution": "Node",
     "resolveJsonModule": true,
     "isolatedModules": true,
+    "downlevelIteration": true
   },
   "include": ["src"]
 }

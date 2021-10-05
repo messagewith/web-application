@@ -18,6 +18,7 @@ export const theme: DefaultTheme = {
   washMedium: "#DCDCDC",
   washHeavy: "#959595",
   washSuperHeavy: "#575757",
+  myMessage: "#F7F4F0",
 
   available: "#38C78A",
 

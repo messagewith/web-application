@@ -1,5 +1,7 @@
 import { ThemeProvider } from "styled-components";
 import { I18nProvider } from "@messagewith/i18n";
+import "@messagewith/emoji/lib/joypixels/joypixels-sprite-24.min.css";
+import "@messagewith/emoji/lib/joypixels/joypixels-sprite-32.min.css";
 import { theme } from "../src/theme/theme";
 import { GlobalStyles } from "../src/theme/GlobalStyles";
 
