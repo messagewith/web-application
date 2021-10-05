@@ -12,3 +12,4 @@ export * from "./constants/travelAndPlaces";
 
 export * from "./types/emojiType";
 export * from "./types/emojiInformation";
+export * from "./utils";
