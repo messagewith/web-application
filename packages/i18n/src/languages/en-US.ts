@@ -22,4 +22,7 @@ export const EN_US: Language = {
       confirm: "Ok, I’ll be waiting",
     },
   },
+  time: {
+    yesterday: "Yesterday",
+  },
 };

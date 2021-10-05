@@ -19,4 +19,7 @@ export interface Language {
       confirm: string;
     };
   };
+  time: {
+    yesterday: string;
+  };
 }

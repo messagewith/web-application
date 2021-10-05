@@ -23,4 +23,7 @@ export const deDE: Language = {
       confirm: "Ok, ich warte",
     },
   },
+  time: {
+    yesterday: "Gestern",
+  },
 };

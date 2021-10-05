@@ -23,4 +23,7 @@ export const PL_PL: Language = {
         "Pracujemy nad tym, aby ta funkcja działała. Bądź cierpliwy :)",
     },
   },
+  time: {
+    yesterday: "Wczoraj",
+  },
 };
