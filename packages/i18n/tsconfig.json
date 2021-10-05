@@ -2,7 +2,7 @@
   "compilerOptions": {
     "esModuleInterop": true,
     "jsx": "react",
-    "baseUrl": "./I18nProvider.tsx/",
+    "baseUrl": "./",
     "strict": true,
     "skipLibCheck": true,
     "target": "ES5",
