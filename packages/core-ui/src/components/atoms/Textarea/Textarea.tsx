@@ -29,11 +29,12 @@ const StyledLabel = styled.span`
   left: 10px;
   top: 10px;
   pointer-events: none;
-  transform-origin: left top;
-  transition: 0.2s transform ease-in-out;
+  transform-origin: left center;
+  transition: 0.2s transform ease-in-out, opacity 0.2s ease-in-out;
 
   ${StyledTextarea}:not(:placeholder-shown) ~ & {
-    transform: scale(0.6) translateY(-200%);
+    transform: scale(0.6);
+    opacity: 0;
   }
 `;
 
