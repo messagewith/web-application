@@ -2,7 +2,7 @@
   "compilerOptions": {
     "esModuleInterop": true,
     "jsx": "react",
-    "baseUrl": "./src/",
+    "baseUrl": "./",
     "strict": true,
     "skipLibCheck": true,
     "target": "ES5",
@@ -19,6 +19,8 @@
     "moduleResolution": "Node",
     "resolveJsonModule": true,
     "isolatedModules": true,
+    "declaration": true,
   },
-  "include": ["src"]
+  "include": ["src"],
+  "exclude": ["lib",],
 }

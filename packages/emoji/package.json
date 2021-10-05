@@ -1,11 +1,12 @@
 {
   "name": "@messagewith/emoji",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A set of icons used in Messagewith wrapped in React components to make them easier to use",
   "author": "Jakub Chmielewski <jakubchmielewski80@gmail.com>",
   "homepage": "https://github.com/messagewith/messagewith#readme",
   "license": "GPL-3.0",
   "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "directories": {
     "lib": "lib"
   },
@@ -20,7 +21,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
-    "prepublish": "tsc --project tsconfig.json"
+    "prepublish": "tsc --project tsconfig.json && cp -r src/joypixels lib"
   },
   "bugs": {
     "url": "https://github.com/messagewith/messagewith/issues"
