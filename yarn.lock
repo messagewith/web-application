@@ -12609,6 +12609,12 @@ unbox-primitive@^1.0.0:
     has-symbols "^1.0.2"
     which-boxed-primitive "^1.0.2"
 
+"undefined@file:packages/emoji":
+  version "0.1.0"
+  dependencies:
+    styled-components "^5.3.0"
+    undefined "file:packages/emoji"
+
 unfetch@^4.2.0:
   version "4.2.0"
   resolved "https://registry.yarnpkg.com/unfetch/-/unfetch-4.2.0.tgz#7e21b0ef7d363d8d9af0fb929a5555f6ef97a3be"
