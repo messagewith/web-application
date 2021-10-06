@@ -107,7 +107,7 @@ const StyledNavigationItemNotificationsCount = styled.div`
   }
 `;
 
-const Navigation: FC<Props> = ({ newMessages, notifications }) => {
+export const Navigation: FC<Props> = ({ newMessages, notifications }) => {
   const displayCount = (count: number): string =>
     count > 99 ? "<span>+99</span>" : count.toString();
 
@@ -161,5 +161,3 @@ interface Props {
   newMessages?: number;
   notifications?: number;
 }
-
-export default Navigation;

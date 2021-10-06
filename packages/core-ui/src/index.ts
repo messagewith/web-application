@@ -13,6 +13,7 @@ export * from "./components/molecules/ChatMessage/ChatMessage";
 export * from "./components/molecules/ChatTextarea/ChatTextarea";
 export * from "./components/molecules/ChatUser/ChatUser";
 export * from "./components/molecules/FunctionNotAvailable/FunctionNotAvailable";
+export * from "./components/molecules/Navigation/Navigation";
 
 // Theme
 
