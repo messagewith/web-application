@@ -13,7 +13,7 @@ const StyledWrapper = styled.div<{ $color?: string }>`
 
 const StyledIcon = styled(Icon)<{ $isBig: boolean }>`
   font-size: ${({ $isBig }) => ($isBig ? "4rem" : "5rem")};
-  margin-right: 22px;
+  margin-right: ${({ $isBig }) => ($isBig ? "22px" : "0")};
 `;
 
 export const Logo: FC<Props> = ({ onlyIcon, color }) => (
