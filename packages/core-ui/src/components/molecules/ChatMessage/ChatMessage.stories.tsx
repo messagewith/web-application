@@ -5,6 +5,7 @@ import { ChatMessage } from "./ChatMessage";
 
 export default {
   title: "molecules/ChatMessage",
+  component: ChatMessage,
 };
 
 export const Primary: Story = () => {

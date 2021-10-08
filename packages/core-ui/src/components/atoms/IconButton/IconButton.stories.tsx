@@ -1,10 +1,13 @@
 import React from "react";
 import { Story } from "@storybook/react";
-import settingsIcon from '@iconify/icons-ph/gear-bold';
+import settingsIcon from "@iconify/icons-ph/gear-bold";
 import { IconButton } from "./IconButton";
 
 export default {
   title: "atoms/IconButton",
+  component: IconButton,
 };
 
-export const Primary: Story = () => <IconButton icon={settingsIcon} label="settings" />;
+export const Primary: Story = () => (
+  <IconButton icon={settingsIcon} label="settings" />
+);

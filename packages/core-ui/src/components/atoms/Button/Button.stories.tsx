@@ -7,6 +7,7 @@ import { Button } from "./Button";
 export default {
   title: "atoms/Button",
   decorators: [withKnobs],
+  component: Button,
 };
 
 const StyledSecondaryButton = styled(Button)`

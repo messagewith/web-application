@@ -1,12 +1,14 @@
 import React from "react";
 import { boolean } from "@storybook/addon-knobs";
+import { Story } from "@storybook/react";
 import { AccountProfilePicture } from "./AccountProfilePicture";
 
 export default {
   title: "atoms/AccountProfilePicture",
+  component: AccountProfilePicture,
 };
 
-export const Primary = () => {
+export const Primary: Story = () => {
   const isActive = boolean("is user active", false);
 
   return (

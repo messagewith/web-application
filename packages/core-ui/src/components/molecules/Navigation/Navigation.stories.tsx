@@ -1,10 +1,11 @@
 import React from "react";
 import { Story } from "@storybook/react";
 import { number } from "@storybook/addon-knobs";
-import Navigation from "./Navigation";
+import { Navigation } from "./Navigation";
 
 export default {
   title: "molecules/Navigation",
+  component: Navigation,
 };
 
 export const Primary: Story = () => {

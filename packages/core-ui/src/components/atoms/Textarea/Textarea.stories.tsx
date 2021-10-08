@@ -5,6 +5,7 @@ import { Textarea } from "./Textarea";
 
 export default {
   title: "atoms/Textarea",
+  component: Textarea,
 };
 
 const StyledTextarea = styled(Textarea)`
