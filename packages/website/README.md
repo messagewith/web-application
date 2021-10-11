@@ -1,11 +1,6 @@
-# `website`
+# `@messagewith/website`
 
-> TODO: description
+Messagewith web application
 
-## Usage
-
-```
-const website = require('website');
-
-// TODO: DEMONSTRATE API
-```
+## License
+This package is distributed under the [GPL-3.0 License](https://github.com/messagewith/messagewith/blob/main/LICENSE).

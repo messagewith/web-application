@@ -13,6 +13,9 @@ The Open Source, Private social media for everyone.
 
   A set of icons used in Messagewith wrapped in React components to make them easier to use
 
+- [@messagewith/website](https://github.com/messagewith/messagewith/tree/main/packages/website)
+  
+  Messagewith web application
 ## Some preliminary graphics
 
 ![Home](https://github.com/messagewith/messagewith/blob/main/assets/home.png?raw=true)
