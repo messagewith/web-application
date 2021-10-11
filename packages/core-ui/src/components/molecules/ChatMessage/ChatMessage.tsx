@@ -98,6 +98,7 @@ export const ChatMessage: FC<Props> = ({
   isRead,
   shouldDisplayStatus,
   isSent,
+  className,
 }) => {
   const { isoCode, text } = useTranslation();
   const message = parseMessage(content);
@@ -105,7 +106,7 @@ export const ChatMessage: FC<Props> = ({
   const messageTime = getMessageTime(time, isoCode, text);
 
   return (
-    <StyledWrapper>
+    <StyledWrapper className={className}>
       {!isFriend && (
         <StyledTime $isFriend={!!isFriend}>{messageTime}</StyledTime>
       )}
@@ -141,4 +142,5 @@ interface Props {
   isRead?: boolean;
   isSent?: boolean;
   shouldDisplayStatus?: boolean;
+  className?: string;
 }

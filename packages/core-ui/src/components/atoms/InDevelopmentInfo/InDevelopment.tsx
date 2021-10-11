@@ -27,8 +27,12 @@ const StyledIcon = styled(Icon)`
   }
 `;
 
-export const InDevelopment: FC<Props> = ({ children, githubLink }) => (
-  <StyledWrapper href={githubLink}>
+export const InDevelopment: FC<Props> = ({
+  children,
+  githubLink,
+  className,
+}) => (
+  <StyledWrapper href={githubLink} className={className}>
     <StyledIcon icon={githubIcon} />
     <StyledVersionWrapper>{children}</StyledVersionWrapper>
   </StyledWrapper>
@@ -36,4 +40,5 @@ export const InDevelopment: FC<Props> = ({ children, githubLink }) => (
 
 interface Props {
   githubLink: string;
+  className?: string;
 }

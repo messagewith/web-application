@@ -1,4 +1,4 @@
-import React, { FC } from "react";
+import React, { ChangeEventHandler, FC, MouseEventHandler } from "react";
 import styled from "styled-components";
 
 const StyledWrapper = styled.label`
@@ -34,14 +34,34 @@ const StyledText = styled.span`
   }
 `;
 
-export const Input: FC<Props> = ({ className, type = "text" }) => (
+export const Input: FC<Props> = ({
+  className,
+  type = "text",
+  name,
+  value,
+  placeholder,
+  onClick,
+  onChange,
+}) => (
   <StyledWrapper className={className}>
-    <StyledInput name="email" placeholder=" " type={type} />
-    <StyledText>E-mail</StyledText>
+    <StyledInput
+      placeholder=" "
+      type={type}
+      name={name}
+      value={value}
+      onClick={onClick}
+      onChange={onChange}
+    />
+    <StyledText>{placeholder}</StyledText>
   </StyledWrapper>
 );
 
 interface Props {
   className?: string;
   type?: "text" | "password" | "email";
+  placeholder?: string;
+  name?: string;
+  value?: string;
+  onClick?: MouseEventHandler<HTMLInputElement>;
+  onChange?: ChangeEventHandler<HTMLInputElement>;
 }

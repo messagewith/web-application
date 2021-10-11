@@ -1,11 +1,12 @@
 {
   "name": "@messagewith/core-ui",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "> TODO: description",
   "author": "Jakub Chmielewski <jakubchmielewski80@gmail.com>",
   "homepage": "https://github.com/messagewith/messagewith/tree/main/packages/core-ui",
   "license": "GPL-3.0",
   "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "directories": {
     "lib": "lib"
   },
@@ -16,13 +17,14 @@
     "test": "echo \"Error: run tests from root\" && exit 1",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
-    "prepublish": "tsc --project tsconfig.json"
+    "prepublish": "tsc --project tsconfig-build.json"
   },
   "dependencies": {
     "@iconify/icons-ic": "^1.1.11",
     "@iconify/icons-la": "^1.1.0",
     "@messagewith/emoji": "^0.2.0",
     "@messagewith/i18n": "^0.1.0",
+    "@typescript-eslint/parser": "^4.33.0",
     "moment": "^2.29.1",
     "polished": "^4.1.2",
     "rooks": "^5.0.2"

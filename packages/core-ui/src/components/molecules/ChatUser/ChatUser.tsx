@@ -89,11 +89,16 @@ const StyledCount = styled.div`
   margin-left: auto;
 `;
 
-export const ChatUser: FC<Props> = ({ user, latestMessage, isActive }) => {
+export const ChatUser: FC<Props> = ({
+  user,
+  latestMessage,
+  isActive,
+  className,
+}) => {
   const isNotReaded = latestMessage.count > 0;
 
   return (
-    <StyledWrapper $isActive={isActive}>
+    <StyledWrapper $isActive={isActive} className={className}>
       <AccountProfilePicture picture={user.profilePicture} name={user.name} />
       <div>
         <StyledName>{user.name}</StyledName>
@@ -126,4 +131,5 @@ interface Props {
     time: number;
   };
   isActive?: boolean;
+  className?: string;
 }

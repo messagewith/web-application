@@ -12,4 +12,6 @@ const StyledInput = styled(Input)`
   width: 410px;
 `;
 
-export const Primary: Story = () => <StyledInput type="text" />;
+export const Primary: Story = () => (
+  <StyledInput type="text" placeholder="E-mail" />
+);

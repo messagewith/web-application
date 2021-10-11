@@ -81,12 +81,16 @@ const StyledParagraph = styled.p`
 
 const StyledButton = styled(Button)``;
 
-export const FunctionNotAvailable: FC<Props> = ({ isActive, onClose }) => {
+export const FunctionNotAvailable: FC<Props> = ({
+  isActive,
+  onClose,
+  className,
+}) => {
   const { text } = useTranslation();
 
   return (
     <CSSTransition in={isActive} timeout={400} unmountOnExit>
-      <StyledWrapper>
+      <StyledWrapper className={className}>
         <StyledAlert role="alert">
           <StyledHeadline
             dangerouslySetInnerHTML={{
@@ -108,4 +112,5 @@ export const FunctionNotAvailable: FC<Props> = ({ isActive, onClose }) => {
 interface Props {
   isActive: boolean;
   onClose: () => void;
+  className?: string;
 }
