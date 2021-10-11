@@ -9,7 +9,7 @@ export const PL_PL: Language = {
     logInGoogle: "Zaloguj się za pomocą Google",
     logInFacebook: "Zaloguj się za pomocą Facebooka",
     register: "Zarejestruj się",
-    forgottenPassword: "Zapomniałeś hasło?",
+    forgottenPassword: "Zapomniałeś hasła?",
   },
   headings: {
     slogan:
