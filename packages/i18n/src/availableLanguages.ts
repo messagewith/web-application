@@ -2,39 +2,43 @@ import { IsoCode } from "./types/isoCode";
 import { AvailableLanguages } from "./types/availableLanguages";
 
 export const AVAILABLE_LANGUAGES: AvailableLanguages = {
-  [IsoCode.BG]: {
+  [IsoCode.BG_BG]: {
     englishName: "Bulgarian",
     regionalName: "Български",
   },
-  [IsoCode.CN]: {
-    englishName: "Chinese",
+  [IsoCode.ZH_CN]: {
+    englishName: "Chinese (Simplified)",
     regionalName: "中国",
   },
-  [IsoCode.CZ]: {
+  [IsoCode.CS_CZ]: {
     englishName: "Czech",
     regionalName: "Česky",
   },
-  [IsoCode.DK]: {
+  [IsoCode.DA_DK]: {
     englishName: "Danish",
     regionalName: "Dansk",
   },
-  [IsoCode.NL]: {
+  [IsoCode.NL_NL]: {
     englishName: "Dutch",
     regionalName: "Nederlands",
   },
-  [IsoCode.EE]: {
+  [IsoCode.ET_EE]: {
     englishName: "Estonian",
     regionalName: "Eesti",
   },
   [IsoCode.EN_US]: {
-    englishName: "English",
-    regionalName: "English",
+    englishName: "English (American)",
+    regionalName: "English (American)",
   },
-  [IsoCode.FI]: {
+  [IsoCode.EN_UK]: {
+    englishName: "English (British)",
+    regionalName: "English (British)",
+  },
+  [IsoCode.FI_FI]: {
     englishName: "Finnish",
     regionalName: "Suomalainen",
   },
-  [IsoCode.FR]: {
+  [IsoCode.FR_FR]: {
     englishName: "French",
     regionalName: "Français",
   },
@@ -42,27 +46,27 @@ export const AVAILABLE_LANGUAGES: AvailableLanguages = {
     englishName: "German",
     regionalName: "Deutsch",
   },
-  [IsoCode.GR]: {
+  [IsoCode.EL_GR]: {
     englishName: "Greek",
     regionalName: "Ελληνική",
   },
-  [IsoCode.HU]: {
+  [IsoCode.HU_HU]: {
     englishName: "Hungarian",
     regionalName: "Magyar",
   },
-  [IsoCode.IT]: {
+  [IsoCode.IT_IT]: {
     englishName: "Italian",
     regionalName: "Olasz",
   },
-  [IsoCode.JP]: {
+  [IsoCode.JA_JP]: {
     englishName: "Japanese",
     regionalName: "日本語",
   },
-  [IsoCode.LV]: {
+  [IsoCode.LV_LV]: {
     englishName: "Latvian",
     regionalName: "Latviešu",
   },
-  [IsoCode.LT]: {
+  [IsoCode.LT_LT]: {
     englishName: "Lithuanian",
     regionalName: "Lietuvių kalba",
   },
@@ -70,31 +74,35 @@ export const AVAILABLE_LANGUAGES: AvailableLanguages = {
     englishName: "Polish",
     regionalName: "Polski",
   },
-  [IsoCode.PT]: {
+  [IsoCode.PT_PT]: {
     englishName: "Portuguese",
     regionalName: "Português",
   },
-  [IsoCode.RO]: {
+  [IsoCode.PT_BR]: {
+    englishName: "Portuguese (Brazilian)",
+    regionalName: "Português (brasileiro)",
+  },
+  [IsoCode.RO_RO]: {
     englishName: "Romanian",
     regionalName: "Românesc",
   },
-  [IsoCode.RU]: {
+  [IsoCode.RU_RU]: {
     englishName: "Russian",
     regionalName: "Русский",
   },
-  [IsoCode.SK]: {
+  [IsoCode.SK_SK]: {
     englishName: "Slovak",
     regionalName: "Slovenská",
   },
-  [IsoCode.SI]: {
+  [IsoCode.SL_SI]: {
     englishName: "Slovenian",
     regionalName: "Slovenski",
   },
-  [IsoCode.ES]: {
+  [IsoCode.ES_ES]: {
     englishName: "Spanish",
     regionalName: "Español",
   },
-  [IsoCode.SE]: {
+  [IsoCode.SV_SE]: {
     englishName: "Swedish",
     regionalName: "Svenska",
   },
