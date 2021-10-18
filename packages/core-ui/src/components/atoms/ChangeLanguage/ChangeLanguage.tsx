@@ -1,71 +1,75 @@
-import React, { useEffect, useState, useRef, RefObject, FC } from "react";
+import React, { useState, useRef, FC } from "react";
 import styled, { css } from "styled-components";
 import {
   IsoCode,
   AVAILABLE_LANGUAGES,
   useTranslation,
 } from "@messagewith/i18n";
-import bgFlag from "@iconify/icons-emojione/flag-for-bulgaria";
-import cnFlag from "@iconify/icons-emojione/flag-for-china";
-import czFlag from "@iconify/icons-emojione/flag-for-czechia";
-import dkFlag from "@iconify/icons-emojione/flag-for-denmark";
-import nlFlag from "@iconify/icons-emojione/flag-for-netherlands";
-import eeFlag from "@iconify/icons-emojione/flag-for-estonia";
-import fiFlag from "@iconify/icons-emojione/flag-for-finland";
-import frFlag from "@iconify/icons-emojione/flag-for-france";
-import deFlag from "@iconify/icons-emojione/flag-for-germany";
-import grFlag from "@iconify/icons-emojione/flag-for-greece";
-import huFlag from "@iconify/icons-emojione/flag-for-hungary";
-import itFlag from "@iconify/icons-emojione/flag-for-italy";
-import jpFlag from "@iconify/icons-emojione/flag-for-japan";
-import lvFlag from "@iconify/icons-emojione/flag-for-latvia";
-import ltFlag from "@iconify/icons-emojione/flag-for-lithuania";
-import plFlag from "@iconify/icons-emojione/flag-for-poland";
-import ptFlag from "@iconify/icons-emojione/flag-for-portugal";
-import roFlag from "@iconify/icons-emojione/flag-for-romania";
-import ruFlag from "@iconify/icons-emojione/flag-for-russia";
-import skFlag from "@iconify/icons-emojione/flag-for-slovakia";
-import siFlag from "@iconify/icons-emojione/flag-for-slovenia";
-import esFlag from "@iconify/icons-emojione/flag-for-spain";
-import seFlag from "@iconify/icons-emojione/flag-for-sweden";
-import usFlag from "@iconify/icons-emojione/flag-for-united-states";
+import bgBgFlag from "@iconify/icons-emojione/flag-for-bulgaria";
+import zhCnFlag from "@iconify/icons-emojione/flag-for-china";
+import csCzFlag from "@iconify/icons-emojione/flag-for-czechia";
+import daDkFlag from "@iconify/icons-emojione/flag-for-denmark";
+import nlNlFlag from "@iconify/icons-emojione/flag-for-netherlands";
+import etEeFlag from "@iconify/icons-emojione/flag-for-estonia";
+import fiFiFlag from "@iconify/icons-emojione/flag-for-finland";
+import frFrFlag from "@iconify/icons-emojione/flag-for-france";
+import deDeFlag from "@iconify/icons-emojione/flag-for-germany";
+import grGrFlag from "@iconify/icons-emojione/flag-for-greece";
+import huHuFlag from "@iconify/icons-emojione/flag-for-hungary";
+import itItFlag from "@iconify/icons-emojione/flag-for-italy";
+import jaJpFlag from "@iconify/icons-emojione/flag-for-japan";
+import lvLvFlag from "@iconify/icons-emojione/flag-for-latvia";
+import ltLtFlag from "@iconify/icons-emojione/flag-for-lithuania";
+import plPlFlag from "@iconify/icons-emojione/flag-for-poland";
+import ptPtFlag from "@iconify/icons-emojione/flag-for-portugal";
+import ptBrFlag from "@iconify/icons-emojione/flag-for-brazil";
+import roRoFlag from "@iconify/icons-emojione/flag-for-romania";
+import ruRuFlag from "@iconify/icons-emojione/flag-for-russia";
+import skSkFlag from "@iconify/icons-emojione/flag-for-slovakia";
+import slSiFlag from "@iconify/icons-emojione/flag-for-slovenia";
+import esEsFlag from "@iconify/icons-emojione/flag-for-spain";
+import svSeFlag from "@iconify/icons-emojione/flag-for-sweden";
+import enUsFlag from "@iconify/icons-emojione/flag-for-united-states";
+import enUkFlag from "@iconify/icons-emojione/flag-for-united-kingdom";
 import bxsDownArrow from "@iconify/icons-bx/bxs-down-arrow";
 import Icon from "@iconify/react";
 import { rgba } from "polished";
 import { useOutsideClick } from "rooks";
 
-const flags: { [isoCode in IsoCode]: typeof usFlag } = {
-  [IsoCode.BG]: bgFlag,
-  [IsoCode.CN]: cnFlag,
-  [IsoCode.CZ]: czFlag,
-  [IsoCode.DK]: dkFlag,
-  [IsoCode.NL]: nlFlag,
-  [IsoCode.EN_US]: usFlag,
-  [IsoCode.EE]: eeFlag,
-  [IsoCode.FI]: fiFlag,
-  [IsoCode.FR]: frFlag,
-  [IsoCode.DE_DE]: deFlag,
-  [IsoCode.GR]: grFlag,
-  [IsoCode.HU]: huFlag,
-  [IsoCode.IT]: itFlag,
-  [IsoCode.JP]: jpFlag,
-  [IsoCode.LV]: lvFlag,
-  [IsoCode.LT]: ltFlag,
-  [IsoCode.PL_PL]: plFlag,
-  [IsoCode.PT]: ptFlag,
-  [IsoCode.RO]: roFlag,
-  [IsoCode.RU]: ruFlag,
-  [IsoCode.SK]: skFlag,
-  [IsoCode.SI]: siFlag,
-  [IsoCode.ES]: esFlag,
-  [IsoCode.SE]: seFlag,
+const flags: { [isoCode in IsoCode]: typeof enUsFlag } = {
+  [IsoCode.BG_BG]: bgBgFlag,
+  [IsoCode.ZH_CN]: zhCnFlag,
+  [IsoCode.CS_CZ]: csCzFlag,
+  [IsoCode.DA_DK]: daDkFlag,
+  [IsoCode.NL_NL]: nlNlFlag,
+  [IsoCode.EN_US]: enUsFlag,
+  [IsoCode.EN_UK]: enUkFlag,
+  [IsoCode.ET_EE]: etEeFlag,
+  [IsoCode.FI_FI]: fiFiFlag,
+  [IsoCode.FR_FR]: frFrFlag,
+  [IsoCode.DE_DE]: deDeFlag,
+  [IsoCode.EL_GR]: grGrFlag,
+  [IsoCode.HU_HU]: huHuFlag,
+  [IsoCode.IT_IT]: itItFlag,
+  [IsoCode.JA_JP]: jaJpFlag,
+  [IsoCode.LV_LV]: lvLvFlag,
+  [IsoCode.LT_LT]: ltLtFlag,
+  [IsoCode.PL_PL]: plPlFlag,
+  [IsoCode.PT_PT]: ptPtFlag,
+  [IsoCode.PT_BR]: ptBrFlag,
+  [IsoCode.RO_RO]: roRoFlag,
+  [IsoCode.RU_RU]: ruRuFlag,
+  [IsoCode.SK_SK]: skSkFlag,
+  [IsoCode.SL_SI]: slSiFlag,
+  [IsoCode.ES_ES]: esEsFlag,
+  [IsoCode.SV_SE]: svSeFlag,
 };
 
 const StyledWrapper = styled.div`
   position: relative;
   display: flex;
   justify-content: flex-end;
-  width: 210px;
+  width: 250px;
 `;
 
 const StyledList = styled.ul<{ $isOpen: boolean }>`
@@ -81,7 +85,7 @@ const StyledList = styled.ul<{ $isOpen: boolean }>`
   display: flex;
   flex-direction: column;
   overflow-y: scroll;
-  width: 210px;
+  width: 250px;
   height: 260px;
   align-items: center;
   padding: 0;
@@ -251,7 +255,7 @@ export const ChangeLanguage: FC<Props> = ({ tabIndex = 0, className }) => {
       >
         {Object.entries(AVAILABLE_LANGUAGES)
           .sort(([_, a], [__, b]) => (a.regionalName < b.regionalName ? -1 : 1))
-          .map(([key, value], index) => (
+          .map(([key, value]) => (
             <StyledItem
               onClick={() => handleItemClick(key)}
               key={key}
