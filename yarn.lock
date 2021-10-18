@@ -14761,10 +14761,10 @@ rollup@^1.31.1:
     "@types/node" "*"
     acorn "^7.1.0"
 
-rooks@^5.0.2:
-  version "5.7.1"
-  resolved "https://registry.yarnpkg.com/rooks/-/rooks-5.7.1.tgz#a9c91e94e760e21a9df5afc1de4ba07d09a6156d"
-  integrity sha512-Gztycgm+e+bS0vqLMSGlGe8f7rkXMxjfPj3FucM06/xu1CEFQx1pZ0zMVdWVxDeMXRePaQ2/g1K7ArIlGKyHbQ==
+rooks@^5.7.3:
+  version "5.7.3"
+  resolved "https://registry.yarnpkg.com/rooks/-/rooks-5.7.3.tgz#74f9f13b6597041828c7874b00b836ef1516c027"
+  integrity sha512-Y+HzDzEptIg3RwIB0mGqYL2MfB1PVosOlG1DLy1rm6McSdK7xQ6olLjicoSpmTrkBdiJuZMOVaowLJz61HclXQ==
   dependencies:
     lodash.debounce "^4.0.8"
     raf "^3.4.1"

@@ -18,7 +18,7 @@ const StyledWrapper = styled.div`
 `;
 
 const StyledLeftWrapper = styled.div`
-  width: 40%;
+  width: 45%;
   padding: 30px 60px;
   display: flex;
   flex-direction: column;
@@ -26,7 +26,7 @@ const StyledLeftWrapper = styled.div`
 `;
 
 const StyledRightWrapper = styled.div`
-  width: 60%;
+  width: 55%;
   display: flex;
   align-items: center;
   justify-content: center;
