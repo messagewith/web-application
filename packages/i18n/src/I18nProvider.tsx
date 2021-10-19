@@ -1,8 +1,9 @@
-import React, { createContext, FC, useState, useLayoutEffect } from "react";
+import React, { createContext, FC, useLayoutEffect, useState } from "react";
 import { useLocalstorageState } from "rooks";
 import { I18nState } from "./types/i18nState";
 import { IsoCode } from "./types/isoCode";
 import { languages } from "./languages";
+import { getIsoCodeFromUserLocale } from "./utils/getIsoCodeFromUserLocale";
 
 export const I18nContext = createContext<I18nState>({
   isoCode: IsoCode.EN_US,
@@ -12,8 +13,7 @@ export const I18nContext = createContext<I18nState>({
 
 export const I18nProvider: FC = ({ children }) => {
   const [currentIsoCode, setCurrentIsoCode] = useLocalstorageState<IsoCode>(
-    "messagewith_language",
-    IsoCode.EN_US
+    "messagewith_language"
   );
 
   const [currentTexts, setCurrentTexts] = useState<
@@ -26,12 +26,23 @@ export const I18nProvider: FC = ({ children }) => {
   };
 
   useLayoutEffect(() => {
-    setCurrentTexts(languages[currentIsoCode]);
+    if (!currentIsoCode) {
+      const isoCode = getIsoCodeFromUserLocale();
+      setCurrentIsoCode(isoCode);
+    }
+  }, []);
+
+  useLayoutEffect(() => {
+    setCurrentTexts(languages[currentIsoCode || IsoCode.EN_US]);
   }, [currentIsoCode]);
 
   return (
     <I18nContext.Provider
-      value={{ isoCode: currentIsoCode, changeLanguage, texts: currentTexts }}
+      value={{
+        isoCode: currentIsoCode || IsoCode.EN_US,
+        changeLanguage,
+        texts: currentTexts,
+      }}
     >
       {children}
     </I18nContext.Provider>
