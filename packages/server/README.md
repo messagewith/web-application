@@ -1,11 +1,6 @@
-# `server`
+# `@messagewith/server`
 
-> TODO: description
+MessageWith server
 
-## Usage
-
-```
-const server = require('server');
-
-// TODO: DEMONSTRATE API
-```
+## License
+This package is distributed under the [GPL-3.0 License](https://github.com/messagewith/messagewith/blob/main/LICENSE).
