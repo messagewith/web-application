@@ -10,6 +10,16 @@
   "skipCi": true,
   "contributors": [
     {
+      "login": "It4m",
+      "name": "Mateusz Hurka",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91852368?v=4",
+      "profile": "https://github.com/It4m",
+      "contributions": [
+        "translation",
+        "bug"
+      ]
+    },
+    {
       "login": "chmielulu",
       "name": "Jakub Maciej Chmielewski",
       "avatar_url": "https://avatars.githubusercontent.com/u/53061612?v=4",
