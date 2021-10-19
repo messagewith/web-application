@@ -24,6 +24,16 @@ The Open Source, Private social media for everyone.
 
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/It4m"><img src="https://avatars.githubusercontent.com/u/91852368?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mateusz Hurka</b></sub></a><br /><a href="#translation-It4m" title="Translation">🌍</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 ## License
