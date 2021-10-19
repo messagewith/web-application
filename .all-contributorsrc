@@ -4,5 +4,31 @@
   "files": [
     "README.md"
   ],
-  "imageSize": 100
+  "imageSize": 100,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "chmielulu",
+      "name": "Jakub Maciej Chmielewski",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53061612?v=4",
+      "profile": "https://github.com/chmielulu",
+      "contributions": [
+        "bug",
+        "code",
+        "data",
+        "design",
+        "example",
+        "ideas",
+        "maintenance",
+        "mentoring",
+        "review",
+        "tool",
+        "translation",
+        "tutorial"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
 }
