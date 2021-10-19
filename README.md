@@ -8,14 +8,19 @@ The Open Source, Private social media for everyone.
   A collection of User Interface components used in the Messagewith application
 - [@messagewith/i18n](https://github.com/messagewith/messagewith/tree/main/packages/i18n)
 
-  Messagewith internationalization library
+  MessageWith internationalization library
 - [@messagewith/emoji](https://github.com/messagewith/messagewith/tree/main/packages/emoji)
 
-  A set of icons used in Messagewith wrapped in React components to make them easier to use
+  A set of icons used in MessageWith wrapped in React components to make them easier to use
 
 - [@messagewith/website](https://github.com/messagewith/messagewith/tree/main/packages/website)
   
-  Messagewith web application
+  MessageWith web application
+
+- [@messagewith/server](https://github.com/messagewith/messagewith/tree/main/packages/server)
+
+  MessageWith server written in nest.js
+
 ## Some preliminary graphics
 
 ![Home](https://github.com/messagewith/messagewith/blob/main/assets/home.png?raw=true)
