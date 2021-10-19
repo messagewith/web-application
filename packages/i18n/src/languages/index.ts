@@ -17,6 +17,15 @@ import { IT_IT } from "./it-IT";
 import { LV_LV } from "./lv-LV";
 import { LT_LT } from "./lt-LT";
 import { PT_PT } from "./pt-PT";
+import { JA_JP } from "./ja-JP";
+import { EN_UK } from "./en-UK";
+import { PT_BR } from "./pt-BR";
+import { RU_RU } from "./ru-RU";
+import { RO_RO } from "./ro-RO";
+import { SK_SK } from "./sk-SK";
+import { SL_SI } from "./sl-SI";
+import { ES_ES } from "./es-ES";
+import { SV_SE } from "./sv-SE";
 
 export const languages: { [isoCode in IsoCode]: Language } = {
   [IsoCode.BG_BG]: BG_BG,
@@ -26,23 +35,23 @@ export const languages: { [isoCode in IsoCode]: Language } = {
   [IsoCode.NL_NL]: NL_NL,
   [IsoCode.ET_EE]: ET_EE,
   [IsoCode.EN_US]: EN_US,
-  [IsoCode.EN_UK]: EN_US,
+  [IsoCode.EN_UK]: EN_UK,
   [IsoCode.FI_FI]: FI_FI,
   [IsoCode.FR_FR]: FR_FR,
   [IsoCode.DE_DE]: DE_DE,
   [IsoCode.EL_GR]: EL_GR,
   [IsoCode.HU_HU]: HU_HU,
   [IsoCode.IT_IT]: IT_IT,
-  [IsoCode.JA_JP]: EN_US,
+  [IsoCode.JA_JP]: JA_JP,
   [IsoCode.LV_LV]: LV_LV,
   [IsoCode.LT_LT]: LT_LT,
   [IsoCode.PL_PL]: PL_PL,
   [IsoCode.PT_PT]: PT_PT,
-  [IsoCode.PT_BR]: EN_US,
-  [IsoCode.RO_RO]: EN_US,
-  [IsoCode.RU_RU]: EN_US,
-  [IsoCode.SK_SK]: EN_US,
-  [IsoCode.SL_SI]: EN_US,
-  [IsoCode.ES_ES]: EN_US,
-  [IsoCode.SV_SE]: EN_US,
+  [IsoCode.PT_BR]: PT_BR,
+  [IsoCode.RO_RO]: RO_RO,
+  [IsoCode.RU_RU]: RU_RU,
+  [IsoCode.SK_SK]: SK_SK,
+  [IsoCode.SL_SI]: SL_SI,
+  [IsoCode.ES_ES]: ES_ES,
+  [IsoCode.SV_SE]: SV_SE,
 };

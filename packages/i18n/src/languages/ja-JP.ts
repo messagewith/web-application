@@ -2,27 +2,27 @@ import { Language } from "../types/language";
 
 export const JA_JP: Language = {
   form: {
-    email: "E-mail",
-    password: "Password",
-    logIn: "Log In",
-    logInGithub: "Log in with Github",
-    logInGoogle: "Log in with Google",
-    logInFacebook: "Log in with Facebook",
-    register: "Register",
-    forgottenPassword: "Forgotten password?",
+    email: "電子メール",
+    password: "パスワード",
+    logIn: "ログイン",
+    logInGithub: "Githubでのログイン",
+    logInGoogle: "Googleでのログイン",
+    logInFacebook: "Facebookでログイン",
+    register: "登録",
+    forgottenPassword: "パスワードをお忘れですか？",
   },
   headings: {
-    slogan:
-      "The <span>Open</span> Source, <span>Private</span> social media for everyone",
+    slogan: "誰もが使えるオープンソースのプライベート・ソーシャル・メディア",
   },
   errors: {
     notAvailableYet: {
-      headline: "This functionality is <span>not available</span> yet!",
-      paragraph: "We are working on making this feature work. Be patient! :)",
-      confirm: "Ok, I’ll be waiting",
+      headline: "この機能はまだ<span>利用できません</span>。",
+      paragraph:
+        "この機能を使えるようにするために努力しています。気長にお待ちください。:)",
+      confirm: "OK、お待ちしています",
     },
   },
   time: {
-    yesterday: "Yesterday",
+    yesterday: "昨日",
   },
 };
