@@ -30,7 +30,7 @@ export const AVAILABLE_LANGUAGES: AvailableLanguages = {
     englishName: "English (American)",
     regionalName: "English (American)",
   },
-  [IsoCode.EN_UK]: {
+  [IsoCode.EN_GB]: {
     englishName: "English (British)",
     regionalName: "English (British)",
   },

@@ -18,7 +18,7 @@ import { LV_LV } from "./lv-LV";
 import { LT_LT } from "./lt-LT";
 import { PT_PT } from "./pt-PT";
 import { JA_JP } from "./ja-JP";
-import { EN_UK } from "./en-UK";
+import { EN_GB } from "./en-GB";
 import { PT_BR } from "./pt-BR";
 import { RU_RU } from "./ru-RU";
 import { RO_RO } from "./ro-RO";
@@ -35,7 +35,7 @@ export const languages: { [isoCode in IsoCode]: Language } = {
   [IsoCode.NL_NL]: NL_NL,
   [IsoCode.ET_EE]: ET_EE,
   [IsoCode.EN_US]: EN_US,
-  [IsoCode.EN_UK]: EN_UK,
+  [IsoCode.EN_GB]: EN_GB,
   [IsoCode.FI_FI]: FI_FI,
   [IsoCode.FR_FR]: FR_FR,
   [IsoCode.DE_DE]: DE_DE,

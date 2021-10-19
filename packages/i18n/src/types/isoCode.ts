@@ -6,7 +6,7 @@ export enum IsoCode {
   NL_NL = "nl-NL",
   ET_EE = "et-EE",
   EN_US = "en-US",
-  EN_UK = "en-UK",
+  EN_GB = "en-GB",
   FI_FI = "fi-FI",
   FR_FR = "fr-FR",
   DE_DE = "de-DE",

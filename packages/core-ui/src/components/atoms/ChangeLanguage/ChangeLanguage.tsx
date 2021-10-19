@@ -30,7 +30,7 @@ import slSiFlag from "@iconify/icons-emojione/flag-for-slovenia";
 import esEsFlag from "@iconify/icons-emojione/flag-for-spain";
 import svSeFlag from "@iconify/icons-emojione/flag-for-sweden";
 import enUsFlag from "@iconify/icons-emojione/flag-for-united-states";
-import enUkFlag from "@iconify/icons-emojione/flag-for-united-kingdom";
+import enGbFlag from "@iconify/icons-emojione/flag-for-united-kingdom";
 import bxsDownArrow from "@iconify/icons-bx/bxs-down-arrow";
 import Icon from "@iconify/react";
 import { rgba } from "polished";
@@ -43,7 +43,7 @@ const flags: { [isoCode in IsoCode]: typeof enUsFlag } = {
   [IsoCode.DA_DK]: daDkFlag,
   [IsoCode.NL_NL]: nlNlFlag,
   [IsoCode.EN_US]: enUsFlag,
-  [IsoCode.EN_UK]: enUkFlag,
+  [IsoCode.EN_GB]: enGbFlag,
   [IsoCode.ET_EE]: etEeFlag,
   [IsoCode.FI_FI]: fiFiFlag,
   [IsoCode.FR_FR]: frFrFlag,
