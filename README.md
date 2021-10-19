@@ -21,5 +21,10 @@ The Open Source, Private social media for everyone.
 ![Home](https://github.com/messagewith/messagewith/blob/main/assets/home.png?raw=true)
 ![Chat](https://github.com/messagewith/messagewith/blob/main/assets/chat.png?raw=true)
 
+
+## Contributors ✨
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 ## License
 This packages is distributed under the [GPL-3.0 License](https://github.com/messagewith/messagewith/blob/main/LICENSE).
