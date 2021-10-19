@@ -4,5 +4,20 @@
   "files": [
     "README.md"
   ],
-  "imageSize": 100
+  "imageSize": 100,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "It4m",
+      "name": "Mateusz Hurka",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91852368?v=4",
+      "profile": "https://github.com/It4m",
+      "contributions": [
+        "translation"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
 }
