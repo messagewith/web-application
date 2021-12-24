@@ -28,7 +28,7 @@ const StyledText = styled.span`
   pointer-events: none;
 
   ${StyledInput}:focus ~ &, ${StyledInput}:not(:placeholder-shown) ~ & {
-    transform: scale(0.8) translateY(-180%);
+    transform: scale(0.8) translateY(-220%);
     transform-origin: left top;
     color: ${({ theme }) => theme.washSuperHeavy};
   }

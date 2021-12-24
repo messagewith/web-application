@@ -113,7 +113,7 @@ export const ChatTextarea: FC<Props> = ({ className }) => {
           </StyledActionWrapper>
         </StyledTextareaWrapper>
         <StyledEmojiButton>
-          <Emoji type="🥰" size={32} />
+          <Emoji emoji="🥰" size={32} />
         </StyledEmojiButton>
       </StyledWrapper>
       <FunctionNotAvailable
