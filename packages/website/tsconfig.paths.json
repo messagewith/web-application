@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "#components/*": ["./src/components/*"],
+      "#assets/*": ["./src/assets/*"],
+      "#routes": ["./src/routes/index.ts"],
+      "#templates/*": ["./src/templates/*"],
+      "#theme/*": ["./src/theme/*"],
+      "#views/*": ["./src/views/*"]
+    }
+  }
+}

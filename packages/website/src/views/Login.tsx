@@ -1,15 +1,11 @@
-import React from "react";
+import React, { FormEventHandler } from "react";
 import styled from "styled-components";
-import {
-  Button,
-  ChangeLanguage,
-  InDevelopment,
-  Input,
-  Logo,
-} from "@messagewith/core-ui";
+import { Button, ChangeLanguage, Input, Logo } from "@messagewith/core-ui";
 import { useTranslation } from "@messagewith/i18n";
-import vector from "../assets/images/login_vector.svg";
+import vector from "#assets/images/login_vector.svg";
 import { Link } from "react-router-dom";
+import { Emoji } from "@messagewith/emoji";
+import ModifiedInDevelopment from "#components/modified/InDevelopment";
 
 const StyledWrapper = styled.div`
   display: flex;
@@ -23,11 +19,12 @@ const StyledLeftWrapper = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  max-width: 650px;
 `;
 
 const StyledRightWrapper = styled.div`
-  width: 55%;
   display: flex;
+  flex: 1;
   align-items: center;
   justify-content: center;
   flex-direction: column;
@@ -109,13 +106,15 @@ const StyledBottomWrapper = styled.div`
   color: ${(props) => props.theme.washSuperHeavy};
 `;
 
-const StyledInDevelopment = styled(InDevelopment)`
-  justify-content: flex-end;
-`;
+const StyledMadeWithLove = styled.div``;
 
 const Login = () => {
   const { text } = useTranslation();
   const slogan = text("headings.slogan");
+
+  const handleFormSubmit: FormEventHandler = (e) => {
+    e.preventDefault();
+  };
 
   return (
     <StyledWrapper>
@@ -126,7 +125,7 @@ const Login = () => {
         </StyledNavigation>
 
         <StyledCenterWrapper>
-          <StyledForm>
+          <StyledForm onSubmit={handleFormSubmit}>
             <StyledInput type="text" placeholder={text("form.email")} />
             <StyledInput type="password" placeholder={text("form.password")} />
             <StyledButton type="secondary">{text("form.logIn")}</StyledButton>
@@ -151,10 +150,11 @@ const Login = () => {
         </StyledCenterWrapper>
 
         <StyledBottomWrapper>
-          Made with ❤️ from 🇵🇱
-          <StyledInDevelopment githubLink="https://github.com/messagewith/messagewith">
-            Early Alpha 0.1.0
-          </StyledInDevelopment>
+          <StyledMadeWithLove>
+            Made with <Emoji name="red-heart" /> from{" "}
+            <Emoji name="flag-poland" />
+          </StyledMadeWithLove>
+          <ModifiedInDevelopment />
         </StyledBottomWrapper>
       </StyledLeftWrapper>
 
