@@ -4,6 +4,7 @@
   "description": "MessageWith server",
   "author": "Jakub Chmielewski <jakubchmielewski80@gmail.com>",
   "license": "GPL-3.0",
+  "private": true,
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
@@ -66,5 +67,10 @@
     ],
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
+  },
+  "workspaces": {
+    "nohoist": [
+      "babel-*"
+    ]
   }
 }
