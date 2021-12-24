@@ -6,7 +6,7 @@ import { OBJECTS } from "./objects";
 import { SMILEYS_AND_PEOPLE } from "./smileysAndPeople";
 import { SYMBOLS } from "./symbols";
 import { TRAVEL_AND_PLACES } from "./travelAndPlaces";
-import { EmojiType } from "../types/emojiType";
+import { EmojiInformation } from "../types/emojiInformation";
 
 export const ALL_EMOJIS = {
   ...ACTIVITY,
@@ -17,20 +17,4 @@ export const ALL_EMOJIS = {
   ...SMILEYS_AND_PEOPLE,
   ...TRAVEL_AND_PLACES,
   ...SYMBOLS,
-} as {
-  [type in EmojiType]: {
-    name: EmojiType;
-    unicode: string;
-    category:
-      | "people"
-      | "nature"
-      | "food"
-      | "activity"
-      | "travel"
-      | "objects"
-      | "symbols"
-      | "flags"
-      | "diversity";
-    htmlEntity: string;
-  };
-};
+} as EmojiInformation;

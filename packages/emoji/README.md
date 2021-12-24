@@ -10,7 +10,9 @@ import { Emoji } from '@messagewith/emoji';
 
 const ExampleComponent = () => (
   <>
-    <Emoji type="❤️" size={24} />
+    <Emoji name="red-heart" size={24} />
+    {/* or */}
+    <Emoji emoji="❤️" size={24} />
   </>
 );
 

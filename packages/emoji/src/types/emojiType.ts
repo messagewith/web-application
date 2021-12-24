@@ -1,3 +1,17 @@
-import { ALL_NAMES } from "../constants/allNames";
+import { EmojiName } from "./emojiName";
 
-export type EmojiType = typeof ALL_NAMES[number];
+export interface EmojiType {
+  name: EmojiName;
+  unicode: string;
+  category:
+    | "people"
+    | "nature"
+    | "food"
+    | "activity"
+    | "travel"
+    | "objects"
+    | "symbols"
+    | "flags"
+    | "diversity";
+  htmlEntity: string;
+}

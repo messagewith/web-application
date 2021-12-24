@@ -1,19 +1,6 @@
 import { EmojiType } from "./emojiType";
+import { EmojiName } from "./emojiName";
 
 export type EmojiInformation = {
-  [type in EmojiType]?: {
-    name: EmojiType;
-    unicode: string;
-    category:
-      | "people"
-      | "nature"
-      | "food"
-      | "activity"
-      | "travel"
-      | "objects"
-      | "symbols"
-      | "flags"
-      | "diversity";
-    htmlEntity: string;
-  };
+  [type in EmojiName]: EmojiType;
 };
