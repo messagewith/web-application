@@ -7,7 +7,9 @@
       "#routes": ["./src/routes/index.ts"],
       "#templates/*": ["./src/templates/*"],
       "#theme/*": ["./src/theme/*"],
-      "#views/*": ["./src/views/*"]
+      "#views/*": ["./src/views/*"],
+      "#api": ["./src/api/index.ts"],
+      "#hooks/*": ["./src/hooks/*"]
     }
   }
 }

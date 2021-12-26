@@ -9,12 +9,14 @@ import Index from "./Index";
 import Login from "./Login";
 import "@messagewith/emoji/lib/joypixels/joypixels-sprite-24.min.css";
 import "@messagewith/emoji/lib/joypixels/joypixels-sprite-32.min.css";
+import Logout from "#views/Logout";
 
 const Root = () => (
   <Router>
     <RouterRoutes>
       <Route path={Routes.Index} element={<Index />} />
       <Route path={Routes.Login} element={<Login />} />
+      <Route path={Routes.Logout} element={<Logout />} />
     </RouterRoutes>
   </Router>
 );

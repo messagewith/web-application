@@ -1,21 +1,39 @@
 import React, { FC, useEffect } from "react";
-import { useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import { Routes } from "#routes";
+import { useLogin } from "#hooks/useLogin";
+import styled from "styled-components";
+
+const StyledWrapper = styled.div`
+  padding: 50px;
+`;
 
 const Index: FC = () => {
   const navigate = useNavigate();
-
-  /* TODO */
-  const isLogin = false;
+  const { isLoading, queryResult, isLogin } = useLogin();
 
   useEffect(() => {
-    if (!isLogin) {
+    if (!isLoading && !isLogin) {
       navigate(Routes.Login);
     }
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []);
+  }, [isLogin, navigate, isLoading]);
 
-  return <></>;
+  if (isLoading || !queryResult) return <></>;
+
+  return (
+    <StyledWrapper>
+      <h1>Hello {queryResult.fullName}.</h1>
+      <p>Your data: </p>
+      <ul>
+        {Object.keys(queryResult).map((key) => (
+          <li>
+            <b>{key}</b>: {queryResult[key]}
+          </li>
+        ))}
+      </ul>
+      <Link to={Routes.Logout}>Log out</Link>
+    </StyledWrapper>
+  );
 };
 
 export default Index;
