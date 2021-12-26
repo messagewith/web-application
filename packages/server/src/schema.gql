@@ -1,0 +1,35 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type UserEntity {
+  id: String!
+  nickname: String!
+  firstName: String!
+  middleName: String!
+  lastName: String!
+  email: String!
+  fullName: String!
+  profilePicture: String!
+  coverPhoto: String!
+  bio: String!
+}
+
+type Query {
+  user(email: String, nickname: String, id: String): UserEntity
+  allUsers: [UserEntity!]!
+}
+
+type Mutation {
+  createUser(userData: CreateUserInput!): UserEntity!
+}
+
+input CreateUserInput {
+  firstName: String!
+  lastName: String!
+  middleName: String
+  email: String!
+  password: String!
+  nickname: String
+  bio: String
+}
