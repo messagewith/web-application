@@ -31,5 +31,8 @@ declare module "styled-components" {
 
     boxShadow: string;
     boxShadowStronger: string;
+
+    error: "#ff0033";
+    errorBackground: "#ffe5e9";
   }
 }

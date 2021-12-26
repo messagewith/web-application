@@ -1,4 +1,4 @@
-import React, { FC } from "react";
+import React, { FC, HTMLProps, MouseEventHandler } from "react";
 import styled, { css } from "styled-components";
 import Icon from "@iconify/react";
 import googleIcon from "@iconify/icons-logos/google-icon";
@@ -212,25 +212,37 @@ const getIcon = (socialType?: SocialType): typeof facebookIcon => {
 export const Button: FC<Props> = ({
   children,
   className,
-  type = "primary",
+  buttonType = "primary",
   socialType = "github",
   onClick,
+  onMouseDown: onMouseDownProp,
   isLoading = false,
+  ...props
 }) => {
-  const { ...mouseEvents } = useButtonEffects({
-    rippleWidth: type === "primary" || type === "confirm" ? 130 : undefined,
+  const { onMouseDown } = useButtonEffects({
+    rippleWidth:
+      buttonType === "primary" || buttonType === "confirm" ? 130 : undefined,
   });
+
+  const handleOnMouseDown: MouseEventHandler<HTMLButtonElement> = (e) => {
+    onMouseDown(e);
+    onMouseDownProp?.(e);
+  };
 
   return (
     <StyledWrapper
       className={className as string}
-      $type={type}
+      $type={buttonType}
       onClick={!isLoading ? onClick : undefined}
       $isLoading={isLoading}
-      {...(!isLoading ? mouseEvents : {})}
+      onMouseDown={!isLoading ? handleOnMouseDown : undefined}
+      {...(props as never)}
     >
-      <StyledInnerWrapper $isLoading={isLoading} $isSocial={type === "social"}>
-        {type === "social" && <StyledIcon icon={getIcon(socialType)} />}
+      <StyledInnerWrapper
+        $isLoading={isLoading}
+        $isSocial={buttonType === "social"}
+      >
+        {buttonType === "social" && <StyledIcon icon={getIcon(socialType)} />}
         <span>{children}</span>
       </StyledInnerWrapper>
       {isLoading && <StyledLoadingIcon icon={loadingIcon} />}
@@ -241,8 +253,8 @@ export const Button: FC<Props> = ({
 type ButtonType = "primary" | "secondary" | "tertiary" | "social" | "confirm";
 type SocialType = "google" | "facebook" | "github";
 
-interface Props {
-  type?: ButtonType;
+interface Props extends HTMLProps<HTMLButtonElement> {
+  buttonType?: ButtonType;
   className?: string;
   socialType?: SocialType;
   onClick?: React.MouseEventHandler<HTMLButtonElement>;

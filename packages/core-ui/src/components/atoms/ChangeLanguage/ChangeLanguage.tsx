@@ -69,7 +69,7 @@ const StyledWrapper = styled.div`
   position: relative;
   display: flex;
   justify-content: flex-end;
-  width: 250px;
+  width: 265px;
 `;
 
 const StyledList = styled.ul<{ $isOpen: boolean }>`

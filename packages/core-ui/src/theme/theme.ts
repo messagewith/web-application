@@ -31,4 +31,7 @@ export const theme: DefaultTheme = {
 
   boxShadow: "0px 3px 14px -5px rgba(0, 0, 0, 0.25)",
   boxShadowStronger: "0px 3px 14px 0px rgba(0, 0, 0, 0.4)",
+
+  error: "#ff0033",
+  errorBackground: "#ffe5e9",
 };

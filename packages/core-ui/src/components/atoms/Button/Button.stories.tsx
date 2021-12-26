@@ -37,7 +37,7 @@ export const Primary: Story = () => {
   const { isLoading, onClick } = useLoading();
 
   return (
-    <Button type="primary" onClick={onClick} isLoading={isLoading}>
+    <Button buttonType="primary" onClick={onClick} isLoading={isLoading}>
       Follow
     </Button>
   );
@@ -48,7 +48,7 @@ export const Secondary: Story = () => {
 
   return (
     <StyledSecondaryButton
-      type="secondary"
+      buttonType="secondary"
       isLoading={isLoading}
       onClick={onClick}
     >
@@ -62,7 +62,7 @@ export const Tertiary: Story = () => {
 
   return (
     <StyledTertiaryButton
-      type="tertiary"
+      buttonType="tertiary"
       isLoading={isLoading}
       onClick={onClick}
     >
@@ -82,7 +82,7 @@ export const withSocial: Story = () => {
 
   return (
     <StyledSocialButton
-      type="social"
+      buttonType="social"
       socialType={
         socialType.toLocaleLowerCase() as "facebook" | "github" | "google"
       }
@@ -98,7 +98,7 @@ export const Confirm: Story = () => {
   const { isLoading, onClick } = useLoading();
 
   return (
-    <Button type="confirm" onClick={onClick} isLoading={isLoading}>
+    <Button buttonType="confirm" onClick={onClick} isLoading={isLoading}>
       Ok, I'll be waiting
     </Button>
   );
