@@ -10,6 +10,20 @@ export const EN_US: Language = {
     logInFacebook: "Log in with Facebook",
     register: "Register",
     forgottenPassword: "Forgotten password?",
+    errors: {
+      email: {
+        required: "E-mail is required",
+      },
+      password: {
+        required: "Password is required",
+      },
+      global: {
+        connection:
+          "There was a problem with the connection. Please try again later.",
+        unauthorized: "The user with the specified data does not exist",
+        unknown: "An unknown error has occurred. Please try again later.",
+      },
+    },
   },
   headings: {
     slogan:

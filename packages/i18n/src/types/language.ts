@@ -8,6 +8,19 @@ export interface Language {
     logInGoogle: string;
     register: string;
     forgottenPassword: string;
+    errors?: {
+      email?: {
+        required: string;
+      };
+      password?: {
+        required: string;
+      };
+      global?: {
+        connection: string;
+        unauthorized: string;
+        unknown: string;
+      };
+    };
   };
   headings: {
     slogan: string;

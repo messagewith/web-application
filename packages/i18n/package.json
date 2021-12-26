@@ -1,6 +1,6 @@
 {
   "name": "@messagewith/i18n",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Messagewith internationalization library",
   "author": "Jakub Chmielewski <jakubchmielewski80@gmail.com>",
   "homepage": "https://github.com/messagewith/messagewith/tree/main/packages/i18n",

@@ -2,24 +2,20 @@
 
 import { useContext } from "react";
 import { I18nContext } from "../I18nProvider";
+import { EN_US } from "../languages/en-US";
+import { Language } from "../types/language";
 
 export const useTranslation = () => {
   const { texts, changeLanguage, isoCode } = useContext(I18nContext);
 
-  const text = (
-    id: string,
+  const getProperty = (
+    // eslint-disable-next-line @typescript-eslint/no-shadow
+    texts: Language,
+    keys: string[],
     values?: { [key: string]: string }
-  ): string | undefined => {
-    const keys = id.split(".");
-
+  ) => {
     // @ts-ignore
     let property;
-
-    // @ts-ignore
-    if (keys.length === 1 && typeof texts[keys[0]] === "string") {
-      // @ts-ignore
-      return texts[keys[0]] as string;
-    }
 
     keys.forEach((key, index) => {
       if (index === 0) {
@@ -40,6 +36,21 @@ export const useTranslation = () => {
     }
 
     return property;
+  };
+
+  const text = (
+    id: string,
+    values?: { [key: string]: string }
+  ): string | undefined => {
+    const keys = id.split(".");
+
+    // @ts-ignore
+    if (keys.length === 1 && typeof texts[keys[0]] === "string") {
+      // @ts-ignore
+      return (texts[keys[0]] as string) || (EN_US[keys[0]] as string);
+    }
+
+    return getProperty(texts, keys, values) || getProperty(EN_US, keys, values);
   };
 
   return {
