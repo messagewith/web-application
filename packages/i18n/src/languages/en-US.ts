@@ -19,9 +19,9 @@ export const EN_US: Language = {
       },
       global: {
         connection:
-          "There was a problem with the connection. Please try again later.",
+          "There was a problem with the connection. Please try again later",
         unauthorized: "The user with the specified data does not exist",
-        unknown: "An unknown error has occurred. Please try again later.",
+        unknown: "An unknown error has occurred. Please try again later",
       },
     },
   },

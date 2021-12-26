@@ -10,6 +10,20 @@ export const PL_PL: Language = {
     logInFacebook: "Zaloguj się za pomocą Facebooka",
     register: "Zarejestruj się",
     forgottenPassword: "Zapomniałeś hasła?",
+    errors: {
+      email: {
+        required: "E-mail jest wymagany",
+      },
+      password: {
+        required: "Hasło jest wymagane",
+      },
+      global: {
+        connection:
+          "Wystąpił problem z połączeniem. Proszę spróbować ponownie później",
+        unauthorized: "Użytkownik o podanych danych nie istnieje",
+        unknown: "Wystąpił nieznany błąd. Prosimy spróbować ponownie później",
+      },
+    },
   },
   headings: {
     slogan:
