@@ -1,6 +1,6 @@
 {
   "name": "@messagewith/emoji",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "A set of icons used in Messagewith wrapped in React components to make them easier to use",
   "author": "Jakub Chmielewski <jakubchmielewski80@gmail.com>",
   "homepage": "https://github.com/messagewith/messagewith#readme",

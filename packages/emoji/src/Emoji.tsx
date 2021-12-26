@@ -41,7 +41,6 @@ export const Emoji: FC<Props> = ({
       $size={size}
       className={`${className} joypixels joypixels-${size}-${category} ${unicode}`}
       dangerouslySetInnerHTML={{ __html: htmlEntity }}
-      title="name"
       ref={el}
     />
   );
