@@ -25,7 +25,7 @@ export class AuthService {
     const payload: JwtPayload = { sessionId: token };
     const expiresIn = 60 * 60 * 24;
 
-    const accessToken = sign(payload, process.env.MESSAGEWITH_SESSION_SECRET, {
+    const accessToken = sign(payload, process.env.MESSAGEWITH_JWT_SECRET, {
       expiresIn,
     });
 

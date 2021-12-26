@@ -16,7 +16,7 @@ export class JwtStrategy extends PassportStrategy(Strategy) {
   constructor(private readonly sessionsService: SessionsService) {
     super({
       jwtFromRequest: cookieExtractor,
-      secretOrKey: process.env.MESSAGEWITH_SESSION_SECRET,
+      secretOrKey: process.env.MESSAGEWITH_JWT_SECRET,
     });
   }
 
