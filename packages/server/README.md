@@ -85,7 +85,7 @@ Content-Type: application/json; charset=utf-8
 #### Profile
 **Request:**
 ```
-GET /auth/logout
+GET /auth/profile
 ```
 **Successful Response:**
 ```
