@@ -1,6 +1,6 @@
 {
   "name": "@messagewith/server",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Messagewith server",
   "author": "Jakub Chmielewski <jakubchmielewski80@gmail.com>",
   "license": "GPL-3.0",
@@ -10,7 +10,7 @@
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
     "start": "nest start",
-    "start:dev": "nest start --watch",
+    "start:dev": "NODE_ENV=development nest start --watch",
     "start:debug": "nest start --debug --watch",
     "start:prod": "node dist/main",
     "lint": "eslint \"{src,apps,libs,test}/**/*.ts\" --fix",
@@ -21,7 +21,9 @@
     "test:e2e": "jest --config ./test/jest-e2e.json"
   },
   "dependencies": {
+    "@messagewith/utils": "^0.1.0",
     "@nestjs/common": "^8.0.0",
+    "@nestjs/config": "^1.1.6",
     "@nestjs/core": "^8.0.0",
     "@nestjs/graphql": "^9.1.2",
     "@nestjs/mongoose": "^9.0.2",
