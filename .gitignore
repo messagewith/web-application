@@ -8,3 +8,4 @@ lib
 .yarn
 build
 release/
+*.zip
