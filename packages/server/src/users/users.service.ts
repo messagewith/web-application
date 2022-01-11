@@ -10,7 +10,42 @@ import { hashPassword } from "../utils/hashPassword";
 export class UsersService {
   constructor(@InjectModel(User.name) private userModel: Model<UserDocument>) {}
 
-  static transformUser({
+  private async createNickname(
+    firstName: string,
+    lastName: string,
+    nickname?: string
+  ): Promise<string> {
+    if (nickname && (await this.userModel.findOne({ nickname }))) {
+      throw new Error("This nickname is already in use");
+    }
+
+    if (nickname) {
+      return nickname;
+    }
+
+    let i = 0;
+    let newNickname: string;
+    const firstNameAndLastName = `${firstName.toLowerCase()}_${lastName.toLowerCase()}`;
+    let tempNickname: string;
+
+    do {
+      if (i === 0) {
+        tempNickname = firstNameAndLastName;
+      } else {
+        tempNickname = `${firstNameAndLastName}_${i + 1}`;
+      }
+
+      if (!(await this.userModel.findOne({ nickname: tempNickname }))) {
+        newNickname = tempNickname;
+      }
+
+      i++;
+    } while (!newNickname);
+
+    return newNickname;
+  }
+
+  transformUser({
     firstName,
     lastName,
     middleName,
@@ -46,30 +81,7 @@ export class UsersService {
   }: CreateUserInput) {
     const user = new User();
 
-    if (nickname && (await this.userModel.findOne({ nickname }))) {
-      throw new Error("This nickname is already in use");
-    }
-
-    let i = 0;
-    let newNickname: string;
-    const firstNameAndLastName = `${firstName.toLowerCase()}_${lastName.toLowerCase()}`;
-    let tempNickname: string;
-
-    do {
-      if (i === 0) {
-        tempNickname = firstNameAndLastName;
-      } else {
-        tempNickname = `${firstNameAndLastName}_${i + 1}`;
-      }
-
-      if (!(await this.userModel.findOne({ nickname: tempNickname }))) {
-        newNickname = tempNickname;
-      }
-
-      i++;
-    } while (!newNickname);
-
-    user.nickname = newNickname;
+    user.nickname = await this.createNickname(firstName, lastName, nickname);
     user.firstName = firstName;
     user.lastName = lastName;
     user.middleName = middleName || "";
@@ -79,11 +91,11 @@ export class UsersService {
     user.profilePicture = "";
     user.email = email;
 
-    return UsersService.transformUser(await this.userModel.create(user));
+    return this.transformUser(await this.userModel.create(user));
   }
 
   async findAll(): Promise<UserEntity[]> {
-    return (await this.userModel.find()).map(UsersService.transformUser);
+    return (await this.userModel.find()).map(this.transformUser);
   }
 
   async findOne({
@@ -103,7 +115,7 @@ export class UsersService {
       return null;
     }
 
-    return UsersService.transformUser(user);
+    return this.transformUser(user);
   }
 
   async findOnePlaneDocument({

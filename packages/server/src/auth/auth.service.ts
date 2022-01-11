@@ -15,6 +15,7 @@ import { compare } from "bcrypt";
 export class AuthService {
   constructor(
     private readonly sessionsService: SessionsService,
+    private readonly usersService: UsersService,
     @InjectModel(User.name) private userModel: Model<UserDocument>
   ) {}
 
@@ -134,6 +135,6 @@ export class AuthService {
       throw new HttpException("", HttpStatus.UNAUTHORIZED);
     }
 
-    return UsersService.transformUser(session.user);
+    return this.usersService.transformUser(session.user);
   }
 }
