@@ -1,0 +1,27 @@
+{
+  "name": "@messagewith/utils",
+  "version": "0.1.0",
+  "description": "Messagewith utils library",
+  "author": "Jakub Chmielewski <jakubchmielewski80@gmail.com>",
+  "homepage": "https://github.com/messagewith/messagewith#readme",
+  "license": "GPL-3.0",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/messagewith/messagewith.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "prepublish": "tsc --project tsconfig.json"
+  },
+  "bugs": {
+    "url": "https://github.com/messagewith/messagewith/issues"
+  }
+}
