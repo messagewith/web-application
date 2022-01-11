@@ -1,6 +1,6 @@
 {
   "name": "@messagewith/website",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "> TODO: description",
   "author": "Jakub Chmielewski <jakubchmielewski80@gmail.com>",
   "homepage": "",
@@ -15,15 +15,20 @@
     "lib"
   ],
   "dependencies": {
-    "@messagewith/core-ui": "^0.5.0",
+    "@iconify/icons-ph": "^1.1.4",
+    "@iconify/react": "^3.1.2",
+    "@messagewith/core-ui": "^0.6.0",
     "@messagewith/emoji": "^0.3.0",
-    "@messagewith/i18n": "~0.4.0",
+    "@messagewith/i18n": "^0.5.0",
+    "@messagewith/utils": "^0.1.0",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "axios": "^0.24.0",
     "babel-loader": "8.1.0",
+    "customize-cra": "^1.0.0",
     "dotenv": "^10.0.0",
+    "framer-motion": "^5.5.7",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-hook-form": "^7.22.5",
@@ -36,7 +41,7 @@
   },
   "scripts": {
     "start": "react-app-rewired start",
-    "build": "react-scripts build",
+    "build": "react-app-rewired build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
