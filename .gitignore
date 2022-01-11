@@ -7,3 +7,5 @@ lib
 .env*
 .yarn
 build
+release.zip
+release/
