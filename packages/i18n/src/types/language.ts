@@ -8,9 +8,21 @@ export interface Language {
     logInGoogle: string;
     register: string;
     forgottenPassword: string;
+    firstName?: string;
+    middleName?: string;
+    lastName?: string;
+    registerTitle?: string;
+    registerDescription?: string;
+    forgottenPasswordTitle?: string;
+    forgottenPasswordDescription?: string;
+    emailOrNickname?: string;
+    backToLoginPage?: string;
+    resetPassword?: string;
+    sendMail?: string;
     errors?: {
       email?: {
         required: string;
+        unique: string;
       };
       password?: {
         required: string;
@@ -20,6 +32,12 @@ export interface Language {
         unauthorized: string;
         unknown: string;
       };
+    };
+    passwordRequirements?: {
+      length: string;
+      uppercaseLowercase: string;
+      lettersNumbers: string;
+      specialCharacter: string;
     };
   };
   headings: {

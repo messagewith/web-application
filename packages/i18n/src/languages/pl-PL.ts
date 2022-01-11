@@ -10,9 +10,19 @@ export const PL_PL: Language = {
     logInFacebook: "Zaloguj się za pomocą Facebooka",
     register: "Zarejestruj się",
     forgottenPassword: "Zapomniałeś hasła?",
+    backToLoginPage: "Wróć do logowania",
+    resetPassword: "Zresetuj hasło",
+    sendMail: "Wyślij maila",
+    emailOrNickname: "E-mail albo pseudonim",
+    registerTitle: "Zarejestruj się",
+    registerDescription: "Jesteśmy szczęśliwi, że chcesz do nas dołączyć",
+    forgottenPasswordTitle: "Zapomniałem hasła",
+    forgottenPasswordDescription:
+      "Podaj adres e-mail lub pseduonim. Wyślemy na twoją skrzynkę pocztową wiadomość z linkiem, dzięki któremu będziesz mógł zresetować hasło",
     errors: {
       email: {
         required: "E-mail jest wymagany",
+        unique: "Użytkownik z podanym adresem e-mail już istnieje",
       },
       password: {
         required: "Hasło jest wymagane",
@@ -23,6 +33,15 @@ export const PL_PL: Language = {
         unauthorized: "Użytkownik o podanych danych nie istnieje",
         unknown: "Wystąpił nieznany błąd. Prosimy spróbować ponownie później",
       },
+    },
+    firstName: "Imię",
+    lastName: "Nazwisko",
+    middleName: "Drugie imię",
+    passwordRequirements: {
+      length: "Przynajmniej 8 znaków",
+      lettersNumbers: "Zawiera znaki i cyfry",
+      specialCharacter: "Przynajmniej jeden specjalny znak,  np. , ! @ # ? ]",
+      uppercaseLowercase: "Zawiera małe oraz duże litery",
     },
   },
   headings: {
