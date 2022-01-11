@@ -1,4 +1,4 @@
-import React, { FC } from "react";
+import React, { FC, useEffect } from "react";
 import styled from "styled-components";
 import {
   ChangeLanguage,
@@ -9,6 +9,9 @@ import { useTranslation } from "@messagewith/i18n";
 import { Emoji } from "@messagewith/emoji";
 import ModifiedInDevelopment from "#components/modified/InDevelopment";
 import vector from "#assets/images/login_vector.svg";
+import { Routes } from "#routes";
+import { useLogin } from "#hooks/useLogin";
+import { useNavigate } from "react-router-dom";
 
 const StyledWrapper = styled.div`
   display: flex;
@@ -75,7 +78,17 @@ const LoginTemplate: FC<{
   setFunctionNotAvailableActive,
 }) => {
   const { text } = useTranslation();
+  const { isLogin, isLoading } = useLogin();
+  const navigate = useNavigate();
   const slogan = text("headings.slogan");
+
+  useEffect(() => {
+    if (isLogin) {
+      navigate(Routes.Index);
+    }
+  }, [isLogin, navigate]);
+
+  if (isLoading) return <></>;
 
   return (
     <StyledWrapper>

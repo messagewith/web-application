@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import styled from "styled-components";
 import { Button, Input } from "@messagewith/core-ui";
 import { useTranslation } from "@messagewith/i18n";
@@ -7,7 +7,6 @@ import { SubmitHandler, useForm } from "react-hook-form";
 import axios from "axios";
 import { login } from "#api";
 import { Routes } from "#routes";
-import { useLogin } from "#hooks/useLogin";
 import LoginTemplate, {
   GlobalError,
   StyledError,
@@ -60,7 +59,6 @@ interface IFormInput {
 const Login = () => {
   const { text } = useTranslation();
   const navigate = useNavigate();
-  const { isLogin, isLoading } = useLogin();
 
   const {
     register,
@@ -104,14 +102,6 @@ const Login = () => {
         setFormLoading(false);
       });
   };
-
-  useEffect(() => {
-    if (isLogin) {
-      navigate(Routes.Index);
-    }
-  }, [isLogin, navigate]);
-
-  if (isLoading) return <></>;
 
   return (
     <LoginTemplate
