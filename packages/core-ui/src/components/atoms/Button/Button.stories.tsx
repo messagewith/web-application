@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { Story } from "@storybook/react";
 import styled from "styled-components";
 import { withKnobs, select } from "@storybook/addon-knobs";
+import arrowLeftBold from "@iconify/icons-ph/arrow-left-bold";
 import { Button } from "./Button";
 
 export default {
@@ -101,5 +102,21 @@ export const Confirm: Story = () => {
     <Button buttonType="confirm" onClick={onClick} isLoading={isLoading}>
       Ok, I'll be waiting
     </Button>
+  );
+};
+
+export const withIcon: Story = () => {
+  // eslint-disable-next-line react-hooks/rules-of-hooks
+  const { isLoading, onClick } = useLoading();
+
+  return (
+    <StyledTertiaryButton
+      buttonType="tertiary"
+      isLoading={isLoading}
+      onClick={onClick}
+      icon={arrowLeftBold}
+    >
+      Back to login page
+    </StyledTertiaryButton>
   );
 };

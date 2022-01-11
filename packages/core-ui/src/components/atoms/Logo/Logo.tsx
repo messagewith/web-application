@@ -19,7 +19,7 @@ const StyledIcon = styled(Icon)<{ $isBig: boolean }>`
 export const Logo: FC<Props> = ({ onlyIcon, color }) => (
   <StyledWrapper $color={color}>
     <StyledIcon icon={logoIcon} $isBig={!onlyIcon} />
-    {!onlyIcon && "messagewith.io"}
+    {!onlyIcon && "messagewith.app"}
   </StyledWrapper>
 );
 

@@ -49,15 +49,19 @@ const StyledText = styled.span<{ $isError?: boolean }>`
 `;
 
 export const Input = forwardRef<HTMLInputElement, Props>(
-  ({ className, placeholder, isError, ...props }, ref) => (
+  ({ className, placeholder, isError, required, ...props }, ref) => (
     <StyledWrapper className={className}>
       <StyledInput
         placeholder=" "
         ref={ref}
         $isError={isError}
+        required={required}
         {...(props as never)}
       />
-      <StyledText $isError={isError}>{placeholder}</StyledText>
+      <StyledText $isError={isError}>
+        {required ? "*" : undefined}
+        {placeholder}
+      </StyledText>
     </StyledWrapper>
   )
 );
@@ -65,4 +69,5 @@ export const Input = forwardRef<HTMLInputElement, Props>(
 interface Props extends HTMLProps<HTMLInputElement> {
   type?: "text" | "password" | "email";
   isError?: boolean;
+  required?: boolean;
 }

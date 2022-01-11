@@ -26,6 +26,9 @@ const StyledWrapper = styled.button<{
   padding: 6px 20px;
   font-size: 1.6rem;
   font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 
   :hover {
     background: ${({ theme }) => theme.primaryDark};
@@ -157,14 +160,14 @@ const StyledInnerWrapper = styled.div<{
   $isSocial: boolean;
 }>`
   transition: opacity 0.2s ease-in-out, transform 0.2s ease-in-out;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
 
   ${({ $isSocial }) =>
     $isSocial &&
     css`
-      display: flex;
-      align-items: center;
-      justify-content: center;
-
       span {
         margin-right: auto;
       }
@@ -179,7 +182,13 @@ const StyledInnerWrapper = styled.div<{
     `}
 `;
 
-const StyledIcon = styled(Icon)`
+const StyledIcon = styled(Icon)<{ $iconPosition: "left" | "right" }>`
+  font-size: 2.2rem;
+  margin: ${({ $iconPosition }) =>
+    $iconPosition === "left" ? "0 10px 0 0" : "0 0 0 10px"};
+`;
+
+const StyledSocialIcon = styled(Icon)`
   margin-right: auto;
   font-size: 2.5rem;
 `;
@@ -217,6 +226,8 @@ export const Button: FC<Props> = ({
   onClick,
   onMouseDown: onMouseDownProp,
   isLoading = false,
+  iconPosition = "left",
+  icon,
   ...props
 }) => {
   const { onMouseDown } = useButtonEffects({
@@ -242,8 +253,18 @@ export const Button: FC<Props> = ({
         $isLoading={isLoading}
         $isSocial={buttonType === "social"}
       >
-        {buttonType === "social" && <StyledIcon icon={getIcon(socialType)} />}
+        {buttonType === "social" && (
+          <StyledSocialIcon icon={getIcon(socialType)} />
+        )}
+        {icon && iconPosition === "left" && (
+            // eslint-disable-next-line @typescript-eslint/no-unsafe-assignment
+          <StyledIcon icon={icon} $iconPosition={iconPosition} />
+        )}
         <span>{children}</span>
+        {icon && iconPosition === "right" && (
+            // eslint-disable-next-line @typescript-eslint/no-unsafe-assignment
+          <StyledIcon icon={icon} $iconPosition={iconPosition} />
+        )}
       </StyledInnerWrapper>
       {isLoading && <StyledLoadingIcon icon={loadingIcon} />}
     </StyledWrapper>
@@ -259,4 +280,6 @@ interface Props extends HTMLProps<HTMLButtonElement> {
   socialType?: SocialType;
   onClick?: React.MouseEventHandler<HTMLButtonElement>;
   isLoading?: boolean;
+  icon?: any;
+  iconPosition?: "left" | "right";
 }

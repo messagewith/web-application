@@ -100,7 +100,7 @@ export const FunctionNotAvailable: FC<Props> = ({
           <StyledParagraph>
             {text("errors.notAvailableYet.paragraph")}
           </StyledParagraph>
-          <StyledButton type="confirm" onClick={onClose}>
+          <StyledButton buttonType="confirm" onClick={onClose}>
             {text("errors.notAvailableYet.confirm")}
           </StyledButton>
         </StyledAlert>

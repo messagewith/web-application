@@ -15,6 +15,14 @@ const StyledInput = styled(Input)`
 
 export const Primary: Story = () => {
   const isError = boolean("is error", false);
+  const isRequired = boolean("is required", false);
 
-  return <StyledInput type="text" placeholder="E-mail" isError={isError} />;
+  return (
+    <StyledInput
+      type="text"
+      placeholder="E-mail"
+      isError={isError}
+      required={isRequired}
+    />
+  );
 };

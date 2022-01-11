@@ -34,5 +34,7 @@ declare module "styled-components" {
 
     error: "#ff0033";
     errorBackground: "#ffe5e9";
+
+    success: "#2ECD35";
   }
 }
