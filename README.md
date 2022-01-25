@@ -21,7 +21,7 @@ The Open Source, Private social media for everyone.
 
   Messagewith server written in nest.js
   
-  ⚠️ This package is no longer being developed, server has been moved to [here](https://github.com/messagewith/server). ⚠️
+  ⚠️ This package is no longer being developed, server has been moved [here](https://github.com/messagewith/server). ⚠️
 
 ## Some preliminary graphics
 
